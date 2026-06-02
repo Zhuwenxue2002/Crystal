@@ -364,3 +364,6 @@ FodyWeavers.xsd
 /Build
 /.idea/.idea.Legend of Mir/.idea
 /.idea/config
+
+# Release database archives are uploaded as GitHub Release assets, not source.
+/docs/Crystal.Database-*.zip
