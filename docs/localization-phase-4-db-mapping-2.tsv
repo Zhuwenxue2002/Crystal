@@ -1,0 +1,512 @@
+﻿#TYPE	INDEX	FIELD	SOURCE	TARGET
+Map	121	Title	RedValley_1F	赤月峡谷一层
+Map	122	Title	RedValley_1F	赤月峡谷一层
+Map	123	Title	RedValley_1F	赤月峡谷一层
+Map	124	Title	RedValley_2F	赤月峡谷二层
+Map	125	Title	RedValley_3F	赤月峡谷三层
+Map	126	Title	RedValley_3F	赤月峡谷三层
+Map	127	Title	RedValley_4F	赤月峡谷四层
+Map	128	Title	RedValley_5F	赤月峡谷五层
+Map	129	Title	RedValley_5F	赤月峡谷五层
+Map	130	Title	Great_TaoTomb	大道士陵墓
+Map	131	Title	RedMoonRoom	赤月魔穴
+Map	132	Title	RedValley_5F	赤月峡谷五层
+Map	133	Title	RedValley_5F	赤月峡谷五层
+Map	135	Title	Lunar_1F	月宫一层
+Map	136	Title	Lunar_2F	月宫二层
+Map	137	Title	Lunar_3F	月宫三层
+Map	138	Title	Lunar_4F	月宫四层
+Map	139	Title	LunarRoom	月宫密室
+Map	140	Title	DarkForest	黑暗森林
+Map	141	Title	DarkForest	黑暗森林
+Map	142	Title	DarkForest	黑暗森林
+Map	143	Title	TownHall	城镇大厅
+Map	144	Title	SerpentValley	毒蛇山谷
+Map	145	Title	S_ValleyTavern	毒蛇山谷酒馆
+Map	146	Title	ReagentStore	药剂店
+Map	147	Title	Blacksmith	铁匠铺
+Map	148	Title	PrivateHouse	民居
+Map	149	Title	S_ValleyDeadMine	毒蛇山谷废矿
+Map	150	Title	S_ValleyDeadMine	毒蛇山谷废矿
+Map	151	Title	S_ValleyDeadMine	毒蛇山谷废矿
+Map	152	Title	ViperMaze	毒蛇迷宫
+Map	153	Title	ViperMaze	毒蛇迷宫
+Map	154	Title	ViperMaze	毒蛇迷宫
+Map	155	Title	ViperMaze	毒蛇迷宫
+Map	156	Title	ViperMaze	毒蛇迷宫
+Map	157	Title	ViperMaze	毒蛇迷宫
+Map	158	Title	ViperPath	毒蛇小径
+Map	159	Title	ViperPath	毒蛇小径
+Map	160	Title	ViperPath	毒蛇小径
+Map	161	Title	ViperPath	毒蛇小径
+Map	162	Title	ViperMaze	毒蛇迷宫
+Map	163	Title	ViperCave	毒蛇洞穴
+Map	164	Title	ViperCave	毒蛇洞穴
+Map	165	Title	YimoogiNest	螭龙巢穴
+Map	166	Title	ConnectionPath	连接通道
+Map	167	Title	ConnectionPath	连接通道
+Map	168	Title	ConnectionPath	连接通道
+Map	169	Title	ConnectionPath	连接通道
+Map	170	Title	ConnectionPath	连接通道
+Map	171	Title	MysteryCave	神秘洞穴
+Map	172	Title	MongchonProvince	盟重省
+Map	173	Title	PrivateHouse	民居
+Map	174	Title	PrivateHouse	民居
+Map	175	Title	Inn	客栈
+Map	176	Title	2FofInn	客栈二楼
+Map	177	Title	Tavern	酒馆
+Map	178	Title	DraperyStore	服装店
+Map	179	Title	GroceryStore	杂货店
+Map	180	Title	Blacksmith	铁匠铺
+Map	181	Title	Mill	磨坊
+Map	182	Title	S_1FofDungeon	石墓南一层
+Map	183	Title	W_1FofDungeon	石墓西一层
+Map	184	Title	N_1FofDungeon	石墓北一层
+Map	185	Title	W_2FofDungeon	石墓西二层
+Map	186	Title	N_2FofDungeon	石墓北二层
+Map	187	Title	LifeDeathCoffin	生死棺
+Map	188	Title	StoneLanternRoom	石灯笼屋
+Map	189	Title	AmethystRoom	紫晶屋
+Map	190	Title	StoneCarvedStream	石刻溪流
+Map	191	Title	StrangeRocksRoom	怪石屋
+Map	192	Title	StrangeRocksPath	怪石小径
+Map	193	Title	LostCave(MainCave)	失落洞穴主洞
+Map	194	Title	LostMiddleCave	失落中洞
+Map	195	Title	SouthernLostCave	失落南洞
+Map	196	Title	WesternLostCave	失落西洞
+Map	197	Title	NorthernLostCave	失落北洞
+Map	198	Title	EasternLostCave	失落东洞
+Map	199	Title	FatallyPoisonousCave	剧毒洞穴
+Map	200	Title	B1_AngledStoneTomb	斜石墓地下一层
+Map	201	Title	B2_AngledStoneTomb	斜石墓地下二层
+Map	202	Title	B3_AngledStoneTomb	斜石墓地下三层
+Map	203	Title	B4_AngledStoneTomb	斜石墓地下四层
+Map	204	Title	B5_AngledStoneTomb	斜石墓地下五层
+Map	205	Title	B6_AngledStoneTomb	斜石墓地下六层
+Map	206	Title	B7_AngledStoneTomb	斜石墓地下七层
+Map	207	Title	TacticalMaze	战术迷宫
+Map	208	Title	TacticalMaze	战术迷宫
+Map	209	Title	TacticalMaze	战术迷宫
+Map	210	Title	TacticalMaze	战术迷宫
+Map	211	Title	TacticalMaze	战术迷宫
+Map	212	Title	TacticalMaze	战术迷宫
+Map	213	Title	TacticalMaze	战术迷宫
+Map	214	Title	TacticalMaze	战术迷宫
+Map	215	Title	TacticalMaze	战术迷宫
+Map	216	Title	TacticalMaze	战术迷宫
+Map	217	Title	TacticalMaze	战术迷宫
+Map	218	Title	TacticalMaze	战术迷宫
+Map	219	Title	TacticalMaze	战术迷宫
+Map	220	Title	TacticalMaze	战术迷宫
+Map	221	Title	TacticalMaze	战术迷宫
+Map	222	Title	TacticalMaze	战术迷宫
+Map	223	Title	TacticalMaze	战术迷宫
+Map	224	Title	TacticalMaze	战术迷宫
+Map	225	Title	TacticalMaze	战术迷宫
+Map	226	Title	TacticalMaze	战术迷宫
+Map	227	Title	TacticalMaze	战术迷宫
+Map	228	Title	TacticalMaze	战术迷宫
+Map	229	Title	TacticalMaze	战术迷宫
+Map	230	Title	TacticalMaze	战术迷宫
+Map	231	Title	TacticalMaze	战术迷宫
+Map	232	Title	TacticalMaze	战术迷宫
+Map	233	Title	TacticalMaze	战术迷宫
+Map	234	Title	TacticalMaze	战术迷宫
+Map	235	Title	TacticalMaze	战术迷宫
+Map	236	Title	AngledStoneTombEntrance	斜石墓入口
+Map	237	Title	AncientSTombEntrance	远古石墓入口
+Map	238	Title	AncientSTomb_1F	远古石墓一层
+Map	239	Title	AncientSTomb_2F	远古石墓二层
+Map	240	Title	AncientSTomb_3F	远古石墓三层
+Map	241	Title	ConnectionCave	连接洞穴
+Map	242	Title	ConnectionCave	连接洞穴
+Map	243	Title	ConnectionCave	连接洞穴
+Map	244	Title	SabukSecretGate	沙巴克密道
+Map	245	Title	InnerWall	内城墙
+Map	246	Title	Blacksmith	铁匠铺
+Map	247	Title	Warehouse	仓库
+Map	248	Title	ReagentStore	药剂店
+Map	249	Title	ReagentStore	药剂店
+Map	250	Title	ReagentStore	药剂店
+Map	251	Title	Prison	监狱
+Map	252	Title	Prison	监狱
+Map	253	Title	LobbyofZumaTemple	祖玛寺庙大厅
+Map	254	Title	ZumaTemple_1F	祖玛寺庙一层
+Map	255	Title	ZumaTemple_2F	祖玛寺庙二层
+Map	256	Title	ZumaTemple_3F	祖玛寺庙三层
+Map	257	Title	ZumaTemple_4F	祖玛寺庙四层
+Map	258	Title	ZumaTemple_5F	祖玛寺庙五层
+Map	259	Title	ZumaMaze	祖玛迷宫
+Map	260	Title	ZumaMaze	祖玛迷宫
+Map	261	Title	ZumaMaze	祖玛迷宫
+Map	262	Title	ZumaMaze	祖玛迷宫
+Map	263	Title	ZumaMaze	祖玛迷宫
+Map	264	Title	ZumaMaze	祖玛迷宫
+Map	265	Title	ZumaMaze	祖玛迷宫
+Map	266	Title	ZumaMaze	祖玛迷宫
+Map	267	Title	ZumaMaze	祖玛迷宫
+Map	268	Title	ZumaTempleLobby_7F	祖玛七层大厅
+Map	269	Title	ZumaTemple_7F	祖玛寺庙七层
+Map	270	Title	ZumaTemple_7F	祖玛寺庙七层
+Map	271	Title	ZumaTemple_7F	祖玛寺庙七层
+Map	272	Title	ZumaTemple	祖玛寺庙
+Map	273	Title	ZumaTemple	祖玛寺庙
+Map	274	Title	ZumaTemple	祖玛寺庙
+Map	275	Title	ZumaTemple	祖玛寺庙
+Map	276	Title	ZumaTemple	祖玛寺庙
+Map	277	Title	AncientZumaLobby	远古祖玛大厅
+Map	278	Title	AncientZuma_1F	远古祖玛一层
+Map	279	Title	AncientZuma_2F	远古祖玛二层
+Map	280	Title	AncientZuma_3F	远古祖玛三层
+Map	281	Title	SealedMaze	封印迷宫
+Map	282	Title	SacredFoxHill	圣狐山
+Map	283	Title	SacredFoxTemple	圣狐神殿
+Map	284	Title	SwampCavern_1F	沼泽洞穴一层
+Map	285	Title	SwampCavern_2F	沼泽洞穴二层
+Map	286	Title	Swamp	沼泽
+Map	287	Title	DarkSwamp	黑暗沼泽
+Map	288	Title	ForgottenCity	遗忘之城
+Map	289	Title	PrajnaIsland	般若岛
+Map	290	Title	WeaponStore	武器店
+Map	291	Title	AccessoryStore	首饰店
+Map	292	Title	DraperyStore	服装店
+Map	293	Title	VillageChiefHouse	村长家
+Map	294	Title	FisherManHouse	渔夫家
+Map	295	Title	Shrine	神龛
+Map	296	Title	PrajnaStoneCave_1F	般若石窟一层
+Map	297	Title	PrajnaStoneCave_2F	般若石窟二层
+Map	298	Title	PrajnaStoneCave(E)_3F	般若石窟东三层
+Map	299	Title	PrajnaStoneCave(W)_3F	般若石窟西三层
+Map	300	Title	PrajnaStoneCave_4F	般若石窟四层
+Map	301	Title	PrajnaStoneCave_5F	般若石窟五层
+Map	302	Title	PrajnaStoneCave_6F	般若石窟六层
+Map	303	Title	PrajnaTempleLobby	般若神殿大厅
+Map	304	Title	PrajnaTemple_1F	般若神殿一层
+Map	305	Title	PrajnaTemple_2F	般若神殿二层
+Map	306	Title	PrajnaTemple_3F	般若神殿三层
+Map	307	Title	PrajnaTemple_4F	般若神殿四层
+Map	308	Title	PrajnaTemple(E)_5F	般若神殿东五层
+Map	309	Title	PrajnaTemple(W)_5F	般若神殿西五层
+Map	310	Title	PrajnaTemple_6F	般若神殿六层
+Map	311	Title	PrajnaTemple_7F	般若神殿七层
+Map	312	Title	PrajnaTemple	般若神殿
+Map	313	Title	AncientPrajna_1F	远古般若一层
+Map	314	Title	AncientPrajna_2F	远古般若二层
+Map	315	Title	AncientPrajna_3F	远古般若三层
+Map	316	Title	PastBichon	过去的比奇
+Map	317	Title	GeneralsCamp	将军营地
+Map	318	Title	WestOmaGorge	西兽人峡谷
+Map	319	Title	WestOmaPass	西兽人关口
+Map	320	Title	OmaGorge	兽人峡谷
+Map	321	Title	EastOmaPass	东兽人关口
+Map	322	Title	WestOmaValley	西兽人山谷
+Map	323	Title	OmaValley	兽人山谷
+Map	324	Title	EastOmaValley	东兽人山谷
+Map	325	Title	EastOmaGorge	东兽人峡谷
+Map	326	Title	WestPass	西部关口
+Map	327	Title	EastPass	东部关口
+Map	328	Title	BloodGorge	血色峡谷
+Map	329	Title	BloodPass	血色关口
+Map	330	Title	BloodLand	血色之地
+Map	331	Title	LightningCave	雷电洞穴
+Map	332	Title	MoltenRockCave	熔岩洞穴
+Map	333	Title	EvilMirPalace	邪恶米尔宫殿
+Map	334	Title	WasteLands	荒芜之地
+Map	335	Title	HellCavern_1F	地狱洞穴一层
+Map	336	Title	HellCavern_2F	地狱洞穴二层
+Map	337	Title	HellOverpass	地狱栈道
+Map	338	Title	IceHellCavern	冰狱洞穴
+Map	339	Title	IceHellTemple(S)	冰狱神殿南部
+Map	340	Title	DangerousCavern	危险洞穴
+Map	341	Title	IceHellTemple(N)	冰狱神殿北部
+Map	342	Title	IceHellPass	冰狱通道
+Map	343	Title	IceHellTemple_KR	冰狱神殿王房
+Map	344	Title	HellFire_1F	地狱火一层
+Map	345	Title	HellFire_2F	地狱火二层
+Map	346	Title	HellFire_3F	地狱火三层
+Map	348	Title	HellFire_KingsRoom	地狱火王房
+Map	349	Title	RedCavern_1F	赤色洞穴一层
+Map	350	Title	RedCavern_2F	赤色洞穴二层
+Map	351	Title	RedCavern_3F	赤色洞穴三层
+Map	352	Title	RedCavern_4F	赤色洞穴四层
+Map	353	Title	RedCavern_5F	赤色洞穴五层
+Map	354	Title	RedCavern_6F	赤色洞穴六层
+Map	355	Title	RedCavern_7F	赤色洞穴七层
+Map	356	Title	RedCavern_8F	赤色洞穴八层
+Map	357	Title	RedCavern_9F	赤色洞穴九层
+Map	358	Title	RedCavern_10F	赤色洞穴十层
+Map	359	Title	RedCavern_11F	赤色洞穴十一层
+Map	360	Title	RedCavern_12F	赤色洞穴十二层
+Map	361	Title	RedCavern_KR	赤色洞穴王房
+Map	362	Title	DeadForest	死亡森林
+Map	363	Title	CastleRuins	城堡废墟
+Map	364	Title	Ruins	废墟
+Map	365	Title	HauntedForest	幽魂森林
+Map	366	Title	WhiteValley	白色山谷
+Map	367	Title	GeneralStore	杂货店
+Map	368	Title	TrainingHall	训练大厅
+Map	369	Title	AccessoryStore	首饰店
+Map	370	Title	DraperyStore	服装店
+Map	371	Title	PrivateHouse	民居
+Map	372	Title	PrivateHouse	民居
+Map	373	Title	BookStore	书店
+Map	374	Title	WeaponStore	武器店
+Map	375	Title	PotionStore	药品店
+Map	376	Title	Warehouse	仓库
+Map	377	Title	SnowCavern_1F	雪域洞穴一层
+Map	378	Title	SnowCavern_2F	雪域洞穴二层
+Map	379	Title	TheSnowLair	雪域巢穴
+Map	380	Title	WaitingRoom	等待室
+Map	381	Title	InfiniteBout	无限斗场
+Map	382	Title	InfiniteBout	无限斗场
+Map	383	Title	InfiniteBout	无限斗场
+Map	384	Title	GameMaster	管理员地图
+Map	385	Title	PenalCavern	惩戒洞穴
+Map	386	Title	CraftingVillage	工匠村
+Map	387	Title	ArchersHideout	弓手隐居地
+Map	396	Title	GTCourt	行会试炼场
+Map	397	Title	GTCourt	行会试炼场
+Map	398	Title	GTCourt	行会试炼场
+Map	399	Title	GTCourt	行会试炼场
+Map	400	Title	GTCourt	行会试炼场
+Map	401	Title	GTCourt	行会试炼场
+Map	402	Title	GTCourt	行会试炼场
+Map	403	Title	GTCourt	行会试炼场
+Map	404	Title	GTCourt	行会试炼场
+Map	405	Title	GTCourt	行会试炼场
+Map	406	Title	GT1F	行会试炼一层
+Map	407	Title	GT1F	行会试炼一层
+Map	408	Title	GT1F	行会试炼一层
+Map	409	Title	GT1F	行会试炼一层
+Map	410	Title	GT1F	行会试炼一层
+Map	411	Title	GT1F	行会试炼一层
+Map	412	Title	GT1F	行会试炼一层
+Map	413	Title	GT1F	行会试炼一层
+Map	414	Title	GT1F	行会试炼一层
+Map	415	Title	GT1F	行会试炼一层
+Map	416	Title	GT2F	行会试炼二层
+Map	417	Title	GT2F	行会试炼二层
+Map	418	Title	GT2F	行会试炼二层
+Map	419	Title	GT2F	行会试炼二层
+Map	420	Title	GT2F	行会试炼二层
+Map	421	Title	GT2F	行会试炼二层
+Map	422	Title	GT2F	行会试炼二层
+Map	423	Title	GT2F	行会试炼二层
+Map	424	Title	GT2F	行会试炼二层
+Map	425	Title	GT2F	行会试炼二层
+Map	426	Title	GT3F	行会试炼三层
+Map	427	Title	GT3F	行会试炼三层
+Map	428	Title	GT3F	行会试炼三层
+Map	429	Title	GT3F	行会试炼三层
+Map	430	Title	GT3F	行会试炼三层
+Map	431	Title	GT3F	行会试炼三层
+Map	432	Title	GT3F	行会试炼三层
+Map	433	Title	GT3F	行会试炼三层
+Map	434	Title	GT3F	行会试炼三层
+Map	435	Title	GT3F	行会试炼三层
+Map	439	Title	DogYoArena	狗妖竞技场
+Map	440	Title	DogYoHyun	狗妖县
+Map	441	Title	DogYoMineLobby	狗妖矿区大厅
+Map	442	Title	DY_Pharmacy	狗妖药房
+Map	443	Title	DY_Craft	狗妖工坊
+Map	444	Title	DY_Craft	狗妖工坊
+Map	445	Title	DY_Head	狗妖头领房
+Map	446	Title	DY_Head	狗妖头领房
+Map	447	Title	DY_MedStorage	狗妖药品仓库
+Map	448	Title	DY_Smithy	狗妖铁匠铺
+Map	449	Title	DY_Weapon	狗妖武器店
+Map	450	Title	DY_Wearhouse	狗妖仓库
+Map	451	Title	DogYoMineLobby1	狗妖矿区大厅一
+Map	452	Title	DogYoMineLobby2	狗妖矿区大厅二
+Map	453	Title	DogYoMineLobby3	狗妖矿区大厅三
+Map	454	Title	DogYoMineLobby4	狗妖矿区大厅四
+Map	455	Title	DYMine11	狗妖矿区一层一号
+Map	456	Title	DYMine12	狗妖矿区一层二号
+Map	457	Title	DYMine13	狗妖矿区一层三号
+Map	458	Title	DYMine14	狗妖矿区一层四号
+Map	459	Title	DYMine15	狗妖矿区一层五号
+Map	460	Title	DYMine21	狗妖矿区二层一号
+Map	461	Title	DYMine22	狗妖矿区二层二号
+Map	462	Title	DYMine23	狗妖矿区二层三号
+Map	463	Title	DYMine24	狗妖矿区二层四号
+Map	464	Title	DYMine25	狗妖矿区二层五号
+Map	465	Title	DYMine31	狗妖矿区三层一号
+Map	466	Title	DYMine32	狗妖矿区三层二号
+Map	467	Title	DYMine33	狗妖矿区三层三号
+Map	468	Title	DYMine34	狗妖矿区三层四号
+Map	469	Title	DYMine35	狗妖矿区三层五号
+Map	470	Title	DYMine41	狗妖矿区四层一号
+Map	471	Title	DYMine42	狗妖矿区四层二号
+Map	472	Title	DYMine43	狗妖矿区四层三号
+Map	473	Title	DYMine44	狗妖矿区四层四号
+Map	474	Title	DYMine45	狗妖矿区四层五号
+Map	475	Title	DYMine4Boss	狗妖矿区四层首领房
+Map	476	Title	DogYoMineLift	狗妖矿区升降机
+Quest	54	KillMessage	Kill Zombies in BichonDeadMines	在比奇废矿击杀僵尸
+Quest	55	Name	Restocking Supplies	补充物资
+Quest	55	Group	BichonProvince	比奇省
+Quest	55	GotoMessage	Return to CraftsLady in BichonWall	回到比奇城找工艺师
+Quest	56	Name	Bat Wings	蝙蝠翅膀
+Quest	56	Group	BichonProvince	比奇省
+Quest	56	GotoMessage	Return to Butcher Sarah in BichonWall	回到比奇城找屠夫莎拉
+Quest	57	Name	Collect Information	收集情报
+Quest	57	Group	BichonProvince	比奇省
+Quest	57	GotoMessage	Take CaveReport to Kyle at the South East Gate.	把洞穴报告交给东南门的凯尔。
+Quest	58	Name	Danger in the Cave	洞穴里的危险
+Quest	58	Group	BichonProvince	比奇省
+Quest	58	GotoMessage	Return BoneElites head to Kyle in BichonWall	把精英骸骨的头颅带回比奇城交给凯尔
+Quest	59	Name	Rare Ore	稀有矿石
+Quest	59	Group	BichonProvince	比奇省
+Quest	60	Name	Help the Farmers	帮助农夫
+Quest	60	Group	BichonProvince	比奇省
+Quest	60	GotoMessage	Return to the Examiner in BichonWall	回到比奇城找考官
+Quest	61	Name	Part Time Job	临时工作
+Quest	61	Group	BichonProvince	比奇省
+Quest	61	GotoMessage	Travel to WoomyonWoods and speak to MasterShok	前往沃玛森林与肖克大师交谈
+Quest	62	Name	Exterminate	清剿
+Quest	62	Group	WoomyonWoods	沃玛森林
+Quest	62	GotoMessage	Return to MasterShok in WoomyonWoods	回到沃玛森林找肖克大师
+Quest	63	Name	Finding a Friend's Remains	寻找友人的遗物
+Quest	63	Group	BichonProvince	比奇省
+Quest	63	GotoMessage	Find Vincents Friend in BichonDeadMines	在比奇废矿寻找文森特的朋友
+Quest	64	Name	Return the Necklace	归还项链
+Quest	64	Group	BichonProvince	比奇省
+Quest	64	GotoMessage	Return the Necklace to Blacksmith Vincent in BichonWall	把项链还给比奇城的铁匠文森特
+Quest	65	Name	Revenge on Zombies	向僵尸复仇
+Quest	65	Group	BichonProvince	比奇省
+Quest	65	GotoMessage	Return to Eddie in BichonWall at 298:317	回到比奇城 298:317 找艾迪
+Quest	66	Name	The Best Healthy Food	最好的健康食物
+Quest	66	Group	WoomyonWoods	沃玛森林
+Quest	66	GotoMessage	Return to MasterShok in WoomyonWoods	回到沃玛森林找肖克大师
+Quest	67	Name	Medicine Research	药物研究
+Quest	67	Group	WoomyonWoods	沃玛森林
+Quest	67	GotoMessage	Return the Blood back to Helen in WoomyonWoods	把血液带回沃玛森林交给海伦
+Quest	68	Name	Finding a Lost Item	寻找遗失物
+Quest	68	Group	WoomyonWoods	沃玛森林
+Quest	68	GotoMessage	Return the Blood back to Helen in WoomyonWoods	把血液带回沃玛森林交给海伦
+Quest	69	Name	Find my Friend	寻找我的朋友
+Quest	69	Group	WoomyonWoods	沃玛森林
+Quest	69	GotoMessage	Search for Helens friend Soho in InsectCave	在虫洞寻找海伦的朋友苏荷
+Quest	70	Name	Poisoned Friend	中毒的朋友
+Quest	70	Group	InsectCave	虫洞
+Quest	70	GotoMessage	Find and return Soho Backpack	找回苏荷的背包
+Quest	71	Name	Lost Item	遗失物品
+Quest	71	Group	InsectCave	虫洞
+Quest	71	GotoMessage	Return the Lost Items to Soho	把遗失物交还给苏荷
+Quest	72	Name	News from a Friend	友人的消息
+Quest	72	Group	InsectCave	虫洞
+Quest	72	GotoMessage	Return to Helen in WoomyonWoods	回到沃玛森林找海伦
+Quest	73	Name	Research Report	研究报告
+Quest	73	Group	WoomyonWoods	沃玛森林
+Quest	73	GotoMessage	Deliver MobBlood to Dr.Kim in SerpentValley	把怪物血液交给毒蛇山谷的金博士
+Quest	74	Name	Free the Souls from Zombies	解放僵尸亡魂
+Quest	74	Group	SerpentValley	毒蛇山谷
+Quest	74	GotoMessage	Return to the VulnerableSon	回去找虚弱的儿子
+Quest	74	KillMessage	 At SerpentDeadMine Entrance.	在毒蛇废矿入口。
+Quest	75	Name	Wipe Out	扫荡
+Quest	75	Group	SerpentValley	毒蛇山谷
+Quest	75	GotoMessage	Return to Chandler in SerpentValley	回到毒蛇山谷找钱德勒
+Quest	76	Name	Bloody Sword	染血之剑
+Quest	76	Group	SerpentValley	毒蛇山谷
+Quest	76	GotoMessage	Return to Blacksmith Bradly in SerpentValley	回到毒蛇山谷找铁匠布拉德利
+Quest	77	Name	Call from the Dead	亡者的呼唤
+Quest	77	Group	SerpentValley	毒蛇山谷
+Quest	78	Name	Hidden Box	隐藏的箱子
+Quest	78	Group	MongchonProvince	盟重省
+Quest	79	Name	Darkness from the Mines	矿区中的黑暗
+Quest	79	Group	SerpentValley	毒蛇山谷
+Quest	79	GotoMessage	Search for the Darkness within the SerpentDeadMines	在毒蛇废矿中寻找黑暗源头
+Quest	80	Name	Secret of the Skull	骷髅的秘密
+Quest	80	Group	SerpentDeadMine	毒蛇废矿
+Quest	80	GotoMessage	Return the HiddenScroll to Dr.Kim	把隐藏卷轴交还给金博士
+Quest	81	Name	Dark Shadow	黑暗阴影
+Quest	81	Group	SerpentValley	毒蛇山谷
+Quest	81	GotoMessage	Return to Dr.Kim in SerpentValley	回到毒蛇山谷找金博士
+Quest	82	Name	White Serpent	白蛇
+Quest	82	Group	SerpentValley	毒蛇山谷
+Quest	82	GotoMessage	Return the Collector in SerpentValley	回到毒蛇山谷找收藏家
+Quest	83	Name	Material for Clothing	制衣材料
+Quest	83	Group	SerpentValley	毒蛇山谷
+Quest	83	GotoMessage	Travel to TaoVillage and speak to Sam at 206:319	前往道馆村，与 206:319 的山姆交谈
+Quest	84	Name	Missing Materials	遗失的材料
+Quest	84	Group	TaoVillage	道馆村
+Quest	84	GotoMessage	Return to Sam in TaoVillage with the Materials	带着材料回到道馆村找山姆
+Quest	85	Name	Save the Cursed Souls	拯救被诅咒的灵魂
+Quest	85	Group	TaoVillage	道馆村
+Quest	85	GotoMessage	Return to MasterMK in TaoVillage	回到道馆村找明凯大师
+Quest	86	Name	Uniform Order Status	制服订单进度
+Quest	86	Group	TaoVillage	道馆村
+Quest	86	GotoMessage	Travel to BichonWall Drapery Shop and speak with Ann	前往比奇城服装店与安交谈
+Quest	87	Name	Locate the Carriage	寻找马车
+Quest	87	Group	BichonProvince	比奇省
+Quest	87	GotoMessage	Search for the Missing Carriage on the way to TaoVillage	在前往道馆村的路上寻找失踪马车
+Quest	88	Name	Zombies Attack on Carriage	僵尸袭击马车
+Quest	88	Group	TaoVillage	道馆村
+Quest	88	GotoMessage	Return to LeadTrainer at 227:269 	回到 227:269 找首席教官
+Quest	89	Name	Zombies Hunt	猎杀僵尸
+Quest	89	Group	TaoVillage	道馆村
+Quest	89	GotoMessage	Return to LeadTrainer in TaoVillage 227:269	回到道馆村 227:269 找首席教官
+Quest	90	Name	Gathering Material	收集材料
+Quest	90	Group	TaoVillage	道馆村
+Quest	90	GotoMessage	Return to Jerald to TaoVillage 234:301	回到道馆村 234:301 找杰拉德
+Quest	91	Name	Help the Lumberer	帮助伐木工
+Quest	91	Group	TaoVillage	道馆村
+Quest	91	GotoMessage	Return the LumberAxe to Sigmund in TaoVillage 166:339	把伐木斧还给道馆村 166:339 的西格蒙德
+Quest	92	Name	Deep into the Woods	深入森林
+Quest	92	Group	TaoVillage	道馆村
+Quest	92	GotoMessage	Return to Jerry in TaoVillage	回到道馆村找杰瑞
+Quest	93	Name	Runaway Student	出走的学生
+Quest	93	Group	TaoVillage	道馆村
+Quest	93	GotoMessage	Search for the missing Student in TreePath	在林间小径寻找失踪学生
+Quest	94	Name	Bad News	坏消息
+Quest	94	Group	TaoVillage	道馆村
+Quest	94	GotoMessage	Return the TraineeRing to Hubert in TaoVillage 194:297	把学徒戒指还给道馆村 194:297 的休伯特
+Quest	95	Name	Letters to Parents	给父母的信
+Quest	95	Group	TaoVillage	道馆村
+Quest	95	GotoMessage	Deliver SkysLetter to Sir.Mogu in BichonWall Tavern	把斯凯的信交给比奇城酒馆的莫古先生
+Quest	96	Name	Cooking Beef Rib Stew	烹制牛肋排炖汤
+Quest	96	Group	BichonProvince	比奇省
+Quest	96	GotoMessage	Deliver BeefRib to Butcher Han in WoomyonWoods	把牛肋排交给沃玛森林的屠夫韩
+Quest	97	Name	Danger (WoomyonWoods)	沃玛森林的危险
+Quest	97	Group	WoomyonWoods	沃玛森林
+Quest	97	GotoMessage	Travel to WoomyonWoods and Warn SubjugationLead.	前往沃玛森林，警告讨伐队长。
+Quest	98	Name	Monster Hunt in Wooma	沃玛怪物讨伐
+Quest	98	Group	WoomyonWoods	沃玛森林
+Quest	98	GotoMessage	Return to SubjugationLead in WoomyonWoods	回到沃玛森林找讨伐队长
+Quest	99	Name	Boss Mob Hunt	首领怪讨伐
+Quest	99	Group	WoomyonWoods	沃玛森林
+Quest	99	GotoMessage	Return to SubjugationLead in WoomyonWoods	回到沃玛森林找讨伐队长
+Quest	100	Name	Deadly Attack	致命袭击
+Quest	100	Group	WoomyonWoods	沃玛森林
+Quest	100	GotoMessage	Return to SubjagationManager in BichonWall with an update.	回到比奇城向讨伐管理员汇报。
+Quest	101	Name	Boss Mob of Woomyon	沃玛森林首领
+Quest	101	Group	WoomyonWoods	沃玛森林
+Quest	101	GotoMessage	Return to MasterShok 312:73	回到 312:73 找肖克大师
+Quest	102	Name	Trip to Mongchon	盟重之行
+Quest	102	Group	BichonProvince	比奇省
+Quest	102	GotoMessage	Travel to MongchonWall via SerpentValley and Speak with Edwin	经毒蛇山谷前往盟重城，与埃德温交谈
+Quest	103	Name	Abnormal Creatures	异常生物
+Quest	103	Group	MongchonProvince	盟重省
+Quest	103	GotoMessage	Return to Daniel in MongchonWall	回到盟重城找丹尼尔
+Quest	104	Name	Lost Sword	遗失的剑
+Quest	104	Group	MongchonProvince	盟重省
+Quest	104	GotoMessage	Return to Charleys lost sword.	归还查理遗失的剑。
+Quest	105	Name	Lost Soul	迷失的灵魂
+Quest	105	Group	DeathValley	死亡山谷
+Quest	106	Name	Lost Soul's Remains	迷失灵魂的遗物
+Quest	106	Group	DeathValley	死亡山谷
+Quest	106	GotoMessage	Return to the LostSoul on S_1FofDungeon 202:204	回到石墓南一层 202:204 找迷失的灵魂
+Quest	107	Name	Last Words	临终遗言
+Quest	107	Group	DeathValley	死亡山谷
+Quest	107	GotoMessage	Return Necklace to Rachel in MongchonWall	把项链还给盟重城的瑞秋
+Quest	108	Name	Antique Book	古书
+Quest	108	Group	MongchonProvince	盟重省
+Quest	108	GotoMessage	Return the Book back to Collector in MongchonWall	把书还给盟重城的收藏家
+Quest	109	Name	Find More Antique Books	寻找更多古书
+Quest	109	Group	MongchonProvince	盟重省
+Quest	109	GotoMessage	Return the Books back to Collector in MongchonWall	把书籍还给盟重城的收藏家
+Quest	110	Name	Meet with Mr.Wang	拜访王先生
+Quest	110	Group	MongchonProvince	盟重省
+Quest	110	GotoMessage	Travel East to SabukWall and Speak with Mr.Wang	向东前往沙巴克城墙，与王先生交谈
+Quest	111	Name	Secret Path	秘密通道
+Quest	111	Group	MongchonProvince	盟重省

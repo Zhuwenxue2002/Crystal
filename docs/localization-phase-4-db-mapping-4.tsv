@@ -1,0 +1,164 @@
+﻿#TYPE	INDEX	FIELD	SOURCE	TARGET
+Quest	111	GotoMessage	Return to Mr.Wang once found all the pillars	找到所有石柱后回去找王先生
+Quest	112	Name	Saftey of Secret Path	秘密通道的安全
+Quest	112	Group	MongchonProvince	盟重省
+Quest	113	Name	Insomnia	失眠症
+Quest	113	Group	MongchonProvince	盟重省
+Quest	113	GotoMessage	Return to Jessica in MongchonWall	回到盟重城找杰西卡
+Quest	114	Name	Threats to Mongchon	盟重的威胁
+Quest	114	Group	MongchonProvince	盟重省
+Quest	114	GotoMessage	Return to MongchonDelegate in MongchonWall	回到盟重城找盟重代表
+Quest	115	Name	Eliminate WhiteBoar	消灭白野猪
+Quest	115	Group	MongchonProvince	盟重省
+Quest	115	GotoMessage	Return to MongchonDelegate in MongchonWall	回到盟重城找盟重代表
+Quest	116	Name	Report to the Manager	向管理员报告
+Quest	116	Group	MongchonProvince	盟重省
+Quest	116	GotoMessage	Speak to SubjugationManager in BichonWall	与比奇城的讨伐管理员交谈
+Quest	117	Name	Check Supply Path	检查补给路线
+Quest	117	Group	BichonProvince	比奇省
+Quest	117	GotoMessage	Speak with CaveGuide.	与洞穴向导交谈。
+Quest	118	Name	Zombies in MineralMine	矿脉中的僵尸
+Quest	118	Group	TaoVillage	道馆村
+Quest	118	GotoMessage	Return to CaveGuide in TaoVillage once the threat has been reduced.	威胁降低后回到道馆村找洞穴向导。
+Quest	119	Name	Message to BichonExaminer	给比奇考官的口信
+Quest	119	Group	TaoVillage	道馆村
+Quest	119	GotoMessage	Travel to BichonWall and talk to BichonExaminer 341:258	前往比奇城，与 341:258 的比奇考官交谈
+Quest	120	Name	CorpsFlower	尸花
+Quest	120	Group	BichonProvince	比奇省
+Quest	120	GotoMessage	Return to Samuel in BichonWall after you retrieve all CorpsFlowers	找齐尸花后回到比奇城找塞缪尔
+Quest	121	Name	Save Prajna	拯救般若岛
+Quest	121	Group	PrajnaIsland	般若岛
+Quest	121	GotoMessage	Return to the Inspector in PrajnaIsland	回到般若岛找监察员
+Quest	122	Name	Skeleton Hunt 1	骷髅讨伐一
+Quest	122	Group	PrajnaIsland	般若岛
+Quest	122	GotoMessage	Return to MirGuide Edward in PrajnaIsland	回到般若岛找向导爱德华
+Quest	123	Name	Skeleton Hunt 2	骷髅讨伐二
+Quest	123	Group	PrajnaIsland	般若岛
+Quest	123	GotoMessage	Return to MirGuide Edward in PrajnaIsland	回到般若岛找向导爱德华
+Quest	124	Name	Skull Collector	骷髅头收藏家
+Quest	124	Group	PrajnaIsland	般若岛
+Quest	124	GotoMessage	Return to the Collector once retrieved all the Skulls	找齐所有骷髅头后回到收藏家处
+Quest	125	Name	Visit the VillageChief	拜访村长
+Quest	125	Group	PrajnaIsland	般若岛
+Quest	125	GotoMessage	Travel up the Stairs and speak with the VillageChief	沿楼梯上去与村长交谈
+Quest	126	Name	The VillageChief's Request	村长的请求
+Quest	126	Group	PrajnaIsland	般若岛
+Quest	126	GotoMessage	Travel to TaoVillage and speak with the LeadTrainer	前往道馆村与首席教官交谈
+Quest	127	Name	Stolen Book	被盗的书
+Quest	127	Group	TaoVillage	道馆村
+Quest	127	GotoMessage	Return to LeadTrainer in TaoVillage	回到道馆村找首席教官
+Quest	128	Name	Returning a Book	归还书籍
+Quest	128	Group	TaoVillage	道馆村
+Quest	128	GotoMessage	Return the Book to VillageChief in PrajnaIsland	把书还给般若岛村长
+Quest	129	Name	New Poison	新型毒药
+Quest	129	Group	TaoVillage	道馆村
+Quest	129	GotoMessage	Return to Janey in TaoVillage 179:296	回到道馆村 179:296 找珍妮
+Quest	130	Name	Wanted!	悬赏！
+Quest	130	Group	TaoVillage	道馆村
+Quest	130	GotoMessage	Return to the Investigator in TaoVillage	回到道馆村找调查员
+Quest	131	Name	Ancient Mobs	远古怪物
+Quest	131	Group	PrajnaIsland	般若岛
+Quest	131	GotoMessage	Return to the Inspector in PrajnaIsland	回到般若岛找监察员
+Quest	132	Name	Mobs from Prajna	般若岛的怪物
+Quest	132	Group	PrajnaIsland	般若岛
+Quest	132	GotoMessage	Return to the VillageChief in PrajnaIsland	回到般若岛找村长
+Quest	133	Name	Guards from Prajna	般若岛守卫
+Quest	133	Group	PrajnaIsland	般若岛
+Quest	133	GotoMessage	Return to the VillageChief in PrajnaIsland	回到般若岛找村长
+Quest	134	Name	Ingredient from Prajna	般若岛材料
+Quest	134	Group	PrajnaIsland	般若岛
+Quest	134	GotoMessage	Deliver the Algae to MongchonWall CraftsLady	把海藻交给盟重城工艺师
+Quest	135	Name	Find Passage to Ruins	寻找通往废墟的通道
+Quest	135	Group	MongchonProvince	盟重省
+Quest	135	GotoMessage	Return to MongchonDelegate in MongchonWall	回到盟重城找盟重代表
+Quest	136	Name	Shipping Relics	运送遗物
+Quest	136	Group	MongchonProvince	盟重省
+Quest	136	GotoMessage	Return to the Collector in MongchonWall	回到盟重城找收藏家
+Quest	137	Name	Rare Medicine	稀有药物
+Quest	137	Group	MongchonProvince	盟重省
+Quest	137	GotoMessage	Return to Kevin in MongchonWall at 346:334	回到盟重城 346:334 找凯文
+Quest	138	Name	Force Recruit	强制征募
+Quest	138	Group	WasteLands	荒地
+Quest	138	GotoMessage	Return to the Excavenger in WasteLand 265:238	回到荒地 265:238 找挖掘者
+Quest	139	Name	Dangerous as ever	一如既往的危险
+Quest	139	Group	WasteLands	荒地
+Quest	139	GotoMessage	Return to the Excavenger in WasteLand 265:238	回到荒地 265:238 找挖掘者
+Quest	140	Name	Chestnut Request	栗子请求
+Quest	140	Group	BichonProvince	比奇省
+Quest	140	GotoMessage	Return to BichonWall Board.	回到比奇城公告板。
+Quest	141	Name	Gathering of Bones	收集骨头
+Quest	141	Group	BichonProvince	比奇省
+Quest	141	GotoMessage	Return to BichonWall Board.	回到比奇城公告板。
+Quest	142	Name	Boar Tooth	野猪牙
+Quest	142	Group	MongchonProvince	盟重省
+Quest	142	GotoMessage	Return to MudWall Board.	回到盟重公告板。
+Quest	143	Name	Holy Sword Quest	圣剑任务
+Quest	143	Group	HolySword Quest	圣剑任务
+Quest	143	GotoMessage	Return to the Apprentice	回去找学徒
+Quest	144	Name	Holy Sword Quest	圣剑任务
+Quest	144	Group	HolySword Quest	圣剑任务
+Quest	144	GotoMessage	Return to Perry in TaoVillage	回到道馆村找佩里
+Quest	145	Name	Holy Sword Quest	圣剑任务
+Quest	145	Group	HolySword Quest	圣剑任务
+Quest	146	Name	Holy Sword Quest	圣剑任务
+Quest	146	Group	HolySword Quest	圣剑任务
+Quest	146	GotoMessage	Return to Big Taoist	回去找大道士
+Quest	147	Name	Holy Sword Quest	圣剑任务
+Quest	147	Group	HolySword Quest	圣剑任务
+Quest	147	GotoMessage	Return to Big Taoist	回去找大道士
+Quest	148	Name	Holy Sword Quest	圣剑任务
+Quest	148	Group	HolySword Quest	圣剑任务
+Quest	148	GotoMessage	Return to Big Taoist  for further information.	回去找大道士了解更多信息。
+Quest	149	Name	Holy Sword Quest	圣剑任务
+Quest	149	Group	HolySword Quest	圣剑任务
+Quest	149	GotoMessage	Return to Big Taoist	回去找大道士
+Quest	150	Name	Holy Sword Quest	圣剑任务
+Quest	150	Group	HolySword Quest	圣剑任务
+Quest	150	GotoMessage	Return to Big Taoist	回去找大道士
+Quest	151	Name	Holy Sword Quest	圣剑任务
+Quest	151	Group	HolySword Quest	圣剑任务
+Quest	151	GotoMessage	Return to Big Taoist	回去找大道士
+Quest	152	Name	AncientOmaCavern	远古兽人洞穴
+Quest	152	Group	OmaCavern	兽人洞穴
+Quest	152	ItemMessage	Search for the Ancient Scyther.	寻找远古镰刀怪。
+Quest	153	Name	AncientOmaCavern	远古兽人洞穴
+Quest	153	Group	OmaCavern	兽人洞穴
+Quest	153	GotoMessage	Return to the stone.	回到石碑处。
+Quest	154	Name	Emperors Problem	皇帝的难题
+Quest	154	Group	BichonProvince	比奇省
+Quest	154	FlagMessage	Increase the Emperors Morale.	提升皇帝的士气。
+Item	1005	ToolTip	Casts a powerful ice storm that circles the\r\nenemy causing damage on rotation.	释放强力冰风暴环绕敌人并持续造成伤害。
+Item	1006	ToolTip	Casts a powerful column of fire that burns its\r\ntarget.	释放强力火柱灼烧目标。
+Item	1007	ToolTip	Summons an indentical clone of the caster\r\nwhich will aid with attacks.	召唤与施法者相同的分身协助攻击。
+Item	1008	ToolTip	Creates a huge burst of fire damaging anything\r\nin its range.	制造巨大的火焰爆发，伤害范围内所有目标。
+Item	1009	ToolTip	The caster will summon a storm from the sky \r\nwhich drops shards of ice upon the target in a \r\n5x5 range.	施法者从天空召唤风暴，在 5x5 范围内向目标降下冰片。
+Item	1011	ToolTip	Caster summons a meteor storm from the sky \r\nwhich drops molten rock on the enemies in a \r\n5x5 range.	施法者从天空召唤流星风暴，对 5x5 范围内敌人降下熔岩。
+Item	1017	ToolTip	Infuses your weapon with the power of spirit	将灵魂之力注入你的武器。
+Item	1023	ToolTip	Casts a magical glyph into the sky	向天空释放一道魔法符印。
+Item	1025	ToolTip	Casts a magical glyph into the sky	向天空释放一道魔法符印。
+Item	1034	ToolTip	Summons an ancient spirit of thunder to aid \r\ntheir attacks.	召唤远古雷灵协助攻击。
+Item	1035	ToolTip	Casts a magical glyph into the sky	向天空释放一道魔法符印。
+Item	1036	ToolTip	Casts a variation of poisons and debuff affects\r\nin a 3x3 square area. Changes affects \r\ndepending on poison equipped.	在 3x3 区域内施放多种毒与减益效果。效果会随装备的毒药变化。
+Item	1038	ToolTip	Castable on self and friendly targets	可对自己和友方目标施放。
+Item	1288	ToolTip	A mysterious scroll with locations of all the towns.\r\n-Useage Once.	记录所有城镇位置的神秘卷轴。\r\n-一次性使用。
+Item	1289	ToolTip	A mysterious scroll with locations of all the \r\ndungeon entrances.\r\n-Useage Once.	记录所有地牢入口位置的神秘卷轴。\r\n-一次性使用。
+Item	1290	ToolTip	A Scroll which allow you to Summon One Guard.\r\n-Summons One Guard.\r\n-Duration 7 Days.\r\n-Command @GuardsHelp	可召唤一名守卫的卷轴。\r\n-召唤一名守卫。\r\n-持续 7 天。\r\n-命令 @GuardsHelp
+Item	1291	ToolTip	Ancient Horn which ables you to shout across a location.\r\n-Shout in Green across a location.\r\n-Useage Once.	古老号角，可在当前位置范围喊话。\r\n-以绿色文字向当前位置喊话。\r\n-一次性使用。
+Item	1292	ToolTip	Ancient Horn which ables you to shout across the nation.\r\n-Shout in Purple across the nation.\r\n-Useage Once.	古老号角，可向全服喊话。\r\n-以紫色文字向全服喊话。\r\n-一次性使用。
+Item	1310	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加
+Item	1311	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加
+Item	1312	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加
+Item	1313	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加
+Item	1314	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加
+Item	1315	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加
+Item	1316	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加
+Item	1317	ToolTip	Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable	限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加
+Item	1320	ToolTip	Physical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Destruction + 9\r\n-DCTorch\r\n-A.Speed + 8\r\n-Resurrection Scroll *ALL ARE 30 MINS*	物理狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-攻击 +9\r\n-攻击火炬\r\n-攻速 +8\r\n-复活卷轴 *全部持续 30 分钟*
+Item	1321	ToolTip	Magical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Magical + 7\r\n-MCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*	魔法狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-魔法 +7\r\n-魔法火炬\r\n-复活卷轴 *全部持续 30 分钟*
+Item	1322	ToolTip	Soul Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Soul + 7\r\n-SCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*	道术狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-道术 +7\r\n-道术火炬\r\n-复活卷轴 *全部持续 30 分钟*
+Item	1337	ToolTip	Quest reward item.\r\nA mysterious box with the contents consist of:\r\n-ElixirOfMight[1]\r\n-ElixirOfDefensive[1]\r\n-ElixirOfGinseng[1]\r\n-EXP20%[1]\r\n-Duration  1 Day	任务奖励物品。\r\n神秘盒子内含：\r\n-力量灵药[1]\r\n-防御灵药[1]\r\n-人参灵药[1]\r\n-EXP20%[1]\r\n-持续 1 天
+Item	1338	ToolTip	A Mysterious potion contained from a BoxofHolyWater\r\n-Destruction + 7\r\n-Magical + 5\r\n-Soul + 5\r\n-Duration 1 Day\r\n-None Stackable	圣水盒中获得的神秘药水。\r\n-攻击 +7\r\n-魔法 +5\r\n-道术 +5\r\n-持续 1 天\r\n-不可叠加
+Item	1339	ToolTip	A Mysterious potion contained from a BoxofHolyWater\r\n-Physical Defence + 7\r\n-Magical Defence + 5\r\n-Duration 1 Day\r\n-None Stackable	圣水盒中获得的神秘药水。\r\n-物理防御 +7\r\n-魔法防御 +5\r\n-持续 1 天\r\n-不可叠加
+Item	1340	ToolTip	A Mysterious potion contained from a BoxofHolyWater\r\n-Max HP + 50\r\n-Max MP + 70\r\n-Duration 1 Day\r\n-None Stackable	圣水盒中获得的神秘药水。\r\n-最大 HP +50\r\n-最大 MP +70\r\n-持续 1 天\r\n-不可叠加
+Item	1346	ToolTip	Premium Fishing Package.\r\nPurchased from the GameShop package consists of:\r\n:RedFishingRod (6 Months)\r\n:PremiumReel\r\n:PremiumFloat\r\n:PremiumFinder\r\n:PremiumBait x7200	高级钓鱼礼包。\r\n商城购买礼包包含：\r\n:红色鱼竿（6 个月）\r\n:高级鱼线轮\r\n:高级浮漂\r\n:高级探测器\r\n:高级鱼饵 x7200
+Item	1477	ToolTip	Shoes that allow you to walk quickly as if you have wings, as if you are walking on air without touching the ground. \\ \\When combining each set effect item with a holy relic + divine relic grade, the holy relic set effect is applied.	让你如有双翼般快速行走的鞋子，仿佛踏空而行。\\ \\将每件套装效果物品与圣遗物 + 神遗物等级组合时，会应用圣遗物套装效果。

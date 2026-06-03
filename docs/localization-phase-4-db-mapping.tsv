@@ -1,0 +1,390 @@
+﻿#TYPE	INDEX	FIELD	SOURCE	TARGET
+Magic	1	Name	Fencing	基本剑术
+Magic	2	Name	Slaying	攻杀剑术
+Magic	3	Name	Thrusting	刺杀剑术
+Magic	4	Name	HalfMoon	半月弯刀
+Magic	5	Name	ShoulderDash	野蛮冲撞
+Magic	6	Name	TwinDrakeBlade	双龙斩
+Magic	7	Name	Entrapment	诱捕术
+Magic	8	Name	FlamingSword	烈火剑法
+Magic	9	Name	LionRoar	狮子吼
+Magic	10	Name	CrossHalfMoon	十字半月
+Magic	11	Name	BladeAvalanche	剑刃风暴
+Magic	12	Name	ProtectionField	护体气场
+Magic	13	Name	Rage	狂怒
+Magic	14	Name	CounterAttack	反击
+Magic	15	Name	SlashingBurst	爆裂斩
+Magic	16	Name	Fury	怒火
+Magic	17	Name	ImmortalSkin	金刚护体
+Magic	31	Name	FireBall	火球术
+Magic	32	Name	Repulsion	抗拒火环
+Magic	33	Name	ElectricShock	电击术
+Magic	34	Name	GreatFireBall	大火球
+Magic	35	Name	HellFire	地狱火
+Magic	36	Name	ThunderBolt	雷电术
+Magic	37	Name	Teleport	瞬息移动
+Magic	38	Name	FireBang	爆裂火焰
+Magic	39	Name	FireWall	火墙
+Magic	40	Name	Lightning	疾光电影
+Magic	41	Name	FrostCrunch	冰月震天
+Magic	42	Name	ThunderStorm	地狱雷光
+Magic	43	Name	MagicShield	魔法盾
+Magic	44	Name	TurnUndead	圣言术
+Magic	45	Name	Vampirism	吸血术
+Magic	46	Name	IceStorm	冰咆哮
+Magic	47	Name	FlameDisruptor	灭天火
+Magic	48	Name	Mirroring	分身术
+Magic	49	Name	FlameField	火焰领域
+Magic	50	Name	Blizzard	暴风雪
+Magic	51	Name	MagicBooster	魔力强化
+Magic	52	Name	MeteorStrike	流星火雨
+Magic	53	Name	IceThrust	寒冰穿刺
+Magic	54	Name	Blink	闪现
+Magic	55	Name	StormEscape	风暴脱身
+Magic	61	Name	Healing	治愈术
+Magic	62	Name	SpiritSword	精神剑法
+Magic	63	Name	Poisoning	施毒术
+Magic	64	Name	SoulFireBall	灵魂火符
+Magic	65	Name	SummonSkeleton	召唤骷髅
+Magic	67	Name	Hiding	隐身术
+Magic	68	Name	MassHiding	集体隐身术
+Magic	69	Name	SoulShield	幽灵盾
+Magic	70	Name	Revelation	心灵启示
+Magic	71	Name	BlessedArmour	神圣战甲术
+Magic	72	Name	EnergyRepulsor	气功波
+Magic	73	Name	TrapHexagon	困魔咒
+Magic	74	Name	Purification	净化术
+Magic	75	Name	MassHealing	群体治愈术
+Magic	76	Name	Hallucination	迷魂术
+Magic	77	Name	UltimateEnchancer	极限强化
+Magic	78	Name	SummonShinsu	召唤神兽
+Magic	79	Name	Reincarnation	复活术
+Magic	80	Name	SummonHolyDeva	召唤月灵
+Magic	81	Name	Curse	诅咒术
+Magic	82	Name	Plague	瘟疫术
+Magic	83	Name	PoisonCloud	毒云术
+Magic	84	Name	EnergyShield	真气护体
+Magic	85	Name	PetEnhancer	宠物强化
+Magic	86	Name	HealingCircle	治愈法阵
+Magic	91	Name	FatalSword	致命剑法
+Magic	92	Name	DoubleSlash	双斩
+Magic	93	Name	Haste	疾步
+Magic	94	Name	FlashDash	闪电突袭
+Magic	95	Name	LightBody	轻身术
+Magic	96	Name	HeavenlySword	天剑术
+Magic	97	Name	FireBurst	火焰爆发
+Magic	98	Name	Trap	陷阱
+Magic	99	Name	PoisonSword	毒剑术
+Magic	100	Name	MoonLight	月光斩
+Magic	101	Name	MPEater	噬魔术
+Magic	102	Name	SwiftFeet	疾风步
+Magic	103	Name	DarkBody	暗影身法
+Magic	104	Name	Hemorrhage	放血术
+Magic	105	Name	CresentSlash	新月斩
+Magic	106	Name	MoonMist	月影迷雾
+Magic	107	Name	CatTongue	猫舌术
+Magic	121	Name	Focus	凝神
+Magic	122	Name	StraightShot	直射
+Magic	123	Name	DoubleShot	连珠箭
+Magic	124	Name	ExplosiveTrap	爆炸陷阱
+Magic	125	Name	DelayedExplosion	延时爆破
+Magic	126	Name	Meditation	冥想
+Magic	127	Name	BackStep	后撤步
+Magic	128	Name	ElementalShot	元素箭
+Magic	129	Name	Concentration	专注
+Magic	130	Name	StoneTrap	石化陷阱
+Magic	131	Name	ElementalBarrier	元素屏障
+Magic	132	Name	SummonVampire	召唤吸血蝠
+Magic	133	Name	VampireShot	吸血箭
+Magic	134	Name	SummonToad	召唤毒蟾
+Magic	135	Name	PoisonShot	毒箭
+Magic	136	Name	CrippleShot	致残箭
+Magic	137	Name	SummonSnakes	召唤毒蛇
+Magic	138	Name	NapalmShot	燃烧箭
+Magic	139	Name	OneWithNature	自然合一
+Magic	140	Name	BindingShot	束缚箭
+Magic	141	Name	MentalState	心境
+Magic	150	Name	Portal	传送门
+Magic	151	Name	Blink	闪现
+Magic	152	Name	Portal	传送门
+Magic	153	Name	BattleCry	战吼
+Magic	154	Name	FireBounce	弹射火焰
+Magic	155	Name	MeteorShower	流星雨
+Map	1	Title	BichonProvince	比奇省
+Map	2	Title	Palace	皇宫
+Map	3	Title	MeatStore	肉铺
+Map	4	Title	ReagentStore	药剂店
+Map	5	Title	MedicineRoom	药房
+Map	6	Title	Library	书店
+Map	7	Title	BeautySaloon	美容院
+Map	8	Title	Inn	客栈
+Map	9	Title	2FofInn	客栈二楼
+Map	10	Title	WeaponStore	武器店
+Map	11	Title	AccessoryStore	首饰店
+Map	12	Title	DrapersStore	服装店
+Map	13	Title	Tavern	酒馆
+Map	14	Title	Kitchen	厨房
+Map	15	Title	PrivateHouse	民居
+Map	16	Title	PrivateHouse	民居
+Map	17	Title	PrivateHouse	民居
+Map	18	Title	PrivateHouse	民居
+Map	19	Title	Academy	书院
+Map	20	Title	Academy	书院
+Map	21	Title	Academy	书院
+Map	22	Title	ContestGround	比武场
+Map	23	Title	B1ContestGround	地下比武场
+Map	24	Title	Barracks	兵营
+Map	25	Title	Prison	监狱
+Map	26	Title	PrivateHouse	民居
+Map	27	Title	PrivateHouse	民居
+Map	28	Title	BorderRestaurant	边境餐馆
+Map	29	Title	Library	书店
+Map	30	Title	B1Residence	地下居所
+Map	31	Title	GroceryStore	杂货店
+Map	32	Title	Warehouse	仓库
+Map	33	Title	MageHouse	法师之家
+Map	34	Title	NaturalCave	天然洞穴
+Map	35	Title	NaturalCave	天然洞穴
+Map	36	Title	HiddenRoom	隐藏房间
+Map	37	Title	ConnectionPath	连接通道
+Map	38	Title	ConnectionPath	连接通道
+Map	39	Title	OmaCave_1F	兽人古墓一层
+Map	40	Title	OmaCave_2F	兽人古墓二层
+Map	41	Title	HiddenRoom	隐藏房间
+Map	42	Title	KingsTomb	王陵
+Map	43	Title	OmaCave_3F	兽人古墓三层
+Map	44	Title	AncientNaturalCave	远古天然洞穴
+Map	45	Title	AncientNaturalCave	远古天然洞穴
+Map	46	Title	AncientNaturalCave	远古天然洞穴
+Map	47	Title	DeadMineEntrance	废矿入口
+Map	48	Title	B1ofMine	矿区地下一层
+Map	49	Title	B1ofMine	矿区地下一层
+Map	50	Title	EastofDeadMine	废矿东部
+Map	51	Title	B1ofMine	矿区地下一层
+Map	52	Title	B2ofDeadMine	废矿地下二层
+Map	53	Title	OverPass	高架通道
+Map	54	Title	1FofDeadMine	废矿一层
+Map	55	Title	OverPass	高架通道
+Map	56	Title	OreStoragePlace	矿石仓库
+Map	57	Title	OverPass	高架通道
+Map	58	Title	SouthofDeadMine	废矿南部
+Map	59	Title	GhoulCave	尸王殿
+Map	60	Title	ConnectionPath	连接通道
+Map	61	Title	ConnectionPath	连接通道
+Map	62	Title	ConnectionPath	连接通道
+Map	63	Title	ConnectionPath	连接通道
+Map	64	Title	WoomyonWoods(S)	沃玛森林南部
+Map	65	Title	InsectCave_1F	虫洞一层
+Map	66	Title	InsectCave_2F	虫洞二层
+Map	67	Title	InsectCave_3F	虫洞三层
+Map	68	Title	InsectCave_4F	虫洞四层
+Map	69	Title	WoomaTempleEntrance	沃玛寺庙入口
+Map	70	Title	WoomaTemple_1F	沃玛寺庙一层
+Map	71	Title	WoomaTemple_2F	沃玛寺庙二层
+Map	72	Title	WoomaTemple	沃玛寺庙
+Map	73	Title	AncientTempleEntrance	远古寺庙入口
+Map	74	Title	AncientTemple_1F	远古寺庙一层
+Map	75	Title	AncientTemple_2F	远古寺庙二层
+Map	76	Title	AncientTemple	远古寺庙
+Map	77	Title	CastleGi-Ryoong	基隆城
+Map	78	Title	InnerCastle	内城
+Map	79	Title	WeaponStore	武器店
+Map	80	Title	PotionStore	药品店
+Map	81	Title	AccessoryStore	首饰店
+Map	82	Title	DraperyStore	服装店
+Map	83	Title	Prison	监狱
+Map	84	Title	ItemDepository	物品仓库
+Map	85	Title	BlackDragonDungeon	黑龙地牢
+Map	86	Title	BlackSnakePalace	黑蛇宫殿
+Map	87	Title	BlackDragonDungeon_1F	黑龙地牢一层
+Map	88	Title	BlackDragonDungeon_2F	黑龙地牢二层
+Map	89	Title	PurgatoryHall	炼狱大厅
+Map	90	Title	WoomaPalace	沃玛宫殿
+Map	91	Title	HwanMaJin	幻魔阵
+Map	92	Title	NobleHogPalace	野猪王宫
+Map	93	Title	SoleSpiritHall	孤魂殿
+Map	94	Title	HwanMaJin	幻魔阵
+Map	95	Title	ZumaPalace	祖玛宫殿
+Map	96	Title	PrisonHall	监狱大厅
+Map	97	Title	DarkDevilPalace	暗魔宫殿
+Map	98	Title	WhiteDragonPassage	白龙通道
+Map	99	Title	WhiteDragonPassage	白龙通道
+Map	100	Title	WhiteDragonHillSide	白龙山腰
+Map	101	Title	WhiteDragonPassage	白龙通道
+Map	102	Title	WhiteDragonPassage	白龙通道
+Map	103	Title	SeokchoValley	石草山谷
+Map	104	Title	TrollMine_1F	矿洞一层
+Map	105	Title	TrollMine_2F	矿洞二层
+Map	106	Title	TrollMine_3F	矿洞三层
+Map	107	Title	TrollMine_4F	矿洞四层
+Map	108	Title	WoomyonWoods(N)	沃玛森林北部
+Map	109	Title	Armory	军械库
+Map	110	Title	Rev.Tao_Office	道士长老办公室
+Map	111	Title	Laundry	洗衣房
+Map	112	Title	Library	书店
+Map	113	Title	Item_Lab	物品实验室
+Map	114	Title	Drug_Store	药品店
+Map	115	Title	Warehouse	仓库
+Map	116	Title	MineralMine_1F	矿脉一层
+Map	117	Title	MineralMine_2F	矿脉二层
+Map	118	Title	MineralMine_3F	矿脉三层
+Map	119	Title	MineralMine_4F	矿脉四层
+Map	120	Title	Treepath	林间小径
+Quest	1	Name	Assistant's Request	助手的请求
+Quest	1	Group	BichonProvince	比奇省
+Quest	1	GotoMessage	Deliver Leaves to CraftsLady	把叶子交给工艺师
+Quest	2	Name	The CraftLady's Request	工艺师的请求
+Quest	2	Group	BichonProvince	比奇省
+Quest	2	GotoMessage	Deliver GingerTea to Assistant Jane	把姜茶交给助手简
+Quest	3	Name	Talk with the Butcher	与屠夫交谈
+Quest	3	Group	BichonProvince	比奇省
+Quest	3	GotoMessage	Speak to Butcher John at 293:603	与 293:603 的屠夫约翰交谈
+Quest	4	Name	Hunt for the Butcher	替屠夫狩猎
+Quest	4	Group	BichonProvince	比奇省
+Quest	4	GotoMessage	Return to Butcher John at 293:603	回到 293:603 找屠夫约翰
+Quest	5	Name	The Smith's 1st Test	铁匠的第一次考验
+Quest	5	Group	BichonProvince	比奇省
+Quest	5	GotoMessage	Return to Blacksmith Smith at 297:612	回到 297:612 找铁匠史密斯
+Quest	6	Name	Smith's 2nd Test	铁匠的第二次考验
+Quest	6	Group	BichonProvince	比奇省
+Quest	6	GotoMessage	Return to Blacksmith Smith at 297:612	回到 297:612 找铁匠史密斯
+Quest	7	Name	Meet the Warrior Instructor	拜见战士导师
+Quest	7	Group	BichonProvince	比奇省
+Quest	7	GotoMessage	Speak to Master_Wa at 110:317	与 110:317 的战士导师交谈
+Quest	8	Name	Test for the Fencing Skill	基本剑术考验
+Quest	8	Group	BichonProvince	比奇省
+Quest	8	GotoMessage	Return to Master_Wa at 110:317	回到 110:317 找战士导师
+Quest	9	Name	To Bichon	前往比奇
+Quest	9	Group	BichonProvince	比奇省
+Quest	9	GotoMessage	Speak to Peter in BichonWall at 328:258	与比奇城 328:258 的彼得交谈
+Quest	10	Name	Meet the Mage Instructor	拜见法师导师
+Quest	10	Group	BichonProvince	比奇省
+Quest	10	GotoMessage	Speak with the MasterMage at 314:474	与 314:474 的法师导师交谈
+Quest	11	Name	Test for the Fireball Skill	火球术考验
+Quest	11	Group	BichonProvince	比奇省
+Quest	11	GotoMessage	Return to MasterMage at 314:474	回到 314:474 找法师导师
+Quest	12	Name	To Bichon	前往比奇
+Quest	12	Group	BichonProvince	比奇省
+Quest	12	GotoMessage	Speak to Peter in BichonWall at 328:258	与比奇城 328:258 的彼得交谈
+Quest	13	Name	Meet the Taoist Instructor	拜见道士导师
+Quest	13	Group	BichonProvince	比奇省
+Quest	13	GotoMessage	Search for the HighPriest Last seen at 429:475 	寻找最后出现在 429:475 的大祭司
+Quest	14	Name	Test for the Healing Skill	治愈术考验
+Quest	14	Group	BichonProvince	比奇省
+Quest	14	GotoMessage	Return to the HighPriest at 429:475	回到 429:475 找大祭司
+Quest	15	Name	To Bichon	前往比奇
+Quest	15	Group	BichonProvince	比奇省
+Quest	15	GotoMessage	Speak to Peter in BichonWall at 328:258	与比奇城 328:258 的彼得交谈
+Quest	16	Name	Meet the Assassin Instructor	拜见刺客导师
+Quest	16	Group	BichonProvince	比奇省
+Quest	16	GotoMessage	Speak with Assassin Cloud at 101:411	与 101:411 的刺客克劳德交谈
+Quest	17	Name	Test for FatalSword Skill	致命剑法考验
+Quest	17	Group	BichonProvince	比奇省
+Quest	17	GotoMessage	Return to Cloud at 101:411	回到 101:411 找克劳德
+Quest	18	Name	To Bichon	前往比奇
+Quest	18	Group	BichonProvince	比奇省
+Quest	18	GotoMessage	Speak to Peter in BichonWall at 328:258	与比奇城 328:258 的彼得交谈
+Quest	19	Name	Meet the Archer Instructor	拜见弓手导师
+Quest	19	Group	BichonProvince	比奇省
+Quest	19	GotoMessage	Speak with the Captain at 320:477	与 320:477 的队长交谈
+Quest	20	Name	Test for Focus Skill	凝神考验
+Quest	20	Group	BichonProvince	比奇省
+Quest	20	GotoMessage	Return to the Captain at 320:477	回到 320:477 找队长
+Quest	21	Name	To Bichon	前往比奇
+Quest	21	Group	BichonProvince	比奇省
+Quest	21	GotoMessage	Speak to Peter in BichonWall at 328:258	与比奇城 328:258 的彼得交谈
+Quest	22	Name	Forest Yeti's Threat	森林雪人的威胁
+Quest	22	Group	BichonProvince	比奇省
+Quest	22	GotoMessage	Return to MirGuide Peter in BichonWall	回到比奇城找向导彼得
+Quest	23	Name	!Attack Oma	！进攻兽人
+Quest	23	Group	BichonProvince	比奇省
+Quest	24	Name	Help Blacksmith Jang	帮助铁匠张
+Quest	24	Group	BichonProvince	比奇省
+Quest	24	GotoMessage	Speak to Blacksmith Jang in WoomyonWoods	到沃玛森林与铁匠张交谈
+Quest	25	Name	Hunt CannibalPlants	猎杀食人花
+Quest	25	Group	WoomyonWoods	沃玛森林
+Quest	25	GotoMessage	Return to MirGuide Peter in BichonWall	回到比奇城找向导彼得
+Quest	26	Name	Ingredients for the Antidote	解毒剂材料
+Quest	26	Group	BichonProvince	比奇省
+Quest	26	GotoMessage	Return to MirGuide Peter in BichonWall	回到比奇城找向导彼得
+Quest	27	Name	Errands	跑腿任务
+Quest	27	Group	BichonProvince	比奇省
+Quest	27	GotoMessage	Speak with MongchonScout at the Tavern 290:293	与酒馆 290:293 的盟重斥候交谈
+Quest	28	Name	Find the Web	寻找蛛网
+Quest	28	Group	BichonProvince	比奇省
+Quest	28	GotoMessage	Return to Samuel at 324:291	回到 324:291 找塞缪尔
+Quest	29	Name	Deliver Repair Oil	递送修理油
+Quest	29	Group	BichonProvince	比奇省
+Quest	30	Name	Lost Ring	遗失的戒指
+Quest	30	Group	SerpentValley	毒蛇山谷
+Quest	30	GotoMessage	Return to Blacksmith Bradly in SerpentValley	回到毒蛇山谷找铁匠布拉德利
+Quest	31	Name	Deliver the Ring	递送戒指
+Quest	31	Group	SerpentValley	毒蛇山谷
+Quest	31	GotoMessage	Deliver the JadeRing to Melissa in SerpentValley	把玉戒指交给毒蛇山谷的梅丽莎
+Quest	32	Name	Messenger	信使
+Quest	32	Group	SerpentValley	毒蛇山谷
+Quest	32	GotoMessage	Deliver BluePill to Blacksmith Bradly	把蓝色药丸交给铁匠布拉德利
+Quest	33	Name	Cure the Insomnia	治疗失眠
+Quest	33	Group	SerpentValley	毒蛇山谷
+Quest	33	GotoMessage	Return to Robert at 505:479	回到 505:479 找罗伯特
+Quest	34	Name	Secret Recipe Delivery	递送秘密配方
+Quest	34	Group	SerpentValley	毒蛇山谷
+Quest	34	GotoMessage	Deliver the Recipe to CraftsLady in BichonWall	把配方交给比奇城的工艺师
+Quest	35	Name	SerpentValley	毒蛇山谷
+Quest	35	Group	BichonProvince	比奇省
+Quest	35	GotoMessage	Travel to SerpentValley and Speak to the InnKeeper	前往毒蛇山谷与客栈老板交谈
+Quest	36	Name	Ingredients for Snake Wine	蛇酒材料
+Quest	36	Group	SerpentValley	毒蛇山谷
+Quest	36	GotoMessage	Return to InnKeeper at 517:466	回到 517:466 找客栈老板
+Quest	37	Name	Wine Delivery	递送蛇酒
+Quest	37	Group	SerpentValley	毒蛇山谷
+Quest	37	GotoMessage	Return to MongchonScout with the Wine.	带着蛇酒回去找盟重斥候。
+Quest	38	Name	Find Ebony Fruit	寻找乌木果
+Quest	38	Group	SerpentValley	毒蛇山谷
+Quest	38	GotoMessage	Return to InnKeeper at 517:466	回到 517:466 找客栈老板
+Quest	39	Name	Greetings to the Old Man	问候老人
+Quest	39	Group	SerpentValley	毒蛇山谷
+Quest	39	GotoMessage	Travel to WoomyonWoods and Visit Melissas Grandfather	前往沃玛森林拜访梅丽莎的祖父
+Quest	40	Name	Clean Up	清理威胁
+Quest	40	Group	WoomyonWoods	沃玛森林
+Quest	40	GotoMessage	Return back to MasterShok at 312:73	回到 312:73 找肖克大师
+Quest	41	Name	Grandads Request	祖父的请求
+Quest	41	Group	WoomyonWoods	沃玛森林
+Quest	41	GotoMessage	Travel to BichonWall and Speak with Sarah 313:271	前往比奇城，与 313:271 的莎拉交谈
+Quest	42	Name	Way to Mongchon	前往盟重
+Quest	42	Group	BichonProvince	比奇省
+Quest	42	GotoMessage	Return to Bruce in Mongchon's Blacksmith	回到盟重铁匠铺找布鲁斯
+Quest	43	Name	Help Needed	需要帮助
+Quest	43	Group	BichonProvince	比奇省
+Quest	43	GotoMessage	Speak to Robert in SerpentValley	与毒蛇山谷的罗伯特交谈
+Quest	44	Name	Help Sandford	帮助桑福德
+Quest	44	Group	SerpentValley	毒蛇山谷
+Quest	45	Name	Red Snake's Teeth	红蛇牙
+Quest	45	Group	PrajnaIsland	般若岛
+Quest	45	GotoMessage	Hunt RedSnakes and Return to Robert in SerpentValley	猎杀红蛇后回到毒蛇山谷找罗伯特
+Quest	46	Name	Skeleton Bones	骷髅骨
+Quest	46	Group	BichonProvince	比奇省
+Quest	46	GotoMessage	Return to MirGuide Peter in BichonWall	回到比奇城找向导彼得
+Quest	47	Name	Sister's Ring	姐姐的戒指
+Quest	47	Group	BichonProvince	比奇省
+Quest	47	GotoMessage	Return to Diana in BichonWall 306:276	回到比奇城 306:276 找戴安娜
+Quest	48	Name	Deliver Supplies to the Border	向边境递送补给
+Quest	48	Group	BichonProvince	比奇省
+Quest	48	GotoMessage	Deliver the Relics to Ruben in BorderVillage	把遗物交给边境村的鲁本
+Quest	49	Name	Dangerous Skeleton	危险的骷髅
+Quest	49	Group	BichonProvince	比奇省
+Quest	49	GotoMessage	Return to Jason in BichonWall 296:220	回到比奇城 296:220 找杰森
+Quest	50	Name	Cook Book Delivery	递送烹饪书
+Quest	50	Group	BichonProvince	比奇省
+Quest	50	GotoMessage	Deliver the CookBook to Jim in CastleGi-Ryoong 	把烹饪书交给基隆城的吉姆
+Quest	51	Name	CraftLady's CanniTea	工艺师的食人花茶
+Quest	51	Group	BichonProvince	比奇省
+Quest	51	GotoMessage	Speak with CraftsLady in BichWall 	与比奇城的工艺师交谈
+Quest	52	Name	Ingredients for CanniTea	食人花茶材料
+Quest	52	Group	BichonProvince	比奇省
+Quest	52	GotoMessage	Return to the CraftsLady in BichonWall	回到比奇城找工艺师
+Quest	53	Name	Deliver CanniTea	递送食人花茶
+Quest	53	Group	BichonProvince	比奇省
+Quest	53	GotoMessage	Deliver CanniTea to MirGuide	把食人花茶交给向导
+Quest	54	Name	Zombies in the Mines	矿区里的僵尸
+Quest	54	Group	BichonProvince	比奇省

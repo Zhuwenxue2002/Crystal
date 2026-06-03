@@ -1,0 +1,202 @@
+﻿A Mysterious potion contained from a BoxofHolyWater\r\n-Destruction + 7\r\n-Magical + 5\r\n-Soul + 5\r\n-Duration 1 Day\r\n-None Stackable
+A Mysterious potion contained from a BoxofHolyWater\r\n-Max HP + 50\r\n-Max MP + 70\r\n-Duration 1 Day\r\n-None Stackable
+A Mysterious potion contained from a BoxofHolyWater\r\n-Physical Defence + 7\r\n-Magical Defence + 5\r\n-Duration 1 Day\r\n-None Stackable
+A mysterious scroll with locations of all the \r\ndungeon entrances.\r\n-Useage Once.
+A mysterious scroll with locations of all the towns.\r\n-Useage Once.
+A powerful version of the Fireball spell.
+A Scroll which allow you to Summon One Guard.\r\n-Summons One Guard.\r\n-Duration 7 Days.\r\n-Command @GuardsHelp
+A spell that creates a thunder storm around the\r\ncaster causing a shock on monsters into a\r\nstate of confusion.
+Additional Drop Rate acquired for a period of time.\r\n-Additional Drop Increase by 20%\r\n-Duration 1 Day\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 20%\r\n-Duration 1 Day\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Day\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Hour\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 3 Hours\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 5 Hours\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Day\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Hour\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 3 Hours\r\n-None Stackable
+Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 5 Hours\r\n-None Stackable
+-Allows Entry to the Premium Dungeon\r\n-Duration 1 Day
+-Allows Entry to the Premium Dungeon\r\n-Duration 15 Days
+-Allows Entry to the Premium Dungeon\r\n-Duration 3 Days
+-Allows Entry to the Premium Dungeon\r\n-Duration 7 Days
+Ancient Horn which ables you to shout across a location.\r\n-Shout in Green across a location.\r\n-Useage Once.
+Ancient Horn which ables you to shout across the nation.\r\n-Shout in Purple across the nation.\r\n-Useage Once.
+Angry Sheep
+Applies a heal over time effect on yourself or \r\nother friendly targets.
+Applies a heal over time effect to yourself or \r\nfriendly targets in a 3x3 range.
+Black Dress Fan
+Black Sword(M)
+BlackTiger(F)
+BlackTiger(M)
+Blue(M)
+Bossy(F)
+Bossy(M)
+Bundle which contains total of 3000 Amulets
+Calls a thunderbolt to attack target from the sky.
+Cast in 3x3 square all those effected hide into\r\nthe shadows making it difficult for mobs to see \r\nthem.
+Castable on self and friendly targets
+Caster summons a meteor storm from the sky \r\nwhich drops molten rock on the enemies in a \r\n5x5 range.
+Casts a ball of ice which damages the target \r\nwith a chance of impairing their movement \r\nspeed or freezing them.
+Casts a flaming amulet at the target inflicting \r\nfire damage.
+Casts a magical glyph into the sky
+Casts a powerful column of fire that burns its\r\ntarget.
+Casts a powerful ice storm that circles the\r\nenemy causing damage on rotation.
+Casts a toxic poison cloud in a 3x3 square \r\narea
+Casts a variation of poisons and debuff affects\r\nin a 3x3 square area. Changes affects \r\ndepending on poison equipped.
+Casts harmful poison onto target.
+Chance to kill any undead mob that meets the\r\nlevel requirements in a single cast.
+Charge at your target pushing them back
+Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.
+Confuses mobs and enslaves them to fight for \r\nyou for a limited time.
+Costume Girl
+Creates a huge burst of fire damaging anything\r\nin its range.
+Creates a protective field around caster that\r\nabsorbs any damage taken.
+Creates a wall of fire on the ground.
+Creates a wave of energy that repulses foes\r\naway from you.
+Creates an explosion of fire in 3x3 square causing\r\ndamage in its range.\r\n
+Curves the swing of the weapon allowing\r\nyou to hit up to 4 targets at once.\r\n
+DollyMask
+Draws health from the victim to replenish the\r\ncasters own health.
+Female Assassin
+Football Player Black uniform
+Football Player Pink and Blue uniform
+Football Player Red and Blue uniform
+Football Player White Blue stripe uniform
+Football Player White uniform
+Football Red
+Formal Male
+Gold Armour + Scythe(M)
+GymnasticsQueen
+Hide into the shadows making it difficult for \r\nmobs to see you.
+Hitting Accuracy is increased per spell level.
+Ice King
+Improvement of Destruction for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of Destruction for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of Destruction for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable
+Improvement of Destruction for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable
+Improvement of Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable
+Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of your Accuracy for a certain period of time.\r\n-Duration 1 Hour\r\n-None Stackable
+Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable
+Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of your Health for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of your Health for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of your Health for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable
+Improvement of your Health for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of your Mana for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable
+Improvement of your Mana for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable
+Improvement of your Mana for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable
+Improvement of your Physical Defence for a certain period of time.\r\n-Physical Defence + 7\r\n-Duration 1 Day\r\n-None Stackable
+Improves all defenses and has a chance\r\nto reflect damage to the attacker.
+In the Kunlun region, it seems to have lost its strength
+Increase AC 1-1 for 1 hour.
+Increase AMC 1-1 for 1 hour.
+Increase BagWeight by 3 for 5 hours.
+Increase BagWeight by 5 for 5 hours.
+Increase BagWeight by 9 for 5 hours.
+Increase DropRate by 10% for 1 hour.
+Increase Experience by 5% for 1 hour.
+Increase MaxHP by 50 for 1 hour.
+Increase MaxMP by 50 for 1 hour.
+Increase Speed for 30m.
+Increases attack damage. Passive Skill.
+Increases each class's primary offensive stat.
+Increases pets defence and attack power for \r\na duration of time.
+Increases the distance of your attack
+Increases the warriors attack speed for\r\na set period of time. 
+Infuses your weapon with the power of spirit
+Instantly heals player.
+Invite players to your GT.
+Jack Sparrow
+Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable
+Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable
+Long distance attack by hurling a fireball
+Magical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Magical + 7\r\n-MCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*
+Maintain food level  for 10 hours.
+Male Assassin
+Manectric Club\t
+Manectric Hammer
+Medicine which reduces your PK Point by 10.
+Mysterious Scroll. Which changes your Gender.\r\n-Useage Once.
+Mysterious Stone. Which Gives you additional Experience.\r\n-Additional Experience 30%\r\n-None Stackable\r\n-Command @MysteriousStoneON\r\n-Command @MysteriousStoneOFF\r\n                  
+OldManFishing
+Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength.
+Paralyses mobs and pulls them towards \r\nthe caster.
+Perform 2 curving swings with their weapon\r\nallowing them to hit up to 8 targets at once.
+Performs a thrust like action in 3 directions.
+Physical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Destruction + 9\r\n-DCTorch\r\n-A.Speed + 8\r\n-Resurrection Scroll *ALL ARE 30 MINS*
+Pig
+Premium Fishing Package.\r\nPurchased from the GameShop package consists of:\r\n:RedFishingRod (6 Months)\r\n:PremiumReel\r\n:PremiumFloat\r\n:PremiumFinder\r\n:PremiumBait x7200
+Premium Fishing Rod purchasable from the GameShop.\r\n-Duration 6 Months
+Premium Torch purchased from the GameShop.\r\n-Destruction Power +1\r\n-Duratiuon 3 Hours
+Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 2 Hours
+Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 30 Minutes
+Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 3 Hours
+Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 30 Minutes
+Premium Torch purchased from the GameShop.\r\n-Magical Power +3\r\n-Duratiuon 2 Hours
+Premium Torch purchased from the GameShop.\r\n-Soul Power +1\r\n-Duratiuon 3 Hours
+Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 2 Hours
+Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 30 Minutes
+Pushes away monsters and people surrounding\r\nyou.
+Quest reward item.\r\nA mysterious box with the contents consist of:\r\n-ElixirOfMight[1]\r\n-ElixirOfDefensive[1]\r\n-ElixirOfGinseng[1]\r\n-EXP20%[1]\r\n-Duration  1 Day
+Red/White(F)
+Red/Yellow(F)
+RedOverAlls(M)
+Removes harmful effects from self or friendly \r\ntargets such as poison
+Repairs equipped weapons durability to maximum.
+Required amulet for most Taoist spells.
+Required amulet for the Taoists resurrection spell.
+Required for each upgrade.
+Reveals the targets health above their head.
+Santa Claus with Candy cane.
+Santa's best friend
+Scroll which reduces your PK Score.\r\n-PK Point reduced by 100\r\n-Useage Once.\r\n
+Scroll which revives you from death.\r\nRessurection HP 100%\r\nRessurection MP 100%\r\n 
+Shoes that allow you to walk quickly as if you have wings, as if you are walking on air without touching the ground. \\ \\When combining each set effect item with a holy relic + divine relic grade, the holy relic set effect is applied.
+SkiKid
+Soul Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Soul + 7\r\n-SCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*
+Special creatures produce these rare stones every 3 hours.\r\nBreaking this stone will grant you a random item.
+Spell that moves you randomly within a province\r\nand used to escape dungeons.
+Spider(BarbarianScythe)
+Spider(Scythe)
+Sportman
+Strange scroll that can take you back to your Guild's Home
+Stuns and confuses monsters. Can also be\r\nused to tame monsters.
+Summons a fire breathing beast which will aid \r\nyour attacks.
+Summons a magical eye allowing the caster to \r\nsee his enemies weakness's.
+Summons a skeleton that will aid your attacks.
+Summons an ancient spirit of thunder to aid \r\ntheir attacks.
+Summons an indentical clone of the caster\r\nwhich will aid with attacks.
+Summons the spirit of fire causing a devastating\r\nblow to the target.
+Teleports player to their last saved safezone.
+The caster creates a bolt of lightning
+The caster will summon a storm from the sky \r\nwhich drops shards of ice upon the target in a \r\n5x5 range.
+The taoist can bring back a dead player into \r\nthe living realm.
+The warrior lets out a bellowing roar
+The weapon performs 2 swings in one motion.\r\nTarget has a chance of becoming stunned\r\nallowing more damage.
+Throws a column of flame 5 squares straight\r\nahead of the caster.
+Traps multiple mobs inside a hexagon prism \r\nmaking them immobile.
+Used in certain Taoist spells to give red poison (reduces defences)
+Warrior charges into his foes parting them\r\nlike waves while dealing additional damage.
+Warrior enters a enraged state of mind where\r\neach weapon swing hits harder.
+Warrior enters a hardened state of mind where\r\nany physical damage taken is reduced.
+When a creature's feeding reaches 0
+White Dress RedTrident(F)
+WhiteDress Blue/Red Trident
+With this mirror you can rename a creature.
+wont
+Yizhili
+You can give this to your creature.\r\n100%
+You can give this to your creature.\r\n25%
+You can give this to your creature.\r\n50%
+You can give this to your creature.\r\n75%
+Your weapon becomes infused with strength

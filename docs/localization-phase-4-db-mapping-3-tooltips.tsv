@@ -1,0 +1,92 @@
+﻿#TYPE	INDEX	FIELD	SOURCE	TARGET
+Item	670	ToolTip	Instantly heals player.	立即治疗玩家。
+Item	671	ToolTip	Instantly heals player.	立即治疗玩家。
+Item	707	ToolTip	Repairs equipped weapons durability to maximum.	将已装备武器的持久修复至上限。
+Item	708	ToolTip	Repairs equipped weapons durability to maximum.	将已装备武器的持久修复至上限。
+Item	711	ToolTip	Used in certain Taoist spells to give red poison (reduces defences)	用于部分道士技能，可施加红毒（降低防御）。
+Item	712	ToolTip	Required amulet for most Taoist spells.	多数道士技能所需的护身符。
+Item	713	ToolTip	Bundle which contains total of 3000 Amulets	内含总计 3000 张护身符的包裹。
+Item	714	ToolTip	Required amulet for the Taoists resurrection spell.	道士复活术所需的护身符。
+Item	716	ToolTip	Strange scroll that can take you back to your Guild's Home	奇异卷轴，可将你带回行会驻地。
+Item	719	ToolTip	Teleports player to their last saved safezone.	将玩家传送到最近保存的安全区。
+Item	937	ToolTip	Required for each upgrade.	每次升级都需要。
+Item	938	ToolTip	Required for each upgrade.	每次升级都需要。
+Item	939	ToolTip	Required for each upgrade.	每次升级都需要。
+Item	940	ToolTip	Required for each upgrade.	每次升级都需要。
+Item	952	ToolTip	With this mirror you can rename a creature.	使用这面镜子可以为宠物改名。
+Item	954	ToolTip	Maintain food level  for 10 hours.	维持饱食度 10 小时。
+Item	959	ToolTip	When a creature's feeding reaches 0	当宠物饱食度降为 0 时
+Item	963	ToolTip	Increase Experience by 5% for 1 hour.	经验提高 5%，持续 1 小时。
+Item	964	ToolTip	Increase DropRate by 10% for 1 hour.	掉落率提高 10%，持续 1 小时。
+Item	965	ToolTip	Increase MaxHP by 50 for 1 hour.	最大 HP 提高 50，持续 1 小时。
+Item	966	ToolTip	Increase MaxMP by 50 for 1 hour.	最大 MP 提高 50，持续 1 小时。
+Item	967	ToolTip	Increase AC 1-1 for 1 hour.	防御提高 1-1，持续 1 小时。
+Item	968	ToolTip	Increase AMC 1-1 for 1 hour.	魔防提高 1-1，持续 1 小时。
+Item	969	ToolTip	Increase Speed for 30m.	速度提高，持续 30 分钟。
+Item	970	ToolTip	Increase BagWeight by 3 for 5 hours.	背包负重提高 3，持续 5 小时。
+Item	971	ToolTip	Increase BagWeight by 5 for 5 hours.	背包负重提高 5，持续 5 小时。
+Item	972	ToolTip	Increase BagWeight by 9 for 5 hours.	背包负重提高 9，持续 5 小时。
+Item	973	ToolTip	Hitting Accuracy is increased per spell level.	命中准确随技能等级提升。
+Item	974	ToolTip	Your weapon becomes infused with strength	你的武器将注入强大力量。
+Item	975	ToolTip	Increases the distance of your attack	增加你的攻击距离。
+Item	977	ToolTip	Charge at your target pushing them back	冲向目标并将其击退。
+Item	981	ToolTip	The warrior lets out a bellowing roar	战士发出震慑怒吼。
+Item	983	ToolTip	Performs a thrust like action in 3 directions.	向 3 个方向发动刺击。
+Item	990	ToolTip	Long distance attack by hurling a fireball	投掷火球进行远程攻击。
+Item	993	ToolTip	A powerful version of the Fireball spell.	火球术的强化版本。
+Item	995	ToolTip	Calls a thunderbolt to attack target from the sky.	召唤天雷攻击目标。
+Item	998	ToolTip	Creates a wall of fire on the ground.	在地面上制造一道火墙。
+Item	999	ToolTip	The caster creates a bolt of lightning	施法者凝聚一道闪电。
+Item	1018	ToolTip	Casts harmful poison onto target.	向目标施加有害毒素。
+Item	1020	ToolTip	Summons a skeleton that will aid your attacks.	召唤骷髅协助你攻击。
+Item	1024	ToolTip	Reveals the targets health above their head.	在目标头顶显示其生命值。
+Item	1031	ToolTip	Increases each class's primary offensive stat.	提高各职业的主要攻击属性。
+Item	1041	ToolTip	Increases attack damage. Passive Skill.	提高攻击伤害。被动技能。
+Item	1268	ToolTip	Improvement of Destruction for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升攻击。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1269	ToolTip	Improvement of Destruction for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升攻击。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1270	ToolTip	Improvement of Destruction for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升攻击。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1271	ToolTip	Improvement of Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升魔法。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1272	ToolTip	Improvement of Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升魔法。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1273	ToolTip	Improvement of Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升魔法。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1274	ToolTip	Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升道术。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1275	ToolTip	Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升道术。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1276	ToolTip	Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升道术。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1277	ToolTip	Improvement of your Health for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升你的生命值。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1278	ToolTip	Improvement of your Health for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升你的生命值。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1279	ToolTip	Improvement of your Health for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升你的生命值。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1280	ToolTip	Improvement of your Mana for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升你的魔法值。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1281	ToolTip	Improvement of your Mana for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升你的魔法值。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1282	ToolTip	Improvement of your Mana for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升你的魔法值。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1283	ToolTip	Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable	在一段时间内提升你的攻击速度。\r\n-持续 1 Hour\r\n-不可叠加
+Item	1284	ToolTip	Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable	在一段时间内提升你的攻击速度。\r\n-持续 3 Hours\r\n-不可叠加
+Item	1285	ToolTip	Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable	在一段时间内提升你的攻击速度。\r\n-持续 5 Hours\r\n-不可叠加
+Item	1295	ToolTip	Premium Torch purchased from the GameShop.\r\n-Destruction Power +1\r\n-Duratiuon 3 Hours	商城购买的高级火炬。\r\n-攻击 +1\r\n-持续 3 Hours
+Item	1296	ToolTip	Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 3 Hours	商城购买的高级火炬。\r\n-魔法 +1\r\n-持续 3 Hours
+Item	1297	ToolTip	Premium Torch purchased from the GameShop.\r\n-Soul Power +1\r\n-Duratiuon 3 Hours	商城购买的高级火炬。\r\n-道术 +1\r\n-持续 3 Hours
+Item	1298	ToolTip	Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 2 Hours	商城购买的高级火炬。\r\n-攻击 +3\r\n-持续 2 Hours
+Item	1299	ToolTip	Premium Torch purchased from the GameShop.\r\n-Magical Power +3\r\n-Duratiuon 2 Hours	商城购买的高级火炬。\r\n-魔法 +3\r\n-持续 2 Hours
+Item	1300	ToolTip	Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 2 Hours	商城购买的高级火炬。\r\n-道术 +3\r\n-持续 2 Hours
+Item	1301	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Hour\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 1 Hour\r\n-不可叠加
+Item	1302	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 3 Hours\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 3 Hours\r\n-不可叠加
+Item	1303	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 5 Hours\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 5 Hours\r\n-不可叠加
+Item	1304	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Day\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 1 Day\r\n-不可叠加
+Item	1305	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Hour\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 1 Hour\r\n-不可叠加
+Item	1306	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 3 Hours\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 3 Hours\r\n-不可叠加
+Item	1307	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 5 Hours\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 5 Hours\r\n-不可叠加
+Item	1308	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Day\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 1 Day\r\n-不可叠加
+Item	1309	ToolTip	Additional Drop Rate acquired for a period of time.\r\n-Additional Drop Increase by 20%\r\n-Duration 1 Day\r\n-None Stackable	在一段时间内获得额外掉落率。\r\n-额外掉落率提高 20%\r\n-持续 1 Day\r\n-不可叠加
+Item	1323	ToolTip	Improvement of Destruction for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable	在一段时间内提升攻击。\r\n-持续 30 Minuets\r\n-不可叠加
+Item	1324	ToolTip	Improvement of Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable	在一段时间内提升魔法。\r\n-持续 30 Minuets\r\n-不可叠加
+Item	1325	ToolTip	Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable	在一段时间内提升道术。\r\n-持续 30 Minuets\r\n-不可叠加
+Item	1326	ToolTip	Improvement of your Health for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable	在一段时间内提升你的生命值。\r\n-持续 30 Minuets\r\n-不可叠加
+Item	1327	ToolTip	Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable	在一段时间内提升你的攻击速度。\r\n-持续 30 Minuets\r\n-不可叠加
+Item	1336	ToolTip	Medicine which reduces your PK Point by 10.	可减少 10 点 PK 值的药物。
+Item	1341	ToolTip	Additional Experience acquired for a period of time.\r\n-Additional Experience 20%\r\n-Duration 1 Day\r\n-None Stackable	在一段时间内获得额外经验。\r\n-额外经验 20%\r\n-持续 1 Day\r\n-不可叠加
+Item	1342	ToolTip	-Allows Entry to the Premium Dungeon\r\n-Duration 1 Day	-允许进入高级地牢\r\n-持续 1 Day
+Item	1343	ToolTip	-Allows Entry to the Premium Dungeon\r\n-Duration 3 Days	-允许进入高级地牢\r\n-持续 3 Days
+Item	1344	ToolTip	-Allows Entry to the Premium Dungeon\r\n-Duration 7 Days	-允许进入高级地牢\r\n-持续 7 Days
+Item	1345	ToolTip	-Allows Entry to the Premium Dungeon\r\n-Duration 15 Days	-允许进入高级地牢\r\n-持续 15 Days
+Item	1361	ToolTip	Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 30 Minutes	商城购买的高级火炬。\r\n-攻击 +3\r\n-持续 30 Minutes
+Item	1362	ToolTip	Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 30 Minutes	商城购买的高级火炬。\r\n-魔法 +1\r\n-持续 30 Minutes
+Item	1363	ToolTip	Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 30 Minutes	商城购买的高级火炬。\r\n-道术 +3\r\n-持续 30 Minutes
+Item	1368	ToolTip	Invite players to your GT.	邀请玩家进入你的行会试炼。

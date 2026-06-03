@@ -1,0 +1,111 @@
+﻿#TYPE	INDEX	FIELD	SOURCE	TARGET
+Quest	29	GotoMessage	Travel to SerpentValley and Deliver to Bradly at 517:492 	前往毒蛇山谷，把物品交给 517:492 的布拉德利
+Quest	44	GotoMessage	Travel to PrajnaIsland Speak to Sandford. Boat leaves fom BorderVillage	从边境村乘船前往般若岛，与桑福德交谈
+Quest	54	GotoMessage	Return to Blacksmith Bill in BichonWall	回到比奇城找铁匠比尔
+Quest	59	GotoMessage	Return to Blacksmith Bill in BichonWall	回到比奇城找铁匠比尔
+Item	794	ToolTip	Premium Fishing Rod purchasable from the GameShop.\r\n-Duration 6 Months	可在商城购买的高级鱼竿。\r\n-持续 6 个月
+Item	941	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	942	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	943	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	944	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	945	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	946	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	947	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	948	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	949	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	950	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	951	ToolTip	Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight.	点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。
+Item	953	ToolTip	Special creatures produce these rare stones every 3 hours.\r\nBreaking this stone will grant you a random item.	特殊宠物每 3 小时产出一次这种稀有石头。\r\n打碎后可获得随机物品。
+Item	955	ToolTip	You can give this to your creature.\r\n25%	可喂给宠物。\r\n25%
+Item	956	ToolTip	You can give this to your creature.\r\n50%	可喂给宠物。\r\n50%
+Item	957	ToolTip	You can give this to your creature.\r\n75%	可喂给宠物。\r\n75%
+Item	958	ToolTip	You can give this to your creature.\r\n100%	可喂给宠物。\r\n100%
+Item	960	ToolTip	Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength.	打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。
+Item	961	ToolTip	Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength.	打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。
+Item	962	ToolTip	Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength.	打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。
+Item	976	ToolTip	Curves the swing of the weapon allowing\r\nyou to hit up to 4 targets at once.\r\n	挥出弧形攻击，最多可同时命中 4 个目标。\r\n
+Item	978	ToolTip	The weapon performs 2 swings in one motion.\r\nTarget has a chance of becoming stunned\r\nallowing more damage.	武器一次动作挥砍两次。\r\n目标有几率被击晕并受到更多伤害。
+Item	979	ToolTip	Paralyses mobs and pulls them towards \r\nthe caster.	麻痹怪物并将其拉向施法者。
+Item	980	ToolTip	Summons the spirit of fire causing a devastating\r\nblow to the target.	召唤火焰之灵，对目标造成毁灭性一击。
+Item	982	ToolTip	Perform 2 curving swings with their weapon\r\nallowing them to hit up to 8 targets at once.	使用武器连续挥出两道弧形攻击，最多可同时命中 8 个目标。
+Item	984	ToolTip	Warrior enters a hardened state of mind where\r\nany physical damage taken is reduced.	战士进入坚韧状态，受到的物理伤害降低。
+Item	985	ToolTip	Warrior enters a enraged state of mind where\r\neach weapon swing hits harder.	战士进入狂怒状态，每次挥击伤害更高。
+Item	986	ToolTip	Improves all defenses and has a chance\r\nto reflect damage to the attacker.	提高所有防御，并有几率将伤害反弹给攻击者。
+Item	987	ToolTip	Warrior charges into his foes parting them\r\nlike waves while dealing additional damage.	战士冲入敌群，将敌人劈开并造成额外伤害。
+Item	988	ToolTip	Increases the warriors attack speed for\r\na set period of time. 	在一段时间内提高战士的攻击速度。
+Item	991	ToolTip	Pushes away monsters and people surrounding\r\nyou.	推开周围的怪物和玩家。
+Item	992	ToolTip	Stuns and confuses monsters. Can also be\r\nused to tame monsters.	击晕并迷惑怪物，也可用于驯服怪物。
+Item	994	ToolTip	Throws a column of flame 5 squares straight\r\nahead of the caster.	向施法者前方 5 格释放一道火柱。
+Item	996	ToolTip	Spell that moves you randomly within a province\r\nand used to escape dungeons.	在省内随机移动的法术，可用于逃离地牢。
+Item	997	ToolTip	Creates an explosion of fire in 3x3 square causing\r\ndamage in its range.\r\n	在 3x3 范围内制造火焰爆炸并造成伤害。\r\n
+Item	1000	ToolTip	Casts a ball of ice which damages the target \r\nwith a chance of impairing their movement \r\nspeed or freezing them.	释放冰球伤害目标，并有几率降低其移动速度或将其冻结。
+Item	1001	ToolTip	A spell that creates a thunder storm around the\r\ncaster causing a shock on monsters into a\r\nstate of confusion.	在施法者周围制造雷暴，使怪物受到电击并陷入混乱。
+Item	1002	ToolTip	Creates a protective field around caster that\r\nabsorbs any damage taken.	在施法者周围制造护盾，吸收受到的伤害。
+Item	1003	ToolTip	Chance to kill any undead mob that meets the\r\nlevel requirements in a single cast.	有几率一击消灭满足等级要求的不死怪物。
+Item	1004	ToolTip	Draws health from the victim to replenish the\r\ncasters own health.	从受害者身上汲取生命，恢复施法者自身生命。
+Item	1010	ToolTip	Summons a magical eye allowing the caster to \r\nsee his enemies weakness's.	召唤魔法之眼，使施法者看穿敌人的弱点。
+Item	1016	ToolTip	Applies a heal over time effect on yourself or \r\nother friendly targets.	为自己或友方目标施加持续治疗效果。
+Item	1019	ToolTip	Casts a flaming amulet at the target inflicting \r\nfire damage.	向目标投掷燃烧护符，造成火焰伤害。
+Item	1021	ToolTip	Hide into the shadows making it difficult for \r\nmobs to see you.	隐入暗影，使怪物难以发现你。
+Item	1022	ToolTip	Cast in 3x3 square all those effected hide into\r\nthe shadows making it difficult for mobs to see \r\nthem.	在 3x3 范围内施放，使受影响者隐入暗影，怪物难以发现他们。
+Item	1026	ToolTip	Creates a wave of energy that repulses foes\r\naway from you.	制造一股能量波，将敌人从你身边推开。
+Item	1027	ToolTip	Traps multiple mobs inside a hexagon prism \r\nmaking them immobile.	将多个怪物困在六角结界内，使其无法移动。
+Item	1028	ToolTip	Removes harmful effects from self or friendly \r\ntargets such as poison	移除自己或友方目标身上的毒等有害效果。
+Item	1029	ToolTip	Applies a heal over time effect to yourself or \r\nfriendly targets in a 3x3 range.	为自己或 3x3 范围内友方目标施加持续治疗效果。
+Item	1030	ToolTip	Confuses mobs and enslaves them to fight for \r\nyou for a limited time.	迷惑怪物并短暂奴役它们为你作战。
+Item	1032	ToolTip	Summons a fire breathing beast which will aid \r\nyour attacks.	召唤喷火神兽协助你攻击。
+Item	1033	ToolTip	The taoist can bring back a dead player into \r\nthe living realm.	道士可将死亡玩家复活。
+Item	1037	ToolTip	Casts a toxic poison cloud in a 3x3 square \r\narea	在 3x3 区域内释放剧毒云雾。
+Item	1039	ToolTip	Increases pets defence and attack power for \r\na duration of time.	在一段时间内提高宠物的防御和攻击力。
+Item	1268	ToolTip	在一段时间内提升攻击。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升攻击。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1269	ToolTip	在一段时间内提升攻击。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升攻击。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1270	ToolTip	在一段时间内提升攻击。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升攻击。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1271	ToolTip	在一段时间内提升魔法。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升魔法。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1272	ToolTip	在一段时间内提升魔法。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升魔法。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1273	ToolTip	在一段时间内提升魔法。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升魔法。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1274	ToolTip	在一段时间内提升道术。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升道术。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1275	ToolTip	在一段时间内提升道术。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升道术。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1276	ToolTip	在一段时间内提升道术。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升道术。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1277	ToolTip	在一段时间内提升你的生命值。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升你的生命值。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1278	ToolTip	在一段时间内提升你的生命值。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升你的生命值。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1279	ToolTip	在一段时间内提升你的生命值。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升你的生命值。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1280	ToolTip	在一段时间内提升你的魔法值。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升你的魔法值。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1281	ToolTip	在一段时间内提升你的魔法值。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升你的魔法值。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1282	ToolTip	在一段时间内提升你的魔法值。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升你的魔法值。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1283	ToolTip	在一段时间内提升你的攻击速度。\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内提升你的攻击速度。\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1284	ToolTip	在一段时间内提升你的攻击速度。\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内提升你的攻击速度。\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1285	ToolTip	在一段时间内提升你的攻击速度。\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内提升你的攻击速度。\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1286	ToolTip	Scroll which revives you from death.\r\nRessurection HP 100%\r\nRessurection MP 100%\r\n 	可使你从死亡中复活的卷轴。\r\n复活后 HP 100%\r\n复活后 MP 100%\r\n
+Item	1287	ToolTip	Scroll which reduces your PK Score.\r\n-PK Point reduced by 100\r\n-Useage Once.\r\n	可减少 PK 值的卷轴。\r\n-PK 值减少 100\r\n-一次性使用。\r\n
+Item	1293	ToolTip	Mysterious Scroll. Which changes your Gender.\r\n-Useage Once.	神秘卷轴，可改变你的性别。\r\n-一次性使用。
+Item	1294	ToolTip	Mysterious Stone. Which Gives you additional Experience.\r\n-Additional Experience 30%\r\n-None Stackable\r\n-Command @MysteriousStoneON\r\n-Command @MysteriousStoneOFF\r\n                  	神秘石，可提供额外经验。\r\n-额外经验 30%\r\n-不可叠加\r\n-命令 @MysteriousStoneON\r\n-命令 @MysteriousStoneOFF
+Item	1295	ToolTip	商城购买的高级火炬。\r\n-攻击 +1\r\n-持续 3 Hours	商城购买的高级火炬。\\r\\n-攻击 +1\\r\\n-持续 3 小时
+Item	1296	ToolTip	商城购买的高级火炬。\r\n-魔法 +1\r\n-持续 3 Hours	商城购买的高级火炬。\\r\\n-魔法 +1\\r\\n-持续 3 小时
+Item	1297	ToolTip	商城购买的高级火炬。\r\n-道术 +1\r\n-持续 3 Hours	商城购买的高级火炬。\\r\\n-道术 +1\\r\\n-持续 3 小时
+Item	1298	ToolTip	商城购买的高级火炬。\r\n-攻击 +3\r\n-持续 2 Hours	商城购买的高级火炬。\\r\\n-攻击 +3\\r\\n-持续 2 小时
+Item	1299	ToolTip	商城购买的高级火炬。\r\n-魔法 +3\r\n-持续 2 Hours	商城购买的高级火炬。\\r\\n-魔法 +3\\r\\n-持续 2 小时
+Item	1300	ToolTip	商城购买的高级火炬。\r\n-道术 +3\r\n-持续 2 Hours	商城购买的高级火炬。\\r\\n-道术 +3\\r\\n-持续 2 小时
+Item	1301	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1302	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1303	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1304	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 30%\r\n-持续 1 Day\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 1 天\\r\\n-不可叠加
+Item	1305	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 1 Hour\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 1 小时\\r\\n-不可叠加
+Item	1306	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 3 Hours\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 3 小时\\r\\n-不可叠加
+Item	1307	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 5 Hours\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 5 小时\\r\\n-不可叠加
+Item	1308	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 50%\r\n-持续 1 Day\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 1 天\\r\\n-不可叠加
+Item	1309	ToolTip	在一段时间内获得额外掉落率。\r\n-额外掉落率提高 20%\r\n-持续 1 Day\r\n-不可叠加	在一段时间内获得额外掉落率。\\r\\n-额外掉落率提高 20%\\r\\n-持续 1 天\\r\\n-不可叠加
+Item	1318	ToolTip	Improvement of your Physical Defence for a certain period of time.\r\n-Physical Defence + 7\r\n-Duration 1 Day\r\n-None Stackable	在一段时间内提升你的物理防御。\r\n-物理防御 +7\r\n-持续 1 天\r\n-不可叠加
+Item	1319	ToolTip	Improvement of your Accuracy for a certain period of time.\r\n-Duration 1 Hour\r\n-None Stackable	在一段时间内提升你的准确。\r\n-持续 1 小时\r\n-不可叠加
+Item	1323	ToolTip	在一段时间内提升攻击。\r\n-持续 30 Minuets\r\n-不可叠加	在一段时间内提升攻击。\\r\\n-持续 30 分钟\\r\\n-不可叠加
+Item	1324	ToolTip	在一段时间内提升魔法。\r\n-持续 30 Minuets\r\n-不可叠加	在一段时间内提升魔法。\\r\\n-持续 30 分钟\\r\\n-不可叠加
+Item	1325	ToolTip	在一段时间内提升道术。\r\n-持续 30 Minuets\r\n-不可叠加	在一段时间内提升道术。\\r\\n-持续 30 分钟\\r\\n-不可叠加
+Item	1326	ToolTip	在一段时间内提升你的生命值。\r\n-持续 30 Minuets\r\n-不可叠加	在一段时间内提升你的生命值。\\r\\n-持续 30 分钟\\r\\n-不可叠加
+Item	1327	ToolTip	在一段时间内提升你的攻击速度。\r\n-持续 30 Minuets\r\n-不可叠加	在一段时间内提升你的攻击速度。\\r\\n-持续 30 分钟\\r\\n-不可叠加
+Item	1341	ToolTip	在一段时间内获得额外经验。\r\n-额外经验 20%\r\n-持续 1 Day\r\n-不可叠加	在一段时间内获得额外经验。\\r\\n-额外经验 20%\\r\\n-持续 1 天\\r\\n-不可叠加
+Item	1342	ToolTip	-允许进入高级地牢\r\n-持续 1 Day	-允许进入高级地牢\\r\\n-持续 1 天
+Item	1343	ToolTip	-允许进入高级地牢\r\n-持续 3 Days	-允许进入高级地牢\\r\\n-持续 3 天
+Item	1344	ToolTip	-允许进入高级地牢\r\n-持续 7 Days	-允许进入高级地牢\\r\\n-持续 7 天
+Item	1345	ToolTip	-允许进入高级地牢\r\n-持续 15 Days	-允许进入高级地牢\\r\\n-持续 15 天
+Item	1361	ToolTip	商城购买的高级火炬。\r\n-攻击 +3\r\n-持续 30 Minutes	商城购买的高级火炬。\\r\\n-攻击 +3\\r\\n-持续 30 分钟
+Item	1362	ToolTip	商城购买的高级火炬。\r\n-魔法 +1\r\n-持续 30 Minutes	商城购买的高级火炬。\\r\\n-魔法 +1\\r\\n-持续 30 分钟
+Item	1363	ToolTip	商城购买的高级火炬。\r\n-道术 +3\r\n-持续 30 Minutes	商城购买的高级火炬。\\r\\n-道术 +3\\r\\n-持续 30 分钟
