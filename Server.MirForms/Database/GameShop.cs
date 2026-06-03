@@ -49,8 +49,8 @@ namespace Server
             CategoryFilter_lb.Items.Clear();
             GameShopListBox.Items.Clear();
 
-            ClassFilter_lb.Items.Add("All Classes");
-            CategoryFilter_lb.Items.Add("All Categories");
+            ClassFilter_lb.Items.Add("全职业");
+            CategoryFilter_lb.Items.Add("全部分类");
 
             for (int i = 0; i < SMain.EditEnvir.GameShopList.Count; i++)
             {
@@ -60,9 +60,9 @@ namespace Server
                 GameShopListBox.Items.Add(SMain.EditEnvir.GameShopList[i]);
             }
 
-            ClassFilter_lb.Text = "All Classes";
-            CategoryFilter_lb.Text = "All Categories";
-            SectionFilter_lb.Text = "All Items";
+            ClassFilter_lb.Text = "全职业";
+            CategoryFilter_lb.Text = "全部分类";
+            SectionFilter_lb.Text = "全部物品";
         }
 
         private void UpdateGameShopList()
@@ -71,9 +71,9 @@ namespace Server
             GameShopListBox.Items.Clear();
             for (int i = 0; i < SMain.EditEnvir.GameShopList.Count; i++)
             {
-                if (ClassFilter_lb.Text == "All Classes" || SMain.EditEnvir.GameShopList[i].Class == ClassFilter_lb.Text)
-                    if (SectionFilter_lb.Text == "All Items" || SMain.EditEnvir.GameShopList[i].TopItem && SectionFilter_lb.Text == "Top Items" || SMain.EditEnvir.GameShopList[i].Deal && SectionFilter_lb.Text == "Sale Items" || SMain.EditEnvir.GameShopList[i].Date > Envir.Now.AddDays(-7) && SectionFilter_lb.Text == "New Items")
-                        if (CategoryFilter_lb.Text == "All Categories" || SMain.EditEnvir.GameShopList[i].Category == CategoryFilter_lb.Text)
+                if (ClassFilter_lb.Text == "全职业" || SMain.EditEnvir.GameShopList[i].Class == ClassFilter_lb.Text)
+                    if (SectionFilter_lb.Text == "全部物品" || SMain.EditEnvir.GameShopList[i].TopItem && SectionFilter_lb.Text == "推荐物品" || SMain.EditEnvir.GameShopList[i].Deal && SectionFilter_lb.Text == "促销物品" || SMain.EditEnvir.GameShopList[i].Date > Envir.Now.AddDays(-7) && SectionFilter_lb.Text == "新品")
+                        if (CategoryFilter_lb.Text == "全部分类" || SMain.EditEnvir.GameShopList[i].Category == CategoryFilter_lb.Text)
                             GameShopListBox.Items.Add(SMain.EditEnvir.GameShopList[i]);
             }
         }
@@ -164,11 +164,11 @@ namespace Server
             }
             else if (SelectedItems[0].Stock == 0)
             {
-                LeftinStock_label.Text = "Infinite";
+                LeftinStock_label.Text = "无限";
             }
             else if (Individual_checkbox.Checked)
             {
-                LeftinStock_label.Text = "Can't calc individual levels";
+                LeftinStock_label.Text = "无法计算个人等级库存";
             }
         }
 
@@ -230,7 +230,7 @@ namespace Server
         {
             if (SelectedItems.Count == 0) return;
 
-            if (MessageBox.Show("Are you sure you want to remove the selected Items?", "Remove Items?", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
+            if (MessageBox.Show("确定要移除选中的物品吗？", "移除物品？", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
 
             for (int i = 0; i < SelectedItems.Count; i++) Envir.Remove(SelectedItems[i]);
 
@@ -344,9 +344,9 @@ namespace Server
 
         private void ResetFilter_button_Click(object sender, EventArgs e)
         {
-            ClassFilter_lb.Text = "All Classes";
-            CategoryFilter_lb.Text = "All Categories";
-            SectionFilter_lb.Text = "All Items";
+            ClassFilter_lb.Text = "全职业";
+            CategoryFilter_lb.Text = "全部分类";
+            SectionFilter_lb.Text = "全部物品";
             UpdateGameShopList();
 
         }
@@ -355,12 +355,12 @@ namespace Server
         {
             if (SMain.Envir.Running)
             {
-                if (MessageBox.Show("Reseting purchase logs cannot be reverted and will set stock levels back to defaults, This will take effect instantly.", "Remove Logs?", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
+                if (MessageBox.Show("重置购买日志无法撤销，并会将库存恢复为默认值。该操作会立即生效。", "移除日志？", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
                 SMain.Envir.ClearGameshopLog();
             }
             else
             {
-                if (MessageBox.Show("Reseting purchase logs cannot be reverted and will set stock levels back to defaults, This will take effect when you start the server", "Remove Logs?", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
+                if (MessageBox.Show("重置购买日志无法撤销，并会将库存恢复为默认值。该操作会在服务器启动时生效。", "移除日志？", MessageBoxButtons.YesNo) != DialogResult.Yes) return;
                 SMain.Envir.ResetGS = true;
             }
         }
@@ -407,7 +407,7 @@ namespace Server
         {
             if (SMain.EditEnvir.ItemInfoList == null || SMain.EditEnvir.ItemInfoList.Count == 0)
             {
-                MessageBox.Show("No items available to add.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("没有可添加的物品。", "错误", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
@@ -498,7 +498,7 @@ namespace Server
         {
             if (GameShopListBox.Items.Count == 0)
             {
-                MessageBox.Show("No items to export.", "Export Failed", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("没有可导出的物品。", "导出失败", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
@@ -537,7 +537,7 @@ namespace Server
 
             File.WriteAllLines(saveDialog.FileName, lines);
 
-            MessageBox.Show("Export complete.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("导出完成。", "成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

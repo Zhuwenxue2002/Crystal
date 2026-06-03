@@ -477,7 +477,7 @@ namespace Server.Database
                     if (existingIndex != currentIndex)
                     {
                         e.Cancel = true;
-                        itemInfoGridView.Rows[e.RowIndex].ErrorText = "An item with this name already exists.";
+                        itemInfoGridView.Rows[e.RowIndex].ErrorText = "已存在同名物品。";
                     }
                 }
             }
@@ -485,32 +485,32 @@ namespace Server.Database
             else if (col.ValueType == typeof(int) && col.Name != "StatAttackSpeed" && int.TryParse(val, out int val1) && val1 < 0)
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a positive integer";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为正整数";
             }
             else if (col.ValueType == typeof(int) && !int.TryParse(val, out _))
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be an integer";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为整数";
             }
             else if (col.ValueType == typeof(byte) && !byte.TryParse(val, out _))
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a byte";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 byte";
             }
             else if (col.ValueType == typeof(short) && !short.TryParse(val, out _))
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a short";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 short";
             }
             else if (col.ValueType == typeof(ushort) && !ushort.TryParse(val, out _))
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a ushort";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 ushort";
             }
             else if (col.ValueType == typeof(long) && !long.TryParse(val, out _))
             {
                 e.Cancel = true;
-                itemInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a long";
+                itemInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 long";
             }
 
             if (!e.Cancel)
@@ -684,7 +684,7 @@ namespace Server.Database
                     if (columns.Length < 2)
                     {
                         fileError = true;
-                        MessageBox.Show("No columns to import.");
+                        MessageBox.Show("没有可导入的列。");
                     }
 
                     if (!fileError)
@@ -712,7 +712,7 @@ namespace Server.Database
                                 if (cells.Length != columns.Length)
                                 {
                                     fileError = true;
-                                    MessageBox.Show($"Row {i} column count does not match the headers column count.");
+                                    MessageBox.Show($"第 {i} 行列数与表头列数不一致。");
                                     break;
                                 }
 
@@ -743,7 +743,7 @@ namespace Server.Database
 
                                         if (dataColumn == null)
                                         {
-                                            throw new Exception($"Column {column} was not found.");
+                                                throw new Exception($"未找到列 {column}。");
                                         }
                                         if (dataColumn.Name == "ItemName")
                                         {
@@ -754,7 +754,7 @@ namespace Server.Database
                                                 var currentIndex = dataRow["ItemIndex"].ToString() ?? "";
                                                 if (existingIndex != currentIndex)
                                                 {
-                                                    throw new Exception($"An item named {cells[j]} already exists.");
+                                                    throw new Exception($"已存在名为 {cells[j]} 的物品。");
                                                 }
                                             }
                                             if (!isNew) ItemNameChange(dataRow[column].ToString(), cells[j]);
@@ -787,7 +787,7 @@ namespace Server.Database
                                 {
                                     fileError = true;
 
-                                    MessageBox.Show($"Error when importing item {cells[0]}. {ex.Message}");
+                                    MessageBox.Show($"导入物品 {cells[0]} 时出错。{ex.Message}");
 
                                     break;
                                 }
@@ -803,7 +803,7 @@ namespace Server.Database
                         itemInfoGridView.EditMode = DataGridViewEditMode.EditOnKeystrokeOrF2;
                         if (!fileError)
                         {
-                            MessageBox.Show($"{rowsEdited} items have been imported.");
+                            MessageBox.Show($"已导入 {rowsEdited} 个物品。");
                         }
                         else
                         {
@@ -816,7 +816,7 @@ namespace Server.Database
                 }
                 else
                 {
-                    MessageBox.Show("No rows to import.");
+                    MessageBox.Show("没有可导入的行。");
                 }
             }
         }
@@ -840,7 +840,7 @@ namespace Server.Database
                         catch (IOException ex)
                         {
                             fileError = true;
-                            MessageBox.Show("It wasn't possible to write the data to the disk." + ex.Message);
+                            MessageBox.Show("无法将数据写入磁盘。" + ex.Message);
                         }
                     }
                     if (!fileError)
@@ -900,18 +900,18 @@ namespace Server.Database
                             }
 
                             File.WriteAllLines(sfd.FileName, outputCsv, Encoding.UTF8);
-                            MessageBox.Show("Data Exported Successfully.", "Info");
+                            MessageBox.Show("数据导出成功。", "信息");
                         }
                         catch (Exception ex)
                         {
-                            MessageBox.Show("Error :" + ex.Message);
+                            MessageBox.Show("错误：" + ex.Message);
                         }
                     }
                 }
             }
             else
             {
-                MessageBox.Show("No Items To Export.", "Info");
+                MessageBox.Show("没有可导出的物品。", "信息");
             }
         }
 
@@ -997,14 +997,14 @@ namespace Server.Database
                         return;
                     }
 
-                    String promptText = $"Enter new value for column [{colName}]:";
+                    String promptText = $"请输入列 [{colName}] 的新值：";
                     if (itemInfoGridView.Rows[mouseOverRow].Cells[mouseOverCol] is DataGridViewCheckBoxCell)
                     {
-                        promptText += $"{Environment.NewLine}[[Enter 1 for tick or 0 for untick]]";
+                        promptText += $"{Environment.NewLine}[[输入 1 勾选，输入 0 取消勾选]]";
                     }
 
                     var updateValue = Interaction.InputBox(promptText,
-                                                        "Bulk Update",
+                                                        "批量更新",
                                                         String.Empty);
 
                     if (!String.IsNullOrEmpty(updateValue))
@@ -1111,7 +1111,7 @@ namespace Server.Database
             if (inError.Count > 0)
             {
                 String msg = string.Join(Environment.NewLine, inError);
-                if (MessageBox.Show($"The following items are invalid: {msg}", "Discard Invalid Items?", MessageBoxButtons.OKCancel) != DialogResult.OK)
+                if (MessageBox.Show($"以下物品无效：{msg}", "放弃无效物品？", MessageBoxButtons.OKCancel) != DialogResult.OK)
                 {
                     e.Cancel = true;
                     return;

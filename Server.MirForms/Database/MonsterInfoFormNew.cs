@@ -309,33 +309,33 @@ namespace Server.Database
             if (col.ValueType == typeof(int) && int.TryParse(val, out int val1) && val1 < 0)
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a positive integer";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为正整数";
             }
 
             if (col.ValueType == typeof(int) && !int.TryParse(val, out _))
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be an integer";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为整数";
             }
             else if (col.ValueType == typeof(byte) && !byte.TryParse(val, out _))
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a byte";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 byte";
             }
             else if (col.ValueType == typeof(short) && !short.TryParse(val, out _))
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a short";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 short";
             }
             else if (col.ValueType == typeof(ushort) && !ushort.TryParse(val, out _))
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a ushort";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 ushort";
             }
             else if (col.ValueType == typeof(long) && !long.TryParse(val, out _))
             {
                 e.Cancel = true;
-                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "the value must be a long";
+                monsterInfoGridView.Rows[e.RowIndex].ErrorText = "该值必须为 long";
             }
         }
 
@@ -417,7 +417,7 @@ namespace Server.Database
                     if (columns.Length < 2)
                     {
                         fileError = true;
-                        MessageBox.Show("No columns to import.");
+                        MessageBox.Show("没有可导入的列。");
                     }
 
                     if (!fileError)
@@ -440,7 +440,7 @@ namespace Server.Database
                             if (cells.Length != columns.Length)
                             {
                                 fileError = true;
-                                MessageBox.Show($"Row {i} column count does not match the headers column count.");
+                                MessageBox.Show($"第 {i} 行列数与表头列数不一致。");
                                 break;
                             }
 
@@ -469,7 +469,7 @@ namespace Server.Database
 
                                     if (dataColumn == null)
                                     {
-                                        throw new Exception($"Column {column} was not found.");
+                                        throw new Exception($"未找到列 {column}。");
                                     }
                                     if (dataColumn.Name == "MonsterName")
                                     {
@@ -480,7 +480,7 @@ namespace Server.Database
                                             var currentIndex = dataRow["MonsterIndex"].ToString() ?? "";
                                             if (existingIndex != currentIndex)
                                             {
-                                                throw new Exception($"An monster named {cells[j]} already exists.");
+                                                throw new Exception($"已存在名为 {cells[j]} 的怪物。");
                                             }
                                         }
                                         if (!isNew) MonsterNameChange(dataRow[column].ToString(), cells[j]);
@@ -509,7 +509,7 @@ namespace Server.Database
                                 fileError = true;
                                 monsterInfoGridView.EndEdit();
 
-                                MessageBox.Show($"Error when importing item {cells[0]}. {ex.Message}");
+                                MessageBox.Show($"导入怪物 {cells[0]} 时出错。{ex.Message}");
                                 break;
                             }
                         }
@@ -517,7 +517,7 @@ namespace Server.Database
                         monsterInfoGridView.EditMode = DataGridViewEditMode.EditOnKeystrokeOrF2;
                         if (!fileError)
                         {
-                            MessageBox.Show($"{rowsEdited} monsters have been imported.");
+                            MessageBox.Show($"已导入 {rowsEdited} 个怪物。");
                         }
                         else
                         {
@@ -529,7 +529,7 @@ namespace Server.Database
                 }
                 else
                 {
-                    MessageBox.Show("No rows to import.");
+                    MessageBox.Show("没有可导入的行。");
                 }
             }
         }
@@ -553,7 +553,7 @@ namespace Server.Database
                         catch (IOException ex)
                         {
                             fileError = true;
-                            MessageBox.Show("It wasn't possible to write the data to the disk." + ex.Message);
+                            MessageBox.Show("无法将数据写入磁盘。" + ex.Message);
                         }
                     }
                     if (!fileError)
@@ -588,18 +588,18 @@ namespace Server.Database
                             }
 
                             File.WriteAllLines(sfd.FileName, outputCsv, Encoding.UTF8);
-                            MessageBox.Show("Data Exported Successfully.", "Info");
+                            MessageBox.Show("数据导出成功。", "信息");
                         }
                         catch (Exception ex)
                         {
-                            MessageBox.Show("Error :" + ex.Message);
+                            MessageBox.Show("错误：" + ex.Message);
                         }
                     }
                 }
             }
             else
             {
-                MessageBox.Show("No Monsters To Export.", "Info");
+                MessageBox.Show("没有可导出的怪物。", "信息");
             }
         }
 

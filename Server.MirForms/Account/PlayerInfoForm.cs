@@ -61,8 +61,8 @@ namespace Server
             }
             else
             {
-                CurrentMapLabel.Text = "OFFLINE";
-                CurrentXY.Text = "OFFLINE";
+                CurrentMapLabel.Text = "离线";
+                CurrentXY.Text = "离线";
             }
 
             CurrentIPLabel.Text = Character.AccountInfo.LastIP;
@@ -270,7 +270,7 @@ namespace Server
         #region Buttons
         private void UpdateButton_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to Update?", "Update.", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning) != DialogResult.Yes) return;
+            if (MessageBox.Show("确定要更新该玩家信息吗？", "更新", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning) != DialogResult.Yes) return;
 
             SaveChanges();
         }
@@ -385,7 +385,7 @@ namespace Server
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error opening URL: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"打开链接时出错：{ex.Message}", "错误", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -497,7 +497,7 @@ namespace Server
                 ListViewItem selectedItem = PlayerFlagsListView.SelectedItems[0];
                 int flagIndex = int.Parse(selectedItem.Text);
 
-                var result = MessageBox.Show("Are you sure you want to enable this flag?", "Confirm Action", MessageBoxButtons.YesNo);
+                var result = MessageBox.Show("确定要启用该 Flag 吗？", "确认操作", MessageBoxButtons.YesNo);
 
                 if (result == DialogResult.Yes)
                 {
@@ -505,18 +505,18 @@ namespace Server
                     {
                         Character.Flags[flagIndex] = true;
 
-                        selectedItem.SubItems[1].Text = "Active";
+                        selectedItem.SubItems[1].Text = "已启用";
                         selectedItem.SubItems[1].ForeColor = Color.Green;
                     }
                     else
                     {
-                        MessageBox.Show("Invalid flag index.");
+                        MessageBox.Show("Flag 编号无效。");
                     }
                 }
             }
             else
             {
-                MessageBox.Show("Please select a flag to enable.");
+                MessageBox.Show("请选择要启用的 Flag。");
             }
         }
         private void DisableSelectedFlag_Click(object sender, EventArgs e)
@@ -526,7 +526,7 @@ namespace Server
                 ListViewItem selectedItem = PlayerFlagsListView.SelectedItems[0];
                 int flagIndex = int.Parse(selectedItem.Text);
 
-                var result = MessageBox.Show("Are you sure you want to disable this flag?", "Confirm Action", MessageBoxButtons.YesNo);
+                var result = MessageBox.Show("确定要禁用该 Flag 吗？", "确认操作", MessageBoxButtons.YesNo);
 
                 if (result == DialogResult.Yes)
                 {
@@ -534,18 +534,18 @@ namespace Server
                     {
                         Character.Flags[flagIndex] = false;
 
-                        selectedItem.SubItems[1].Text = "Inactive";
+                        selectedItem.SubItems[1].Text = "未启用";
                         selectedItem.SubItems[1].ForeColor = Color.Red;
                     }
                     else
                     {
-                        MessageBox.Show("Invalid flag index.");
+                        MessageBox.Show("Flag 编号无效。");
                     }
                 }
             }
             else
             {
-                MessageBox.Show("Please select a flag to disable.");
+                MessageBox.Show("请选择要禁用的 Flag。");
             }
         }
         #endregion
@@ -625,8 +625,8 @@ namespace Server
             }
             else
             {
-                HeroCurrentMapLabel.Text = "OFFLINE";
-                HeroCurrentXY.Text = "OFFLINE";
+                HeroCurrentMapLabel.Text = "离线";
+                HeroCurrentXY.Text = "离线";
             }
         }
         private void UpdateHeroMagic()
@@ -739,7 +739,7 @@ namespace Server
         }
         private void HeroUpdateButton_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to Update?", "Update.", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning) != DialogResult.Yes) return;
+            if (MessageBox.Show("确定要更新该英雄信息吗？", "更新", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Warning) != DialogResult.Yes) return;
 
             HeroSaveChanges();
         }

@@ -78,7 +78,7 @@ namespace Server.MirForms.Systems
             }
             catch
             {
-                MessageBox.Show("Value validation failed. Please correct before updating", "Notice",
+                MessageBox.Show("数值校验失败，请修正后再更新。", "提示",
                 MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
                 return;
             }

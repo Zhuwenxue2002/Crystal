@@ -266,7 +266,7 @@ namespace Server
 
             if (!Directory.Exists(dropPath))
             {
-                MessageBox.Show("Drops directory not found!");
+                MessageBox.Show("未找到掉落目录。");
                 return;
             }
 
@@ -325,11 +325,11 @@ namespace Server
                     }
                 }
 
-                MessageBox.Show($"Processed files. Modified {totalModified} entries.");
+                MessageBox.Show($"处理完成，已修改 {totalModified} 条记录。");
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error: {ex.Message}");
+                MessageBox.Show($"错误：{ex.Message}");
             }
         }
         private void RemoveSinDrops_Click(object sender, EventArgs e)

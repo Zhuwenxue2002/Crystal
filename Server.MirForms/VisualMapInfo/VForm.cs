@@ -91,10 +91,10 @@ namespace Server.MirForms.VisualMapInfo
         {
             List<string> miningFilterItems = new() { { "Disabled" } };
             Settings.MineSetList.ForEach(x => miningFilterItems.Add(x.Name));
-            miningFilterItems.Add("No Filter");
+            miningFilterItems.Add("无筛选");
 
             MiningFilter.DataSource = miningFilterItems;
-            MiningFilter.Text = "No Filter";
+            MiningFilter.Text = "无筛选";
 
             for (int i = 0; i < VisualizerGlobal.MapInfo.MineZones.Count; i++)
             {
@@ -118,8 +118,8 @@ namespace Server.MirForms.VisualMapInfo
             for (int i = 0; i < Envir.MonsterInfoList.Count; i++)
                 RespawnsFilter.Items.Add(Envir.MonsterInfoList[i]);
 
-            RespawnsFilter.Items.Add("No Filter");
-            RespawnsFilter.Text = "No Filter";
+            RespawnsFilter.Items.Add("无筛选");
+            RespawnsFilter.Text = "无筛选";
 
             for (int i = 0; i < VisualizerGlobal.MapInfo.Respawns.Count; i++)
             {
@@ -512,7 +512,7 @@ namespace Server.MirForms.VisualMapInfo
         {
             if (MiningPanel.Controls.Count == 0) return;
 
-            DialogResult result = MessageBox.Show("Remove selected records?", "", MessageBoxButtons.YesNoCancel);
+            DialogResult result = MessageBox.Show("确定要移除选中的记录吗？", "移除记录？", MessageBoxButtons.YesNoCancel);
             if (result != DialogResult.Yes) return;
 
             for (int i = MiningPanel.Controls.Count; i > -1; --i)
@@ -577,7 +577,7 @@ namespace Server.MirForms.VisualMapInfo
         {
             VisualizerGlobal.ZoomLevel = 1;
 
-            if (MiningFilter.Text == "No Filter")
+            if (MiningFilter.Text == "无筛选")
                 for (int i = MiningPanel.Controls.Count - 1; i > -1; i--)
                     try
                     {
@@ -642,7 +642,7 @@ namespace Server.MirForms.VisualMapInfo
         {
             if (RespawnPanel.Controls.Count == 0) return;
 
-            DialogResult result = MessageBox.Show("Remove selected records?", "", MessageBoxButtons.YesNoCancel);
+            DialogResult result = MessageBox.Show("确定要移除选中的记录吗？", "移除记录？", MessageBoxButtons.YesNoCancel);
             if (result != DialogResult.Yes) return;
 
             for (int i = RespawnPanel.Controls.Count; i > -1; --i)
@@ -720,7 +720,7 @@ namespace Server.MirForms.VisualMapInfo
 
             VisualizerGlobal.ZoomLevel = 1;
 
-            if (RespawnsFilter.Text == "No Filter")
+            if (RespawnsFilter.Text == "无筛选")
                 for (int i = RespawnPanel.Controls.Count - 1; i > -1; i--)
                     try
                     {
