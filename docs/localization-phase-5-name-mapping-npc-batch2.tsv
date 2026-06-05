@@ -1,0 +1,13 @@
+#TYPE	INDEX	FIELD	SOURCE	TARGET
+NPC	148	Name	MudWall_Board	盟重公告板
+NPC	66	Name	OldSkeleton	古旧骷髅
+NPC	141	Name	SkeletonPile	骷髅堆
+NPC	54	Name	SubjagationManager_James	征讨管理员詹姆斯
+NPC	137	Name	VulnerableSon_Alfie	虚弱的阿尔菲
+NPC	163	Name	InnKeeper_Robin	旅店老板罗宾
+NPC	7	Name	Merchant_John	商人约翰
+NPC	92	Name	Merchant_Sam	商人山姆
+NPC	25	Name	Merchant_Sarah	商人莎拉
+NPC	175	Name	Merchant_Sarah	商人莎拉
+NPC	52	Name	MongchonScout_Brian	盟重斥候布莱恩
+NPC	22	Name	Teleport_Jason	传送员杰森
