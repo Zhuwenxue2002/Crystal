@@ -1,0 +1,2634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crystal Mir2 Database\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocalizationDbTool\n"
+
+#. 数据库字段：NPC[1].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[1].Name
+msgctxt "NPC:1:Name"
+msgid "Teleport_Gilbert"
+msgstr "传送员吉尔伯特"
+
+#. 数据库字段：NPC[2].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[2].Name
+msgctxt "NPC:2:Name"
+msgid "BorderVillage_Board"
+msgstr "边境村公告板"
+
+#. 数据库字段：NPC[3].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[3].Name
+msgctxt "NPC:3:Name"
+msgid "Assistant_Jane"
+msgstr "助手简"
+
+#. 数据库字段：NPC[4].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[4].Name
+msgctxt "NPC:4:Name"
+msgid "CraftsLady_Jude"
+msgstr "工匠朱迪"
+
+#. 数据库字段：NPC[5].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[5].Name
+msgctxt "NPC:5:Name"
+msgid "Blacksmith_Smith"
+msgstr "铁匠史密斯"
+
+#. 数据库字段：NPC[6].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[6].Name
+msgctxt "NPC:6:Name"
+msgid "Librarian_Brian"
+msgstr "图书管理员布莱恩"
+
+#. 数据库字段：NPC[7].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[7].Name
+msgctxt "NPC:7:Name"
+msgid "Merchant_John"
+msgstr "商人约翰"
+
+#. 数据库字段：NPC[8].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[8].Name
+msgctxt "NPC:8:Name"
+msgid "Merchant_Whitney"
+msgstr "商人惠特尼"
+
+#. 数据库字段：NPC[9].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[9].Name
+msgctxt "NPC:9:Name"
+msgid "Merchant_Ruben"
+msgstr "商人鲁本"
+
+#. 数据库字段：NPC[10].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[10].Name
+msgctxt "NPC:10:Name"
+msgid "InnKeeper_Anthony"
+msgstr "旅店老板安东尼"
+
+#. 数据库字段：NPC[11].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[11].Name
+msgctxt "NPC:11:Name"
+msgid "Merchant_Alice"
+msgstr "商人爱丽丝"
+
+#. 数据库字段：NPC[12].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[12].Name
+msgctxt "NPC:12:Name"
+msgid "Merchant_Betty"
+msgstr "商人贝蒂"
+
+#. 数据库字段：NPC[13].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[13].Name
+msgctxt "NPC:13:Name"
+msgid "Merchant_Clara"
+msgstr "商人克拉拉"
+
+#. 数据库字段：NPC[14].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[14].Name
+msgctxt "NPC:14:Name"
+msgid "Prison_Guard"
+msgstr "监狱守卫"
+
+#. 数据库字段：NPC[15].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[15].Name
+msgctxt "NPC:15:Name"
+msgid "Sailor_Rupert"
+msgstr "水手鲁珀特"
+
+#. 数据库字段：NPC[16].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[16].Name
+msgctxt "NPC:16:Name"
+msgid "Master_Wa"
+msgstr "瓦大师"
+
+#. 数据库字段：NPC[17].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[17].Name
+msgctxt "NPC:17:Name"
+msgid "HighPriest_Jude"
+msgstr "大祭司朱迪"
+
+#. 数据库字段：NPC[18].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[18].Name
+msgctxt "NPC:18:Name"
+msgid "_Shinsu(Jude)"
+msgstr ""
+
+#. 数据库字段：NPC[19].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[19].Name
+msgctxt "NPC:19:Name"
+msgid "HighAssassin_Cloud"
+msgstr "高阶刺客克劳德"
+
+#. 数据库字段：NPC[20].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[20].Name
+msgctxt "NPC:20:Name"
+msgid "Captain_Jerald"
+msgstr "杰拉德队长"
+
+#. 数据库字段：NPC[21].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[21].Name
+msgctxt "NPC:21:Name"
+msgid "MasterMage_Don"
+msgstr "大法师唐恩"
+
+#. 数据库字段：NPC[22].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[22].Name
+msgctxt "NPC:22:Name"
+msgid "Teleport_Jason"
+msgstr "传送员杰森"
+
+#. 数据库字段：NPC[23].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[23].Name
+msgctxt "NPC:23:Name"
+msgid "Teleport_Harrison"
+msgstr "传送员哈里森"
+
+#. 数据库字段：NPC[24].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[24].Name
+msgctxt "NPC:24:Name"
+msgid "Teleport_Kyle"
+msgstr "传送员凯尔"
+
+#. 数据库字段：NPC[25].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[25].Name
+msgctxt "NPC:25:Name"
+msgid "Merchant_Sarah"
+msgstr "商人莎拉"
+
+#. 数据库字段：NPC[26].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[26].Name
+msgctxt "NPC:26:Name"
+msgid "Merchant_Kim"
+msgstr "商人金"
+
+#. 数据库字段：NPC[27].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[27].Name
+msgctxt "NPC:27:Name"
+msgid "Blacksmith_Bill"
+msgstr "铁匠比尔"
+
+#. 数据库字段：NPC[28].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[28].Name
+msgctxt "NPC:28:Name"
+msgid "Alchemist_Samuel"
+msgstr "炼金师塞缪尔"
+
+#. 数据库字段：NPC[29].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[29].Name
+msgctxt "NPC:29:Name"
+msgid "Alchemist_Larry"
+msgstr "炼金师拉里"
+
+#. 数据库字段：NPC[30].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[30].Name
+msgctxt "NPC:30:Name"
+msgid "Specialist_Travis"
+msgstr "专家特拉维斯"
+
+#. 数据库字段：NPC[31].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[31].Name
+msgctxt "NPC:31:Name"
+msgid "InnKeeper_Brittney"
+msgstr "旅店老板布兰妮"
+
+#. 数据库字段：NPC[32].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[32].Name
+msgctxt "NPC:32:Name"
+msgid "InnKeeper_Mary"
+msgstr "旅店老板玛丽"
+
+#. 数据库字段：NPC[33].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[33].Name
+msgctxt "NPC:33:Name"
+msgid "Merchant_Bull"
+msgstr "商人布尔"
+
+#. 数据库字段：NPC[34].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[34].Name
+msgctxt "NPC:34:Name"
+msgid "Lottery_Eddie"
+msgstr "彩票商埃迪"
+
+#. 数据库字段：NPC[35].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[35].Name
+msgctxt "NPC:35:Name"
+msgid "BichonWall_Board"
+msgstr "比奇城公告板"
+
+#. 数据库字段：NPC[36].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[36].Name
+msgctxt "NPC:36:Name"
+msgid "MaterialDealer_Jeffery"
+msgstr "材料商杰弗里"
+
+#. 数据库字段：NPC[37].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[37].Name
+msgctxt "NPC:37:Name"
+msgid "MirGuide_Peter"
+msgstr "向导彼得"
+
+#. 数据库字段：NPC[38].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[38].Name
+msgctxt "NPC:38:Name"
+msgid "Examiner_Tony"
+msgstr "考官托尼"
+
+#. 数据库字段：NPC[39].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[39].Name
+msgctxt "NPC:39:Name"
+msgid "WiseFisherman_Albert"
+msgstr "睿智渔夫阿尔伯特"
+
+#. 数据库字段：NPC[40].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[40].Name
+msgctxt "NPC:40:Name"
+msgid "StableGirl_Mary"
+msgstr "马厩姑娘玛丽"
+
+#. 数据库字段：NPC[41].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[41].Name
+msgctxt "NPC:41:Name"
+msgid "Solider_Richard"
+msgstr "士兵理查德"
+
+#. 数据库字段：NPC[42].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[42].Name
+msgctxt "NPC:42:Name"
+msgid "TrustMerchant_James"
+msgstr "委托商人詹姆斯"
+
+#. 数据库字段：NPC[43].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[43].Name
+msgctxt "NPC:43:Name"
+msgid "GTMerchant_Jamie"
+msgstr "行会领地商人杰米"
+
+#. 数据库字段：NPC[44].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[44].Name
+msgctxt "NPC:44:Name"
+msgid "Administrator_Edward"
+msgstr "管理员爱德华"
+
+#. 数据库字段：NPC[45].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[45].Name
+msgctxt "NPC:45:Name"
+msgid "Librarian_Steven"
+msgstr "图书管理员史蒂文"
+
+#. 数据库字段：NPC[46].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[46].Name
+msgctxt "NPC:46:Name"
+msgid "Merchant_Vincent"
+msgstr "商人文森特"
+
+#. 数据库字段：NPC[47].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[47].Name
+msgctxt "NPC:47:Name"
+msgid "Merchant_Olivia"
+msgstr "商人奥利维亚"
+
+#. 数据库字段：NPC[48].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[48].Name
+msgctxt "NPC:48:Name"
+msgid "Merchant_Diana"
+msgstr "商人黛安娜"
+
+#. 数据库字段：NPC[49].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[49].Name
+msgctxt "NPC:49:Name"
+msgid "Merchant_Kristin"
+msgstr "商人克里斯汀"
+
+#. 数据库字段：NPC[50].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[50].Name
+msgctxt "NPC:50:Name"
+msgid "Merchant_Anne"
+msgstr "商人安妮"
+
+#. 数据库字段：NPC[51].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[51].Name
+msgctxt "NPC:51:Name"
+msgid "Challange_OldMan"
+msgstr "挑战老人"
+
+#. 数据库字段：NPC[52].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[52].Name
+msgctxt "NPC:52:Name"
+msgid "MongchonScout_Brian"
+msgstr "盟重斥候布莱恩"
+
+#. 数据库字段：NPC[53].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[53].Name
+msgctxt "NPC:53:Name"
+msgid "Sir_Mogu"
+msgstr "莫古爵士"
+
+#. 数据库字段：NPC[54].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[54].Name
+msgctxt "NPC:54:Name"
+msgid "SubjagationManager_James"
+msgstr "征讨管理员詹姆斯"
+
+#. 数据库字段：NPC[55].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[55].Name
+msgctxt "NPC:55:Name"
+msgid "CraftsLady_Alice"
+msgstr "工匠爱丽丝"
+
+#. 数据库字段：NPC[56].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[56].Name
+msgctxt "NPC:56:Name"
+msgid "Master_Joffrey"
+msgstr "乔佛里大师"
+
+#. 数据库字段：NPC[57].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[57].Name
+msgctxt "NPC:57:Name"
+msgid "Assistant_Julie"
+msgstr "助手朱莉"
+
+#. 数据库字段：NPC[58].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[58].Name
+msgctxt "NPC:58:Name"
+msgid "PetMaster_Andy"
+msgstr "宠物大师安迪"
+
+#. 数据库字段：NPC[59].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[59].Name
+msgctxt "NPC:59:Name"
+msgid "Merchant_Glenn"
+msgstr "商人格伦"
+
+#. 数据库字段：NPC[60].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[60].Name
+msgctxt "NPC:60:Name"
+msgid "Premium_Elijah"
+msgstr "特权管理员以利亚"
+
+#. 数据库字段：NPC[61].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[61].Name
+msgctxt "NPC:61:Name"
+msgid "Emperor_Far"
+msgstr "法尔皇帝"
+
+#. 数据库字段：NPC[62].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[62].Name
+msgctxt "NPC:62:Name"
+msgid "Commander_Luke"
+msgstr "指挥官卢克"
+
+#. 数据库字段：NPC[63].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[63].Name
+msgctxt "NPC:63:Name"
+msgid "Storage_Jake"
+msgstr "仓库管理员杰克"
+
+#. 数据库字段：NPC[64].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[64].Name
+msgctxt "NPC:64:Name"
+msgid "StrangeMan"
+msgstr "神秘人"
+
+#. 数据库字段：NPC[65].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[65].Name
+msgctxt "NPC:65:Name"
+msgid "WickedTrader_James"
+msgstr "黑心商人詹姆斯"
+
+#. 数据库字段：NPC[66].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[66].Name
+msgctxt "NPC:66:Name"
+msgid "OldSkeleton"
+msgstr "古旧骷髅"
+
+#. 数据库字段：NPC[67].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[67].Name
+msgctxt "NPC:67:Name"
+msgid "MysteriousStone"
+msgstr "神秘石"
+
+#. 数据库字段：NPC[68].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[68].Name
+msgctxt "NPC:68:Name"
+msgid "Merchant_Hans"
+msgstr "商人汉斯"
+
+#. 数据库字段：NPC[69].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[69].Name
+msgctxt "NPC:69:Name"
+msgid "Merchant_Jang"
+msgstr "商人张"
+
+#. 数据库字段：NPC[70].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[70].Name
+msgctxt "NPC:70:Name"
+msgid "Merchant_Helen"
+msgstr "商人海伦"
+
+#. 数据库字段：NPC[71].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[71].Name
+msgctxt "NPC:71:Name"
+msgid "Master_Shok"
+msgstr "肖克大师"
+
+#. 数据库字段：NPC[72].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[72].Name
+msgctxt "NPC:72:Name"
+msgid "Merchant_Julia"
+msgstr "商人朱莉娅"
+
+#. 数据库字段：NPC[73].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[73].Name
+msgctxt "NPC:73:Name"
+msgid "SubjugationLead_Eric"
+msgstr "征讨队长埃里克"
+
+#. 数据库字段：NPC[74].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[74].Name
+msgctxt "NPC:74:Name"
+msgid "Traveller_Soho"
+msgstr "旅行者索霍"
+
+#. 数据库字段：NPC[75].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[75].Name
+msgctxt "NPC:75:Name"
+msgid "MysteriousStone"
+msgstr "神秘石"
+
+#. 数据库字段：NPC[76].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[76].Name
+msgctxt "NPC:76:Name"
+msgid "InnKeeper_Helen"
+msgstr "旅店老板海伦"
+
+#. 数据库字段：NPC[77].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[77].Name
+msgctxt "NPC:77:Name"
+msgid "Merchant_Belina"
+msgstr "商人贝琳娜"
+
+#. 数据库字段：NPC[78].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[78].Name
+msgctxt "NPC:78:Name"
+msgid "Merchant_Satin"
+msgstr "商人萨廷"
+
+#. 数据库字段：NPC[79].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[79].Name
+msgctxt "NPC:79:Name"
+msgid "Merchant_Derby"
+msgstr "商人德比"
+
+#. 数据库字段：NPC[80].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[80].Name
+msgctxt "NPC:80:Name"
+msgid "Merchant_Jim"
+msgstr "商人吉姆"
+
+#. 数据库字段：NPC[81].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[81].Name
+msgctxt "NPC:81:Name"
+msgid "Merchant_Monica"
+msgstr "商人莫妮卡"
+
+#. 数据库字段：NPC[82].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[82].Name
+msgctxt "NPC:82:Name"
+msgid "Merchant_Murray"
+msgstr "商人默里"
+
+#. 数据库字段：NPC[83].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[83].Name
+msgctxt "NPC:83:Name"
+msgid "Specialist_Kimberly"
+msgstr "专家金伯莉"
+
+#. 数据库字段：NPC[84].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[84].Name
+msgctxt "NPC:84:Name"
+msgid "Merchant_Gerald"
+msgstr "商人杰拉尔德"
+
+#. 数据库字段：NPC[85].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[85].Name
+msgctxt "NPC:85:Name"
+msgid "Blacksmith_Wayne"
+msgstr "铁匠韦恩"
+
+#. 数据库字段：NPC[86].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[86].Name
+msgctxt "NPC:86:Name"
+msgid "Teleport_Denzel"
+msgstr "传送员丹泽尔"
+
+#. 数据库字段：NPC[87].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[87].Name
+msgctxt "NPC:87:Name"
+msgid "CraftsLady_Jane"
+msgstr "工匠简"
+
+#. 数据库字段：NPC[88].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[88].Name
+msgctxt "NPC:88:Name"
+msgid "TrustMerchant_Patrick"
+msgstr "委托商人帕特里克"
+
+#. 数据库字段：NPC[89].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[89].Name
+msgctxt "NPC:89:Name"
+msgid "Merchant_Jerald"
+msgstr "商人杰拉德"
+
+#. 数据库字段：NPC[90].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[90].Name
+msgctxt "NPC:90:Name"
+msgid "Merchant_Jerry"
+msgstr "商人杰瑞"
+
+#. 数据库字段：NPC[91].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[91].Name
+msgctxt "NPC:91:Name"
+msgid "Merchant_Ken"
+msgstr "商人肯"
+
+#. 数据库字段：NPC[92].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[92].Name
+msgctxt "NPC:92:Name"
+msgid "Merchant_Sam"
+msgstr "商人山姆"
+
+#. 数据库字段：NPC[93].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[93].Name
+msgctxt "NPC:93:Name"
+msgid "Merchant_Janey"
+msgstr "商人珍妮"
+
+#. 数据库字段：NPC[94].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[94].Name
+msgctxt "NPC:94:Name"
+msgid "Specialist_Eugene"
+msgstr "专家尤金"
+
+#. 数据库字段：NPC[95].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[95].Name
+msgctxt "NPC:95:Name"
+msgid "Librarian_Huxley"
+msgstr "图书管理员赫胥黎"
+
+#. 数据库字段：NPC[96].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[96].Name
+msgctxt "NPC:96:Name"
+msgid "Warehouse_Hubert"
+msgstr "仓库管理员休伯特"
+
+#. 数据库字段：NPC[97].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[97].Name
+msgctxt "NPC:97:Name"
+msgid "Master_Perry"
+msgstr "佩里大师"
+
+#. 数据库字段：NPC[98].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[98].Name
+msgctxt "NPC:98:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[99].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[99].Name
+msgctxt "NPC:99:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[100].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[100].Name
+msgctxt "NPC:100:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[101].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[101].Name
+msgctxt "NPC:101:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[102].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[102].Name
+msgctxt "NPC:102:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[103].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[103].Name
+msgctxt "NPC:103:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[104].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[104].Name
+msgctxt "NPC:104:Name"
+msgid "TrainerTaoist"
+msgstr "道士导师"
+
+#. 数据库字段：NPC[105].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[105].Name
+msgctxt "NPC:105:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[106].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[106].Name
+msgctxt "NPC:106:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[107].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[107].Name
+msgctxt "NPC:107:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[108].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[108].Name
+msgctxt "NPC:108:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[109].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[109].Name
+msgctxt "NPC:109:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[110].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[110].Name
+msgctxt "NPC:110:Name"
+msgid "Apprentice"
+msgstr "学徒"
+
+#. 数据库字段：NPC[111].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[111].Name
+msgctxt "NPC:111:Name"
+msgid "TrainerTaoist"
+msgstr "道士导师"
+
+#. 数据库字段：NPC[112].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[112].Name
+msgctxt "NPC:112:Name"
+msgid "BigTaoist"
+msgstr "大道士"
+
+#. 数据库字段：NPC[113].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[113].Name
+msgctxt "NPC:113:Name"
+msgid "MaterialDealer_Alex"
+msgstr "材料商亚历克斯"
+
+#. 数据库字段：NPC[114].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[114].Name
+msgctxt "NPC:114:Name"
+msgid "Signpost"
+msgstr ""
+
+#. 数据库字段：NPC[115].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[115].Name
+msgctxt "NPC:115:Name"
+msgid "Teleport_Sigmund"
+msgstr "传送员西格蒙德"
+
+#. 数据库字段：NPC[116].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[116].Name
+msgctxt "NPC:116:Name"
+msgid "MasterMK_Deric"
+msgstr "武学大师德里克"
+
+#. 数据库字段：NPC[117].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[117].Name
+msgctxt "NPC:117:Name"
+msgid "Investigator_David"
+msgstr "调查员大卫"
+
+#. 数据库字段：NPC[118].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[118].Name
+msgctxt "NPC:118:Name"
+msgid "LeadTrainer_Harry"
+msgstr "首席导师哈里"
+
+#. 数据库字段：NPC[119].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[119].Name
+msgctxt "NPC:119:Name"
+msgid "BrokenCarriage"
+msgstr "破损马车"
+
+#. 数据库字段：NPC[120].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[120].Name
+msgctxt "NPC:120:Name"
+msgid "CaveGuide_Paddy"
+msgstr "洞穴向导帕迪"
+
+#. 数据库字段：NPC[121].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[121].Name
+msgctxt "NPC:121:Name"
+msgid "Pillar"
+msgstr ""
+
+#. 数据库字段：NPC[122].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[122].Name
+msgctxt "NPC:122:Name"
+msgid "CrushedBones"
+msgstr "碎骨"
+
+#. 数据库字段：NPC[123].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[123].Name
+msgctxt "NPC:123:Name"
+msgid "Merchant_Cook"
+msgstr "商人库克"
+
+#. 数据库字段：NPC[124].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[124].Name
+msgctxt "NPC:124:Name"
+msgid "Merchant_Carratt"
+msgstr "商人卡拉特"
+
+#. 数据库字段：NPC[125].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[125].Name
+msgctxt "NPC:125:Name"
+msgid "Warehouse_Clair"
+msgstr "仓库管理员克莱尔"
+
+#. 数据库字段：NPC[126].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[126].Name
+msgctxt "NPC:126:Name"
+msgid "Signpost"
+msgstr ""
+
+#. 数据库字段：NPC[127].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[127].Name
+msgctxt "NPC:127:Name"
+msgid "Pillar"
+msgstr ""
+
+#. 数据库字段：NPC[128].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[128].Name
+msgctxt "NPC:128:Name"
+msgid "Merchant_Robert"
+msgstr "商人罗伯特"
+
+#. 数据库字段：NPC[129].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[129].Name
+msgctxt "NPC:129:Name"
+msgid "Merchant_Melissa"
+msgstr "商人梅丽莎"
+
+#. 数据库字段：NPC[130].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[130].Name
+msgctxt "NPC:130:Name"
+msgid "InnKeeper_Nicole"
+msgstr "旅店老板妮可"
+
+#. 数据库字段：NPC[131].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[131].Name
+msgctxt "NPC:131:Name"
+msgid "Transport_Chandler"
+msgstr "运输员钱德勒"
+
+#. 数据库字段：NPC[132].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[132].Name
+msgctxt "NPC:132:Name"
+msgid "Signpost"
+msgstr ""
+
+#. 数据库字段：NPC[133].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[133].Name
+msgctxt "NPC:133:Name"
+msgid "MirGuide_James"
+msgstr "向导詹姆斯"
+
+#. 数据库字段：NPC[134].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[134].Name
+msgctxt "NPC:134:Name"
+msgid "Merchant_Dr.Kim"
+msgstr "商人金博士"
+
+#. 数据库字段：NPC[135].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[135].Name
+msgctxt "NPC:135:Name"
+msgid "Merchant_Bradley"
+msgstr "商人布拉德利"
+
+#. 数据库字段：NPC[136].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[136].Name
+msgctxt "NPC:136:Name"
+msgid "CraftsLady_Victoria"
+msgstr "工匠维多利亚"
+
+#. 数据库字段：NPC[137].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[137].Name
+msgctxt "NPC:137:Name"
+msgid "VulnerableSon_Alfie"
+msgstr "虚弱的阿尔菲"
+
+#. 数据库字段：NPC[138].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[138].Name
+msgctxt "NPC:138:Name"
+msgid "SkullPile"
+msgstr ""
+
+#. 数据库字段：NPC[139].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[139].Name
+msgctxt "NPC:139:Name"
+msgid "Mysterious_Yu"
+msgstr ""
+
+#. 数据库字段：NPC[140].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[140].Name
+msgctxt "NPC:140:Name"
+msgid "OldSkull"
+msgstr "古旧头骨"
+
+#. 数据库字段：NPC[141].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[141].Name
+msgctxt "NPC:141:Name"
+msgid "SkeletonPile"
+msgstr "骷髅堆"
+
+#. 数据库字段：NPC[142].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[142].Name
+msgctxt "NPC:142:Name"
+msgid "InnKeeper_Jessica"
+msgstr "旅店老板杰西卡"
+
+#. 数据库字段：NPC[143].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[143].Name
+msgctxt "NPC:143:Name"
+msgid "Merchant_Kevin"
+msgstr "商人凯文"
+
+#. 数据库字段：NPC[144].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[144].Name
+msgctxt "NPC:144:Name"
+msgid "Merchant_Rupert"
+msgstr "商人鲁珀特"
+
+#. 数据库字段：NPC[145].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[145].Name
+msgctxt "NPC:145:Name"
+msgid "Merchant_Daniel"
+msgstr "商人丹尼尔"
+
+#. 数据库字段：NPC[146].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[146].Name
+msgctxt "NPC:146:Name"
+msgid "Transport_Edwin"
+msgstr "运输员埃德温"
+
+#. 数据库字段：NPC[147].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[147].Name
+msgctxt "NPC:147:Name"
+msgid "Merchant_Walter"
+msgstr "商人沃尔特"
+
+#. 数据库字段：NPC[148].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[148].Name
+msgctxt "NPC:148:Name"
+msgid "MudWall_Board"
+msgstr "盟重公告板"
+
+#. 数据库字段：NPC[149].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[149].Name
+msgctxt "NPC:149:Name"
+msgid "TrustMerchant_Jake"
+msgstr "委托商人杰克"
+
+#. 数据库字段：NPC[150].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[150].Name
+msgctxt "NPC:150:Name"
+msgid "MirGuide_Stephen"
+msgstr ""
+
+#. 数据库字段：NPC[151].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[151].Name
+msgctxt "NPC:151:Name"
+msgid "InnKeeper_Ruben"
+msgstr "旅店老板鲁本"
+
+#. 数据库字段：NPC[152].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[152].Name
+msgctxt "NPC:152:Name"
+msgid "Merchant_Jennifer"
+msgstr "商人詹妮弗"
+
+#. 数据库字段：NPC[153].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[153].Name
+msgctxt "NPC:153:Name"
+msgid "Merchant_Laura"
+msgstr "商人劳拉"
+
+#. 数据库字段：NPC[154].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[154].Name
+msgctxt "NPC:154:Name"
+msgid "Merchant_Michelle"
+msgstr "商人米歇尔"
+
+#. 数据库字段：NPC[155].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[155].Name
+msgctxt "NPC:155:Name"
+msgid "Merchant_Tiffany"
+msgstr "商人蒂芙尼"
+
+#. 数据库字段：NPC[156].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[156].Name
+msgctxt "NPC:156:Name"
+msgid "Merchant_Kelly"
+msgstr "商人凯莉"
+
+#. 数据库字段：NPC[157].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[157].Name
+msgctxt "NPC:157:Name"
+msgid "Merchant_Rachel"
+msgstr "商人瑞秋"
+
+#. 数据库字段：NPC[158].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[158].Name
+msgctxt "NPC:158:Name"
+msgid "Merchant_Bruce"
+msgstr "商人布鲁斯"
+
+#. 数据库字段：NPC[159].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[159].Name
+msgctxt "NPC:159:Name"
+msgid "Merchant_Raymond"
+msgstr "商人雷蒙德"
+
+#. 数据库字段：NPC[160].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[160].Name
+msgctxt "NPC:160:Name"
+msgid "Lottery_Charley"
+msgstr "彩票商查理"
+
+#. 数据库字段：NPC[161].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[161].Name
+msgctxt "NPC:161:Name"
+msgid "CraftsLady_Louise"
+msgstr "工匠露易丝"
+
+#. 数据库字段：NPC[162].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[162].Name
+msgctxt "NPC:162:Name"
+msgid "GTMerchant_Graeme"
+msgstr ""
+
+#. 数据库字段：NPC[163].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[163].Name
+msgctxt "NPC:163:Name"
+msgid "InnKeeper_Robin"
+msgstr "旅店老板罗宾"
+
+#. 数据库字段：NPC[164].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[164].Name
+msgctxt "NPC:164:Name"
+msgid "MongchonDelegate_Michael"
+msgstr "盟重代表迈克尔"
+
+#. 数据库字段：NPC[165].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[165].Name
+msgctxt "NPC:165:Name"
+msgid "Merchant_Milton"
+msgstr "商人米尔顿"
+
+#. 数据库字段：NPC[166].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[166].Name
+msgctxt "NPC:166:Name"
+msgid "Merchant_Mr.Wang"
+msgstr "商人王先生"
+
+#. 数据库字段：NPC[167].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[167].Name
+msgctxt "NPC:167:Name"
+msgid "Blacksmith_Dean"
+msgstr "铁匠迪恩"
+
+#. 数据库字段：NPC[168].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[168].Name
+msgctxt "NPC:168:Name"
+msgid "Merchant_Bill"
+msgstr "商人比尔"
+
+#. 数据库字段：NPC[169].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[169].Name
+msgctxt "NPC:169:Name"
+msgid "Merchant_Sandra"
+msgstr "商人桑德拉"
+
+#. 数据库字段：NPC[170].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[170].Name
+msgctxt "NPC:170:Name"
+msgid "Merchant_Debora"
+msgstr "商人黛博拉"
+
+#. 数据库字段：NPC[171].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[171].Name
+msgctxt "NPC:171:Name"
+msgid "Specialist_Milton"
+msgstr "专家米尔顿"
+
+#. 数据库字段：NPC[172].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[172].Name
+msgctxt "NPC:172:Name"
+msgid "Merchant_Harry"
+msgstr "商人哈里"
+
+#. 数据库字段：NPC[173].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[173].Name
+msgctxt "NPC:173:Name"
+msgid "InnKeeper_Vicky"
+msgstr "旅店老板维姬"
+
+#. 数据库字段：NPC[174].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[174].Name
+msgctxt "NPC:174:Name"
+msgid "Merchant_Cindy"
+msgstr "商人辛迪"
+
+#. 数据库字段：NPC[175].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[175].Name
+msgctxt "NPC:175:Name"
+msgid "Merchant_Sarah"
+msgstr "商人莎拉"
+
+#. 数据库字段：NPC[176].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[176].Name
+msgctxt "NPC:176:Name"
+msgid "Merchant_Peggy"
+msgstr "商人佩吉"
+
+#. 数据库字段：NPC[177].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[177].Name
+msgctxt "NPC:177:Name"
+msgid "Blacksmith_Carlos"
+msgstr "铁匠卡洛斯"
+
+#. 数据库字段：NPC[178].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[178].Name
+msgctxt "NPC:178:Name"
+msgid "Protector_James"
+msgstr ""
+
+#. 数据库字段：NPC[179].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[179].Name
+msgctxt "NPC:179:Name"
+msgid "WierdPillar"
+msgstr "诡异石柱"
+
+#. 数据库字段：NPC[180].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[180].Name
+msgctxt "NPC:180:Name"
+msgid "StrangePillar"
+msgstr "奇异石柱"
+
+#. 数据库字段：NPC[181].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[181].Name
+msgctxt "NPC:181:Name"
+msgid "MysteriousPillar"
+msgstr "神秘石柱"
+
+#. 数据库字段：NPC[182].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[182].Name
+msgctxt "NPC:182:Name"
+msgid "Ashes"
+msgstr "灰烬"
+
+#. 数据库字段：NPC[183].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[183].Name
+msgctxt "NPC:183:Name"
+msgid "Drapery_Maximus"
+msgstr ""
+
+#. 数据库字段：NPC[184].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[184].Name
+msgctxt "NPC:184:Name"
+msgid "LostSoul"
+msgstr "迷失的灵魂"
+
+#. 数据库字段：NPC[185].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[185].Name
+msgctxt "NPC:185:Name"
+msgid "Bones"
+msgstr ""
+
+#. 数据库字段：NPC[186].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[186].Name
+msgctxt "NPC:186:Name"
+msgid "GuardianRock"
+msgstr ""
+
+#. 数据库字段：NPC[187].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[187].Name
+msgctxt "NPC:187:Name"
+msgid "MysteriousStone"
+msgstr "神秘石"
+
+#. 数据库字段：NPC[188].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[188].Name
+msgctxt "NPC:188:Name"
+msgid "MysteriousStone"
+msgstr "神秘石"
+
+#. 数据库字段：NPC[189].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[189].Name
+msgctxt "NPC:189:Name"
+msgid "Merchant_Grace"
+msgstr "商人格蕾丝"
+
+#. 数据库字段：NPC[190].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[190].Name
+msgctxt "NPC:190:Name"
+msgid "Merchant_Emily"
+msgstr "商人艾米莉"
+
+#. 数据库字段：NPC[191].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[191].Name
+msgctxt "NPC:191:Name"
+msgid "Merchant_Susan"
+msgstr "商人苏珊"
+
+#. 数据库字段：NPC[192].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[192].Name
+msgctxt "NPC:192:Name"
+msgid "Merchant_Keith"
+msgstr "商人基思"
+
+#. 数据库字段：NPC[193].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[193].Name
+msgctxt "NPC:193:Name"
+msgid "Merchant_Bart"
+msgstr "商人巴特"
+
+#. 数据库字段：NPC[194].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[194].Name
+msgctxt "NPC:194:Name"
+msgid "OldFisherman_Frank"
+msgstr "老渔夫弗兰克"
+
+#. 数据库字段：NPC[195].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[195].Name
+msgctxt "NPC:195:Name"
+msgid "Merchant_Sandford"
+msgstr "商人桑福德"
+
+#. 数据库字段：NPC[196].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[196].Name
+msgctxt "NPC:196:Name"
+msgid "Specialist_Kurtis"
+msgstr "专家柯蒂斯"
+
+#. 数据库字段：NPC[197].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[197].Name
+msgctxt "NPC:197:Name"
+msgid "Warehouse_Heather"
+msgstr "仓库管理员希瑟"
+
+#. 数据库字段：NPC[198].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[198].Name
+msgctxt "NPC:198:Name"
+msgid "BichonInspector_Anthony"
+msgstr "比奇巡查员安东尼"
+
+#. 数据库字段：NPC[199].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[199].Name
+msgctxt "NPC:199:Name"
+msgid "Signpost"
+msgstr ""
+
+#. 数据库字段：NPC[200].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[200].Name
+msgctxt "NPC:200:Name"
+msgid "Sailor_Raymond"
+msgstr "水手雷蒙德"
+
+#. 数据库字段：NPC[201].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[201].Name
+msgctxt "NPC:201:Name"
+msgid "Inspector_Peter"
+msgstr "巡查员彼得"
+
+#. 数据库字段：NPC[202].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[202].Name
+msgctxt "NPC:202:Name"
+msgid "OddOldMan"
+msgstr ""
+
+#. 数据库字段：NPC[203].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[203].Name
+msgctxt "NPC:203:Name"
+msgid "CraftsLady_Kimberly"
+msgstr "工匠金伯莉"
+
+#. 数据库字段：NPC[204].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[204].Name
+msgctxt "NPC:204:Name"
+msgid "TrustMerchant_Joseph"
+msgstr "委托商人约瑟夫"
+
+#. 数据库字段：NPC[205].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[205].Name
+msgctxt "NPC:205:Name"
+msgid "GTMerchant_Robert"
+msgstr ""
+
+#. 数据库字段：NPC[206].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[206].Name
+msgctxt "NPC:206:Name"
+msgid "MirGuide_Edward"
+msgstr ""
+
+#. 数据库字段：NPC[207].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[207].Name
+msgctxt "NPC:207:Name"
+msgid "VillageChief_Andrew"
+msgstr "村长安德鲁"
+
+#. 数据库字段：NPC[208].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[208].Name
+msgctxt "NPC:208:Name"
+msgid "TimeStone"
+msgstr ""
+
+#. 数据库字段：NPC[209].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[209].Name
+msgctxt "NPC:209:Name"
+msgid "MysteriousStone"
+msgstr "神秘石"
+
+#. 数据库字段：NPC[210].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[210].Name
+msgctxt "NPC:210:Name"
+msgid "Merchant_James"
+msgstr "商人詹姆斯"
+
+#. 数据库字段：NPC[211].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[211].Name
+msgctxt "NPC:211:Name"
+msgid "Merchant_Dustin"
+msgstr "商人达斯汀"
+
+#. 数据库字段：NPC[212].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[212].Name
+msgctxt "NPC:212:Name"
+msgid "Merchant_Jack"
+msgstr "商人杰克"
+
+#. 数据库字段：NPC[213].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[213].Name
+msgctxt "NPC:213:Name"
+msgid "Merchant_Harvey"
+msgstr "商人哈维"
+
+#. 数据库字段：NPC[214].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[214].Name
+msgctxt "NPC:214:Name"
+msgid "Merchant_Gordon"
+msgstr "商人戈登"
+
+#. 数据库字段：NPC[215].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[215].Name
+msgctxt "NPC:215:Name"
+msgid "Warehouse_Stanislav"
+msgstr "仓库管理员斯坦尼斯拉夫"
+
+#. 数据库字段：NPC[216].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[216].Name
+msgctxt "NPC:216:Name"
+msgid "CraftsLady_Christine"
+msgstr "工匠克里斯蒂娜"
+
+#. 数据库字段：NPC[217].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[217].Name
+msgctxt "NPC:217:Name"
+msgid "TrustMerchant_Terry"
+msgstr "委托商人特里"
+
+#. 数据库字段：NPC[218].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[218].Name
+msgctxt "NPC:218:Name"
+msgid "GTMerchant_Roger"
+msgstr ""
+
+#. 数据库字段：NPC[219].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[219].Name
+msgctxt "NPC:219:Name"
+msgid "LeftEscort_Carl"
+msgstr "左护卫卡尔"
+
+#. 数据库字段：NPC[220].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[220].Name
+msgctxt "NPC:220:Name"
+msgid "RightEscort_Martin"
+msgstr "右护卫马丁"
+
+#. 数据库字段：NPC[221].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[221].Name
+msgctxt "NPC:221:Name"
+msgid "General_Sir.Kevin"
+msgstr ""
+
+#. 数据库字段：NPC[222].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[222].Name
+msgctxt "NPC:222:Name"
+msgid "TimeStone"
+msgstr ""
+
+#. 数据库字段：NPC[223].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[223].Name
+msgctxt "NPC:223:Name"
+msgid "ChaosNode"
+msgstr ""
+
+#. 数据库字段：NPC[224].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[224].Name
+msgctxt "NPC:224:Name"
+msgid "Merchant_Yang"
+msgstr "商人杨"
+
+#. 数据库字段：NPC[225].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[225].Name
+msgctxt "NPC:225:Name"
+msgid "Merchant_Jene"
+msgstr ""
+
+#. 数据库字段：NPC[226].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[226].Name
+msgctxt "NPC:226:Name"
+msgid "Merchant_June"
+msgstr ""
+
+#. 数据库字段：NPC[227].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[227].Name
+msgctxt "NPC:227:Name"
+msgid "BichonSoldier_Frank"
+msgstr "比奇士兵弗兰克"
+
+#. 数据库字段：NPC[228].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[228].Name
+msgctxt "NPC:228:Name"
+msgid "Merchant_Paddy"
+msgstr "商人帕迪"
+
+#. 数据库字段：NPC[229].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[229].Name
+msgctxt "NPC:229:Name"
+msgid "Merchant_Dr.Hwa"
+msgstr ""
+
+#. 数据库字段：NPC[230].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[230].Name
+msgctxt "NPC:230:Name"
+msgid "Excavenger_Stuart"
+msgstr ""
+
+#. 数据库字段：NPC[231].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[231].Name
+msgctxt "NPC:231:Name"
+msgid "PotionShop_Samuel"
+msgstr "药店老板塞缪尔"
+
+#. 数据库字段：NPC[232].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[232].Name
+msgctxt "NPC:232:Name"
+msgid "Grocery_Bull"
+msgstr "杂货商布尔"
+
+#. 数据库字段：NPC[233].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[233].Name
+msgctxt "NPC:233:Name"
+msgid "Sailor_Alfred"
+msgstr "水手阿尔弗雷德"
+
+#. 数据库字段：NPC[234].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[234].Name
+msgctxt "NPC:234:Name"
+msgid "Storage_Jon"
+msgstr "仓库管理员乔恩"
+
+#. 数据库字段：NPC[235].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[235].Name
+msgctxt "NPC:235:Name"
+msgid "Blacksmith_Kieron"
+msgstr "铁匠基伦"
+
+#. 数据库字段：NPC[236].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[236].Name
+msgctxt "NPC:236:Name"
+msgid "Drapery_Amanda"
+msgstr "服装商阿曼达"
+
+#. 数据库字段：NPC[237].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[237].Name
+msgctxt "NPC:237:Name"
+msgid "Accessory_Abbigale"
+msgstr "饰品商阿比盖尔"
+
+#. 数据库字段：NPC[238].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[238].Name
+msgctxt "NPC:238:Name"
+msgid "Book_Vivian"
+msgstr "书商薇薇安"
+
+#. 数据库字段：NPC[239].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[239].Name
+msgctxt "NPC:239:Name"
+msgid "General_Martyn"
+msgstr "将军马丁"
+
+#. 数据库字段：NPC[240].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[240].Name
+msgctxt "NPC:240:Name"
+msgid "FishMonger_Laura"
+msgstr "鱼贩劳拉"
+
+#. 数据库字段：NPC[241].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[241].Name
+msgctxt "NPC:241:Name"
+msgid "Captain_Andrew"
+msgstr "船长安德鲁"
+
+#. 数据库字段：NPC[242].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[242].Name
+msgctxt "NPC:242:Name"
+msgid "Signpost"
+msgstr ""
+
+#. 数据库字段：NPC[243].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[243].Name
+msgctxt "NPC:243:Name"
+msgid "TrustMerchant_Michael"
+msgstr ""
+
+#. 数据库字段：NPC[244].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[244].Name
+msgctxt "NPC:244:Name"
+msgid "TheWatcher_Jacob"
+msgstr ""
+
+#. 数据库字段：NPC[245].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[245].Name
+msgctxt "NPC:245:Name"
+msgid "SquadLeader_Dolby"
+msgstr ""
+
+#. 数据库字段：NPC[246].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[246].Name
+msgctxt "NPC:246:Name"
+msgid "Monument"
+msgstr "纪念碑"
+
+#. 数据库字段：NPC[247].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[247].Name
+msgctxt "NPC:247:Name"
+msgid "MissDo"
+msgstr ""
+
+#. 数据库字段：NPC[248].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[248].Name
+msgctxt "NPC:248:Name"
+msgid "MissMi"
+msgstr "米小姐"
+
+#. 数据库字段：NPC[249].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[249].Name
+msgctxt "NPC:249:Name"
+msgid "MissRe"
+msgstr ""
+
+#. 数据库字段：NPC[250].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[250].Name
+msgctxt "NPC:250:Name"
+msgid "Proceeder"
+msgstr ""
+
+#. 数据库字段：NPC[251].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[251].Name
+msgctxt "NPC:251:Name"
+msgid "Proceeder"
+msgstr ""
+
+#. 数据库字段：NPC[252].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[252].Name
+msgctxt "NPC:252:Name"
+msgid "Proceeder"
+msgstr ""
+
+#. 数据库字段：NPC[253].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[253].Name
+msgctxt "NPC:253:Name"
+msgid "GM_Bracelet"
+msgstr ""
+
+#. 数据库字段：NPC[254].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[254].Name
+msgctxt "NPC:254:Name"
+msgid "GM_Necklace"
+msgstr ""
+
+#. 数据库字段：NPC[255].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[255].Name
+msgctxt "NPC:255:Name"
+msgid "GM_Ring"
+msgstr ""
+
+#. 数据库字段：NPC[256].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[256].Name
+msgctxt "NPC:256:Name"
+msgid "GM_Armour"
+msgstr ""
+
+#. 数据库字段：NPC[257].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[257].Name
+msgctxt "NPC:257:Name"
+msgid "GM_Boot"
+msgstr ""
+
+#. 数据库字段：NPC[258].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[258].Name
+msgctxt "NPC:258:Name"
+msgid "GM_Belt"
+msgstr ""
+
+#. 数据库字段：NPC[259].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[259].Name
+msgctxt "NPC:259:Name"
+msgid "GM_Helmet"
+msgstr ""
+
+#. 数据库字段：NPC[260].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[260].Name
+msgctxt "NPC:260:Name"
+msgid "GM_Weapon"
+msgstr ""
+
+#. 数据库字段：NPC[261].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[261].Name
+msgctxt "NPC:261:Name"
+msgid "GM_Book"
+msgstr ""
+
+#. 数据库字段：NPC[262].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[262].Name
+msgctxt "NPC:262:Name"
+msgid "GM_Stone"
+msgstr ""
+
+#. 数据库字段：NPC[263].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[263].Name
+msgctxt "NPC:263:Name"
+msgid "GM_Gem"
+msgstr ""
+
+#. 数据库字段：NPC[264].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[264].Name
+msgctxt "NPC:264:Name"
+msgid "GM_Meat"
+msgstr ""
+
+#. 数据库字段：NPC[265].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[265].Name
+msgctxt "NPC:265:Name"
+msgid "GM_Grocery"
+msgstr ""
+
+#. 数据库字段：NPC[266].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[266].Name
+msgctxt "NPC:266:Name"
+msgid "GM_Potion"
+msgstr ""
+
+#. 数据库字段：NPC[267].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[267].Name
+msgctxt "NPC:267:Name"
+msgid "GM_CraftingMaterial"
+msgstr ""
+
+#. 数据库字段：NPC[268].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[268].Name
+msgctxt "NPC:268:Name"
+msgid "GM_Fishing"
+msgstr ""
+
+#. 数据库字段：NPC[269].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[269].Name
+msgctxt "NPC:269:Name"
+msgid "GM_Mount"
+msgstr ""
+
+#. 数据库字段：NPC[270].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[270].Name
+msgctxt "NPC:270:Name"
+msgid "GM_Ore"
+msgstr ""
+
+#. 数据库字段：NPC[271].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[271].Name
+msgctxt "NPC:271:Name"
+msgid "GM_Script"
+msgstr ""
+
+#. 数据库字段：NPC[272].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[272].Name
+msgctxt "NPC:272:Name"
+msgid "GM_Nothing"
+msgstr ""
+
+#. 数据库字段：NPC[273].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[273].Name
+msgctxt "NPC:273:Name"
+msgid "GM_Quest"
+msgstr ""
+
+#. 数据库字段：NPC[274].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[274].Name
+msgctxt "NPC:274:Name"
+msgid "GM_Awakening"
+msgstr ""
+
+#. 数据库字段：NPC[275].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[275].Name
+msgctxt "NPC:275:Name"
+msgid "GM_Manager"
+msgstr ""
+
+#. 数据库字段：NPC[276].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[276].Name
+msgctxt "NPC:276:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[277].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[277].Name
+msgctxt "NPC:277:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[278].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[278].Name
+msgctxt "NPC:278:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[279].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[279].Name
+msgctxt "NPC:279:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[280].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[280].Name
+msgctxt "NPC:280:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[281].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[281].Name
+msgctxt "NPC:281:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[282].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[282].Name
+msgctxt "NPC:282:Name"
+msgid "CraftingVillage_Portal"
+msgstr "工匠村传送门"
+
+#. 数据库字段：NPC[283].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[283].Name
+msgctxt "NPC:283:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[284].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[284].Name
+msgctxt "NPC:284:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[285].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[285].Name
+msgctxt "NPC:285:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[286].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[286].Name
+msgctxt "NPC:286:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[287].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[287].Name
+msgctxt "NPC:287:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[288].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[288].Name
+msgctxt "NPC:288:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[289].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[289].Name
+msgctxt "NPC:289:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[290].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[290].Name
+msgctxt "NPC:290:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[291].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[291].Name
+msgctxt "NPC:291:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[292].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[292].Name
+msgctxt "NPC:292:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[293].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[293].Name
+msgctxt "NPC:293:Name"
+msgid "TravellingMerchant_Damian"
+msgstr "旅行商人达米安"
+
+#. 数据库字段：NPC[295].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[295].Name
+msgctxt "NPC:295:Name"
+msgid "Merchant_Scott"
+msgstr ""
+
+#. 数据库字段：NPC[296].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[296].Name
+msgctxt "NPC:296:Name"
+msgid "Hairdresser_Chris"
+msgstr ""
+
+#. 数据库字段：NPC[297].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[297].Name
+msgctxt "NPC:297:Name"
+msgid "General_Grimchamp"
+msgstr ""
+
+#. 数据库字段：NPC[298].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[298].Name
+msgctxt "NPC:298:Name"
+msgid "General_Paula"
+msgstr ""
+
+#. 数据库字段：NPC[299].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[299].Name
+msgctxt "NPC:299:Name"
+msgid "General_Jane"
+msgstr ""
+
+#. 数据库字段：NPC[300].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[300].Name
+msgctxt "NPC:300:Name"
+msgid "GM_Teleporter"
+msgstr ""
+
+#. 数据库字段：NPC[301].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[301].Name
+msgctxt "NPC:301:Name"
+msgid "Mysterious_Grim"
+msgstr ""
+
+#. 数据库字段：NPC[302].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[302].Name
+msgctxt "NPC:302:Name"
+msgid "MaterialDealer_Reece"
+msgstr ""
+
+#. 数据库字段：NPC[303].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[303].Name
+msgctxt "NPC:303:Name"
+msgid "Luke_Thompson"
+msgstr ""
+
+#. 数据库字段：NPC[304].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[304].Name
+msgctxt "NPC:304:Name"
+msgid "Administrator_SabukOfficer"
+msgstr ""
+
+#. 数据库字段：NPC[305].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[305].Name
+msgctxt "NPC:305:Name"
+msgid "Wanderer_Charlotte"
+msgstr ""
+
+#. 数据库字段：NPC[307].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[307].Name
+msgctxt "NPC:307:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[308].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[308].Name
+msgctxt "NPC:308:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[309].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[309].Name
+msgctxt "NPC:309:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[310].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[310].Name
+msgctxt "NPC:310:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[311].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[311].Name
+msgctxt "NPC:311:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[312].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[312].Name
+msgctxt "NPC:312:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[313].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[313].Name
+msgctxt "NPC:313:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[314].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[314].Name
+msgctxt "NPC:314:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[315].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[315].Name
+msgctxt "NPC:315:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[316].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[316].Name
+msgctxt "NPC:316:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[317].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[317].Name
+msgctxt "NPC:317:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[318].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[318].Name
+msgctxt "NPC:318:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[319].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[319].Name
+msgctxt "NPC:319:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[320].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[320].Name
+msgctxt "NPC:320:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[321].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[321].Name
+msgctxt "NPC:321:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[322].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[322].Name
+msgctxt "NPC:322:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[323].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[323].Name
+msgctxt "NPC:323:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[324].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[324].Name
+msgctxt "NPC:324:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[325].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[325].Name
+msgctxt "NPC:325:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[326].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[326].Name
+msgctxt "NPC:326:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[327].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[327].Name
+msgctxt "NPC:327:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[328].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[328].Name
+msgctxt "NPC:328:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[329].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[329].Name
+msgctxt "NPC:329:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[330].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[330].Name
+msgctxt "NPC:330:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[331].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[331].Name
+msgctxt "NPC:331:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[332].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[332].Name
+msgctxt "NPC:332:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[333].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[333].Name
+msgctxt "NPC:333:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[334].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[334].Name
+msgctxt "NPC:334:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[335].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[335].Name
+msgctxt "NPC:335:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[336].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[336].Name
+msgctxt "NPC:336:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[337].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[337].Name
+msgctxt "NPC:337:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[338].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[338].Name
+msgctxt "NPC:338:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[339].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[339].Name
+msgctxt "NPC:339:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[340].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[340].Name
+msgctxt "NPC:340:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[341].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[341].Name
+msgctxt "NPC:341:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[342].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[342].Name
+msgctxt "NPC:342:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[343].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[343].Name
+msgctxt "NPC:343:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[344].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[344].Name
+msgctxt "NPC:344:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[345].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[345].Name
+msgctxt "NPC:345:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[346].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[346].Name
+msgctxt "NPC:346:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[347].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[347].Name
+msgctxt "NPC:347:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[348].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[348].Name
+msgctxt "NPC:348:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[349].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[349].Name
+msgctxt "NPC:349:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[350].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[350].Name
+msgctxt "NPC:350:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[351].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[351].Name
+msgctxt "NPC:351:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[352].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[352].Name
+msgctxt "NPC:352:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[353].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[353].Name
+msgctxt "NPC:353:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[354].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[354].Name
+msgctxt "NPC:354:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[355].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[355].Name
+msgctxt "NPC:355:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[356].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[356].Name
+msgctxt "NPC:356:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[357].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[357].Name
+msgctxt "NPC:357:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[358].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[358].Name
+msgctxt "NPC:358:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[359].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[359].Name
+msgctxt "NPC:359:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[360].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[360].Name
+msgctxt "NPC:360:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[361].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[361].Name
+msgctxt "NPC:361:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[362].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[362].Name
+msgctxt "NPC:362:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[363].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[363].Name
+msgctxt "NPC:363:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[364].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[364].Name
+msgctxt "NPC:364:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[365].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[365].Name
+msgctxt "NPC:365:Name"
+msgid "Gt_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[366].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[366].Name
+msgctxt "NPC:366:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[367].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[367].Name
+msgctxt "NPC:367:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[368].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[368].Name
+msgctxt "NPC:368:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[369].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[369].Name
+msgctxt "NPC:369:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[370].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[370].Name
+msgctxt "NPC:370:Name"
+msgid "GTStore_Mira"
+msgstr ""
+
+#. 数据库字段：NPC[371].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[371].Name
+msgctxt "NPC:371:Name"
+msgid "GTTransporter"
+msgstr ""
+
+#. 数据库字段：NPC[372].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[372].Name
+msgctxt "NPC:372:Name"
+msgid "GT_BulletinBoard"
+msgstr ""
+
+#. 数据库字段：NPC[373].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[373].Name
+msgctxt "NPC:373:Name"
+msgid "GT_Peddler"
+msgstr ""
+
+#. 数据库字段：NPC[374].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[374].Name
+msgctxt "NPC:374:Name"
+msgid "GT_Steward"
+msgstr ""
+
+#. 数据库字段：NPC[375].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[375].Name
+msgctxt "NPC:375:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[376].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[376].Name
+msgctxt "NPC:376:Name"
+msgid "Stairs"
+msgstr ""
+
+#. 数据库字段：NPC[386].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB NPC[386].Name
+msgctxt "NPC:386:Name"
+msgid "John_Schwartz"
+msgstr ""

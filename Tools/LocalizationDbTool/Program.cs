@@ -7,7 +7,7 @@ Console.OutputEncoding = Encoding.UTF8;
 
 if (args.Length == 0)
 {
-    Console.Error.WriteLine("Usage: LocalizationDbTool <dump|apply|name-refs|apply-name-refs> [mapping.tsv|scanRoot]");
+    PrintUsage();
     return 2;
 }
 
@@ -48,9 +48,46 @@ switch (args[0].ToLowerInvariant())
         var replacements = ApplyNameReferences(args[1], args[2]);
         Console.WriteLine($"Applied {replacements} name reference replacements.");
         return 0;
+    case "export-weblate":
+        if (args.Length < 3)
+        {
+            Console.Error.WriteLine("Usage: LocalizationDbTool export-weblate <output-directory> <mapping-directory>");
+            return 2;
+        }
+
+        return WeblateCatalogService.Export(envir, args[1], args[2]);
+    case "validate-weblate":
+        if (args.Length < 2)
+        {
+            Console.Error.WriteLine("Usage: LocalizationDbTool validate-weblate <catalog-directory|zh_CN.po>");
+            return 2;
+        }
+
+        return WeblateCatalogService.Validate(envir, args[1]);
+    case "apply-weblate":
+        if (args.Length < 2)
+        {
+            Console.Error.WriteLine("Usage: LocalizationDbTool apply-weblate <catalog-directory|zh_CN.po> [scan-root ...]");
+            return 2;
+        }
+
+        return WeblateCatalogService.Apply(envir, args[1], args.Skip(2).ToArray());
     default:
         Console.Error.WriteLine($"Unknown command: {args[0]}");
+        PrintUsage();
         return 2;
+}
+
+static void PrintUsage()
+{
+    Console.Error.WriteLine("Usage:");
+    Console.Error.WriteLine("  LocalizationDbTool dump");
+    Console.Error.WriteLine("  LocalizationDbTool apply <mapping.tsv>");
+    Console.Error.WriteLine("  LocalizationDbTool name-refs [scanRoot]");
+    Console.Error.WriteLine("  LocalizationDbTool apply-name-refs <mapping.tsv> <scanRoot>");
+    Console.Error.WriteLine("  LocalizationDbTool export-weblate <output-directory> <mapping-directory>");
+    Console.Error.WriteLine("  LocalizationDbTool validate-weblate <catalog-directory|zh_CN.po>");
+    Console.Error.WriteLine("  LocalizationDbTool apply-weblate <catalog-directory|zh_CN.po> [scan-root ...]");
 }
 
 static void Dump(Envir envir)
@@ -149,9 +186,12 @@ static int ApplyNameReferences(string mappingPath, string scanRoot)
     {
         var text = File.ReadAllText(file, Encoding.UTF8);
         var updated = text;
+        var relativePath = RelativePath(scanRoot, file);
 
         foreach (var mapping in mappings)
         {
+            if (!IsReferencePathAllowed(mapping, relativePath)) continue;
+
             var regex = BuildNameRegex(mapping.Source);
             var count = regex.Matches(updated).Count;
             if (count == 0) continue;
@@ -166,6 +206,25 @@ static int ApplyNameReferences(string mappingPath, string scanRoot)
     }
 
     return replacements;
+}
+
+static bool IsReferencePathAllowed(MappingRow mapping, string relativePath)
+{
+    if (string.IsNullOrWhiteSpace(mapping.ReferencePrefixes)) return true;
+
+    var normalizedPath = relativePath.Replace('\\', '/');
+
+    foreach (var rawPrefix in mapping.ReferencePrefixes.Split(';', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries))
+    {
+        var prefix = rawPrefix.Replace('\\', '/').Trim('/');
+        if (prefix.Length == 0) continue;
+
+        if (normalizedPath.Equals(prefix, StringComparison.OrdinalIgnoreCase)
+            || normalizedPath.StartsWith(prefix + "/", StringComparison.OrdinalIgnoreCase))
+            return true;
+    }
+
+    return false;
 }
 
 static void WriteReferenceSummary(string type, int index, string name, List<ScanFile> files)
@@ -275,7 +334,8 @@ static List<MappingRow> ReadMappings(string mappingPath)
         var target = Unescape(parts[4]);
         if (string.IsNullOrWhiteSpace(target) || source == target) continue;
 
-        rows.Add(new MappingRow(parts[0], index, parts[2], source, target));
+        var referencePrefixes = parts.Length >= 6 ? parts[5] : "";
+        rows.Add(new MappingRow(parts[0], index, parts[2], source, target, referencePrefixes));
     }
 
     return rows;
@@ -400,4 +460,4 @@ static string Unescape(string value)
 
 record ScanFile(string Path, string RelativePath, string[] Lines);
 record NameReference(string Path, int Line, string Text);
-record MappingRow(string Type, int Index, string Field, string Source, string Target);
+record MappingRow(string Type, int Index, string Field, string Source, string Target, string ReferencePrefixes);

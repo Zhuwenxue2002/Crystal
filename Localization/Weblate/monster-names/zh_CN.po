@@ -1,0 +1,3894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crystal Mir2 Database\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocalizationDbTool\n"
+
+#. 数据库字段：Monster[1].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[1].Name
+msgctxt "Monster:1:Name"
+msgid "ArcherGuard"
+msgstr ""
+
+#. 数据库字段：Monster[2].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[2].Name
+msgctxt "Monster:2:Name"
+msgid "ArcherGuard1"
+msgstr ""
+
+#. 数据库字段：Monster[3].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[3].Name
+msgctxt "Monster:3:Name"
+msgid "Guard"
+msgstr ""
+
+#. 数据库字段：Monster[4].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[4].Name
+msgctxt "Monster:4:Name"
+msgid "Guard1"
+msgstr ""
+
+#. 数据库字段：Monster[5].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[5].Name
+msgctxt "Monster:5:Name"
+msgid "Guard2"
+msgstr ""
+
+#. 数据库字段：Monster[6].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[6].Name
+msgctxt "Monster:6:Name"
+msgid "Sentry"
+msgstr ""
+
+#. 数据库字段：Monster[7].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[7].Name
+msgctxt "Monster:7:Name"
+msgid "Trainer"
+msgstr ""
+
+#. 数据库字段：Monster[8].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[8].Name
+msgctxt "Monster:8:Name"
+msgid "TrainingMob"
+msgstr ""
+
+#. 数据库字段：Monster[9].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[9].Name
+msgctxt "Monster:9:Name"
+msgid "BoneFamiliar"
+msgstr ""
+
+#. 数据库字段：Monster[10].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[10].Name
+msgctxt "Monster:10:Name"
+msgid "Shinsu"
+msgstr ""
+
+#. 数据库字段：Monster[11].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[11].Name
+msgctxt "Monster:11:Name"
+msgid "Shinsu1"
+msgstr ""
+
+#. 数据库字段：Monster[12].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[12].Name
+msgctxt "Monster:12:Name"
+msgid "HolyDeva"
+msgstr ""
+
+#. 数据库字段：Monster[13].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[13].Name
+msgctxt "Monster:13:Name"
+msgid "Clone"
+msgstr ""
+
+#. 数据库字段：Monster[14].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[14].Name
+msgctxt "Monster:14:Name"
+msgid "AssassinClone"
+msgstr ""
+
+#. 数据库字段：Monster[15].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[15].Name
+msgctxt "Monster:15:Name"
+msgid "VampireSpider"
+msgstr ""
+
+#. 数据库字段：Monster[16].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[16].Name
+msgctxt "Monster:16:Name"
+msgid "SpittingToad"
+msgstr ""
+
+#. 数据库字段：Monster[17].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[17].Name
+msgctxt "Monster:17:Name"
+msgid "SnakeTotem"
+msgstr ""
+
+#. 数据库字段：Monster[18].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[18].Name
+msgctxt "Monster:18:Name"
+msgid "CharmedSnake"
+msgstr ""
+
+#. 数据库字段：Monster[19].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[19].Name
+msgctxt "Monster:19:Name"
+msgid "BabyPig"
+msgstr ""
+
+#. 数据库字段：Monster[20].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[20].Name
+msgctxt "Monster:20:Name"
+msgid "Chick"
+msgstr ""
+
+#. 数据库字段：Monster[21].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[21].Name
+msgctxt "Monster:21:Name"
+msgid "Kitten"
+msgstr ""
+
+#. 数据库字段：Monster[22].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[22].Name
+msgctxt "Monster:22:Name"
+msgid "BabySkeleton"
+msgstr ""
+
+#. 数据库字段：Monster[23].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[23].Name
+msgctxt "Monster:23:Name"
+msgid "Baekdon"
+msgstr ""
+
+#. 数据库字段：Monster[24].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[24].Name
+msgctxt "Monster:24:Name"
+msgid "Wimaen"
+msgstr ""
+
+#. 数据库字段：Monster[25].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[25].Name
+msgctxt "Monster:25:Name"
+msgid "BlackKitten"
+msgstr ""
+
+#. 数据库字段：Monster[26].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[26].Name
+msgctxt "Monster:26:Name"
+msgid "BabyDragon"
+msgstr ""
+
+#. 数据库字段：Monster[27].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[27].Name
+msgctxt "Monster:27:Name"
+msgid "OlympicFlame"
+msgstr ""
+
+#. 数据库字段：Monster[28].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[28].Name
+msgctxt "Monster:28:Name"
+msgid "BabySnowMan"
+msgstr ""
+
+#. 数据库字段：Monster[29].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[29].Name
+msgctxt "Monster:29:Name"
+msgid "Hen"
+msgstr ""
+
+#. 数据库字段：Monster[30].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[30].Name
+msgctxt "Monster:30:Name"
+msgid "Deer"
+msgstr ""
+
+#. 数据库字段：Monster[31].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[31].Name
+msgctxt "Monster:31:Name"
+msgid "Deer1"
+msgstr ""
+
+#. 数据库字段：Monster[32].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[32].Name
+msgctxt "Monster:32:Name"
+msgid "Pig"
+msgstr ""
+
+#. 数据库字段：Monster[33].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[33].Name
+msgctxt "Monster:33:Name"
+msgid "Bull"
+msgstr ""
+
+#. 数据库字段：Monster[34].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[34].Name
+msgctxt "Monster:34:Name"
+msgid "Sheep"
+msgstr ""
+
+#. 数据库字段：Monster[35].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[35].Name
+msgctxt "Monster:35:Name"
+msgid "Wolf"
+msgstr ""
+
+#. 数据库字段：Monster[36].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[36].Name
+msgctxt "Monster:36:Name"
+msgid "Currish"
+msgstr ""
+
+#. 数据库字段：Monster[37].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[37].Name
+msgctxt "Monster:37:Name"
+msgid "Yob"
+msgstr ""
+
+#. 数据库字段：Monster[38].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[38].Name
+msgctxt "Monster:38:Name"
+msgid "Yob0"
+msgstr ""
+
+#. 数据库字段：Monster[39].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[39].Name
+msgctxt "Monster:39:Name"
+msgid "Scarecrow"
+msgstr ""
+
+#. 数据库字段：Monster[40].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[40].Name
+msgctxt "Monster:40:Name"
+msgid "Scarecrow0"
+msgstr ""
+
+#. 数据库字段：Monster[41].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[41].Name
+msgctxt "Monster:41:Name"
+msgid "Scarecrow1"
+msgstr ""
+
+#. 数据库字段：Monster[42].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[42].Name
+msgctxt "Monster:42:Name"
+msgid "HookingCat"
+msgstr ""
+
+#. 数据库字段：Monster[43].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[43].Name
+msgctxt "Monster:43:Name"
+msgid "HookingCat0"
+msgstr ""
+
+#. 数据库字段：Monster[44].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[44].Name
+msgctxt "Monster:44:Name"
+msgid "RakingCat"
+msgstr ""
+
+#. 数据库字段：Monster[45].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[45].Name
+msgctxt "Monster:45:Name"
+msgid "RakingCat0"
+msgstr ""
+
+#. 数据库字段：Monster[46].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[46].Name
+msgctxt "Monster:46:Name"
+msgid "SpittingSpider"
+msgstr ""
+
+#. 数据库字段：Monster[47].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[47].Name
+msgctxt "Monster:47:Name"
+msgid "CannibalPlant"
+msgstr ""
+
+#. 数据库字段：Monster[48].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[48].Name
+msgctxt "Monster:48:Name"
+msgid "Oma"
+msgstr ""
+
+#. 数据库字段：Monster[49].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[49].Name
+msgctxt "Monster:49:Name"
+msgid "Oma0"
+msgstr ""
+
+#. 数据库字段：Monster[50].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[50].Name
+msgctxt "Monster:50:Name"
+msgid "OmaFighter"
+msgstr ""
+
+#. 数据库字段：Monster[51].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[51].Name
+msgctxt "Monster:51:Name"
+msgid "OmaFighter0"
+msgstr ""
+
+#. 数据库字段：Monster[52].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[52].Name
+msgctxt "Monster:52:Name"
+msgid "OmaWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[53].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[53].Name
+msgctxt "Monster:53:Name"
+msgid "OmaWarrior1"
+msgstr ""
+
+#. 数据库字段：Monster[54].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[54].Name
+msgctxt "Monster:54:Name"
+msgid "OmaWarrior2"
+msgstr ""
+
+#. 数据库字段：Monster[55].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[55].Name
+msgctxt "Monster:55:Name"
+msgid "ForestYeti"
+msgstr ""
+
+#. 数据库字段：Monster[56].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[56].Name
+msgctxt "Monster:56:Name"
+msgid "ForestYeti0"
+msgstr ""
+
+#. 数据库字段：Monster[57].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[57].Name
+msgctxt "Monster:57:Name"
+msgid "FrostTiger"
+msgstr ""
+
+#. 数据库字段：Monster[58].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[58].Name
+msgctxt "Monster:58:Name"
+msgid "ChestnutTree"
+msgstr ""
+
+#. 数据库字段：Monster[59].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[59].Name
+msgctxt "Monster:59:Name"
+msgid "ChestnutTree1"
+msgstr ""
+
+#. 数据库字段：Monster[60].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[60].Name
+msgctxt "Monster:60:Name"
+msgid "ChestnutTree2"
+msgstr ""
+
+#. 数据库字段：Monster[61].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[61].Name
+msgctxt "Monster:61:Name"
+msgid "EbonyTree"
+msgstr ""
+
+#. 数据库字段：Monster[62].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[62].Name
+msgctxt "Monster:62:Name"
+msgid "CherryTree"
+msgstr ""
+
+#. 数据库字段：Monster[63].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[63].Name
+msgctxt "Monster:63:Name"
+msgid "LargeMushroom"
+msgstr ""
+
+#. 数据库字段：Monster[64].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[64].Name
+msgctxt "Monster:64:Name"
+msgid "RedSnake"
+msgstr ""
+
+#. 数据库字段：Monster[65].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[65].Name
+msgctxt "Monster:65:Name"
+msgid "RedSnake0"
+msgstr ""
+
+#. 数据库字段：Monster[66].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[66].Name
+msgctxt "Monster:66:Name"
+msgid "RedViper"
+msgstr ""
+
+#. 数据库字段：Monster[67].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[67].Name
+msgctxt "Monster:67:Name"
+msgid "TigerSnake"
+msgstr ""
+
+#. 数据库字段：Monster[68].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[68].Name
+msgctxt "Monster:68:Name"
+msgid "TigerSnake0"
+msgstr ""
+
+#. 数据库字段：Monster[69].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[69].Name
+msgctxt "Monster:69:Name"
+msgid "TigerViper"
+msgstr ""
+
+#. 数据库字段：Monster[70].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[70].Name
+msgctxt "Monster:70:Name"
+msgid "Keratoid"
+msgstr ""
+
+#. 数据库字段：Monster[71].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[71].Name
+msgctxt "Monster:71:Name"
+msgid "Keratoid0"
+msgstr ""
+
+#. 数据库字段：Monster[72].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[72].Name
+msgctxt "Monster:72:Name"
+msgid "ShellNipper"
+msgstr ""
+
+#. 数据库字段：Monster[73].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[73].Name
+msgctxt "Monster:73:Name"
+msgid "ShellNipper0"
+msgstr ""
+
+#. 数据库字段：Monster[74].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[74].Name
+msgctxt "Monster:74:Name"
+msgid "SkyStinger"
+msgstr ""
+
+#. 数据库字段：Monster[75].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[75].Name
+msgctxt "Monster:75:Name"
+msgid "SkyStinger0"
+msgstr ""
+
+#. 数据库字段：Monster[76].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[76].Name
+msgctxt "Monster:76:Name"
+msgid "VisceralWorm"
+msgstr ""
+
+#. 数据库字段：Monster[77].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[77].Name
+msgctxt "Monster:77:Name"
+msgid "SandWorm"
+msgstr ""
+
+#. 数据库字段：Monster[78].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[78].Name
+msgctxt "Monster:78:Name"
+msgid "GiantKeratoid"
+msgstr ""
+
+#. 数据库字段：Monster[79].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[79].Name
+msgctxt "Monster:79:Name"
+msgid "GiantKeratoid1"
+msgstr ""
+
+#. 数据库字段：Monster[80].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[80].Name
+msgctxt "Monster:80:Name"
+msgid "GiantKeratoid2"
+msgstr ""
+
+#. 数据库字段：Monster[81].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[81].Name
+msgctxt "Monster:81:Name"
+msgid "CaveBat"
+msgstr ""
+
+#. 数据库字段：Monster[82].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[82].Name
+msgctxt "Monster:82:Name"
+msgid "CaveBat0"
+msgstr ""
+
+#. 数据库字段：Monster[83].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[83].Name
+msgctxt "Monster:83:Name"
+msgid "CaveMaggot"
+msgstr ""
+
+#. 数据库字段：Monster[84].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[84].Name
+msgctxt "Monster:84:Name"
+msgid "Scorpion"
+msgstr ""
+
+#. 数据库字段：Monster[85].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[85].Name
+msgctxt "Monster:85:Name"
+msgid "Skeleton"
+msgstr ""
+
+#. 数据库字段：Monster[86].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[86].Name
+msgctxt "Monster:86:Name"
+msgid "Skeleton0"
+msgstr ""
+
+#. 数据库字段：Monster[87].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[87].Name
+msgctxt "Monster:87:Name"
+msgid "AxeSkeleton"
+msgstr ""
+
+#. 数据库字段：Monster[88].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[88].Name
+msgctxt "Monster:88:Name"
+msgid "AxeSkeleton0"
+msgstr ""
+
+#. 数据库字段：Monster[89].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[89].Name
+msgctxt "Monster:89:Name"
+msgid "AxeSkeleton9"
+msgstr ""
+
+#. 数据库字段：Monster[90].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[90].Name
+msgctxt "Monster:90:Name"
+msgid "BoneFighter"
+msgstr ""
+
+#. 数据库字段：Monster[91].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[91].Name
+msgctxt "Monster:91:Name"
+msgid "BoneFighter0"
+msgstr ""
+
+#. 数据库字段：Monster[92].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[92].Name
+msgctxt "Monster:92:Name"
+msgid "BoneWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[93].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[93].Name
+msgctxt "Monster:93:Name"
+msgid "BoneWarrior0"
+msgstr ""
+
+#. 数据库字段：Monster[94].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[94].Name
+msgctxt "Monster:94:Name"
+msgid "BoneElite"
+msgstr ""
+
+#. 数据库字段：Monster[95].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[95].Name
+msgctxt "Monster:95:Name"
+msgid "BoneElite1"
+msgstr ""
+
+#. 数据库字段：Monster[96].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[96].Name
+msgctxt "Monster:96:Name"
+msgid "BoneElite2"
+msgstr ""
+
+#. 数据库字段：Monster[97].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[97].Name
+msgctxt "Monster:97:Name"
+msgid "BoneElite9"
+msgstr ""
+
+#. 数据库字段：Monster[98].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[98].Name
+msgctxt "Monster:98:Name"
+msgid "Ancient_AxeSkeleton"
+msgstr ""
+
+#. 数据库字段：Monster[99].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[99].Name
+msgctxt "Monster:99:Name"
+msgid "Ancient_AxeSkeleton0"
+msgstr ""
+
+#. 数据库字段：Monster[100].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[100].Name
+msgctxt "Monster:100:Name"
+msgid "Ancient_Skeleton"
+msgstr ""
+
+#. 数据库字段：Monster[101].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[101].Name
+msgctxt "Monster:101:Name"
+msgid "Ancient_Skeleton0"
+msgstr ""
+
+#. 数据库字段：Monster[102].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[102].Name
+msgctxt "Monster:102:Name"
+msgid "Ancient_BoneFighter"
+msgstr ""
+
+#. 数据库字段：Monster[103].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[103].Name
+msgctxt "Monster:103:Name"
+msgid "Ancient_BoneFighter0"
+msgstr ""
+
+#. 数据库字段：Monster[104].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[104].Name
+msgctxt "Monster:104:Name"
+msgid "Ancient_BoneWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[105].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[105].Name
+msgctxt "Monster:105:Name"
+msgid "Ancient_BoneWarrior0"
+msgstr ""
+
+#. 数据库字段：Monster[106].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[106].Name
+msgctxt "Monster:106:Name"
+msgid "Ancient_BoneElite"
+msgstr ""
+
+#. 数据库字段：Monster[107].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[107].Name
+msgctxt "Monster:107:Name"
+msgid "BoneWhoo"
+msgstr ""
+
+#. 数据库字段：Monster[108].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[108].Name
+msgctxt "Monster:108:Name"
+msgid "Zombie1"
+msgstr ""
+
+#. 数据库字段：Monster[109].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[109].Name
+msgctxt "Monster:109:Name"
+msgid "Zombie10"
+msgstr ""
+
+#. 数据库字段：Monster[110].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[110].Name
+msgctxt "Monster:110:Name"
+msgid "Zombie2"
+msgstr ""
+
+#. 数据库字段：Monster[111].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[111].Name
+msgctxt "Monster:111:Name"
+msgid "Zombie20"
+msgstr ""
+
+#. 数据库字段：Monster[112].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[112].Name
+msgctxt "Monster:112:Name"
+msgid "Zombie3"
+msgstr ""
+
+#. 数据库字段：Monster[113].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[113].Name
+msgctxt "Monster:113:Name"
+msgid "Zombie30"
+msgstr ""
+
+#. 数据库字段：Monster[114].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[114].Name
+msgctxt "Monster:114:Name"
+msgid "Zombie4"
+msgstr ""
+
+#. 数据库字段：Monster[115].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[115].Name
+msgctxt "Monster:115:Name"
+msgid "Zombie40"
+msgstr ""
+
+#. 数据库字段：Monster[116].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[116].Name
+msgctxt "Monster:116:Name"
+msgid "Zombie5"
+msgstr ""
+
+#. 数据库字段：Monster[117].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[117].Name
+msgctxt "Monster:117:Name"
+msgid "Zombie50"
+msgstr ""
+
+#. 数据库字段：Monster[118].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[118].Name
+msgctxt "Monster:118:Name"
+msgid "Ghoul"
+msgstr ""
+
+#. 数据库字段：Monster[119].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[119].Name
+msgctxt "Monster:119:Name"
+msgid "Ghoul1"
+msgstr ""
+
+#. 数据库字段：Monster[120].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[120].Name
+msgctxt "Monster:120:Name"
+msgid "Ghoul2"
+msgstr ""
+
+#. 数据库字段：Monster[121].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[121].Name
+msgctxt "Monster:121:Name"
+msgid "Ghoul4"
+msgstr ""
+
+#. 数据库字段：Monster[122].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[122].Name
+msgctxt "Monster:122:Name"
+msgid "PriestZombie"
+msgstr ""
+
+#. 数据库字段：Monster[123].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[123].Name
+msgctxt "Monster:123:Name"
+msgid "PriestZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[124].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[124].Name
+msgctxt "Monster:124:Name"
+msgid "ClZombie"
+msgstr ""
+
+#. 数据库字段：Monster[125].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[125].Name
+msgctxt "Monster:125:Name"
+msgid "ClZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[126].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[126].Name
+msgctxt "Monster:126:Name"
+msgid "NdZombie"
+msgstr ""
+
+#. 数据库字段：Monster[127].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[127].Name
+msgctxt "Monster:127:Name"
+msgid "NdZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[128].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[128].Name
+msgctxt "Monster:128:Name"
+msgid "CrawlerZombie"
+msgstr ""
+
+#. 数据库字段：Monster[129].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[129].Name
+msgctxt "Monster:129:Name"
+msgid "CrawlerZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[130].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[130].Name
+msgctxt "Monster:130:Name"
+msgid "ShamanZombie"
+msgstr ""
+
+#. 数据库字段：Monster[131].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[131].Name
+msgctxt "Monster:131:Name"
+msgid "ShamanZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[132].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[132].Name
+msgctxt "Monster:132:Name"
+msgid "RotNdZombie"
+msgstr ""
+
+#. 数据库字段：Monster[133].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[133].Name
+msgctxt "Monster:133:Name"
+msgid "RotShamanZombie"
+msgstr ""
+
+#. 数据库字段：Monster[134].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[134].Name
+msgctxt "Monster:134:Name"
+msgid "Zombie51"
+msgstr ""
+
+#. 数据库字段：Monster[135].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[135].Name
+msgctxt "Monster:135:Name"
+msgid "HiGreatGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[136].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[136].Name
+msgctxt "Monster:136:Name"
+msgid "WhiteSerpent"
+msgstr ""
+
+#. 数据库字段：Monster[137].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[137].Name
+msgctxt "Monster:137:Name"
+msgid "Ghoul10"
+msgstr ""
+
+#. 数据库字段：Monster[138].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[138].Name
+msgctxt "Monster:138:Name"
+msgid "BlueViper"
+msgstr ""
+
+#. 数据库字段：Monster[139].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[139].Name
+msgctxt "Monster:139:Name"
+msgid "BlueViper0"
+msgstr ""
+
+#. 数据库字段：Monster[140].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[140].Name
+msgctxt "Monster:140:Name"
+msgid "YellowViper"
+msgstr ""
+
+#. 数据库字段：Monster[141].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[141].Name
+msgctxt "Monster:141:Name"
+msgid "YellowViper0"
+msgstr ""
+
+#. 数据库字段：Monster[142].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[142].Name
+msgctxt "Monster:142:Name"
+msgid "GuardianViper"
+msgstr ""
+
+#. 数据库字段：Monster[143].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[143].Name
+msgctxt "Monster:143:Name"
+msgid "Yimoogi"
+msgstr ""
+
+#. 数据库字段：Monster[144].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[144].Name
+msgctxt "Monster:144:Name"
+msgid "TreasureBox"
+msgstr ""
+
+#. 数据库字段：Monster[145].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[145].Name
+msgctxt "Monster:145:Name"
+msgid "EliteArcher"
+msgstr ""
+
+#. 数据库字段：Monster[146].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[146].Name
+msgctxt "Monster:146:Name"
+msgid "EliteStatue"
+msgstr ""
+
+#. 数据库字段：Monster[147].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[147].Name
+msgctxt "Monster:147:Name"
+msgid "EliteGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[148].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[148].Name
+msgctxt "Monster:148:Name"
+msgid "EvilSpider"
+msgstr ""
+
+#. 数据库字段：Monster[149].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[149].Name
+msgctxt "Monster:149:Name"
+msgid "EvilHog"
+msgstr ""
+
+#. 数据库字段：Monster[150].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[150].Name
+msgctxt "Monster:150:Name"
+msgid "BlackMaggot"
+msgstr ""
+
+#. 数据库字段：Monster[151].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[151].Name
+msgctxt "Monster:151:Name"
+msgid "BlackMaggot0"
+msgstr ""
+
+#. 数据库字段：Monster[152].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[152].Name
+msgctxt "Monster:152:Name"
+msgid "Centipede"
+msgstr ""
+
+#. 数据库字段：Monster[153].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[153].Name
+msgctxt "Monster:153:Name"
+msgid "Centipede0"
+msgstr ""
+
+#. 数据库字段：Monster[154].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[154].Name
+msgctxt "Monster:154:Name"
+msgid "GiantWorm"
+msgstr ""
+
+#. 数据库字段：Monster[155].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[155].Name
+msgctxt "Monster:155:Name"
+msgid "GiantWorm0"
+msgstr ""
+
+#. 数据库字段：Monster[156].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[156].Name
+msgctxt "Monster:156:Name"
+msgid "WhimperingBee"
+msgstr ""
+
+#. 数据库字段：Monster[157].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[157].Name
+msgctxt "Monster:157:Name"
+msgid "WhimperingBee0"
+msgstr ""
+
+#. 数据库字段：Monster[158].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[158].Name
+msgctxt "Monster:158:Name"
+msgid "Tongs"
+msgstr ""
+
+#. 数据库字段：Monster[159].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[159].Name
+msgctxt "Monster:159:Name"
+msgid "Tongs0"
+msgstr ""
+
+#. 数据库字段：Monster[160].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[160].Name
+msgctxt "Monster:160:Name"
+msgid "EvilTongs"
+msgstr ""
+
+#. 数据库字段：Monster[161].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[161].Name
+msgctxt "Monster:161:Name"
+msgid "EvilTongs1"
+msgstr ""
+
+#. 数据库字段：Monster[162].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[162].Name
+msgctxt "Monster:162:Name"
+msgid "EvilTongs2"
+msgstr ""
+
+#. 数据库字段：Monster[163].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[163].Name
+msgctxt "Monster:163:Name"
+msgid "EvilTongs9"
+msgstr ""
+
+#. 数据库字段：Monster[164].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[164].Name
+msgctxt "Monster:164:Name"
+msgid "EvilCentipede"
+msgstr ""
+
+#. 数据库字段：Monster[165].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[165].Name
+msgctxt "Monster:165:Name"
+msgid "WedgeMoth"
+msgstr ""
+
+#. 数据库字段：Monster[166].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[166].Name
+msgctxt "Monster:166:Name"
+msgid "BugBat"
+msgstr ""
+
+#. 数据库字段：Monster[167].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[167].Name
+msgctxt "Monster:167:Name"
+msgid "BugBatMaggot"
+msgstr ""
+
+#. 数据库字段：Monster[168].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[168].Name
+msgctxt "Monster:168:Name"
+msgid "RedBoar"
+msgstr ""
+
+#. 数据库字段：Monster[169].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[169].Name
+msgctxt "Monster:169:Name"
+msgid "RedBoar0"
+msgstr ""
+
+#. 数据库字段：Monster[170].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[170].Name
+msgctxt "Monster:170:Name"
+msgid "RedBoar3"
+msgstr ""
+
+#. 数据库字段：Monster[171].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[171].Name
+msgctxt "Monster:171:Name"
+msgid "BlackBoar"
+msgstr ""
+
+#. 数据库字段：Monster[172].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[172].Name
+msgctxt "Monster:172:Name"
+msgid "BlackBoar0"
+msgstr ""
+
+#. 数据库字段：Monster[173].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[173].Name
+msgctxt "Monster:173:Name"
+msgid "BlackBoar3"
+msgstr ""
+
+#. 数据库字段：Monster[174].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[174].Name
+msgctxt "Monster:174:Name"
+msgid "WhiteBoar"
+msgstr ""
+
+#. 数据库字段：Monster[175].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[175].Name
+msgctxt "Monster:175:Name"
+msgid "WhiteBoar0"
+msgstr ""
+
+#. 数据库字段：Monster[176].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[176].Name
+msgctxt "Monster:176:Name"
+msgid "WhiteBoar1"
+msgstr ""
+
+#. 数据库字段：Monster[177].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[177].Name
+msgctxt "Monster:177:Name"
+msgid "SnakeScorpion"
+msgstr ""
+
+#. 数据库字段：Monster[178].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[178].Name
+msgctxt "Monster:178:Name"
+msgid "SnakeScorpion0"
+msgstr ""
+
+#. 数据库字段：Monster[179].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[179].Name
+msgctxt "Monster:179:Name"
+msgid "SnakeScorpion3"
+msgstr ""
+
+#. 数据库字段：Monster[180].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[180].Name
+msgctxt "Monster:180:Name"
+msgid "EvilSnake"
+msgstr ""
+
+#. 数据库字段：Monster[181].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[181].Name
+msgctxt "Monster:181:Name"
+msgid "EvilSnake1"
+msgstr ""
+
+#. 数据库字段：Monster[182].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[182].Name
+msgctxt "Monster:182:Name"
+msgid "Ancient_BlackMaggot"
+msgstr ""
+
+#. 数据库字段：Monster[183].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[183].Name
+msgctxt "Monster:183:Name"
+msgid "Ancient_BlackMaggot0"
+msgstr ""
+
+#. 数据库字段：Monster[184].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[184].Name
+msgctxt "Monster:184:Name"
+msgid "Ancient_SnakeScorpion"
+msgstr ""
+
+#. 数据库字段：Monster[185].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[185].Name
+msgctxt "Monster:185:Name"
+msgid "Ancient_SnakeScorpion0"
+msgstr ""
+
+#. 数据库字段：Monster[186].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[186].Name
+msgctxt "Monster:186:Name"
+msgid "Ancient_RedBoar"
+msgstr ""
+
+#. 数据库字段：Monster[187].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[187].Name
+msgctxt "Monster:187:Name"
+msgid "Ancient_RedBoar0"
+msgstr ""
+
+#. 数据库字段：Monster[188].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[188].Name
+msgctxt "Monster:188:Name"
+msgid "Ancient_BlackBoar"
+msgstr ""
+
+#. 数据库字段：Monster[189].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[189].Name
+msgctxt "Monster:189:Name"
+msgid "Ancient_BlackBoar0"
+msgstr ""
+
+#. 数据库字段：Monster[190].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[190].Name
+msgctxt "Monster:190:Name"
+msgid "Ancient_WhiteBoar"
+msgstr ""
+
+#. 数据库字段：Monster[191].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[191].Name
+msgctxt "Monster:191:Name"
+msgid "Ancient_KingHog"
+msgstr ""
+
+#. 数据库字段：Monster[192].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[192].Name
+msgctxt "Monster:192:Name"
+msgid "GiantRat"
+msgstr ""
+
+#. 数据库字段：Monster[193].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[193].Name
+msgctxt "Monster:193:Name"
+msgid "GiantRat0"
+msgstr ""
+
+#. 数据库字段：Monster[194].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[194].Name
+msgctxt "Monster:194:Name"
+msgid "ZumaArcher"
+msgstr ""
+
+#. 数据库字段：Monster[195].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[195].Name
+msgctxt "Monster:195:Name"
+msgid "ZumaArcher0"
+msgstr ""
+
+#. 数据库字段：Monster[196].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[196].Name
+msgctxt "Monster:196:Name"
+msgid "ZumaArcher3"
+msgstr ""
+
+#. 数据库字段：Monster[197].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[197].Name
+msgctxt "Monster:197:Name"
+msgid "ZumaStatue"
+msgstr ""
+
+#. 数据库字段：Monster[198].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[198].Name
+msgctxt "Monster:198:Name"
+msgid "ZumaStatue0"
+msgstr ""
+
+#. 数据库字段：Monster[199].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[199].Name
+msgctxt "Monster:199:Name"
+msgid "ZumaStatue3"
+msgstr ""
+
+#. 数据库字段：Monster[200].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[200].Name
+msgctxt "Monster:200:Name"
+msgid "ZumaGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[201].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[201].Name
+msgctxt "Monster:201:Name"
+msgid "ZumaGuardian0"
+msgstr ""
+
+#. 数据库字段：Monster[202].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[202].Name
+msgctxt "Monster:202:Name"
+msgid "ZumaGuardian3"
+msgstr ""
+
+#. 数据库字段：Monster[203].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[203].Name
+msgctxt "Monster:203:Name"
+msgid "ZumaGuardian00"
+msgstr ""
+
+#. 数据库字段：Monster[204].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[204].Name
+msgctxt "Monster:204:Name"
+msgid "RedThunderZuma"
+msgstr ""
+
+#. 数据库字段：Monster[205].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[205].Name
+msgctxt "Monster:205:Name"
+msgid "ZumaTaurus"
+msgstr ""
+
+#. 数据库字段：Monster[206].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[206].Name
+msgctxt "Monster:206:Name"
+msgid "ZumaTaurus9"
+msgstr ""
+
+#. 数据库字段：Monster[207].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[207].Name
+msgctxt "Monster:207:Name"
+msgid "Ancient_GiantRat"
+msgstr ""
+
+#. 数据库字段：Monster[208].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[208].Name
+msgctxt "Monster:208:Name"
+msgid "Ancient_GiantRat0"
+msgstr ""
+
+#. 数据库字段：Monster[209].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[209].Name
+msgctxt "Monster:209:Name"
+msgid "Ancient_ZumaArcher"
+msgstr ""
+
+#. 数据库字段：Monster[210].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[210].Name
+msgctxt "Monster:210:Name"
+msgid "Ancient_ZumaArcher0"
+msgstr ""
+
+#. 数据库字段：Monster[211].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[211].Name
+msgctxt "Monster:211:Name"
+msgid "Ancient_ZumaStatue"
+msgstr ""
+
+#. 数据库字段：Monster[212].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[212].Name
+msgctxt "Monster:212:Name"
+msgid "Ancient_ZumaStatue0"
+msgstr ""
+
+#. 数据库字段：Monster[213].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[213].Name
+msgctxt "Monster:213:Name"
+msgid "Ancient_ZumaGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[214].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[214].Name
+msgctxt "Monster:214:Name"
+msgid "Ancient_ZumaGuardian0"
+msgstr ""
+
+#. 数据库字段：Monster[215].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[215].Name
+msgctxt "Monster:215:Name"
+msgid "Ancient_RedThunderZuma"
+msgstr ""
+
+#. 数据库字段：Monster[216].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[216].Name
+msgctxt "Monster:216:Name"
+msgid "RedFoxMan"
+msgstr ""
+
+#. 数据库字段：Monster[217].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[217].Name
+msgctxt "Monster:217:Name"
+msgid "BlackFoxMan"
+msgstr ""
+
+#. 数据库字段：Monster[218].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[218].Name
+msgctxt "Monster:218:Name"
+msgid "WhiteFoxMan"
+msgstr ""
+
+#. 数据库字段：Monster[219].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[219].Name
+msgctxt "Monster:219:Name"
+msgid "TrapRock"
+msgstr ""
+
+#. 数据库字段：Monster[220].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[220].Name
+msgctxt "Monster:220:Name"
+msgid "TrapRock1"
+msgstr ""
+
+#. 数据库字段：Monster[221].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[221].Name
+msgctxt "Monster:221:Name"
+msgid "GuardianRock"
+msgstr ""
+
+#. 数据库字段：Monster[222].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[222].Name
+msgctxt "Monster:222:Name"
+msgid "ElectricElement"
+msgstr ""
+
+#. 数据库字段：Monster[223].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[223].Name
+msgctxt "Monster:223:Name"
+msgid "CloudElement"
+msgstr ""
+
+#. 数据库字段：Monster[224].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[224].Name
+msgctxt "Monster:224:Name"
+msgid "HedgeKekTal"
+msgstr ""
+
+#. 数据库字段：Monster[225].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[225].Name
+msgctxt "Monster:225:Name"
+msgid "BigHedgeKekTal"
+msgstr ""
+
+#. 数据库字段：Monster[226].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[226].Name
+msgctxt "Monster:226:Name"
+msgid "BrownFrogSpider"
+msgstr ""
+
+#. 数据库字段：Monster[227].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[227].Name
+msgctxt "Monster:227:Name"
+msgid "RedFrogSpider"
+msgstr ""
+
+#. 数据库字段：Monster[228].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[228].Name
+msgctxt "Monster:228:Name"
+msgid "GreatFoxSpirit"
+msgstr ""
+
+#. 数据库字段：Monster[229].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[229].Name
+msgctxt "Monster:229:Name"
+msgid "SpiderFrog"
+msgstr ""
+
+#. 数据库字段：Monster[230].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[230].Name
+msgctxt "Monster:230:Name"
+msgid "SpiderFrog0"
+msgstr ""
+
+#. 数据库字段：Monster[231].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[231].Name
+msgctxt "Monster:231:Name"
+msgid "HoroBlaster"
+msgstr ""
+
+#. 数据库字段：Monster[232].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[232].Name
+msgctxt "Monster:232:Name"
+msgid "HoroBlaster0"
+msgstr ""
+
+#. 数据库字段：Monster[233].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[233].Name
+msgctxt "Monster:233:Name"
+msgid "BlueHoroBlaster"
+msgstr ""
+
+#. 数据库字段：Monster[234].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[234].Name
+msgctxt "Monster:234:Name"
+msgid "BlueHoroBlaster0"
+msgstr ""
+
+#. 数据库字段：Monster[235].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[235].Name
+msgctxt "Monster:235:Name"
+msgid "KekTal"
+msgstr ""
+
+#. 数据库字段：Monster[236].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[236].Name
+msgctxt "Monster:236:Name"
+msgid "KekTal0"
+msgstr ""
+
+#. 数据库字段：Monster[237].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[237].Name
+msgctxt "Monster:237:Name"
+msgid "VioletKekTal"
+msgstr ""
+
+#. 数据库字段：Monster[238].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[238].Name
+msgctxt "Monster:238:Name"
+msgid "VioletKekTal0"
+msgstr ""
+
+#. 数据库字段：Monster[239].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[239].Name
+msgctxt "Monster:239:Name"
+msgid "Khazard"
+msgstr ""
+
+#. 数据库字段：Monster[240].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[240].Name
+msgctxt "Monster:240:Name"
+msgid "Dark"
+msgstr ""
+
+#. 数据库字段：Monster[241].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[241].Name
+msgctxt "Monster:241:Name"
+msgid "Dark0"
+msgstr ""
+
+#. 数据库字段：Monster[242].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[242].Name
+msgctxt "Monster:242:Name"
+msgid "Dung"
+msgstr ""
+
+#. 数据库字段：Monster[243].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[243].Name
+msgctxt "Monster:243:Name"
+msgid "Dung0"
+msgstr ""
+
+#. 数据库字段：Monster[244].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[244].Name
+msgctxt "Monster:244:Name"
+msgid "WoomaSoldier"
+msgstr ""
+
+#. 数据库字段：Monster[245].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[245].Name
+msgctxt "Monster:245:Name"
+msgid "WoomaSoldier0"
+msgstr ""
+
+#. 数据库字段：Monster[246].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[246].Name
+msgctxt "Monster:246:Name"
+msgid "WoomaFighter"
+msgstr ""
+
+#. 数据库字段：Monster[247].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[247].Name
+msgctxt "Monster:247:Name"
+msgid "WoomaFighter0"
+msgstr ""
+
+#. 数据库字段：Monster[248].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[248].Name
+msgctxt "Monster:248:Name"
+msgid "WoomaWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[249].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[249].Name
+msgctxt "Monster:249:Name"
+msgid "WoomaWarrior0"
+msgstr ""
+
+#. 数据库字段：Monster[250].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[250].Name
+msgctxt "Monster:250:Name"
+msgid "FlamingWooma"
+msgstr ""
+
+#. 数据库字段：Monster[251].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[251].Name
+msgctxt "Monster:251:Name"
+msgid "FlamingWooma0"
+msgstr ""
+
+#. 数据库字段：Monster[252].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[252].Name
+msgctxt "Monster:252:Name"
+msgid "FlamingWooma2"
+msgstr ""
+
+#. 数据库字段：Monster[253].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[253].Name
+msgctxt "Monster:253:Name"
+msgid "WoomaGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[254].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[254].Name
+msgctxt "Monster:254:Name"
+msgid "WoomaGuardian1"
+msgstr ""
+
+#. 数据库字段：Monster[255].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[255].Name
+msgctxt "Monster:255:Name"
+msgid "WoomaGuardian2"
+msgstr ""
+
+#. 数据库字段：Monster[256].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[256].Name
+msgctxt "Monster:256:Name"
+msgid "WoomaTaurus"
+msgstr ""
+
+#. 数据库字段：Monster[257].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[257].Name
+msgctxt "Monster:257:Name"
+msgid "WoomaTaurus1"
+msgstr ""
+
+#. 数据库字段：Monster[258].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[258].Name
+msgctxt "Monster:258:Name"
+msgid "WoomaTaurus9"
+msgstr ""
+
+#. 数据库字段：Monster[259].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[259].Name
+msgctxt "Monster:259:Name"
+msgid "Ancient_WoomaSoldier"
+msgstr ""
+
+#. 数据库字段：Monster[260].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[260].Name
+msgctxt "Monster:260:Name"
+msgid "Ancient_WoomaFighter"
+msgstr ""
+
+#. 数据库字段：Monster[261].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[261].Name
+msgctxt "Monster:261:Name"
+msgid "Ancient_WoomaWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[262].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[262].Name
+msgctxt "Monster:262:Name"
+msgid "Ancient_FlamingWooma"
+msgstr ""
+
+#. 数据库字段：Monster[263].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[263].Name
+msgctxt "Monster:263:Name"
+msgid "Ancient_WoomaGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[264].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[264].Name
+msgctxt "Monster:264:Name"
+msgid "Ancient_WoomaTaurus"
+msgstr ""
+
+#. 数据库字段：Monster[265].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[265].Name
+msgctxt "Monster:265:Name"
+msgid "EvilTongs20"
+msgstr ""
+
+#. 数据库字段：Monster[266].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[266].Name
+msgctxt "Monster:266:Name"
+msgid "EvilTongs21"
+msgstr ""
+
+#. 数据库字段：Monster[267].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[267].Name
+msgctxt "Monster:267:Name"
+msgid "EvilSnake20"
+msgstr ""
+
+#. 数据库字段：Monster[268].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[268].Name
+msgctxt "Monster:268:Name"
+msgid "EvilSnake21"
+msgstr ""
+
+#. 数据库字段：Monster[269].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[269].Name
+msgctxt "Monster:269:Name"
+msgid "Ghoul20"
+msgstr ""
+
+#. 数据库字段：Monster[270].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[270].Name
+msgctxt "Monster:270:Name"
+msgid "Ghoul21"
+msgstr ""
+
+#. 数据库字段：Monster[271].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[271].Name
+msgctxt "Monster:271:Name"
+msgid "ZumaArcher20"
+msgstr ""
+
+#. 数据库字段：Monster[272].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[272].Name
+msgctxt "Monster:272:Name"
+msgid "ZumaArcher21"
+msgstr ""
+
+#. 数据库字段：Monster[273].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[273].Name
+msgctxt "Monster:273:Name"
+msgid "ZumaStatue20"
+msgstr ""
+
+#. 数据库字段：Monster[274].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[274].Name
+msgctxt "Monster:274:Name"
+msgid "ZumaStatue21"
+msgstr ""
+
+#. 数据库字段：Monster[275].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[275].Name
+msgctxt "Monster:275:Name"
+msgid "ZumaGuardian20"
+msgstr ""
+
+#. 数据库字段：Monster[276].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[276].Name
+msgctxt "Monster:276:Name"
+msgid "ZumaGuardian21"
+msgstr ""
+
+#. 数据库字段：Monster[277].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[277].Name
+msgctxt "Monster:277:Name"
+msgid "WhiteBoar20"
+msgstr ""
+
+#. 数据库字段：Monster[278].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[278].Name
+msgctxt "Monster:278:Name"
+msgid "WhiteBoar21"
+msgstr ""
+
+#. 数据库字段：Monster[279].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[279].Name
+msgctxt "Monster:279:Name"
+msgid "WoomaGuardian5"
+msgstr ""
+
+#. 数据库字段：Monster[280].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[280].Name
+msgctxt "Monster:280:Name"
+msgid "WoomaGuardian6"
+msgstr ""
+
+#. 数据库字段：Monster[281].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[281].Name
+msgctxt "Monster:281:Name"
+msgid "KingScorpion"
+msgstr ""
+
+#. 数据库字段：Monster[282].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[282].Name
+msgctxt "Monster:282:Name"
+msgid "KingHog"
+msgstr ""
+
+#. 数据库字段：Monster[283].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[283].Name
+msgctxt "Monster:283:Name"
+msgid "IncarnatedWT"
+msgstr ""
+
+#. 数据库字段：Monster[284].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[284].Name
+msgctxt "Monster:284:Name"
+msgid "IncarnatedZT"
+msgstr ""
+
+#. 数据库字段：Monster[285].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[285].Name
+msgctxt "Monster:285:Name"
+msgid "DarkDevil"
+msgstr ""
+
+#. 数据库字段：Monster[286].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[286].Name
+msgctxt "Monster:286:Name"
+msgid "BloodPriest"
+msgstr ""
+
+#. 数据库字段：Monster[287].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[287].Name
+msgctxt "Monster:287:Name"
+msgid "BloodPriest0"
+msgstr ""
+
+#. 数据库字段：Monster[288].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[288].Name
+msgctxt "Monster:288:Name"
+msgid "CursedShaman"
+msgstr ""
+
+#. 数据库字段：Monster[289].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[289].Name
+msgctxt "Monster:289:Name"
+msgid "CursedShaman0"
+msgstr ""
+
+#. 数据库字段：Monster[290].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[290].Name
+msgctxt "Monster:290:Name"
+msgid "CursedPriest"
+msgstr ""
+
+#. 数据库字段：Monster[291].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[291].Name
+msgctxt "Monster:291:Name"
+msgid "CursedPriest0"
+msgstr ""
+
+#. 数据库字段：Monster[292].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[292].Name
+msgctxt "Monster:292:Name"
+msgid "CursedZombie"
+msgstr ""
+
+#. 数据库字段：Monster[293].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[293].Name
+msgctxt "Monster:293:Name"
+msgid "CursedZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[294].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[294].Name
+msgctxt "Monster:294:Name"
+msgid "HungryZombie"
+msgstr ""
+
+#. 数据库字段：Monster[295].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[295].Name
+msgctxt "Monster:295:Name"
+msgid "HungryZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[296].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[296].Name
+msgctxt "Monster:296:Name"
+msgid "ShiZombie"
+msgstr ""
+
+#. 数据库字段：Monster[297].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[297].Name
+msgctxt "Monster:297:Name"
+msgid "ShiZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[298].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[298].Name
+msgctxt "Monster:298:Name"
+msgid "ToxicZombie"
+msgstr ""
+
+#. 数据库字段：Monster[299].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[299].Name
+msgctxt "Monster:299:Name"
+msgid "ToxicZombie0"
+msgstr ""
+
+#. 数据库字段：Monster[300].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[300].Name
+msgctxt "Monster:300:Name"
+msgid "GreatGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[301].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[301].Name
+msgctxt "Monster:301:Name"
+msgid "BombSpider"
+msgstr ""
+
+#. 数据库字段：Monster[302].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[302].Name
+msgctxt "Monster:302:Name"
+msgid "RootSpider"
+msgstr ""
+
+#. 数据库字段：Monster[303].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[303].Name
+msgctxt "Monster:303:Name"
+msgid "SpiderBat"
+msgstr ""
+
+#. 数据库字段：Monster[304].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[304].Name
+msgctxt "Monster:304:Name"
+msgid "VenomSpider"
+msgstr ""
+
+#. 数据库字段：Monster[305].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[305].Name
+msgctxt "Monster:305:Name"
+msgid "VenomSpider0"
+msgstr ""
+
+#. 数据库字段：Monster[306].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[306].Name
+msgctxt "Monster:306:Name"
+msgid "VenomSpider3"
+msgstr ""
+
+#. 数据库字段：Monster[307].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[307].Name
+msgctxt "Monster:307:Name"
+msgid "GangSpider"
+msgstr ""
+
+#. 数据库字段：Monster[308].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[308].Name
+msgctxt "Monster:308:Name"
+msgid "GangSpider0"
+msgstr ""
+
+#. 数据库字段：Monster[309].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[309].Name
+msgctxt "Monster:309:Name"
+msgid "GangSpider3"
+msgstr ""
+
+#. 数据库字段：Monster[310].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[310].Name
+msgctxt "Monster:310:Name"
+msgid "GreatSpider"
+msgstr ""
+
+#. 数据库字段：Monster[311].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[311].Name
+msgctxt "Monster:311:Name"
+msgid "GreatSpider0"
+msgstr ""
+
+#. 数据库字段：Monster[312].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[312].Name
+msgctxt "Monster:312:Name"
+msgid "GreatSpider3"
+msgstr ""
+
+#. 数据库字段：Monster[313].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[313].Name
+msgctxt "Monster:313:Name"
+msgid "LureSpider"
+msgstr ""
+
+#. 数据库字段：Monster[314].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[314].Name
+msgctxt "Monster:314:Name"
+msgid "LureSpider0"
+msgstr ""
+
+#. 数据库字段：Monster[315].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[315].Name
+msgctxt "Monster:315:Name"
+msgid "LureSpider3"
+msgstr ""
+
+#. 数据库字段：Monster[316].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[316].Name
+msgctxt "Monster:316:Name"
+msgid "BigApe"
+msgstr ""
+
+#. 数据库字段：Monster[317].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[317].Name
+msgctxt "Monster:317:Name"
+msgid "BigApe0"
+msgstr ""
+
+#. 数据库字段：Monster[318].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[318].Name
+msgctxt "Monster:318:Name"
+msgid "BigApe3"
+msgstr ""
+
+#. 数据库字段：Monster[319].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[319].Name
+msgctxt "Monster:319:Name"
+msgid "EvilApe"
+msgstr ""
+
+#. 数据库字段：Monster[320].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[320].Name
+msgctxt "Monster:320:Name"
+msgid "EvilApe0"
+msgstr ""
+
+#. 数据库字段：Monster[321].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[321].Name
+msgctxt "Monster:321:Name"
+msgid "GreyEvilApe"
+msgstr ""
+
+#. 数据库字段：Monster[322].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[322].Name
+msgctxt "Monster:322:Name"
+msgid "RedEvilApe"
+msgstr ""
+
+#. 数据库字段：Monster[323].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[323].Name
+msgctxt "Monster:323:Name"
+msgid "CrystalSpider"
+msgstr ""
+
+#. 数据库字段：Monster[324].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[324].Name
+msgctxt "Monster:324:Name"
+msgid "RedMoonEvil"
+msgstr ""
+
+#. 数据库字段：Monster[325].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[325].Name
+msgctxt "Monster:325:Name"
+msgid "RedMoonEvil1"
+msgstr ""
+
+#. 数据库字段：Monster[326].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[326].Name
+msgctxt "Monster:326:Name"
+msgid "EvilApeSobo"
+msgstr ""
+
+#. 数据库字段：Monster[327].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[327].Name
+msgctxt "Monster:327:Name"
+msgid "EvilBigApe"
+msgstr ""
+
+#. 数据库字段：Monster[328].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[328].Name
+msgctxt "Monster:328:Name"
+msgid "ValeBat"
+msgstr ""
+
+#. 数据库字段：Monster[329].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[329].Name
+msgctxt "Monster:329:Name"
+msgid "ValeBat2"
+msgstr ""
+
+#. 数据库字段：Monster[330].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[330].Name
+msgctxt "Monster:330:Name"
+msgid "Weaver"
+msgstr ""
+
+#. 数据库字段：Monster[331].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[331].Name
+msgctxt "Monster:331:Name"
+msgid "VenomWeaver"
+msgstr ""
+
+#. 数据库字段：Monster[332].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[332].Name
+msgctxt "Monster:332:Name"
+msgid "CrackingWeaver"
+msgstr ""
+
+#. 数据库字段：Monster[333].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[333].Name
+msgctxt "Monster:333:Name"
+msgid "ArmingWeaver"
+msgstr ""
+
+#. 数据库字段：Monster[334].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[334].Name
+msgctxt "Monster:334:Name"
+msgid "CrystalWeaver"
+msgstr ""
+
+#. 数据库字段：Monster[335].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[335].Name
+msgctxt "Monster:335:Name"
+msgid "GreaterWeaver"
+msgstr ""
+
+#. 数据库字段：Monster[336].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[336].Name
+msgctxt "Monster:336:Name"
+msgid "SpiderWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[337].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[337].Name
+msgctxt "Monster:337:Name"
+msgid "SpiderBarbarian"
+msgstr ""
+
+#. 数据库字段：Monster[339].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[339].Name
+msgctxt "Monster:339:Name"
+msgid "FlyingStatue"
+msgstr ""
+
+#. 数据库字段：Monster[340].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[340].Name
+msgctxt "Monster:340:Name"
+msgid "StoningStatue"
+msgstr ""
+
+#. 数据库字段：Monster[341].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[341].Name
+msgctxt "Monster:341:Name"
+msgid "ToxicGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[342].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[342].Name
+msgctxt "Monster:342:Name"
+msgid "ToxicGhoul0"
+msgstr ""
+
+#. 数据库字段：Monster[343].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[343].Name
+msgctxt "Monster:343:Name"
+msgid "RoninGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[344].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[344].Name
+msgctxt "Monster:344:Name"
+msgid "RoninGhoul0"
+msgstr ""
+
+#. 数据库字段：Monster[345].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[345].Name
+msgctxt "Monster:345:Name"
+msgid "BoneArcher"
+msgstr ""
+
+#. 数据库字段：Monster[346].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[346].Name
+msgctxt "Monster:346:Name"
+msgid "BoneArcher0"
+msgstr ""
+
+#. 数据库字段：Monster[347].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[347].Name
+msgctxt "Monster:347:Name"
+msgid "BoneBlademan"
+msgstr ""
+
+#. 数据库字段：Monster[348].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[348].Name
+msgctxt "Monster:348:Name"
+msgid "BoneBlademan0"
+msgstr ""
+
+#. 数据库字段：Monster[349].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[349].Name
+msgctxt "Monster:349:Name"
+msgid "BoneSpearman"
+msgstr ""
+
+#. 数据库字段：Monster[350].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[350].Name
+msgctxt "Monster:350:Name"
+msgid "BoneSpearman0"
+msgstr ""
+
+#. 数据库字段：Monster[351].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[351].Name
+msgctxt "Monster:351:Name"
+msgid "BoneCaptain"
+msgstr ""
+
+#. 数据库字段：Monster[352].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[352].Name
+msgctxt "Monster:352:Name"
+msgid "BoneCaptain0"
+msgstr ""
+
+#. 数据库字段：Monster[353].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[353].Name
+msgctxt "Monster:353:Name"
+msgid "BoneLord"
+msgstr ""
+
+#. 数据库字段：Monster[354].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[354].Name
+msgctxt "Monster:354:Name"
+msgid "Ancient_ToxicGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[355].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[355].Name
+msgctxt "Monster:355:Name"
+msgid "Ancient_RoninGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[356].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[356].Name
+msgctxt "Monster:356:Name"
+msgid "Ancient_BoneArcher"
+msgstr ""
+
+#. 数据库字段：Monster[357].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[357].Name
+msgctxt "Monster:357:Name"
+msgid "Ancient_BoneBlademan"
+msgstr ""
+
+#. 数据库字段：Monster[358].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[358].Name
+msgctxt "Monster:358:Name"
+msgid "Ancient_BoneSpearman"
+msgstr ""
+
+#. 数据库字段：Monster[359].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[359].Name
+msgctxt "Monster:359:Name"
+msgid "Ancient_BoneCaptain"
+msgstr ""
+
+#. 数据库字段：Monster[360].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[360].Name
+msgctxt "Monster:360:Name"
+msgid "Ancient_BoneLord"
+msgstr ""
+
+#. 数据库字段：Monster[361].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[361].Name
+msgctxt "Monster:361:Name"
+msgid "Minotaur"
+msgstr ""
+
+#. 数据库字段：Monster[362].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[362].Name
+msgctxt "Monster:362:Name"
+msgid "Minotaur0"
+msgstr ""
+
+#. 数据库字段：Monster[363].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[363].Name
+msgctxt "Monster:363:Name"
+msgid "IceMinotaur"
+msgstr ""
+
+#. 数据库字段：Monster[364].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[364].Name
+msgctxt "Monster:364:Name"
+msgid "IceMinotaur0"
+msgstr ""
+
+#. 数据库字段：Monster[365].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[365].Name
+msgctxt "Monster:365:Name"
+msgid "ElectricMinotaur"
+msgstr ""
+
+#. 数据库字段：Monster[366].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[366].Name
+msgctxt "Monster:366:Name"
+msgid "ElectricMinotaur0"
+msgstr ""
+
+#. 数据库字段：Monster[367].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[367].Name
+msgctxt "Monster:367:Name"
+msgid "WindMinotaur"
+msgstr ""
+
+#. 数据库字段：Monster[368].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[368].Name
+msgctxt "Monster:368:Name"
+msgid "WindMinotaur0"
+msgstr ""
+
+#. 数据库字段：Monster[369].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[369].Name
+msgctxt "Monster:369:Name"
+msgid "FireMinotaur"
+msgstr ""
+
+#. 数据库字段：Monster[370].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[370].Name
+msgctxt "Monster:370:Name"
+msgid "FireMinotaur0"
+msgstr ""
+
+#. 数据库字段：Monster[371].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[371].Name
+msgctxt "Monster:371:Name"
+msgid "RightGuard"
+msgstr ""
+
+#. 数据库字段：Monster[372].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[372].Name
+msgctxt "Monster:372:Name"
+msgid "RightGuard0"
+msgstr ""
+
+#. 数据库字段：Monster[373].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[373].Name
+msgctxt "Monster:373:Name"
+msgid "LeftGuard"
+msgstr ""
+
+#. 数据库字段：Monster[374].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[374].Name
+msgctxt "Monster:374:Name"
+msgid "LeftGuard0"
+msgstr ""
+
+#. 数据库字段：Monster[375].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[375].Name
+msgctxt "Monster:375:Name"
+msgid "MinotaurKing"
+msgstr ""
+
+#. 数据库字段：Monster[376].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[376].Name
+msgctxt "Monster:376:Name"
+msgid "AxeOma"
+msgstr ""
+
+#. 数据库字段：Monster[377].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[377].Name
+msgctxt "Monster:377:Name"
+msgid "AxeOma0"
+msgstr ""
+
+#. 数据库字段：Monster[378].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[378].Name
+msgctxt "Monster:378:Name"
+msgid "SwordOma"
+msgstr ""
+
+#. 数据库字段：Monster[379].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[379].Name
+msgctxt "Monster:379:Name"
+msgid "SwordOma0"
+msgstr ""
+
+#. 数据库字段：Monster[380].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[380].Name
+msgctxt "Monster:380:Name"
+msgid "CrossbowOma"
+msgstr ""
+
+#. 数据库字段：Monster[381].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[381].Name
+msgctxt "Monster:381:Name"
+msgid "CrossbowOma0"
+msgstr ""
+
+#. 数据库字段：Monster[382].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[382].Name
+msgctxt "Monster:382:Name"
+msgid "WingedOma"
+msgstr ""
+
+#. 数据库字段：Monster[383].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[383].Name
+msgctxt "Monster:383:Name"
+msgid "WingedOma0"
+msgstr ""
+
+#. 数据库字段：Monster[384].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[384].Name
+msgctxt "Monster:384:Name"
+msgid "FlailOma"
+msgstr ""
+
+#. 数据库字段：Monster[385].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[385].Name
+msgctxt "Monster:385:Name"
+msgid "FlailOma0"
+msgstr ""
+
+#. 数据库字段：Monster[386].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[386].Name
+msgctxt "Monster:386:Name"
+msgid "OmaGuard"
+msgstr ""
+
+#. 数据库字段：Monster[387].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[387].Name
+msgctxt "Monster:387:Name"
+msgid "OmaGuard0"
+msgstr ""
+
+#. 数据库字段：Monster[388].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[388].Name
+msgctxt "Monster:388:Name"
+msgid "YinDevilNode"
+msgstr ""
+
+#. 数据库字段：Monster[389].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[389].Name
+msgctxt "Monster:389:Name"
+msgid "YangDevilNode"
+msgstr ""
+
+#. 数据库字段：Monster[390].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[390].Name
+msgctxt "Monster:390:Name"
+msgid "OmaKing"
+msgstr ""
+
+#. 数据库字段：Monster[391].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[391].Name
+msgctxt "Monster:391:Name"
+msgid "OmaKingSpirit"
+msgstr ""
+
+#. 数据库字段：Monster[392].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[392].Name
+msgctxt "Monster:392:Name"
+msgid "EvilMir"
+msgstr ""
+
+#. 数据库字段：Monster[393].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[393].Name
+msgctxt "Monster:393:Name"
+msgid "00"
+msgstr ""
+
+#. 数据库字段：Monster[394].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[394].Name
+msgctxt "Monster:394:Name"
+msgid "MirStatue"
+msgstr ""
+
+#. 数据库字段：Monster[395].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[395].Name
+msgctxt "Monster:395:Name"
+msgid "ManectricHammer"
+msgstr ""
+
+#. 数据库字段：Monster[396].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[396].Name
+msgctxt "Monster:396:Name"
+msgid "ManectricClub"
+msgstr ""
+
+#. 数据库字段：Monster[397].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[397].Name
+msgctxt "Monster:397:Name"
+msgid "ManectricClaw"
+msgstr ""
+
+#. 数据库字段：Monster[398].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[398].Name
+msgctxt "Monster:398:Name"
+msgid "ManectricStaff"
+msgstr ""
+
+#. 数据库字段：Monster[399].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[399].Name
+msgctxt "Monster:399:Name"
+msgid "ManectricSlave"
+msgstr ""
+
+#. 数据库字段：Monster[400].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[400].Name
+msgctxt "Monster:400:Name"
+msgid "Demon1"
+msgstr ""
+
+#. 数据库字段：Monster[401].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[401].Name
+msgctxt "Monster:401:Name"
+msgid "Demon2"
+msgstr ""
+
+#. 数据库字段：Monster[402].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[402].Name
+msgctxt "Monster:402:Name"
+msgid "ManectricBlest"
+msgstr ""
+
+#. 数据库字段：Monster[403].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[403].Name
+msgctxt "Monster:403:Name"
+msgid "ManectricKing"
+msgstr ""
+
+#. 数据库字段：Monster[404].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[404].Name
+msgctxt "Monster:404:Name"
+msgid "FrozenDoor"
+msgstr ""
+
+#. 数据库字段：Monster[405].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[405].Name
+msgctxt "Monster:405:Name"
+msgid "IcePilar"
+msgstr ""
+
+#. 数据库字段：Monster[406].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[406].Name
+msgctxt "Monster:406:Name"
+msgid "GhastlyLeecher"
+msgstr ""
+
+#. 数据库字段：Monster[407].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[407].Name
+msgctxt "Monster:407:Name"
+msgid "MutatedManworm"
+msgstr ""
+
+#. 数据库字段：Monster[408].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[408].Name
+msgctxt "Monster:408:Name"
+msgid "CrazyManworm"
+msgstr ""
+
+#. 数据库字段：Monster[409].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[409].Name
+msgctxt "Monster:409:Name"
+msgid "CyanoGhast"
+msgstr ""
+
+#. 数据库字段：Monster[410].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[410].Name
+msgctxt "Monster:410:Name"
+msgid "DreamDevourer"
+msgstr ""
+
+#. 数据库字段：Monster[411].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[411].Name
+msgctxt "Monster:411:Name"
+msgid "DarkDevourer"
+msgstr ""
+
+#. 数据库字段：Monster[412].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[412].Name
+msgctxt "Monster:412:Name"
+msgid "HellSlasher"
+msgstr ""
+
+#. 数据库字段：Monster[413].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[413].Name
+msgctxt "Monster:413:Name"
+msgid "HellPirate"
+msgstr ""
+
+#. 数据库字段：Monster[414].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[414].Name
+msgctxt "Monster:414:Name"
+msgid "HellCannibal"
+msgstr ""
+
+#. 数据库字段：Monster[415].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[415].Name
+msgctxt "Monster:415:Name"
+msgid "HellBolt"
+msgstr ""
+
+#. 数据库字段：Monster[416].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[416].Name
+msgctxt "Monster:416:Name"
+msgid "WitchDoctor"
+msgstr ""
+
+#. 数据库字段：Monster[417].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[417].Name
+msgctxt "Monster:417:Name"
+msgid "CaveWitch"
+msgstr ""
+
+#. 数据库字段：Monster[418].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[418].Name
+msgctxt "Monster:418:Name"
+msgid "HellKeeper"
+msgstr ""
+
+#. 数据库字段：Monster[419].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[419].Name
+msgctxt "Monster:419:Name"
+msgid "MubZombie"
+msgstr ""
+
+#. 数据库字段：Monster[420].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[420].Name
+msgctxt "Monster:420:Name"
+msgid "FrozenZombie"
+msgstr ""
+
+#. 数据库字段：Monster[421].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[421].Name
+msgctxt "Monster:421:Name"
+msgid "DemonWolf"
+msgstr ""
+
+#. 数据库字段：Monster[422].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[422].Name
+msgctxt "Monster:422:Name"
+msgid "UndeadWolf"
+msgstr ""
+
+#. 数据库字段：Monster[423].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[423].Name
+msgctxt "Monster:423:Name"
+msgid "WhiteMammoth"
+msgstr ""
+
+#. 数据库字段：Monster[424].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[424].Name
+msgctxt "Monster:424:Name"
+msgid "DarkBeast"
+msgstr ""
+
+#. 数据库字段：Monster[425].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[425].Name
+msgctxt "Monster:425:Name"
+msgid "LightBeast"
+msgstr ""
+
+#. 数据库字段：Monster[426].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[426].Name
+msgctxt "Monster:426:Name"
+msgid "BloodBaboon"
+msgstr ""
+
+#. 数据库字段：Monster[427].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[427].Name
+msgctxt "Monster:427:Name"
+msgid "HardenRhino"
+msgstr ""
+
+#. 数据库字段：Monster[428].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[428].Name
+msgctxt "Monster:428:Name"
+msgid "DeathCrawler"
+msgstr ""
+
+#. 数据库字段：Monster[429].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[429].Name
+msgctxt "Monster:429:Name"
+msgid "BurningZombie"
+msgstr ""
+
+#. 数据库字段：Monster[430].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[430].Name
+msgctxt "Monster:430:Name"
+msgid "AncBringer"
+msgstr ""
+
+#. 数据库字段：Monster[431].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[431].Name
+msgctxt "Monster:431:Name"
+msgid "BeastKing"
+msgstr ""
+
+#. 数据库字段：Monster[432].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[432].Name
+msgctxt "Monster:432:Name"
+msgid "Hydra"
+msgstr ""
+
+#. 数据库字段：Monster[433].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[433].Name
+msgctxt "Monster:433:Name"
+msgid "SmallDrake"
+msgstr ""
+
+#. 数据库字段：Monster[434].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[434].Name
+msgctxt "Monster:434:Name"
+msgid "Manticore"
+msgstr ""
+
+#. 数据库字段：Monster[435].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[435].Name
+msgctxt "Monster:435:Name"
+msgid "KeelWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[436].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[436].Name
+msgctxt "Monster:436:Name"
+msgid "KeelArcher"
+msgstr ""
+
+#. 数据库字段：Monster[437].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[437].Name
+msgctxt "Monster:437:Name"
+msgid "SandStorm"
+msgstr ""
+
+#. 数据库字段：Monster[438].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[438].Name
+msgctxt "Monster:438:Name"
+msgid "Lamia"
+msgstr ""
+
+#. 数据库字段：Monster[439].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[439].Name
+msgctxt "Monster:439:Name"
+msgid "Slave2"
+msgstr ""
+
+#. 数据库字段：Monster[440].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[440].Name
+msgctxt "Monster:440:Name"
+msgid "FineSoul"
+msgstr ""
+
+#. 数据库字段：Monster[441].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[441].Name
+msgctxt "Monster:441:Name"
+msgid "Bear"
+msgstr ""
+
+#. 数据库字段：Monster[442].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[442].Name
+msgctxt "Monster:442:Name"
+msgid "TurtleGrass"
+msgstr ""
+
+#. 数据库字段：Monster[443].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[443].Name
+msgctxt "Monster:443:Name"
+msgid "Leopard"
+msgstr ""
+
+#. 数据库字段：Monster[444].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[444].Name
+msgctxt "Monster:444:Name"
+msgid "Minion_Warrior"
+msgstr ""
+
+#. 数据库字段：Monster[445].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[445].Name
+msgctxt "Monster:445:Name"
+msgid "Minion_Warlock"
+msgstr ""
+
+#. 数据库字段：Monster[446].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[446].Name
+msgctxt "Monster:446:Name"
+msgid "Minion_Priest"
+msgstr ""
+
+#. 数据库字段：Monster[447].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[447].Name
+msgctxt "Monster:447:Name"
+msgid "Minion_Rouge"
+msgstr ""
+
+#. 数据库字段：Monster[448].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[448].Name
+msgctxt "Monster:448:Name"
+msgid "Chieftain_Warrior"
+msgstr ""
+
+#. 数据库字段：Monster[449].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[449].Name
+msgctxt "Monster:449:Name"
+msgid "Chieftain_Warlock"
+msgstr ""
+
+#. 数据库字段：Monster[450].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[450].Name
+msgctxt "Monster:450:Name"
+msgid "Chieftain_Priest"
+msgstr ""
+
+#. 数据库字段：Monster[451].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[451].Name
+msgctxt "Monster:451:Name"
+msgid "Chieftain_Rouge"
+msgstr ""
+
+#. 数据库字段：Monster[452].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[452].Name
+msgctxt "Monster:452:Name"
+msgid "Chieftain_Archer"
+msgstr ""
+
+#. 数据库字段：Monster[453].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[453].Name
+msgctxt "Monster:453:Name"
+msgid "Master_DragonYang"
+msgstr ""
+
+#. 数据库字段：Monster[454].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[454].Name
+msgctxt "Monster:454:Name"
+msgid "Jar1"
+msgstr ""
+
+#. 数据库字段：Monster[455].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[455].Name
+msgctxt "Monster:455:Name"
+msgid "Jar2"
+msgstr ""
+
+#. 数据库字段：Monster[456].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[456].Name
+msgctxt "Monster:456:Name"
+msgid "FightingCat"
+msgstr ""
+
+#. 数据库字段：Monster[457].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[457].Name
+msgctxt "Monster:457:Name"
+msgid "FireCat"
+msgstr ""
+
+#. 数据库字段：Monster[458].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[458].Name
+msgctxt "Monster:458:Name"
+msgid "CatWidow"
+msgstr ""
+
+#. 数据库字段：Monster[459].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[459].Name
+msgctxt "Monster:459:Name"
+msgid "StainHammerCat"
+msgstr ""
+
+#. 数据库字段：Monster[460].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[460].Name
+msgctxt "Monster:460:Name"
+msgid "BlackHammerCat"
+msgstr ""
+
+#. 数据库字段：Monster[461].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[461].Name
+msgctxt "Monster:461:Name"
+msgid "StrayCat"
+msgstr ""
+
+#. 数据库字段：Monster[462].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[462].Name
+msgctxt "Monster:462:Name"
+msgid "CatShaman"
+msgstr ""
+
+#. 数据库字段：Monster[463].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[463].Name
+msgctxt "Monster:463:Name"
+msgid "SeedingsGeneral"
+msgstr ""
+
+#. 数据库字段：Monster[464].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[464].Name
+msgctxt "Monster:464:Name"
+msgid "RestlessJar"
+msgstr ""
+
+#. 数据库字段：Monster[465].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[465].Name
+msgctxt "Monster:465:Name"
+msgid "GeneralMeowMeow"
+msgstr ""
+
+#. 数据库字段：Monster[466].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[466].Name
+msgctxt "Monster:466:Name"
+msgid "TucsonEgg"
+msgstr ""
+
+#. 数据库字段：Monster[467].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[467].Name
+msgctxt "Monster:467:Name"
+msgid "YoungTucson"
+msgstr ""
+
+#. 数据库字段：Monster[468].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[468].Name
+msgctxt "Monster:468:Name"
+msgid "Armadillo"
+msgstr ""
+
+#. 数据库字段：Monster[469].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[469].Name
+msgctxt "Monster:469:Name"
+msgid "ArmadilloElder"
+msgstr ""
+
+#. 数据库字段：Monster[470].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[470].Name
+msgctxt "Monster:470:Name"
+msgid "VisceralWorm2"
+msgstr ""
+
+#. 数据库字段：Monster[471].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[471].Name
+msgctxt "Monster:471:Name"
+msgid "SandSnail"
+msgstr ""
+
+#. 数据库字段：Monster[472].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[472].Name
+msgctxt "Monster:472:Name"
+msgid "CannibalTentacles"
+msgstr ""
+
+#. 数据库字段：Monster[473].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[473].Name
+msgctxt "Monster:473:Name"
+msgid "Tucson"
+msgstr ""
+
+#. 数据库字段：Monster[474].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[474].Name
+msgctxt "Monster:474:Name"
+msgid "TucsonFighter"
+msgstr ""
+
+#. 数据库字段：Monster[475].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[475].Name
+msgctxt "Monster:475:Name"
+msgid "TucsonMage"
+msgstr ""
+
+#. 数据库字段：Monster[476].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[476].Name
+msgctxt "Monster:476:Name"
+msgid "TucsonWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[477].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[477].Name
+msgctxt "Monster:477:Name"
+msgid "TucsonGeneral"
+msgstr ""
+
+#. 数据库字段：Monster[478].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[478].Name
+msgctxt "Monster:478:Name"
+msgid "FrozenSolider"
+msgstr ""
+
+#. 数据库字段：Monster[479].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[479].Name
+msgctxt "Monster:479:Name"
+msgid "FrozenFighter"
+msgstr ""
+
+#. 数据库字段：Monster[480].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[480].Name
+msgctxt "Monster:480:Name"
+msgid "FrozenArcher"
+msgstr ""
+
+#. 数据库字段：Monster[481].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[481].Name
+msgctxt "Monster:481:Name"
+msgid "FrozenKnight"
+msgstr ""
+
+#. 数据库字段：Monster[482].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[482].Name
+msgctxt "Monster:482:Name"
+msgid "FrozenGolem"
+msgstr ""
+
+#. 数据库字段：Monster[483].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[483].Name
+msgctxt "Monster:483:Name"
+msgid "IcePhantom"
+msgstr ""
+
+#. 数据库字段：Monster[484].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[484].Name
+msgctxt "Monster:484:Name"
+msgid "SnowWolf"
+msgstr ""
+
+#. 数据库字段：Monster[485].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[485].Name
+msgctxt "Monster:485:Name"
+msgid "FrozenWarewolf"
+msgstr ""
+
+#. 数据库字段：Monster[486].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[486].Name
+msgctxt "Monster:486:Name"
+msgid "FrozenMiner"
+msgstr ""
+
+#. 数据库字段：Monster[487].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[487].Name
+msgctxt "Monster:487:Name"
+msgid "FrozenAxeman"
+msgstr ""
+
+#. 数据库字段：Monster[488].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[488].Name
+msgctxt "Monster:488:Name"
+msgid "FrozenMagician"
+msgstr ""
+
+#. 数据库字段：Monster[489].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[489].Name
+msgctxt "Monster:489:Name"
+msgid "SnowYeti"
+msgstr ""
+
+#. 数据库字段：Monster[490].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[490].Name
+msgctxt "Monster:490:Name"
+msgid "IceCrystalSolider"
+msgstr ""
+
+#. 数据库字段：Monster[491].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[491].Name
+msgctxt "Monster:491:Name"
+msgid "DarkWraith"
+msgstr ""
+
+#. 数据库字段：Monster[492].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[492].Name
+msgctxt "Monster:492:Name"
+msgid "DarkSpirit"
+msgstr ""
+
+#. 数据库字段：Monster[493].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[493].Name
+msgctxt "Monster:493:Name"
+msgid "SinseokMiner"
+msgstr ""
+
+#. 数据库字段：Monster[494].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[494].Name
+msgctxt "Monster:494:Name"
+msgid "BloodyLureSpider"
+msgstr ""
+
+#. 数据库字段：Monster[495].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[495].Name
+msgctxt "Monster:495:Name"
+msgid "GhostZombie"
+msgstr ""
+
+#. 数据库字段：Monster[496].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[496].Name
+msgctxt "Monster:496:Name"
+msgid "DarkPriestZombie"
+msgstr ""
+
+#. 数据库字段：Monster[497].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[497].Name
+msgctxt "Monster:497:Name"
+msgid "ChainGhoul"
+msgstr ""
+
+#. 数据库字段：Monster[498].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[498].Name
+msgctxt "Monster:498:Name"
+msgid "Guard3"
+msgstr ""
+
+#. 数据库字段：Monster[499].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[499].Name
+msgctxt "Monster:499:Name"
+msgid "ArcherGuard3"
+msgstr ""
+
+#. 数据库字段：Monster[500].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[500].Name
+msgctxt "Monster:500:Name"
+msgid "GameShop_Guard"
+msgstr ""
+
+#. 数据库字段：Monster[501].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[501].Name
+msgctxt "Monster:501:Name"
+msgid "Football"
+msgstr ""
+
+#. 数据库字段：Monster[502].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[502].Name
+msgctxt "Monster:502:Name"
+msgid "Royal_Guard"
+msgstr ""
+
+#. 数据库字段：Monster[503].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[503].Name
+msgctxt "Monster:503:Name"
+msgid "Royal_Archer"
+msgstr ""
+
+#. 数据库字段：Monster[504].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[504].Name
+msgctxt "Monster:504:Name"
+msgid "Royal_Lieutenant"
+msgstr ""
+
+#. 数据库字段：Monster[505].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[505].Name
+msgctxt "Monster:505:Name"
+msgid "PKSpirit"
+msgstr ""
+
+#. 数据库字段：Monster[506].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[506].Name
+msgctxt "Monster:506:Name"
+msgid "Frog"
+msgstr ""
+
+#. 数据库字段：Monster[512].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[512].Name
+msgctxt "Monster:512:Name"
+msgid "RedTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[513].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[513].Name
+msgctxt "Monster:513:Name"
+msgid "GreenTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[514].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[514].Name
+msgctxt "Monster:514:Name"
+msgid "BlueTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[515].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[515].Name
+msgctxt "Monster:515:Name"
+msgid "TowerTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[516].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[516].Name
+msgctxt "Monster:516:Name"
+msgid "FinialTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[517].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[517].Name
+msgctxt "Monster:517:Name"
+msgid "Hugger"
+msgstr ""
+
+#. 数据库字段：Monster[518].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[518].Name
+msgctxt "Monster:518:Name"
+msgid "PoisonHugger"
+msgstr ""
+
+#. 数据库字段：Monster[519].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[519].Name
+msgctxt "Monster:519:Name"
+msgid "MutatedHugger"
+msgstr ""
+
+#. 数据库字段：Monster[520].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[520].Name
+msgctxt "Monster:520:Name"
+msgid "HellKnight1"
+msgstr ""
+
+#. 数据库字段：Monster[521].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[521].Name
+msgctxt "Monster:521:Name"
+msgid "HellKnight2"
+msgstr ""
+
+#. 数据库字段：Monster[522].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[522].Name
+msgctxt "Monster:522:Name"
+msgid "HellKnight3"
+msgstr ""
+
+#. 数据库字段：Monster[523].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[523].Name
+msgctxt "Monster:523:Name"
+msgid "HellKnight4"
+msgstr ""
+
+#. 数据库字段：Monster[524].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[524].Name
+msgctxt "Monster:524:Name"
+msgid "HellBomb1"
+msgstr ""
+
+#. 数据库字段：Monster[525].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[525].Name
+msgctxt "Monster:525:Name"
+msgid "HellBomb2"
+msgstr ""
+
+#. 数据库字段：Monster[526].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[526].Name
+msgctxt "Monster:526:Name"
+msgid "HellBomb3"
+msgstr ""
+
+#. 数据库字段：Monster[527].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[527].Name
+msgctxt "Monster:527:Name"
+msgid "HellLord"
+msgstr ""
+
+#. 数据库字段：Monster[537].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[537].Name
+msgctxt "Monster:537:Name"
+msgid "Hydrax"
+msgstr ""
+
+#. 数据库字段：Monster[538].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[538].Name
+msgctxt "Monster:538:Name"
+msgid "HornedSorceror"
+msgstr ""
+
+#. 数据库字段：Monster[540].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[540].Name
+msgctxt "Monster:540:Name"
+msgid "HornedArcher"
+msgstr ""
+
+#. 数据库字段：Monster[541].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[541].Name
+msgctxt "Monster:541:Name"
+msgid "HornedCommander"
+msgstr ""
+
+#. 数据库字段：Monster[542].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[542].Name
+msgctxt "Monster:542:Name"
+msgid "HornedMage"
+msgstr ""
+
+#. 数据库字段：Monster[544].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[544].Name
+msgctxt "Monster:544:Name"
+msgid "HornedWarrior"
+msgstr ""
+
+#. 数据库字段：Monster[545].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[545].Name
+msgctxt "Monster:545:Name"
+msgid "BoulderSpirit"
+msgstr ""
+
+#. 数据库字段：Monster[546].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[546].Name
+msgctxt "Monster:546:Name"
+msgid "WarriorScroll"
+msgstr ""
+
+#. 数据库字段：Monster[547].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[547].Name
+msgctxt "Monster:547:Name"
+msgid "TaoistScroll"
+msgstr ""
+
+#. 数据库字段：Monster[548].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[548].Name
+msgctxt "Monster:548:Name"
+msgid "WizardScroll"
+msgstr ""
+
+#. 数据库字段：Monster[549].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[549].Name
+msgctxt "Monster:549:Name"
+msgid "AssassinScroll"
+msgstr ""
+
+#. 数据库字段：Monster[550].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[550].Name
+msgctxt "Monster:550:Name"
+msgid "ZumaStatue22"
+msgstr ""
+
+#. 数据库字段：Monster[551].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[551].Name
+msgctxt "Monster:551:Name"
+msgid "ZumaGuardian22"
+msgstr ""
+
+#. 数据库字段：Monster[552].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[552].Name
+msgctxt "Monster:552:Name"
+msgid "ZumaArcher22"
+msgstr ""
+
+#. 数据库字段：Monster[553].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[553].Name
+msgctxt "Monster:553:Name"
+msgid "WedgeMoth22"
+msgstr ""
+
+#. 数据库字段：Monster[554].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[554].Name
+msgctxt "Monster:554:Name"
+msgid "Michelangelo"
+msgstr ""
+
+#. 数据库字段：Monster[555].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[555].Name
+msgctxt "Monster:555:Name"
+msgid "Raphael"
+msgstr ""
+
+#. 数据库字段：Monster[556].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[556].Name
+msgctxt "Monster:556:Name"
+msgid "Donatello"
+msgstr ""
+
+#. 数据库字段：Monster[557].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[557].Name
+msgctxt "Monster:557:Name"
+msgid "BoneSpearman22"
+msgstr ""
+
+#. 数据库字段：Monster[558].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[558].Name
+msgctxt "Monster:558:Name"
+msgid "BoneBlademan22"
+msgstr ""
+
+#. 数据库字段：Monster[559].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[559].Name
+msgctxt "Monster:559:Name"
+msgid "BoneArcher22"
+msgstr ""
+
+#. 数据库字段：Monster[560].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[560].Name
+msgctxt "Monster:560:Name"
+msgid "BoneCaptain22"
+msgstr ""
+
+#. 数据库字段：Monster[561].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[561].Name
+msgctxt "Monster:561:Name"
+msgid "SeaTurtle"
+msgstr ""
+
+#. 数据库字段：Monster[562].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[562].Name
+msgctxt "Monster:562:Name"
+msgid "TreeQueen"
+msgstr ""
+
+#. 数据库字段：Monster[563].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[563].Name
+msgctxt "Monster:563:Name"
+msgid "Ancient_ZumaTaurus"
+msgstr ""
+
+#. 数据库字段：Monster[564].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[564].Name
+msgctxt "Monster:564:Name"
+msgid "Frozen_ZumaStatue"
+msgstr ""
+
+#. 数据库字段：Monster[565].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[565].Name
+msgctxt "Monster:565:Name"
+msgid "Frozen_ZumaGuardian"
+msgstr ""
+
+#. 数据库字段：Monster[566].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[566].Name
+msgctxt "Monster:566:Name"
+msgid "Frozen_RedZuma"
+msgstr ""
+
+#. 数据库字段：Monster[567].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[567].Name
+msgctxt "Monster:567:Name"
+msgid "StoneTrap"
+msgstr ""
+
+#. 数据库字段：Monster[568].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[568].Name
+msgctxt "Monster:568:Name"
+msgid "SabukGate"
+msgstr ""
+
+#. 数据库字段：Monster[569].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[569].Name
+msgctxt "Monster:569:Name"
+msgid "PalaceWallLeft"
+msgstr ""
+
+#. 数据库字段：Monster[570].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[570].Name
+msgctxt "Monster:570:Name"
+msgid "PalaceWall1"
+msgstr ""
+
+#. 数据库字段：Monster[571].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[571].Name
+msgctxt "Monster:571:Name"
+msgid "PalaceWall2"
+msgstr ""
+
+#. 数据库字段：Monster[572].Name
+#. 名称字段：回写前必须通过 Envir/Configs 引用扫描
+#: Server.MirDB Monster[572].Name
+msgctxt "Monster:572:Name"
+msgid "MudZombie"
+msgstr ""

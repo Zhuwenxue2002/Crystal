@@ -1,67 +1,49 @@
-<h1 align="center">
-Legend of Mir 2 - Official Public Crystal Source
-</h2>
+# Crystal Mir2 中文本地化分支
 
-<h3 align="center">
-  
-[![Latest Release](https://img.shields.io/github/v/release/JevLOMCN/mir4?label=release&style=flat-square)](https://github.com/Suprcode/Crystal/releases/latest)
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg?style=flat-square)](LICENSE)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-</h3>
+本仓库基于 [Suprcode/Crystal](https://github.com/Suprcode/Crystal)，用于《热血传奇 2》Crystal 客户端、服务端和游戏数据的简体中文本地化。
 
-<h2 align="center">
-  
-Crystal is the most widely used open-source server and client engine for The Legend of Mir 2, developed and maintained by the LOMCN community.
-Originally created by Jamie and contributors, Crystal is a modern, fully managed C# implementation of the classic Mir 2 server architecture, designed to be stable, flexible, and easy to build upon.
+## 当前状态
 
-The project faithfully recreates the gameplay systems of the original 1999 MMORPG by ActozSoft and Wemade Entertainment, while also introducing modern improvements such as:
+- 客户端与服务端默认语言已设为 `Chinese`。
+- 客户端 1,229 个、服务端/管理端 766 个语言键已与英文资源完整对齐。
+- 技能名、地图标题和任务数据库文本已完成一轮汉化。
+- NPC、任务、公告等脚本自然语言已在本地运行目录完成大范围处理。
+- 数据库的 3,823 个可翻译字段已迁移到四个 Weblate PO 组件，可进行多人翻译和进度统计。
+- 当前仍在处理名称引用联动；物品名、怪物名和部分 NPC 名尚未完成。
+- 硬编码英文清理和完整游戏内视觉验收尚未完成。
 
-🧰 Modular, readable C# codebase for both client and server
+准确进度、覆盖统计和版本控制边界见 [汉化状态](docs/localization-status.zh-CN.md)。
 
-🗺️ Custom map editor and data tools
+## 构建环境
 
-⚡ Performance improvements and bug fixes over legacy server files
+- Windows x64
+- Visual Studio 2022 17.8 或更高版本，或 .NET 8 SDK
+- 客户端运行所需的地图、素材和数据库资源
 
-🌍 Support for custom content, new features, and community expansions
+常用构建命令：
 
-Crystal has become the foundation for most private Legend of Mir 2 servers worldwide, serving as a cornerstone of the Mir development scene since its public release on LOMCN
-</h2>
+```powershell
+dotnet build Client/Client.csproj -c Debug
+dotnet build Server.MirForms/Server.csproj -c Debug
+```
 
----
+`Build/` 是本地运行产物目录，不受 Git 跟踪。仅克隆源码无法得到当前已处理的数据库和环境脚本；交付或迁移前请同时准备对应的运行资源包。
 
-## 🔗 Quick Links
+## 文档
 
-### LOMCN Community
+- [当前汉化状态](docs/localization-status.zh-CN.md)
+- [剩余工作计划](docs/localization-plan.zh-CN.md)
+- [术语表](docs/localization-glossary.zh-CN.md)
+- [数据库与名称联动流程](docs/localization-database.zh-CN.md)
+- [Weblate 数据库目录](Localization/Weblate/README.md)
 
-- 🛠️ [Build Guide](https://www.lomcn.net/wiki/index.php/Getting_Started)
-- 💬 [Wiki](https://www.lomcn.net/wiki/index.php/Crystal)
-- 🐞 [Help](https://www.lomcn.net/forum/forums/crystalm2-help.663/)
-- 📚 [Tutorials](https://www.lomcn.net/forum/forums/crystalm2-tutorials.634/)
+Weblate PO 是后续数据库翻译的协作源。既有 `docs/localization-*-mapping*.tsv` 暂时保留，用于恢复英文原文和审计历史；数据库 dump、候选表和引用扫描属于可再生成产物，不提交仓库。
 
-### Project Links
+## 上游资料
 
-- 🌐 [Databases](https://github.com/Suprcode/Crystal.Database)
-- 🌐 [Map Editor](https://github.com/Suprcode/Crystal.MapEditor)
+- [Crystal 上游仓库](https://github.com/Suprcode/Crystal)
+- [LOMCN Crystal Wiki](https://www.lomcn.net/wiki/index.php/Crystal)
+- [Crystal 数据库](https://github.com/Suprcode/Crystal.Database)
+- [地图编辑器](https://github.com/Suprcode/Crystal.MapEditor)
 
-### Official Links
-
-- <img src="https://web-cdn.mironline.co.kr/mir2/icon/mir2_favicon.ico" alt="Wemade" width="20"/> [Wemade Mir 2](https://mir2.mironline.co.kr/)
-
----
-
-# Contributors:
-
-> [Community Contributors](https://github.com/Suprcode/Crystal/graphs/contributors)
-
----
-
-## <img src="https://mirfiles.co.uk/resources/mir2/users/Jev/favicon.png" width="40"> Other Projects
-
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir1.png" alt="Mir1" width="20"/> [Mir 1](https://github.com/JevLOMCN/mir1/) | [Database](https://github.com/Suprcode/Carbon.Database) - Remake of ActozSoft's 1997 _The Legend Of Mir 1_
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir2.png" alt="Mir2" width="20"/> [Mir 2](https://github.com/Suprcode/Crystal) | [Database](https://github.com/Suprcode/Crystal.Database) | [Map Editor](https://github.com/Suprcode/Crystal.MapEditor) - Remake of ActozSoft/Wemade Entertainment's 1999 _The Legend Of Mir 2_
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir3.png" alt="Mir3" width="20"/> [Mir 3](https://github.com/Suprcode/Zircon) | [Database](https://mirfiles.com/resources/mir3/zircon/Database.7z) | [Map Editor](https://www.lomcn.net/forum/threads/map-editor.109317/)- Remake of Wemade Entertainment's 2003 _The Legend Of Mir 3_
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/woool.png" alt="WoOOL" width="20"/> [WoOOL](https://www.lomcn.net/forum/forums/woool-development-project-onyx.857/) - Remake of Shanda Games' (now Shengqu Games) 2003 _The World Of Legend_
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir3d.png" alt="Mir3D" width="20"/> [Mir 3D (Moon Spirit)](https://github.com/mir-ethernity/mir-eternal) | [Mir 3D (Holy Cow)](https://github.com/JevLOMCN/Eternal-Legend) - Remake of Shanda Games' (now Shengqu Games) 2016 _Legend Eternal_
-- <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Mir 4](https://github.com/JevLOMCN/mir4) - Remake of Wemade Entertainment's 2021 _Mir 4_
-
----
+本项目沿用上游仓库声明的 GPL-2.0 许可证。

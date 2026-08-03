@@ -1,0 +1,7599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crystal Mir2 Database\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocalizationDbTool\n"
+
+#. 数据库字段：Item[593].ToolTip
+#: Server.MirDB Item[593].ToolTip
+msgctxt "Item:593:ToolTip"
+msgid "wont"
+msgstr ""
+
+#. 数据库字段：Item[670].ToolTip
+#: Server.MirDB Item[670].ToolTip
+msgctxt "Item:670:ToolTip"
+msgid "Instantly heals player."
+msgstr "立即治疗玩家。"
+
+#. 数据库字段：Item[671].ToolTip
+#: Server.MirDB Item[671].ToolTip
+msgctxt "Item:671:ToolTip"
+msgid "Instantly heals player."
+msgstr "立即治疗玩家。"
+
+#. 数据库字段：Item[707].ToolTip
+#: Server.MirDB Item[707].ToolTip
+msgctxt "Item:707:ToolTip"
+msgid "Repairs equipped weapons durability to maximum."
+msgstr "将已装备武器的持久修复至上限。"
+
+#. 数据库字段：Item[708].ToolTip
+#: Server.MirDB Item[708].ToolTip
+msgctxt "Item:708:ToolTip"
+msgid "Repairs equipped weapons durability to maximum."
+msgstr "将已装备武器的持久修复至上限。"
+
+#. 数据库字段：Item[709].ToolTip
+#: Server.MirDB Item[709].ToolTip
+msgctxt "Item:709:ToolTip"
+msgid "wont"
+msgstr ""
+
+#. 数据库字段：Item[711].ToolTip
+#: Server.MirDB Item[711].ToolTip
+msgctxt "Item:711:ToolTip"
+msgid "Used in certain Taoist spells to give red poison (reduces defences)"
+msgstr "用于部分道士技能，可施加红毒（降低防御）。"
+
+#. 数据库字段：Item[712].ToolTip
+#: Server.MirDB Item[712].ToolTip
+msgctxt "Item:712:ToolTip"
+msgid "Required amulet for most Taoist spells."
+msgstr "多数道士技能所需的护身符。"
+
+#. 数据库字段：Item[713].ToolTip
+#: Server.MirDB Item[713].ToolTip
+msgctxt "Item:713:ToolTip"
+msgid "Bundle which contains total of 3000 Amulets"
+msgstr "内含总计 3000 张护身符的包裹。"
+
+#. 数据库字段：Item[714].ToolTip
+#: Server.MirDB Item[714].ToolTip
+msgctxt "Item:714:ToolTip"
+msgid "Required amulet for the Taoists resurrection spell."
+msgstr "道士复活术所需的护身符。"
+
+#. 数据库字段：Item[716].ToolTip
+#: Server.MirDB Item[716].ToolTip
+msgctxt "Item:716:ToolTip"
+msgid "Strange scroll that can take you back to your Guild's Home"
+msgstr "奇异卷轴，可将你带回行会驻地。"
+
+#. 数据库字段：Item[719].ToolTip
+#: Server.MirDB Item[719].ToolTip
+msgctxt "Item:719:ToolTip"
+msgid "Teleports player to their last saved safezone."
+msgstr "将玩家传送到最近保存的安全区。"
+
+#. 数据库字段：Item[794].ToolTip
+#: Server.MirDB Item[794].ToolTip
+msgctxt "Item:794:ToolTip"
+msgid "Premium Fishing Rod purchasable from the GameShop.\r\n-Duration 6 Months"
+msgstr "可在商城购买的高级鱼竿。\r\n-持续 6 个月"
+
+#. 数据库字段：Item[937].ToolTip
+#: Server.MirDB Item[937].ToolTip
+msgctxt "Item:937:ToolTip"
+msgid "Required for each upgrade."
+msgstr "每次升级都需要。"
+
+#. 数据库字段：Item[938].ToolTip
+#: Server.MirDB Item[938].ToolTip
+msgctxt "Item:938:ToolTip"
+msgid "Required for each upgrade."
+msgstr "每次升级都需要。"
+
+#. 数据库字段：Item[939].ToolTip
+#: Server.MirDB Item[939].ToolTip
+msgctxt "Item:939:ToolTip"
+msgid "Required for each upgrade."
+msgstr "每次升级都需要。"
+
+#. 数据库字段：Item[940].ToolTip
+#: Server.MirDB Item[940].ToolTip
+msgctxt "Item:940:ToolTip"
+msgid "Required for each upgrade."
+msgstr "每次升级都需要。"
+
+#. 数据库字段：Item[941].ToolTip
+#: Server.MirDB Item[941].ToolTip
+msgctxt "Item:941:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[942].ToolTip
+#: Server.MirDB Item[942].ToolTip
+msgctxt "Item:942:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[943].ToolTip
+#: Server.MirDB Item[943].ToolTip
+msgctxt "Item:943:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[944].ToolTip
+#: Server.MirDB Item[944].ToolTip
+msgctxt "Item:944:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[945].ToolTip
+#: Server.MirDB Item[945].ToolTip
+msgctxt "Item:945:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[946].ToolTip
+#: Server.MirDB Item[946].ToolTip
+msgctxt "Item:946:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[947].ToolTip
+#: Server.MirDB Item[947].ToolTip
+msgctxt "Item:947:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[948].ToolTip
+#: Server.MirDB Item[948].ToolTip
+msgctxt "Item:948:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[949].ToolTip
+#: Server.MirDB Item[949].ToolTip
+msgctxt "Item:949:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[950].ToolTip
+#: Server.MirDB Item[950].ToolTip
+msgctxt "Item:950:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[951].ToolTip
+#: Server.MirDB Item[951].ToolTip
+msgctxt "Item:951:ToolTip"
+msgid "Click this egg to obtain a Creature.\r\nA Creature can pickup your items for you while you can continue the fight."
+msgstr "点击此蛋可获得一只宠物。\r\n宠物会帮你拾取物品，让你可以继续战斗。"
+
+#. 数据库字段：Item[952].ToolTip
+#: Server.MirDB Item[952].ToolTip
+msgctxt "Item:952:ToolTip"
+msgid "With this mirror you can rename a creature."
+msgstr "使用这面镜子可以为宠物改名。"
+
+#. 数据库字段：Item[953].ToolTip
+#: Server.MirDB Item[953].ToolTip
+msgctxt "Item:953:ToolTip"
+msgid "Special creatures produce these rare stones every 3 hours.\r\nBreaking this stone will grant you a random item."
+msgstr "特殊宠物每 3 小时产出一次这种稀有石头。\r\n打碎后可获得随机物品。"
+
+#. 数据库字段：Item[954].ToolTip
+#: Server.MirDB Item[954].ToolTip
+msgctxt "Item:954:ToolTip"
+msgid "Maintain food level  for 10 hours."
+msgstr "维持饱食度 10 小时。"
+
+#. 数据库字段：Item[955].ToolTip
+#: Server.MirDB Item[955].ToolTip
+msgctxt "Item:955:ToolTip"
+msgid "You can give this to your creature.\r\n25%"
+msgstr "可喂给宠物。\r\n25%"
+
+#. 数据库字段：Item[956].ToolTip
+#: Server.MirDB Item[956].ToolTip
+msgctxt "Item:956:ToolTip"
+msgid "You can give this to your creature.\r\n50%"
+msgstr "可喂给宠物。\r\n50%"
+
+#. 数据库字段：Item[957].ToolTip
+#: Server.MirDB Item[957].ToolTip
+msgctxt "Item:957:ToolTip"
+msgid "You can give this to your creature.\r\n75%"
+msgstr "可喂给宠物。\r\n75%"
+
+#. 数据库字段：Item[958].ToolTip
+#: Server.MirDB Item[958].ToolTip
+msgctxt "Item:958:ToolTip"
+msgid "You can give this to your creature.\r\n100%"
+msgstr "可喂给宠物。\r\n100%"
+
+#. 数据库字段：Item[959].ToolTip
+#: Server.MirDB Item[959].ToolTip
+msgctxt "Item:959:ToolTip"
+msgid "When a creature's feeding reaches 0"
+msgstr "当宠物饱食度降为 0 时"
+
+#. 数据库字段：Item[960].ToolTip
+#: Server.MirDB Item[960].ToolTip
+msgctxt "Item:960:ToolTip"
+msgid "Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength."
+msgstr "打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。"
+
+#. 数据库字段：Item[961].ToolTip
+#: Server.MirDB Item[961].ToolTip
+msgctxt "Item:961:ToolTip"
+msgid "Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength."
+msgstr "打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。"
+
+#. 数据库字段：Item[962].ToolTip
+#: Server.MirDB Item[962].ToolTip
+msgctxt "Item:962:ToolTip"
+msgid "Open this box to receive a random wonder.\r\nWonderStrength is based on BoxStrength."
+msgstr "打开此盒可获得随机神物。\r\n神物强度取决于盒子强度。"
+
+#. 数据库字段：Item[963].ToolTip
+#: Server.MirDB Item[963].ToolTip
+msgctxt "Item:963:ToolTip"
+msgid "Increase Experience by 5% for 1 hour."
+msgstr "经验提高 5%，持续 1 小时。"
+
+#. 数据库字段：Item[964].ToolTip
+#: Server.MirDB Item[964].ToolTip
+msgctxt "Item:964:ToolTip"
+msgid "Increase DropRate by 10% for 1 hour."
+msgstr "掉落率提高 10%，持续 1 小时。"
+
+#. 数据库字段：Item[965].ToolTip
+#: Server.MirDB Item[965].ToolTip
+msgctxt "Item:965:ToolTip"
+msgid "Increase MaxHP by 50 for 1 hour."
+msgstr "最大 HP 提高 50，持续 1 小时。"
+
+#. 数据库字段：Item[966].ToolTip
+#: Server.MirDB Item[966].ToolTip
+msgctxt "Item:966:ToolTip"
+msgid "Increase MaxMP by 50 for 1 hour."
+msgstr "最大 MP 提高 50，持续 1 小时。"
+
+#. 数据库字段：Item[967].ToolTip
+#: Server.MirDB Item[967].ToolTip
+msgctxt "Item:967:ToolTip"
+msgid "Increase AC 1-1 for 1 hour."
+msgstr "防御提高 1-1，持续 1 小时。"
+
+#. 数据库字段：Item[968].ToolTip
+#: Server.MirDB Item[968].ToolTip
+msgctxt "Item:968:ToolTip"
+msgid "Increase AMC 1-1 for 1 hour."
+msgstr "魔防提高 1-1，持续 1 小时。"
+
+#. 数据库字段：Item[969].ToolTip
+#: Server.MirDB Item[969].ToolTip
+msgctxt "Item:969:ToolTip"
+msgid "Increase Speed for 30m."
+msgstr "速度提高，持续 30 分钟。"
+
+#. 数据库字段：Item[970].ToolTip
+#: Server.MirDB Item[970].ToolTip
+msgctxt "Item:970:ToolTip"
+msgid "Increase BagWeight by 3 for 5 hours."
+msgstr "背包负重提高 3，持续 5 小时。"
+
+#. 数据库字段：Item[971].ToolTip
+#: Server.MirDB Item[971].ToolTip
+msgctxt "Item:971:ToolTip"
+msgid "Increase BagWeight by 5 for 5 hours."
+msgstr "背包负重提高 5，持续 5 小时。"
+
+#. 数据库字段：Item[972].ToolTip
+#: Server.MirDB Item[972].ToolTip
+msgctxt "Item:972:ToolTip"
+msgid "Increase BagWeight by 9 for 5 hours."
+msgstr "背包负重提高 9，持续 5 小时。"
+
+#. 数据库字段：Item[973].ToolTip
+#: Server.MirDB Item[973].ToolTip
+msgctxt "Item:973:ToolTip"
+msgid "Hitting Accuracy is increased per spell level."
+msgstr "命中准确随技能等级提升。"
+
+#. 数据库字段：Item[974].ToolTip
+#: Server.MirDB Item[974].ToolTip
+msgctxt "Item:974:ToolTip"
+msgid "Your weapon becomes infused with strength"
+msgstr "你的武器将注入强大力量。"
+
+#. 数据库字段：Item[975].ToolTip
+#: Server.MirDB Item[975].ToolTip
+msgctxt "Item:975:ToolTip"
+msgid "Increases the distance of your attack"
+msgstr "增加你的攻击距离。"
+
+#. 数据库字段：Item[976].ToolTip
+#: Server.MirDB Item[976].ToolTip
+msgctxt "Item:976:ToolTip"
+msgid "Curves the swing of the weapon allowing\r\nyou to hit up to 4 targets at once.\r\n"
+msgstr "挥出弧形攻击，最多可同时命中 4 个目标。\r\n"
+
+#. 数据库字段：Item[977].ToolTip
+#: Server.MirDB Item[977].ToolTip
+msgctxt "Item:977:ToolTip"
+msgid "Charge at your target pushing them back"
+msgstr "冲向目标并将其击退。"
+
+#. 数据库字段：Item[978].ToolTip
+#: Server.MirDB Item[978].ToolTip
+msgctxt "Item:978:ToolTip"
+msgid "The weapon performs 2 swings in one motion.\r\nTarget has a chance of becoming stunned\r\nallowing more damage."
+msgstr "武器一次动作挥砍两次。\r\n目标有几率被击晕并受到更多伤害。"
+
+#. 数据库字段：Item[979].ToolTip
+#: Server.MirDB Item[979].ToolTip
+msgctxt "Item:979:ToolTip"
+msgid "Paralyses mobs and pulls them towards \r\nthe caster."
+msgstr "麻痹怪物并将其拉向施法者。"
+
+#. 数据库字段：Item[980].ToolTip
+#: Server.MirDB Item[980].ToolTip
+msgctxt "Item:980:ToolTip"
+msgid "Summons the spirit of fire causing a devastating\r\nblow to the target."
+msgstr "召唤火焰之灵，对目标造成毁灭性一击。"
+
+#. 数据库字段：Item[981].ToolTip
+#: Server.MirDB Item[981].ToolTip
+msgctxt "Item:981:ToolTip"
+msgid "The warrior lets out a bellowing roar"
+msgstr "战士发出震慑怒吼。"
+
+#. 数据库字段：Item[982].ToolTip
+#: Server.MirDB Item[982].ToolTip
+msgctxt "Item:982:ToolTip"
+msgid "Perform 2 curving swings with their weapon\r\nallowing them to hit up to 8 targets at once."
+msgstr "使用武器连续挥出两道弧形攻击，最多可同时命中 8 个目标。"
+
+#. 数据库字段：Item[983].ToolTip
+#: Server.MirDB Item[983].ToolTip
+msgctxt "Item:983:ToolTip"
+msgid "Performs a thrust like action in 3 directions."
+msgstr "向 3 个方向发动刺击。"
+
+#. 数据库字段：Item[984].ToolTip
+#: Server.MirDB Item[984].ToolTip
+msgctxt "Item:984:ToolTip"
+msgid "Warrior enters a hardened state of mind where\r\nany physical damage taken is reduced."
+msgstr "战士进入坚韧状态，受到的物理伤害降低。"
+
+#. 数据库字段：Item[985].ToolTip
+#: Server.MirDB Item[985].ToolTip
+msgctxt "Item:985:ToolTip"
+msgid "Warrior enters a enraged state of mind where\r\neach weapon swing hits harder."
+msgstr "战士进入狂怒状态，每次挥击伤害更高。"
+
+#. 数据库字段：Item[986].ToolTip
+#: Server.MirDB Item[986].ToolTip
+msgctxt "Item:986:ToolTip"
+msgid "Improves all defenses and has a chance\r\nto reflect damage to the attacker."
+msgstr "提高所有防御，并有几率将伤害反弹给攻击者。"
+
+#. 数据库字段：Item[987].ToolTip
+#: Server.MirDB Item[987].ToolTip
+msgctxt "Item:987:ToolTip"
+msgid "Warrior charges into his foes parting them\r\nlike waves while dealing additional damage."
+msgstr "战士冲入敌群，将敌人劈开并造成额外伤害。"
+
+#. 数据库字段：Item[988].ToolTip
+#: Server.MirDB Item[988].ToolTip
+msgctxt "Item:988:ToolTip"
+msgid "Increases the warriors attack speed for\r\na set period of time. "
+msgstr "在一段时间内提高战士的攻击速度。"
+
+#. 数据库字段：Item[990].ToolTip
+#: Server.MirDB Item[990].ToolTip
+msgctxt "Item:990:ToolTip"
+msgid "Long distance attack by hurling a fireball"
+msgstr "投掷火球进行远程攻击。"
+
+#. 数据库字段：Item[991].ToolTip
+#: Server.MirDB Item[991].ToolTip
+msgctxt "Item:991:ToolTip"
+msgid "Pushes away monsters and people surrounding\r\nyou."
+msgstr "推开周围的怪物和玩家。"
+
+#. 数据库字段：Item[992].ToolTip
+#: Server.MirDB Item[992].ToolTip
+msgctxt "Item:992:ToolTip"
+msgid "Stuns and confuses monsters. Can also be\r\nused to tame monsters."
+msgstr "击晕并迷惑怪物，也可用于驯服怪物。"
+
+#. 数据库字段：Item[993].ToolTip
+#: Server.MirDB Item[993].ToolTip
+msgctxt "Item:993:ToolTip"
+msgid "A powerful version of the Fireball spell."
+msgstr "火球术的强化版本。"
+
+#. 数据库字段：Item[994].ToolTip
+#: Server.MirDB Item[994].ToolTip
+msgctxt "Item:994:ToolTip"
+msgid "Throws a column of flame 5 squares straight\r\nahead of the caster."
+msgstr "向施法者前方 5 格释放一道火柱。"
+
+#. 数据库字段：Item[995].ToolTip
+#: Server.MirDB Item[995].ToolTip
+msgctxt "Item:995:ToolTip"
+msgid "Calls a thunderbolt to attack target from the sky."
+msgstr "召唤天雷攻击目标。"
+
+#. 数据库字段：Item[996].ToolTip
+#: Server.MirDB Item[996].ToolTip
+msgctxt "Item:996:ToolTip"
+msgid "Spell that moves you randomly within a province\r\nand used to escape dungeons."
+msgstr "在省内随机移动的法术，可用于逃离地牢。"
+
+#. 数据库字段：Item[997].ToolTip
+#: Server.MirDB Item[997].ToolTip
+msgctxt "Item:997:ToolTip"
+msgid "Creates an explosion of fire in 3x3 square causing\r\ndamage in its range.\r\n"
+msgstr "在 3x3 范围内制造火焰爆炸并造成伤害。\r\n"
+
+#. 数据库字段：Item[998].ToolTip
+#: Server.MirDB Item[998].ToolTip
+msgctxt "Item:998:ToolTip"
+msgid "Creates a wall of fire on the ground."
+msgstr "在地面上制造一道火墙。"
+
+#. 数据库字段：Item[999].ToolTip
+#: Server.MirDB Item[999].ToolTip
+msgctxt "Item:999:ToolTip"
+msgid "The caster creates a bolt of lightning"
+msgstr "施法者凝聚一道闪电。"
+
+#. 数据库字段：Item[1000].ToolTip
+#: Server.MirDB Item[1000].ToolTip
+msgctxt "Item:1000:ToolTip"
+msgid "Casts a ball of ice which damages the target \r\nwith a chance of impairing their movement \r\nspeed or freezing them."
+msgstr "释放冰球伤害目标，并有几率降低其移动速度或将其冻结。"
+
+#. 数据库字段：Item[1001].ToolTip
+#: Server.MirDB Item[1001].ToolTip
+msgctxt "Item:1001:ToolTip"
+msgid "A spell that creates a thunder storm around the\r\ncaster causing a shock on monsters into a\r\nstate of confusion."
+msgstr "在施法者周围制造雷暴，使怪物受到电击并陷入混乱。"
+
+#. 数据库字段：Item[1002].ToolTip
+#: Server.MirDB Item[1002].ToolTip
+msgctxt "Item:1002:ToolTip"
+msgid "Creates a protective field around caster that\r\nabsorbs any damage taken."
+msgstr "在施法者周围制造护盾，吸收受到的伤害。"
+
+#. 数据库字段：Item[1003].ToolTip
+#: Server.MirDB Item[1003].ToolTip
+msgctxt "Item:1003:ToolTip"
+msgid "Chance to kill any undead mob that meets the\r\nlevel requirements in a single cast."
+msgstr "有几率一击消灭满足等级要求的不死怪物。"
+
+#. 数据库字段：Item[1004].ToolTip
+#: Server.MirDB Item[1004].ToolTip
+msgctxt "Item:1004:ToolTip"
+msgid "Draws health from the victim to replenish the\r\ncasters own health."
+msgstr "从受害者身上汲取生命，恢复施法者自身生命。"
+
+#. 数据库字段：Item[1005].ToolTip
+#: Server.MirDB Item[1005].ToolTip
+msgctxt "Item:1005:ToolTip"
+msgid "Casts a powerful ice storm that circles the\r\nenemy causing damage on rotation."
+msgstr "释放强力冰风暴环绕敌人并持续造成伤害。"
+
+#. 数据库字段：Item[1006].ToolTip
+#: Server.MirDB Item[1006].ToolTip
+msgctxt "Item:1006:ToolTip"
+msgid "Casts a powerful column of fire that burns its\r\ntarget."
+msgstr "释放强力火柱灼烧目标。"
+
+#. 数据库字段：Item[1007].ToolTip
+#: Server.MirDB Item[1007].ToolTip
+msgctxt "Item:1007:ToolTip"
+msgid "Summons an indentical clone of the caster\r\nwhich will aid with attacks."
+msgstr "召唤与施法者相同的分身协助攻击。"
+
+#. 数据库字段：Item[1008].ToolTip
+#: Server.MirDB Item[1008].ToolTip
+msgctxt "Item:1008:ToolTip"
+msgid "Creates a huge burst of fire damaging anything\r\nin its range."
+msgstr "制造巨大的火焰爆发，伤害范围内所有目标。"
+
+#. 数据库字段：Item[1009].ToolTip
+#: Server.MirDB Item[1009].ToolTip
+msgctxt "Item:1009:ToolTip"
+msgid "The caster will summon a storm from the sky \r\nwhich drops shards of ice upon the target in a \r\n5x5 range."
+msgstr "施法者从天空召唤风暴，在 5x5 范围内向目标降下冰片。"
+
+#. 数据库字段：Item[1010].ToolTip
+#: Server.MirDB Item[1010].ToolTip
+msgctxt "Item:1010:ToolTip"
+msgid "Summons a magical eye allowing the caster to \r\nsee his enemies weakness's."
+msgstr "召唤魔法之眼，使施法者看穿敌人的弱点。"
+
+#. 数据库字段：Item[1011].ToolTip
+#: Server.MirDB Item[1011].ToolTip
+msgctxt "Item:1011:ToolTip"
+msgid "Caster summons a meteor storm from the sky \r\nwhich drops molten rock on the enemies in a \r\n5x5 range."
+msgstr "施法者从天空召唤流星风暴，对 5x5 范围内敌人降下熔岩。"
+
+#. 数据库字段：Item[1016].ToolTip
+#: Server.MirDB Item[1016].ToolTip
+msgctxt "Item:1016:ToolTip"
+msgid "Applies a heal over time effect on yourself or \r\nother friendly targets."
+msgstr "为自己或友方目标施加持续治疗效果。"
+
+#. 数据库字段：Item[1017].ToolTip
+#: Server.MirDB Item[1017].ToolTip
+msgctxt "Item:1017:ToolTip"
+msgid "Infuses your weapon with the power of spirit"
+msgstr "将灵魂之力注入你的武器。"
+
+#. 数据库字段：Item[1018].ToolTip
+#: Server.MirDB Item[1018].ToolTip
+msgctxt "Item:1018:ToolTip"
+msgid "Casts harmful poison onto target."
+msgstr "向目标施加有害毒素。"
+
+#. 数据库字段：Item[1019].ToolTip
+#: Server.MirDB Item[1019].ToolTip
+msgctxt "Item:1019:ToolTip"
+msgid "Casts a flaming amulet at the target inflicting \r\nfire damage."
+msgstr "向目标投掷燃烧护符，造成火焰伤害。"
+
+#. 数据库字段：Item[1020].ToolTip
+#: Server.MirDB Item[1020].ToolTip
+msgctxt "Item:1020:ToolTip"
+msgid "Summons a skeleton that will aid your attacks."
+msgstr "召唤骷髅协助你攻击。"
+
+#. 数据库字段：Item[1021].ToolTip
+#: Server.MirDB Item[1021].ToolTip
+msgctxt "Item:1021:ToolTip"
+msgid "Hide into the shadows making it difficult for \r\nmobs to see you."
+msgstr "隐入暗影，使怪物难以发现你。"
+
+#. 数据库字段：Item[1022].ToolTip
+#: Server.MirDB Item[1022].ToolTip
+msgctxt "Item:1022:ToolTip"
+msgid "Cast in 3x3 square all those effected hide into\r\nthe shadows making it difficult for mobs to see \r\nthem."
+msgstr "在 3x3 范围内施放，使受影响者隐入暗影，怪物难以发现他们。"
+
+#. 数据库字段：Item[1023].ToolTip
+#: Server.MirDB Item[1023].ToolTip
+msgctxt "Item:1023:ToolTip"
+msgid "Casts a magical glyph into the sky"
+msgstr "向天空释放一道魔法符印。"
+
+#. 数据库字段：Item[1024].ToolTip
+#: Server.MirDB Item[1024].ToolTip
+msgctxt "Item:1024:ToolTip"
+msgid "Reveals the targets health above their head."
+msgstr "在目标头顶显示其生命值。"
+
+#. 数据库字段：Item[1025].ToolTip
+#: Server.MirDB Item[1025].ToolTip
+msgctxt "Item:1025:ToolTip"
+msgid "Casts a magical glyph into the sky"
+msgstr "向天空释放一道魔法符印。"
+
+#. 数据库字段：Item[1026].ToolTip
+#: Server.MirDB Item[1026].ToolTip
+msgctxt "Item:1026:ToolTip"
+msgid "Creates a wave of energy that repulses foes\r\naway from you."
+msgstr "制造一股能量波，将敌人从你身边推开。"
+
+#. 数据库字段：Item[1027].ToolTip
+#: Server.MirDB Item[1027].ToolTip
+msgctxt "Item:1027:ToolTip"
+msgid "Traps multiple mobs inside a hexagon prism \r\nmaking them immobile."
+msgstr "将多个怪物困在六角结界内，使其无法移动。"
+
+#. 数据库字段：Item[1028].ToolTip
+#: Server.MirDB Item[1028].ToolTip
+msgctxt "Item:1028:ToolTip"
+msgid "Removes harmful effects from self or friendly \r\ntargets such as poison"
+msgstr "移除自己或友方目标身上的毒等有害效果。"
+
+#. 数据库字段：Item[1029].ToolTip
+#: Server.MirDB Item[1029].ToolTip
+msgctxt "Item:1029:ToolTip"
+msgid "Applies a heal over time effect to yourself or \r\nfriendly targets in a 3x3 range."
+msgstr "为自己或 3x3 范围内友方目标施加持续治疗效果。"
+
+#. 数据库字段：Item[1030].ToolTip
+#: Server.MirDB Item[1030].ToolTip
+msgctxt "Item:1030:ToolTip"
+msgid "Confuses mobs and enslaves them to fight for \r\nyou for a limited time."
+msgstr "迷惑怪物并短暂奴役它们为你作战。"
+
+#. 数据库字段：Item[1031].ToolTip
+#: Server.MirDB Item[1031].ToolTip
+msgctxt "Item:1031:ToolTip"
+msgid "Increases each class's primary offensive stat."
+msgstr "提高各职业的主要攻击属性。"
+
+#. 数据库字段：Item[1032].ToolTip
+#: Server.MirDB Item[1032].ToolTip
+msgctxt "Item:1032:ToolTip"
+msgid "Summons a fire breathing beast which will aid \r\nyour attacks."
+msgstr "召唤喷火神兽协助你攻击。"
+
+#. 数据库字段：Item[1033].ToolTip
+#: Server.MirDB Item[1033].ToolTip
+msgctxt "Item:1033:ToolTip"
+msgid "The taoist can bring back a dead player into \r\nthe living realm."
+msgstr "道士可将死亡玩家复活。"
+
+#. 数据库字段：Item[1034].ToolTip
+#: Server.MirDB Item[1034].ToolTip
+msgctxt "Item:1034:ToolTip"
+msgid "Summons an ancient spirit of thunder to aid \r\ntheir attacks."
+msgstr "召唤远古雷灵协助攻击。"
+
+#. 数据库字段：Item[1035].ToolTip
+#: Server.MirDB Item[1035].ToolTip
+msgctxt "Item:1035:ToolTip"
+msgid "Casts a magical glyph into the sky"
+msgstr "向天空释放一道魔法符印。"
+
+#. 数据库字段：Item[1036].ToolTip
+#: Server.MirDB Item[1036].ToolTip
+msgctxt "Item:1036:ToolTip"
+msgid "Casts a variation of poisons and debuff affects\r\nin a 3x3 square area. Changes affects \r\ndepending on poison equipped."
+msgstr "在 3x3 区域内施放多种毒与减益效果。效果会随装备的毒药变化。"
+
+#. 数据库字段：Item[1037].ToolTip
+#: Server.MirDB Item[1037].ToolTip
+msgctxt "Item:1037:ToolTip"
+msgid "Casts a toxic poison cloud in a 3x3 square \r\narea"
+msgstr "在 3x3 区域内释放剧毒云雾。"
+
+#. 数据库字段：Item[1038].ToolTip
+#: Server.MirDB Item[1038].ToolTip
+msgctxt "Item:1038:ToolTip"
+msgid "Castable on self and friendly targets"
+msgstr "可对自己和友方目标施放。"
+
+#. 数据库字段：Item[1039].ToolTip
+#: Server.MirDB Item[1039].ToolTip
+msgctxt "Item:1039:ToolTip"
+msgid "Increases pets defence and attack power for \r\na duration of time."
+msgstr "在一段时间内提高宠物的防御和攻击力。"
+
+#. 数据库字段：Item[1041].ToolTip
+#: Server.MirDB Item[1041].ToolTip
+msgctxt "Item:1041:ToolTip"
+msgid "Increases attack damage. Passive Skill."
+msgstr "提高攻击伤害。被动技能。"
+
+#. 数据库字段：Item[1083].ToolTip
+#: Server.MirDB Item[1083].ToolTip
+msgctxt "Item:1083:ToolTip"
+msgid "DollyMask"
+msgstr ""
+
+#. 数据库字段：Item[1084].ToolTip
+#: Server.MirDB Item[1084].ToolTip
+msgctxt "Item:1084:ToolTip"
+msgid "Jack Sparrow"
+msgstr ""
+
+#. 数据库字段：Item[1085].ToolTip
+#: Server.MirDB Item[1085].ToolTip
+msgctxt "Item:1085:ToolTip"
+msgid "Male Assassin"
+msgstr ""
+
+#. 数据库字段：Item[1086].ToolTip
+#: Server.MirDB Item[1086].ToolTip
+msgctxt "Item:1086:ToolTip"
+msgid "Female Assassin"
+msgstr ""
+
+#. 数据库字段：Item[1087].ToolTip
+#: Server.MirDB Item[1087].ToolTip
+msgctxt "Item:1087:ToolTip"
+msgid "Santa Claus with Candy cane."
+msgstr ""
+
+#. 数据库字段：Item[1088].ToolTip
+#: Server.MirDB Item[1088].ToolTip
+msgctxt "Item:1088:ToolTip"
+msgid "Santa's best friend"
+msgstr ""
+
+#. 数据库字段：Item[1089].ToolTip
+#: Server.MirDB Item[1089].ToolTip
+msgctxt "Item:1089:ToolTip"
+msgid "Spider(Scythe)"
+msgstr ""
+
+#. 数据库字段：Item[1090].ToolTip
+#: Server.MirDB Item[1090].ToolTip
+msgctxt "Item:1090:ToolTip"
+msgid "Manectric Club\t"
+msgstr ""
+
+#. 数据库字段：Item[1091].ToolTip
+#: Server.MirDB Item[1091].ToolTip
+msgctxt "Item:1091:ToolTip"
+msgid "Manectric Hammer"
+msgstr ""
+
+#. 数据库字段：Item[1092].ToolTip
+#: Server.MirDB Item[1092].ToolTip
+msgctxt "Item:1092:ToolTip"
+msgid "Spider(BarbarianScythe)"
+msgstr ""
+
+#. 数据库字段：Item[1093].ToolTip
+#: Server.MirDB Item[1093].ToolTip
+msgctxt "Item:1093:ToolTip"
+msgid "RedOverAlls(M)"
+msgstr ""
+
+#. 数据库字段：Item[1094].ToolTip
+#: Server.MirDB Item[1094].ToolTip
+msgctxt "Item:1094:ToolTip"
+msgid "Red/Yellow(F)"
+msgstr ""
+
+#. 数据库字段：Item[1095].ToolTip
+#: Server.MirDB Item[1095].ToolTip
+msgctxt "Item:1095:ToolTip"
+msgid "Blue(M)"
+msgstr ""
+
+#. 数据库字段：Item[1096].ToolTip
+#: Server.MirDB Item[1096].ToolTip
+msgctxt "Item:1096:ToolTip"
+msgid "Red/White(F)"
+msgstr ""
+
+#. 数据库字段：Item[1097].ToolTip
+#: Server.MirDB Item[1097].ToolTip
+msgctxt "Item:1097:ToolTip"
+msgid "Football Red"
+msgstr ""
+
+#. 数据库字段：Item[1098].ToolTip
+#: Server.MirDB Item[1098].ToolTip
+msgctxt "Item:1098:ToolTip"
+msgid "White Dress RedTrident(F)"
+msgstr ""
+
+#. 数据库字段：Item[1099].ToolTip
+#: Server.MirDB Item[1099].ToolTip
+msgctxt "Item:1099:ToolTip"
+msgid "Black Dress Fan"
+msgstr ""
+
+#. 数据库字段：Item[1100].ToolTip
+#: Server.MirDB Item[1100].ToolTip
+msgctxt "Item:1100:ToolTip"
+msgid "Black Sword(M)"
+msgstr ""
+
+#. 数据库字段：Item[1101].ToolTip
+#: Server.MirDB Item[1101].ToolTip
+msgctxt "Item:1101:ToolTip"
+msgid "Gold Armour + Scythe(M)"
+msgstr ""
+
+#. 数据库字段：Item[1102].ToolTip
+#: Server.MirDB Item[1102].ToolTip
+msgctxt "Item:1102:ToolTip"
+msgid "Ice King"
+msgstr ""
+
+#. 数据库字段：Item[1103].ToolTip
+#: Server.MirDB Item[1103].ToolTip
+msgctxt "Item:1103:ToolTip"
+msgid "Football Player Black uniform"
+msgstr ""
+
+#. 数据库字段：Item[1104].ToolTip
+#: Server.MirDB Item[1104].ToolTip
+msgctxt "Item:1104:ToolTip"
+msgid "Football Player Red and Blue uniform"
+msgstr ""
+
+#. 数据库字段：Item[1105].ToolTip
+#: Server.MirDB Item[1105].ToolTip
+msgctxt "Item:1105:ToolTip"
+msgid "Football Player White Blue stripe uniform"
+msgstr ""
+
+#. 数据库字段：Item[1106].ToolTip
+#: Server.MirDB Item[1106].ToolTip
+msgctxt "Item:1106:ToolTip"
+msgid "Football Player White uniform"
+msgstr ""
+
+#. 数据库字段：Item[1107].ToolTip
+#: Server.MirDB Item[1107].ToolTip
+msgctxt "Item:1107:ToolTip"
+msgid "Football Player Pink and Blue uniform"
+msgstr ""
+
+#. 数据库字段：Item[1108].ToolTip
+#: Server.MirDB Item[1108].ToolTip
+msgctxt "Item:1108:ToolTip"
+msgid "WhiteDress Blue/Red Trident"
+msgstr ""
+
+#. 数据库字段：Item[1109].ToolTip
+#: Server.MirDB Item[1109].ToolTip
+msgctxt "Item:1109:ToolTip"
+msgid "Angry Sheep"
+msgstr ""
+
+#. 数据库字段：Item[1110].ToolTip
+#: Server.MirDB Item[1110].ToolTip
+msgctxt "Item:1110:ToolTip"
+msgid "Formal Male"
+msgstr ""
+
+#. 数据库字段：Item[1268].ToolTip
+#: Server.MirDB Item[1268].ToolTip
+msgctxt "Item:1268:ToolTip"
+msgid "Improvement of Destruction for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升攻击。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1269].ToolTip
+#: Server.MirDB Item[1269].ToolTip
+msgctxt "Item:1269:ToolTip"
+msgid "Improvement of Destruction for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升攻击。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1270].ToolTip
+#: Server.MirDB Item[1270].ToolTip
+msgctxt "Item:1270:ToolTip"
+msgid "Improvement of Destruction for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升攻击。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1271].ToolTip
+#: Server.MirDB Item[1271].ToolTip
+msgctxt "Item:1271:ToolTip"
+msgid "Improvement of Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升魔法。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1272].ToolTip
+#: Server.MirDB Item[1272].ToolTip
+msgctxt "Item:1272:ToolTip"
+msgid "Improvement of Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升魔法。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1273].ToolTip
+#: Server.MirDB Item[1273].ToolTip
+msgctxt "Item:1273:ToolTip"
+msgid "Improvement of Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升魔法。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1274].ToolTip
+#: Server.MirDB Item[1274].ToolTip
+msgctxt "Item:1274:ToolTip"
+msgid "Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升道术。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1275].ToolTip
+#: Server.MirDB Item[1275].ToolTip
+msgctxt "Item:1275:ToolTip"
+msgid "Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升道术。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1276].ToolTip
+#: Server.MirDB Item[1276].ToolTip
+msgctxt "Item:1276:ToolTip"
+msgid "Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升道术。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1277].ToolTip
+#: Server.MirDB Item[1277].ToolTip
+msgctxt "Item:1277:ToolTip"
+msgid "Improvement of your Health for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升你的生命值。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1278].ToolTip
+#: Server.MirDB Item[1278].ToolTip
+msgctxt "Item:1278:ToolTip"
+msgid "Improvement of your Health for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的生命值。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1279].ToolTip
+#: Server.MirDB Item[1279].ToolTip
+msgctxt "Item:1279:ToolTip"
+msgid "Improvement of your Health for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的生命值。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1280].ToolTip
+#: Server.MirDB Item[1280].ToolTip
+msgctxt "Item:1280:ToolTip"
+msgid "Improvement of your Mana for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升你的魔法值。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1281].ToolTip
+#: Server.MirDB Item[1281].ToolTip
+msgctxt "Item:1281:ToolTip"
+msgid "Improvement of your Mana for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的魔法值。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1282].ToolTip
+#: Server.MirDB Item[1282].ToolTip
+msgctxt "Item:1282:ToolTip"
+msgid "Improvement of your Mana for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的魔法值。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1283].ToolTip
+#: Server.MirDB Item[1283].ToolTip
+msgctxt "Item:1283:ToolTip"
+msgid "Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升你的攻击速度。\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1284].ToolTip
+#: Server.MirDB Item[1284].ToolTip
+msgctxt "Item:1284:ToolTip"
+msgid "Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的攻击速度。\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1285].ToolTip
+#: Server.MirDB Item[1285].ToolTip
+msgctxt "Item:1285:ToolTip"
+msgid "Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内提升你的攻击速度。\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1286].ToolTip
+#: Server.MirDB Item[1286].ToolTip
+msgctxt "Item:1286:ToolTip"
+msgid "Scroll which revives you from death.\r\nRessurection HP 100%\r\nRessurection MP 100%\r\n "
+msgstr "可使你从死亡中复活的卷轴。\r\n复活后 HP 100%\r\n复活后 MP 100%\r\n"
+
+#. 数据库字段：Item[1287].ToolTip
+#: Server.MirDB Item[1287].ToolTip
+msgctxt "Item:1287:ToolTip"
+msgid "Scroll which reduces your PK Score.\r\n-PK Point reduced by 100\r\n-Useage Once.\r\n"
+msgstr "可减少 PK 值的卷轴。\r\n-PK 值减少 100\r\n-一次性使用。\r\n"
+
+#. 数据库字段：Item[1288].ToolTip
+#: Server.MirDB Item[1288].ToolTip
+msgctxt "Item:1288:ToolTip"
+msgid "A mysterious scroll with locations of all the towns.\r\n-Useage Once."
+msgstr "记录所有城镇位置的神秘卷轴。\r\n-一次性使用。"
+
+#. 数据库字段：Item[1289].ToolTip
+#: Server.MirDB Item[1289].ToolTip
+msgctxt "Item:1289:ToolTip"
+msgid "A mysterious scroll with locations of all the \r\ndungeon entrances.\r\n-Useage Once."
+msgstr "记录所有地牢入口位置的神秘卷轴。\r\n-一次性使用。"
+
+#. 数据库字段：Item[1290].ToolTip
+#: Server.MirDB Item[1290].ToolTip
+msgctxt "Item:1290:ToolTip"
+msgid "A Scroll which allow you to Summon One Guard.\r\n-Summons One Guard.\r\n-Duration 7 Days.\r\n-Command @GuardsHelp"
+msgstr "可召唤一名守卫的卷轴。\r\n-召唤一名守卫。\r\n-持续 7 天。\r\n-命令 @GuardsHelp"
+
+#. 数据库字段：Item[1291].ToolTip
+#: Server.MirDB Item[1291].ToolTip
+msgctxt "Item:1291:ToolTip"
+msgid "Ancient Horn which ables you to shout across a location.\r\n-Shout in Green across a location.\r\n-Useage Once."
+msgstr "古老号角，可在当前位置范围喊话。\r\n-以绿色文字向当前位置喊话。\r\n-一次性使用。"
+
+#. 数据库字段：Item[1292].ToolTip
+#: Server.MirDB Item[1292].ToolTip
+msgctxt "Item:1292:ToolTip"
+msgid "Ancient Horn which ables you to shout across the nation.\r\n-Shout in Purple across the nation.\r\n-Useage Once."
+msgstr "古老号角，可向全服喊话。\r\n-以紫色文字向全服喊话。\r\n-一次性使用。"
+
+#. 数据库字段：Item[1293].ToolTip
+#: Server.MirDB Item[1293].ToolTip
+msgctxt "Item:1293:ToolTip"
+msgid "Mysterious Scroll. Which changes your Gender.\r\n-Useage Once."
+msgstr "神秘卷轴，可改变你的性别。\r\n-一次性使用。"
+
+#. 数据库字段：Item[1294].ToolTip
+#: Server.MirDB Item[1294].ToolTip
+msgctxt "Item:1294:ToolTip"
+msgid "Mysterious Stone. Which Gives you additional Experience.\r\n-Additional Experience 30%\r\n-None Stackable\r\n-Command @MysteriousStoneON\r\n-Command @MysteriousStoneOFF\r\n                  "
+msgstr "神秘石，可提供额外经验。\r\n-额外经验 30%\r\n-不可叠加\r\n-命令 @MysteriousStoneON\r\n-命令 @MysteriousStoneOFF"
+
+#. 数据库字段：Item[1295].ToolTip
+#: Server.MirDB Item[1295].ToolTip
+msgctxt "Item:1295:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Destruction Power +1\r\n-Duratiuon 3 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-攻击 +1\\r\\n-持续 3 小时"
+
+#. 数据库字段：Item[1296].ToolTip
+#: Server.MirDB Item[1296].ToolTip
+msgctxt "Item:1296:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 3 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-魔法 +1\\r\\n-持续 3 小时"
+
+#. 数据库字段：Item[1297].ToolTip
+#: Server.MirDB Item[1297].ToolTip
+msgctxt "Item:1297:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Soul Power +1\r\n-Duratiuon 3 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-道术 +1\\r\\n-持续 3 小时"
+
+#. 数据库字段：Item[1298].ToolTip
+#: Server.MirDB Item[1298].ToolTip
+msgctxt "Item:1298:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 2 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-攻击 +3\\r\\n-持续 2 小时"
+
+#. 数据库字段：Item[1299].ToolTip
+#: Server.MirDB Item[1299].ToolTip
+msgctxt "Item:1299:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Magical Power +3\r\n-Duratiuon 2 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-魔法 +3\\r\\n-持续 2 小时"
+
+#. 数据库字段：Item[1300].ToolTip
+#: Server.MirDB Item[1300].ToolTip
+msgctxt "Item:1300:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 2 Hours"
+msgstr "商城购买的高级火炬。\\r\\n-道术 +3\\r\\n-持续 2 小时"
+
+#. 数据库字段：Item[1301].ToolTip
+#: Server.MirDB Item[1301].ToolTip
+msgctxt "Item:1301:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1302].ToolTip
+#: Server.MirDB Item[1302].ToolTip
+msgctxt "Item:1302:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1303].ToolTip
+#: Server.MirDB Item[1303].ToolTip
+msgctxt "Item:1303:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1304].ToolTip
+#: Server.MirDB Item[1304].ToolTip
+msgctxt "Item:1304:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 30%\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 30%\\r\\n-持续 1 天\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1305].ToolTip
+#: Server.MirDB Item[1305].ToolTip
+msgctxt "Item:1305:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 1 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1306].ToolTip
+#: Server.MirDB Item[1306].ToolTip
+msgctxt "Item:1306:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 3 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1307].ToolTip
+#: Server.MirDB Item[1307].ToolTip
+msgctxt "Item:1307:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 5 Hours\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 5 小时\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1308].ToolTip
+#: Server.MirDB Item[1308].ToolTip
+msgctxt "Item:1308:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 50%\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 50%\\r\\n-持续 1 天\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1309].ToolTip
+#: Server.MirDB Item[1309].ToolTip
+msgctxt "Item:1309:ToolTip"
+msgid "Additional Drop Rate acquired for a period of time.\r\n-Additional Drop Increase by 20%\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "在一段时间内获得额外掉落率。\\r\\n-额外掉落率提高 20%\\r\\n-持续 1 天\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1310].ToolTip
+#: Server.MirDB Item[1310].ToolTip
+msgctxt "Item:1310:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1311].ToolTip
+#: Server.MirDB Item[1311].ToolTip
+msgctxt "Item:1311:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1312].ToolTip
+#: Server.MirDB Item[1312].ToolTip
+msgctxt "Item:1312:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1313].ToolTip
+#: Server.MirDB Item[1313].ToolTip
+msgctxt "Item:1313:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1314].ToolTip
+#: Server.MirDB Item[1314].ToolTip
+msgctxt "Item:1314:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1315].ToolTip
+#: Server.MirDB Item[1315].ToolTip
+msgctxt "Item:1315:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1316].ToolTip
+#: Server.MirDB Item[1316].ToolTip
+msgctxt "Item:1316:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 3 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 3 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1317].ToolTip
+#: Server.MirDB Item[1317].ToolTip
+msgctxt "Item:1317:ToolTip"
+msgid "Limited Item.\r\nPotion which gives the following enhancements.\r\n-Duration 7 Hours\r\n-None Stackable"
+msgstr "限时物品。\r\n药水会提供以下强化。\r\n-持续 7 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1318].ToolTip
+#: Server.MirDB Item[1318].ToolTip
+msgctxt "Item:1318:ToolTip"
+msgid "Improvement of your Physical Defence for a certain period of time.\r\n-Physical Defence + 7\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "在一段时间内提升你的物理防御。\r\n-物理防御 +7\r\n-持续 1 天\r\n-不可叠加"
+
+#. 数据库字段：Item[1319].ToolTip
+#: Server.MirDB Item[1319].ToolTip
+msgctxt "Item:1319:ToolTip"
+msgid "Improvement of your Accuracy for a certain period of time.\r\n-Duration 1 Hour\r\n-None Stackable"
+msgstr "在一段时间内提升你的准确。\r\n-持续 1 小时\r\n-不可叠加"
+
+#. 数据库字段：Item[1320].ToolTip
+#: Server.MirDB Item[1320].ToolTip
+msgctxt "Item:1320:ToolTip"
+msgid "Physical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Destruction + 9\r\n-DCTorch\r\n-A.Speed + 8\r\n-Resurrection Scroll *ALL ARE 30 MINS*"
+msgstr "物理狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-攻击 +9\r\n-攻击火炬\r\n-攻速 +8\r\n-复活卷轴 *全部持续 30 分钟*"
+
+#. 数据库字段：Item[1321].ToolTip
+#: Server.MirDB Item[1321].ToolTip
+msgctxt "Item:1321:ToolTip"
+msgid "Magical Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Magical + 7\r\n-MCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*"
+msgstr "魔法狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-魔法 +7\r\n-魔法火炬\r\n-复活卷轴 *全部持续 30 分钟*"
+
+#. 数据库字段：Item[1322].ToolTip
+#: Server.MirDB Item[1322].ToolTip
+msgctxt "Item:1322:ToolTip"
+msgid "Soul Hunting Package consists of.\r\n-Experience + 30%\r\n-MAXHP + 180\r\n-Soul + 7\r\n-SCTorch\r\n-Resurrection Scroll *ALL ARE 30 MINS*"
+msgstr "道术狩猎礼包包含：\r\n-经验 +30%\r\n-最大 HP +180\r\n-道术 +7\r\n-道术火炬\r\n-复活卷轴 *全部持续 30 分钟*"
+
+#. 数据库字段：Item[1323].ToolTip
+#: Server.MirDB Item[1323].ToolTip
+msgctxt "Item:1323:ToolTip"
+msgid "Improvement of Destruction for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable"
+msgstr "在一段时间内提升攻击。\\r\\n-持续 30 分钟\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1324].ToolTip
+#: Server.MirDB Item[1324].ToolTip
+msgctxt "Item:1324:ToolTip"
+msgid "Improvement of Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable"
+msgstr "在一段时间内提升魔法。\\r\\n-持续 30 分钟\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1325].ToolTip
+#: Server.MirDB Item[1325].ToolTip
+msgctxt "Item:1325:ToolTip"
+msgid "Improvement of Soul Magic for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable"
+msgstr "在一段时间内提升道术。\\r\\n-持续 30 分钟\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1326].ToolTip
+#: Server.MirDB Item[1326].ToolTip
+msgctxt "Item:1326:ToolTip"
+msgid "Improvement of your Health for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable"
+msgstr "在一段时间内提升你的生命值。\\r\\n-持续 30 分钟\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1327].ToolTip
+#: Server.MirDB Item[1327].ToolTip
+msgctxt "Item:1327:ToolTip"
+msgid "Improvement of your Attack Speed for a certain period of time.\r\n-Duratiuon 30 Minuets\r\n-None Stackable"
+msgstr "在一段时间内提升你的攻击速度。\\r\\n-持续 30 分钟\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1336].ToolTip
+#: Server.MirDB Item[1336].ToolTip
+msgctxt "Item:1336:ToolTip"
+msgid "Medicine which reduces your PK Point by 10."
+msgstr "可减少 10 点 PK 值的药物。"
+
+#. 数据库字段：Item[1337].ToolTip
+#: Server.MirDB Item[1337].ToolTip
+msgctxt "Item:1337:ToolTip"
+msgid "Quest reward item.\r\nA mysterious box with the contents consist of:\r\n-ElixirOfMight[1]\r\n-ElixirOfDefensive[1]\r\n-ElixirOfGinseng[1]\r\n-EXP20%[1]\r\n-Duration  1 Day"
+msgstr "任务奖励物品。\r\n神秘盒子内含：\r\n-力量灵药[1]\r\n-防御灵药[1]\r\n-人参灵药[1]\r\n-EXP20%[1]\r\n-持续 1 天"
+
+#. 数据库字段：Item[1338].ToolTip
+#: Server.MirDB Item[1338].ToolTip
+msgctxt "Item:1338:ToolTip"
+msgid "A Mysterious potion contained from a BoxofHolyWater\r\n-Destruction + 7\r\n-Magical + 5\r\n-Soul + 5\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "圣水盒中获得的神秘药水。\r\n-攻击 +7\r\n-魔法 +5\r\n-道术 +5\r\n-持续 1 天\r\n-不可叠加"
+
+#. 数据库字段：Item[1339].ToolTip
+#: Server.MirDB Item[1339].ToolTip
+msgctxt "Item:1339:ToolTip"
+msgid "A Mysterious potion contained from a BoxofHolyWater\r\n-Physical Defence + 7\r\n-Magical Defence + 5\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "圣水盒中获得的神秘药水。\r\n-物理防御 +7\r\n-魔法防御 +5\r\n-持续 1 天\r\n-不可叠加"
+
+#. 数据库字段：Item[1340].ToolTip
+#: Server.MirDB Item[1340].ToolTip
+msgctxt "Item:1340:ToolTip"
+msgid "A Mysterious potion contained from a BoxofHolyWater\r\n-Max HP + 50\r\n-Max MP + 70\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "圣水盒中获得的神秘药水。\r\n-最大 HP +50\r\n-最大 MP +70\r\n-持续 1 天\r\n-不可叠加"
+
+#. 数据库字段：Item[1341].ToolTip
+#: Server.MirDB Item[1341].ToolTip
+msgctxt "Item:1341:ToolTip"
+msgid "Additional Experience acquired for a period of time.\r\n-Additional Experience 20%\r\n-Duration 1 Day\r\n-None Stackable"
+msgstr "在一段时间内获得额外经验。\\r\\n-额外经验 20%\\r\\n-持续 1 天\\r\\n-不可叠加"
+
+#. 数据库字段：Item[1342].ToolTip
+#: Server.MirDB Item[1342].ToolTip
+msgctxt "Item:1342:ToolTip"
+msgid "-Allows Entry to the Premium Dungeon\r\n-Duration 1 Day"
+msgstr "-允许进入高级地牢\\r\\n-持续 1 天"
+
+#. 数据库字段：Item[1343].ToolTip
+#: Server.MirDB Item[1343].ToolTip
+msgctxt "Item:1343:ToolTip"
+msgid "-Allows Entry to the Premium Dungeon\r\n-Duration 3 Days"
+msgstr "-允许进入高级地牢\\r\\n-持续 3 天"
+
+#. 数据库字段：Item[1344].ToolTip
+#: Server.MirDB Item[1344].ToolTip
+msgctxt "Item:1344:ToolTip"
+msgid "-Allows Entry to the Premium Dungeon\r\n-Duration 7 Days"
+msgstr "-允许进入高级地牢\\r\\n-持续 7 天"
+
+#. 数据库字段：Item[1345].ToolTip
+#: Server.MirDB Item[1345].ToolTip
+msgctxt "Item:1345:ToolTip"
+msgid "-Allows Entry to the Premium Dungeon\r\n-Duration 15 Days"
+msgstr "-允许进入高级地牢\\r\\n-持续 15 天"
+
+#. 数据库字段：Item[1346].ToolTip
+#: Server.MirDB Item[1346].ToolTip
+msgctxt "Item:1346:ToolTip"
+msgid "Premium Fishing Package.\r\nPurchased from the GameShop package consists of:\r\n:RedFishingRod (6 Months)\r\n:PremiumReel\r\n:PremiumFloat\r\n:PremiumFinder\r\n:PremiumBait x7200"
+msgstr "高级钓鱼礼包。\r\n商城购买礼包包含：\r\n:红色鱼竿（6 个月）\r\n:高级鱼线轮\r\n:高级浮漂\r\n:高级探测器\r\n:高级鱼饵 x7200"
+
+#. 数据库字段：Item[1350].ToolTip
+#: Server.MirDB Item[1350].ToolTip
+msgctxt "Item:1350:ToolTip"
+msgid "Costume Girl"
+msgstr ""
+
+#. 数据库字段：Item[1351].ToolTip
+#: Server.MirDB Item[1351].ToolTip
+msgctxt "Item:1351:ToolTip"
+msgid "BlackTiger(F)"
+msgstr ""
+
+#. 数据库字段：Item[1352].ToolTip
+#: Server.MirDB Item[1352].ToolTip
+msgctxt "Item:1352:ToolTip"
+msgid "BlackTiger(M)"
+msgstr ""
+
+#. 数据库字段：Item[1353].ToolTip
+#: Server.MirDB Item[1353].ToolTip
+msgctxt "Item:1353:ToolTip"
+msgid "Bossy(F)"
+msgstr ""
+
+#. 数据库字段：Item[1354].ToolTip
+#: Server.MirDB Item[1354].ToolTip
+msgctxt "Item:1354:ToolTip"
+msgid "Bossy(M)"
+msgstr ""
+
+#. 数据库字段：Item[1355].ToolTip
+#: Server.MirDB Item[1355].ToolTip
+msgctxt "Item:1355:ToolTip"
+msgid "GymnasticsQueen"
+msgstr ""
+
+#. 数据库字段：Item[1356].ToolTip
+#: Server.MirDB Item[1356].ToolTip
+msgctxt "Item:1356:ToolTip"
+msgid "OldManFishing"
+msgstr ""
+
+#. 数据库字段：Item[1357].ToolTip
+#: Server.MirDB Item[1357].ToolTip
+msgctxt "Item:1357:ToolTip"
+msgid "Pig"
+msgstr ""
+
+#. 数据库字段：Item[1358].ToolTip
+#: Server.MirDB Item[1358].ToolTip
+msgctxt "Item:1358:ToolTip"
+msgid "SkiKid"
+msgstr ""
+
+#. 数据库字段：Item[1359].ToolTip
+#: Server.MirDB Item[1359].ToolTip
+msgctxt "Item:1359:ToolTip"
+msgid "Sportman"
+msgstr ""
+
+#. 数据库字段：Item[1360].ToolTip
+#: Server.MirDB Item[1360].ToolTip
+msgctxt "Item:1360:ToolTip"
+msgid "Yizhili"
+msgstr ""
+
+#. 数据库字段：Item[1361].ToolTip
+#: Server.MirDB Item[1361].ToolTip
+msgctxt "Item:1361:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Destruction Power +3\r\n-Duratiuon 30 Minutes"
+msgstr "商城购买的高级火炬。\\r\\n-攻击 +3\\r\\n-持续 30 分钟"
+
+#. 数据库字段：Item[1362].ToolTip
+#: Server.MirDB Item[1362].ToolTip
+msgctxt "Item:1362:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Magical Power +1\r\n-Duratiuon 30 Minutes"
+msgstr "商城购买的高级火炬。\\r\\n-魔法 +1\\r\\n-持续 30 分钟"
+
+#. 数据库字段：Item[1363].ToolTip
+#: Server.MirDB Item[1363].ToolTip
+msgctxt "Item:1363:ToolTip"
+msgid "Premium Torch purchased from the GameShop.\r\n-Soul Power +3\r\n-Duratiuon 30 Minutes"
+msgstr "商城购买的高级火炬。\\r\\n-道术 +3\\r\\n-持续 30 分钟"
+
+#. 数据库字段：Item[1368].ToolTip
+#: Server.MirDB Item[1368].ToolTip
+msgctxt "Item:1368:ToolTip"
+msgid "Invite players to your GT."
+msgstr "邀请玩家进入你的行会试炼。"
+
+#. 数据库字段：Item[1386].ToolTip
+#: Server.MirDB Item[1386].ToolTip
+msgctxt "Item:1386:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1388].ToolTip
+#: Server.MirDB Item[1388].ToolTip
+msgctxt "Item:1388:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1389].ToolTip
+#: Server.MirDB Item[1389].ToolTip
+msgctxt "Item:1389:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1390].ToolTip
+#: Server.MirDB Item[1390].ToolTip
+msgctxt "Item:1390:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1391].ToolTip
+#: Server.MirDB Item[1391].ToolTip
+msgctxt "Item:1391:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1392].ToolTip
+#: Server.MirDB Item[1392].ToolTip
+msgctxt "Item:1392:ToolTip"
+msgid "In the Kunlun region, it seems to have lost its strength"
+msgstr ""
+
+#. 数据库字段：Item[1477].ToolTip
+#: Server.MirDB Item[1477].ToolTip
+msgctxt "Item:1477:ToolTip"
+msgid "Shoes that allow you to walk quickly as if you have wings, as if you are walking on air without touching the ground. \\ \\When combining each set effect item with a holy relic + divine relic grade, the holy relic set effect is applied."
+msgstr "让你如有双翼般快速行走的鞋子，仿佛踏空而行。\\ \\将每件套装效果物品与圣遗物 + 神遗物等级组合时，会应用圣遗物套装效果。"
+
+#. 数据库字段：Magic[1].Name
+#: Server.MirDB Magic[1].Name
+msgctxt "Magic:1:Name"
+msgid "Fencing"
+msgstr "基本剑术"
+
+#. 数据库字段：Magic[2].Name
+#: Server.MirDB Magic[2].Name
+msgctxt "Magic:2:Name"
+msgid "Slaying"
+msgstr "攻杀剑术"
+
+#. 数据库字段：Magic[3].Name
+#: Server.MirDB Magic[3].Name
+msgctxt "Magic:3:Name"
+msgid "Thrusting"
+msgstr "刺杀剑术"
+
+#. 数据库字段：Magic[4].Name
+#: Server.MirDB Magic[4].Name
+msgctxt "Magic:4:Name"
+msgid "HalfMoon"
+msgstr "半月弯刀"
+
+#. 数据库字段：Magic[5].Name
+#: Server.MirDB Magic[5].Name
+msgctxt "Magic:5:Name"
+msgid "ShoulderDash"
+msgstr "野蛮冲撞"
+
+#. 数据库字段：Magic[6].Name
+#: Server.MirDB Magic[6].Name
+msgctxt "Magic:6:Name"
+msgid "TwinDrakeBlade"
+msgstr "双龙斩"
+
+#. 数据库字段：Magic[7].Name
+#: Server.MirDB Magic[7].Name
+msgctxt "Magic:7:Name"
+msgid "Entrapment"
+msgstr "诱捕术"
+
+#. 数据库字段：Magic[8].Name
+#: Server.MirDB Magic[8].Name
+msgctxt "Magic:8:Name"
+msgid "FlamingSword"
+msgstr "烈火剑法"
+
+#. 数据库字段：Magic[9].Name
+#: Server.MirDB Magic[9].Name
+msgctxt "Magic:9:Name"
+msgid "LionRoar"
+msgstr "狮子吼"
+
+#. 数据库字段：Magic[10].Name
+#: Server.MirDB Magic[10].Name
+msgctxt "Magic:10:Name"
+msgid "CrossHalfMoon"
+msgstr "十字半月"
+
+#. 数据库字段：Magic[11].Name
+#: Server.MirDB Magic[11].Name
+msgctxt "Magic:11:Name"
+msgid "BladeAvalanche"
+msgstr "剑刃风暴"
+
+#. 数据库字段：Magic[12].Name
+#: Server.MirDB Magic[12].Name
+msgctxt "Magic:12:Name"
+msgid "ProtectionField"
+msgstr "护体气场"
+
+#. 数据库字段：Magic[13].Name
+#: Server.MirDB Magic[13].Name
+msgctxt "Magic:13:Name"
+msgid "Rage"
+msgstr "狂怒"
+
+#. 数据库字段：Magic[14].Name
+#: Server.MirDB Magic[14].Name
+msgctxt "Magic:14:Name"
+msgid "CounterAttack"
+msgstr "反击"
+
+#. 数据库字段：Magic[15].Name
+#: Server.MirDB Magic[15].Name
+msgctxt "Magic:15:Name"
+msgid "SlashingBurst"
+msgstr "爆裂斩"
+
+#. 数据库字段：Magic[16].Name
+#: Server.MirDB Magic[16].Name
+msgctxt "Magic:16:Name"
+msgid "Fury"
+msgstr "怒火"
+
+#. 数据库字段：Magic[17].Name
+#: Server.MirDB Magic[17].Name
+msgctxt "Magic:17:Name"
+msgid "ImmortalSkin"
+msgstr "金刚护体"
+
+#. 数据库字段：Magic[31].Name
+#: Server.MirDB Magic[31].Name
+msgctxt "Magic:31:Name"
+msgid "FireBall"
+msgstr "火球术"
+
+#. 数据库字段：Magic[32].Name
+#: Server.MirDB Magic[32].Name
+msgctxt "Magic:32:Name"
+msgid "Repulsion"
+msgstr "抗拒火环"
+
+#. 数据库字段：Magic[33].Name
+#: Server.MirDB Magic[33].Name
+msgctxt "Magic:33:Name"
+msgid "ElectricShock"
+msgstr "电击术"
+
+#. 数据库字段：Magic[34].Name
+#: Server.MirDB Magic[34].Name
+msgctxt "Magic:34:Name"
+msgid "GreatFireBall"
+msgstr "大火球"
+
+#. 数据库字段：Magic[35].Name
+#: Server.MirDB Magic[35].Name
+msgctxt "Magic:35:Name"
+msgid "HellFire"
+msgstr "地狱火"
+
+#. 数据库字段：Magic[36].Name
+#: Server.MirDB Magic[36].Name
+msgctxt "Magic:36:Name"
+msgid "ThunderBolt"
+msgstr "雷电术"
+
+#. 数据库字段：Magic[37].Name
+#: Server.MirDB Magic[37].Name
+msgctxt "Magic:37:Name"
+msgid "Teleport"
+msgstr "瞬息移动"
+
+#. 数据库字段：Magic[38].Name
+#: Server.MirDB Magic[38].Name
+msgctxt "Magic:38:Name"
+msgid "FireBang"
+msgstr "爆裂火焰"
+
+#. 数据库字段：Magic[39].Name
+#: Server.MirDB Magic[39].Name
+msgctxt "Magic:39:Name"
+msgid "FireWall"
+msgstr "火墙"
+
+#. 数据库字段：Magic[40].Name
+#: Server.MirDB Magic[40].Name
+msgctxt "Magic:40:Name"
+msgid "Lightning"
+msgstr "疾光电影"
+
+#. 数据库字段：Magic[41].Name
+#: Server.MirDB Magic[41].Name
+msgctxt "Magic:41:Name"
+msgid "FrostCrunch"
+msgstr "冰月震天"
+
+#. 数据库字段：Magic[42].Name
+#: Server.MirDB Magic[42].Name
+msgctxt "Magic:42:Name"
+msgid "ThunderStorm"
+msgstr "地狱雷光"
+
+#. 数据库字段：Magic[43].Name
+#: Server.MirDB Magic[43].Name
+msgctxt "Magic:43:Name"
+msgid "MagicShield"
+msgstr "魔法盾"
+
+#. 数据库字段：Magic[44].Name
+#: Server.MirDB Magic[44].Name
+msgctxt "Magic:44:Name"
+msgid "TurnUndead"
+msgstr "圣言术"
+
+#. 数据库字段：Magic[45].Name
+#: Server.MirDB Magic[45].Name
+msgctxt "Magic:45:Name"
+msgid "Vampirism"
+msgstr "吸血术"
+
+#. 数据库字段：Magic[46].Name
+#: Server.MirDB Magic[46].Name
+msgctxt "Magic:46:Name"
+msgid "IceStorm"
+msgstr "冰咆哮"
+
+#. 数据库字段：Magic[47].Name
+#: Server.MirDB Magic[47].Name
+msgctxt "Magic:47:Name"
+msgid "FlameDisruptor"
+msgstr "灭天火"
+
+#. 数据库字段：Magic[48].Name
+#: Server.MirDB Magic[48].Name
+msgctxt "Magic:48:Name"
+msgid "Mirroring"
+msgstr "分身术"
+
+#. 数据库字段：Magic[49].Name
+#: Server.MirDB Magic[49].Name
+msgctxt "Magic:49:Name"
+msgid "FlameField"
+msgstr "火焰领域"
+
+#. 数据库字段：Magic[50].Name
+#: Server.MirDB Magic[50].Name
+msgctxt "Magic:50:Name"
+msgid "Blizzard"
+msgstr "暴风雪"
+
+#. 数据库字段：Magic[51].Name
+#: Server.MirDB Magic[51].Name
+msgctxt "Magic:51:Name"
+msgid "MagicBooster"
+msgstr "魔力强化"
+
+#. 数据库字段：Magic[52].Name
+#: Server.MirDB Magic[52].Name
+msgctxt "Magic:52:Name"
+msgid "MeteorStrike"
+msgstr "流星火雨"
+
+#. 数据库字段：Magic[53].Name
+#: Server.MirDB Magic[53].Name
+msgctxt "Magic:53:Name"
+msgid "IceThrust"
+msgstr "寒冰穿刺"
+
+#. 数据库字段：Magic[54].Name
+#: Server.MirDB Magic[54].Name
+msgctxt "Magic:54:Name"
+msgid "Blink"
+msgstr "闪现"
+
+#. 数据库字段：Magic[55].Name
+#: Server.MirDB Magic[55].Name
+msgctxt "Magic:55:Name"
+msgid "StormEscape"
+msgstr "风暴脱身"
+
+#. 数据库字段：Magic[61].Name
+#: Server.MirDB Magic[61].Name
+msgctxt "Magic:61:Name"
+msgid "Healing"
+msgstr "治愈术"
+
+#. 数据库字段：Magic[62].Name
+#: Server.MirDB Magic[62].Name
+msgctxt "Magic:62:Name"
+msgid "SpiritSword"
+msgstr "精神剑法"
+
+#. 数据库字段：Magic[63].Name
+#: Server.MirDB Magic[63].Name
+msgctxt "Magic:63:Name"
+msgid "Poisoning"
+msgstr "施毒术"
+
+#. 数据库字段：Magic[64].Name
+#: Server.MirDB Magic[64].Name
+msgctxt "Magic:64:Name"
+msgid "SoulFireBall"
+msgstr "灵魂火符"
+
+#. 数据库字段：Magic[65].Name
+#: Server.MirDB Magic[65].Name
+msgctxt "Magic:65:Name"
+msgid "SummonSkeleton"
+msgstr "召唤骷髅"
+
+#. 数据库字段：Magic[67].Name
+#: Server.MirDB Magic[67].Name
+msgctxt "Magic:67:Name"
+msgid "Hiding"
+msgstr "隐身术"
+
+#. 数据库字段：Magic[68].Name
+#: Server.MirDB Magic[68].Name
+msgctxt "Magic:68:Name"
+msgid "MassHiding"
+msgstr "集体隐身术"
+
+#. 数据库字段：Magic[69].Name
+#: Server.MirDB Magic[69].Name
+msgctxt "Magic:69:Name"
+msgid "SoulShield"
+msgstr "幽灵盾"
+
+#. 数据库字段：Magic[70].Name
+#: Server.MirDB Magic[70].Name
+msgctxt "Magic:70:Name"
+msgid "Revelation"
+msgstr "心灵启示"
+
+#. 数据库字段：Magic[71].Name
+#: Server.MirDB Magic[71].Name
+msgctxt "Magic:71:Name"
+msgid "BlessedArmour"
+msgstr "神圣战甲术"
+
+#. 数据库字段：Magic[72].Name
+#: Server.MirDB Magic[72].Name
+msgctxt "Magic:72:Name"
+msgid "EnergyRepulsor"
+msgstr "气功波"
+
+#. 数据库字段：Magic[73].Name
+#: Server.MirDB Magic[73].Name
+msgctxt "Magic:73:Name"
+msgid "TrapHexagon"
+msgstr "困魔咒"
+
+#. 数据库字段：Magic[74].Name
+#: Server.MirDB Magic[74].Name
+msgctxt "Magic:74:Name"
+msgid "Purification"
+msgstr "净化术"
+
+#. 数据库字段：Magic[75].Name
+#: Server.MirDB Magic[75].Name
+msgctxt "Magic:75:Name"
+msgid "MassHealing"
+msgstr "群体治愈术"
+
+#. 数据库字段：Magic[76].Name
+#: Server.MirDB Magic[76].Name
+msgctxt "Magic:76:Name"
+msgid "Hallucination"
+msgstr "迷魂术"
+
+#. 数据库字段：Magic[77].Name
+#: Server.MirDB Magic[77].Name
+msgctxt "Magic:77:Name"
+msgid "UltimateEnchancer"
+msgstr "极限强化"
+
+#. 数据库字段：Magic[78].Name
+#: Server.MirDB Magic[78].Name
+msgctxt "Magic:78:Name"
+msgid "SummonShinsu"
+msgstr "召唤神兽"
+
+#. 数据库字段：Magic[79].Name
+#: Server.MirDB Magic[79].Name
+msgctxt "Magic:79:Name"
+msgid "Reincarnation"
+msgstr "复活术"
+
+#. 数据库字段：Magic[80].Name
+#: Server.MirDB Magic[80].Name
+msgctxt "Magic:80:Name"
+msgid "SummonHolyDeva"
+msgstr "召唤月灵"
+
+#. 数据库字段：Magic[81].Name
+#: Server.MirDB Magic[81].Name
+msgctxt "Magic:81:Name"
+msgid "Curse"
+msgstr "诅咒术"
+
+#. 数据库字段：Magic[82].Name
+#: Server.MirDB Magic[82].Name
+msgctxt "Magic:82:Name"
+msgid "Plague"
+msgstr "瘟疫术"
+
+#. 数据库字段：Magic[83].Name
+#: Server.MirDB Magic[83].Name
+msgctxt "Magic:83:Name"
+msgid "PoisonCloud"
+msgstr "毒云术"
+
+#. 数据库字段：Magic[84].Name
+#: Server.MirDB Magic[84].Name
+msgctxt "Magic:84:Name"
+msgid "EnergyShield"
+msgstr "真气护体"
+
+#. 数据库字段：Magic[85].Name
+#: Server.MirDB Magic[85].Name
+msgctxt "Magic:85:Name"
+msgid "PetEnhancer"
+msgstr "宠物强化"
+
+#. 数据库字段：Magic[86].Name
+#: Server.MirDB Magic[86].Name
+msgctxt "Magic:86:Name"
+msgid "HealingCircle"
+msgstr "治愈法阵"
+
+#. 数据库字段：Magic[91].Name
+#: Server.MirDB Magic[91].Name
+msgctxt "Magic:91:Name"
+msgid "FatalSword"
+msgstr "致命剑法"
+
+#. 数据库字段：Magic[92].Name
+#: Server.MirDB Magic[92].Name
+msgctxt "Magic:92:Name"
+msgid "DoubleSlash"
+msgstr "双斩"
+
+#. 数据库字段：Magic[93].Name
+#: Server.MirDB Magic[93].Name
+msgctxt "Magic:93:Name"
+msgid "Haste"
+msgstr "疾步"
+
+#. 数据库字段：Magic[94].Name
+#: Server.MirDB Magic[94].Name
+msgctxt "Magic:94:Name"
+msgid "FlashDash"
+msgstr "闪电突袭"
+
+#. 数据库字段：Magic[95].Name
+#: Server.MirDB Magic[95].Name
+msgctxt "Magic:95:Name"
+msgid "LightBody"
+msgstr "轻身术"
+
+#. 数据库字段：Magic[96].Name
+#: Server.MirDB Magic[96].Name
+msgctxt "Magic:96:Name"
+msgid "HeavenlySword"
+msgstr "天剑术"
+
+#. 数据库字段：Magic[97].Name
+#: Server.MirDB Magic[97].Name
+msgctxt "Magic:97:Name"
+msgid "FireBurst"
+msgstr "火焰爆发"
+
+#. 数据库字段：Magic[98].Name
+#: Server.MirDB Magic[98].Name
+msgctxt "Magic:98:Name"
+msgid "Trap"
+msgstr "陷阱"
+
+#. 数据库字段：Magic[99].Name
+#: Server.MirDB Magic[99].Name
+msgctxt "Magic:99:Name"
+msgid "PoisonSword"
+msgstr "毒剑术"
+
+#. 数据库字段：Magic[100].Name
+#: Server.MirDB Magic[100].Name
+msgctxt "Magic:100:Name"
+msgid "MoonLight"
+msgstr "月光斩"
+
+#. 数据库字段：Magic[101].Name
+#: Server.MirDB Magic[101].Name
+msgctxt "Magic:101:Name"
+msgid "MPEater"
+msgstr "噬魔术"
+
+#. 数据库字段：Magic[102].Name
+#: Server.MirDB Magic[102].Name
+msgctxt "Magic:102:Name"
+msgid "SwiftFeet"
+msgstr "疾风步"
+
+#. 数据库字段：Magic[103].Name
+#: Server.MirDB Magic[103].Name
+msgctxt "Magic:103:Name"
+msgid "DarkBody"
+msgstr "暗影身法"
+
+#. 数据库字段：Magic[104].Name
+#: Server.MirDB Magic[104].Name
+msgctxt "Magic:104:Name"
+msgid "Hemorrhage"
+msgstr "放血术"
+
+#. 数据库字段：Magic[105].Name
+#: Server.MirDB Magic[105].Name
+msgctxt "Magic:105:Name"
+msgid "CresentSlash"
+msgstr "新月斩"
+
+#. 数据库字段：Magic[106].Name
+#: Server.MirDB Magic[106].Name
+msgctxt "Magic:106:Name"
+msgid "MoonMist"
+msgstr "月影迷雾"
+
+#. 数据库字段：Magic[107].Name
+#: Server.MirDB Magic[107].Name
+msgctxt "Magic:107:Name"
+msgid "CatTongue"
+msgstr "猫舌术"
+
+#. 数据库字段：Magic[121].Name
+#: Server.MirDB Magic[121].Name
+msgctxt "Magic:121:Name"
+msgid "Focus"
+msgstr "凝神"
+
+#. 数据库字段：Magic[122].Name
+#: Server.MirDB Magic[122].Name
+msgctxt "Magic:122:Name"
+msgid "StraightShot"
+msgstr "直射"
+
+#. 数据库字段：Magic[123].Name
+#: Server.MirDB Magic[123].Name
+msgctxt "Magic:123:Name"
+msgid "DoubleShot"
+msgstr "连珠箭"
+
+#. 数据库字段：Magic[124].Name
+#: Server.MirDB Magic[124].Name
+msgctxt "Magic:124:Name"
+msgid "ExplosiveTrap"
+msgstr "爆炸陷阱"
+
+#. 数据库字段：Magic[125].Name
+#: Server.MirDB Magic[125].Name
+msgctxt "Magic:125:Name"
+msgid "DelayedExplosion"
+msgstr "延时爆破"
+
+#. 数据库字段：Magic[126].Name
+#: Server.MirDB Magic[126].Name
+msgctxt "Magic:126:Name"
+msgid "Meditation"
+msgstr "冥想"
+
+#. 数据库字段：Magic[127].Name
+#: Server.MirDB Magic[127].Name
+msgctxt "Magic:127:Name"
+msgid "BackStep"
+msgstr "后撤步"
+
+#. 数据库字段：Magic[128].Name
+#: Server.MirDB Magic[128].Name
+msgctxt "Magic:128:Name"
+msgid "ElementalShot"
+msgstr "元素箭"
+
+#. 数据库字段：Magic[129].Name
+#: Server.MirDB Magic[129].Name
+msgctxt "Magic:129:Name"
+msgid "Concentration"
+msgstr "专注"
+
+#. 数据库字段：Magic[130].Name
+#: Server.MirDB Magic[130].Name
+msgctxt "Magic:130:Name"
+msgid "StoneTrap"
+msgstr "石化陷阱"
+
+#. 数据库字段：Magic[131].Name
+#: Server.MirDB Magic[131].Name
+msgctxt "Magic:131:Name"
+msgid "ElementalBarrier"
+msgstr "元素屏障"
+
+#. 数据库字段：Magic[132].Name
+#: Server.MirDB Magic[132].Name
+msgctxt "Magic:132:Name"
+msgid "SummonVampire"
+msgstr "召唤吸血蝠"
+
+#. 数据库字段：Magic[133].Name
+#: Server.MirDB Magic[133].Name
+msgctxt "Magic:133:Name"
+msgid "VampireShot"
+msgstr "吸血箭"
+
+#. 数据库字段：Magic[134].Name
+#: Server.MirDB Magic[134].Name
+msgctxt "Magic:134:Name"
+msgid "SummonToad"
+msgstr "召唤毒蟾"
+
+#. 数据库字段：Magic[135].Name
+#: Server.MirDB Magic[135].Name
+msgctxt "Magic:135:Name"
+msgid "PoisonShot"
+msgstr "毒箭"
+
+#. 数据库字段：Magic[136].Name
+#: Server.MirDB Magic[136].Name
+msgctxt "Magic:136:Name"
+msgid "CrippleShot"
+msgstr "致残箭"
+
+#. 数据库字段：Magic[137].Name
+#: Server.MirDB Magic[137].Name
+msgctxt "Magic:137:Name"
+msgid "SummonSnakes"
+msgstr "召唤毒蛇"
+
+#. 数据库字段：Magic[138].Name
+#: Server.MirDB Magic[138].Name
+msgctxt "Magic:138:Name"
+msgid "NapalmShot"
+msgstr "燃烧箭"
+
+#. 数据库字段：Magic[139].Name
+#: Server.MirDB Magic[139].Name
+msgctxt "Magic:139:Name"
+msgid "OneWithNature"
+msgstr "自然合一"
+
+#. 数据库字段：Magic[140].Name
+#: Server.MirDB Magic[140].Name
+msgctxt "Magic:140:Name"
+msgid "BindingShot"
+msgstr "束缚箭"
+
+#. 数据库字段：Magic[141].Name
+#: Server.MirDB Magic[141].Name
+msgctxt "Magic:141:Name"
+msgid "MentalState"
+msgstr "心境"
+
+#. 数据库字段：Magic[150].Name
+#: Server.MirDB Magic[150].Name
+msgctxt "Magic:150:Name"
+msgid "Portal"
+msgstr "传送门"
+
+#. 数据库字段：Magic[151].Name
+#: Server.MirDB Magic[151].Name
+msgctxt "Magic:151:Name"
+msgid "Blink"
+msgstr "闪现"
+
+#. 数据库字段：Magic[152].Name
+#: Server.MirDB Magic[152].Name
+msgctxt "Magic:152:Name"
+msgid "Portal"
+msgstr "传送门"
+
+#. 数据库字段：Magic[153].Name
+#: Server.MirDB Magic[153].Name
+msgctxt "Magic:153:Name"
+msgid "BattleCry"
+msgstr "战吼"
+
+#. 数据库字段：Magic[154].Name
+#: Server.MirDB Magic[154].Name
+msgctxt "Magic:154:Name"
+msgid "FireBounce"
+msgstr "弹射火焰"
+
+#. 数据库字段：Magic[155].Name
+#: Server.MirDB Magic[155].Name
+msgctxt "Magic:155:Name"
+msgid "MeteorShower"
+msgstr "流星雨"
+
+#. 数据库字段：Map[1].Title
+#: Server.MirDB Map[1].Title
+msgctxt "Map:1:Title"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Map[2].Title
+#: Server.MirDB Map[2].Title
+msgctxt "Map:2:Title"
+msgid "Palace"
+msgstr "皇宫"
+
+#. 数据库字段：Map[3].Title
+#: Server.MirDB Map[3].Title
+msgctxt "Map:3:Title"
+msgid "MeatStore"
+msgstr "肉铺"
+
+#. 数据库字段：Map[4].Title
+#: Server.MirDB Map[4].Title
+msgctxt "Map:4:Title"
+msgid "ReagentStore"
+msgstr "药剂店"
+
+#. 数据库字段：Map[5].Title
+#: Server.MirDB Map[5].Title
+msgctxt "Map:5:Title"
+msgid "MedicineRoom"
+msgstr "药房"
+
+#. 数据库字段：Map[6].Title
+#: Server.MirDB Map[6].Title
+msgctxt "Map:6:Title"
+msgid "Library"
+msgstr "书店"
+
+#. 数据库字段：Map[7].Title
+#: Server.MirDB Map[7].Title
+msgctxt "Map:7:Title"
+msgid "BeautySaloon"
+msgstr "美容院"
+
+#. 数据库字段：Map[8].Title
+#: Server.MirDB Map[8].Title
+msgctxt "Map:8:Title"
+msgid "Inn"
+msgstr "客栈"
+
+#. 数据库字段：Map[9].Title
+#: Server.MirDB Map[9].Title
+msgctxt "Map:9:Title"
+msgid "2FofInn"
+msgstr "客栈二楼"
+
+#. 数据库字段：Map[10].Title
+#: Server.MirDB Map[10].Title
+msgctxt "Map:10:Title"
+msgid "WeaponStore"
+msgstr "武器店"
+
+#. 数据库字段：Map[11].Title
+#: Server.MirDB Map[11].Title
+msgctxt "Map:11:Title"
+msgid "AccessoryStore"
+msgstr "首饰店"
+
+#. 数据库字段：Map[12].Title
+#: Server.MirDB Map[12].Title
+msgctxt "Map:12:Title"
+msgid "DrapersStore"
+msgstr "服装店"
+
+#. 数据库字段：Map[13].Title
+#: Server.MirDB Map[13].Title
+msgctxt "Map:13:Title"
+msgid "Tavern"
+msgstr "酒馆"
+
+#. 数据库字段：Map[14].Title
+#: Server.MirDB Map[14].Title
+msgctxt "Map:14:Title"
+msgid "Kitchen"
+msgstr "厨房"
+
+#. 数据库字段：Map[15].Title
+#: Server.MirDB Map[15].Title
+msgctxt "Map:15:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[16].Title
+#: Server.MirDB Map[16].Title
+msgctxt "Map:16:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[17].Title
+#: Server.MirDB Map[17].Title
+msgctxt "Map:17:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[18].Title
+#: Server.MirDB Map[18].Title
+msgctxt "Map:18:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[19].Title
+#: Server.MirDB Map[19].Title
+msgctxt "Map:19:Title"
+msgid "Academy"
+msgstr "书院"
+
+#. 数据库字段：Map[20].Title
+#: Server.MirDB Map[20].Title
+msgctxt "Map:20:Title"
+msgid "Academy"
+msgstr "书院"
+
+#. 数据库字段：Map[21].Title
+#: Server.MirDB Map[21].Title
+msgctxt "Map:21:Title"
+msgid "Academy"
+msgstr "书院"
+
+#. 数据库字段：Map[22].Title
+#: Server.MirDB Map[22].Title
+msgctxt "Map:22:Title"
+msgid "ContestGround"
+msgstr "比武场"
+
+#. 数据库字段：Map[23].Title
+#: Server.MirDB Map[23].Title
+msgctxt "Map:23:Title"
+msgid "B1ContestGround"
+msgstr "地下比武场"
+
+#. 数据库字段：Map[24].Title
+#: Server.MirDB Map[24].Title
+msgctxt "Map:24:Title"
+msgid "Barracks"
+msgstr "兵营"
+
+#. 数据库字段：Map[25].Title
+#: Server.MirDB Map[25].Title
+msgctxt "Map:25:Title"
+msgid "Prison"
+msgstr "监狱"
+
+#. 数据库字段：Map[26].Title
+#: Server.MirDB Map[26].Title
+msgctxt "Map:26:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[27].Title
+#: Server.MirDB Map[27].Title
+msgctxt "Map:27:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[28].Title
+#: Server.MirDB Map[28].Title
+msgctxt "Map:28:Title"
+msgid "BorderRestaurant"
+msgstr "边境餐馆"
+
+#. 数据库字段：Map[29].Title
+#: Server.MirDB Map[29].Title
+msgctxt "Map:29:Title"
+msgid "Library"
+msgstr "书店"
+
+#. 数据库字段：Map[30].Title
+#: Server.MirDB Map[30].Title
+msgctxt "Map:30:Title"
+msgid "B1Residence"
+msgstr "地下居所"
+
+#. 数据库字段：Map[31].Title
+#: Server.MirDB Map[31].Title
+msgctxt "Map:31:Title"
+msgid "GroceryStore"
+msgstr "杂货店"
+
+#. 数据库字段：Map[32].Title
+#: Server.MirDB Map[32].Title
+msgctxt "Map:32:Title"
+msgid "Warehouse"
+msgstr "仓库"
+
+#. 数据库字段：Map[33].Title
+#: Server.MirDB Map[33].Title
+msgctxt "Map:33:Title"
+msgid "MageHouse"
+msgstr "法师之家"
+
+#. 数据库字段：Map[34].Title
+#: Server.MirDB Map[34].Title
+msgctxt "Map:34:Title"
+msgid "NaturalCave"
+msgstr "天然洞穴"
+
+#. 数据库字段：Map[35].Title
+#: Server.MirDB Map[35].Title
+msgctxt "Map:35:Title"
+msgid "NaturalCave"
+msgstr "天然洞穴"
+
+#. 数据库字段：Map[36].Title
+#: Server.MirDB Map[36].Title
+msgctxt "Map:36:Title"
+msgid "HiddenRoom"
+msgstr "隐藏房间"
+
+#. 数据库字段：Map[37].Title
+#: Server.MirDB Map[37].Title
+msgctxt "Map:37:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[38].Title
+#: Server.MirDB Map[38].Title
+msgctxt "Map:38:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[39].Title
+#: Server.MirDB Map[39].Title
+msgctxt "Map:39:Title"
+msgid "OmaCave_1F"
+msgstr "兽人古墓一层"
+
+#. 数据库字段：Map[40].Title
+#: Server.MirDB Map[40].Title
+msgctxt "Map:40:Title"
+msgid "OmaCave_2F"
+msgstr "兽人古墓二层"
+
+#. 数据库字段：Map[41].Title
+#: Server.MirDB Map[41].Title
+msgctxt "Map:41:Title"
+msgid "HiddenRoom"
+msgstr "隐藏房间"
+
+#. 数据库字段：Map[42].Title
+#: Server.MirDB Map[42].Title
+msgctxt "Map:42:Title"
+msgid "KingsTomb"
+msgstr "王陵"
+
+#. 数据库字段：Map[43].Title
+#: Server.MirDB Map[43].Title
+msgctxt "Map:43:Title"
+msgid "OmaCave_3F"
+msgstr "兽人古墓三层"
+
+#. 数据库字段：Map[44].Title
+#: Server.MirDB Map[44].Title
+msgctxt "Map:44:Title"
+msgid "AncientNaturalCave"
+msgstr "远古天然洞穴"
+
+#. 数据库字段：Map[45].Title
+#: Server.MirDB Map[45].Title
+msgctxt "Map:45:Title"
+msgid "AncientNaturalCave"
+msgstr "远古天然洞穴"
+
+#. 数据库字段：Map[46].Title
+#: Server.MirDB Map[46].Title
+msgctxt "Map:46:Title"
+msgid "AncientNaturalCave"
+msgstr "远古天然洞穴"
+
+#. 数据库字段：Map[47].Title
+#: Server.MirDB Map[47].Title
+msgctxt "Map:47:Title"
+msgid "DeadMineEntrance"
+msgstr "废矿入口"
+
+#. 数据库字段：Map[48].Title
+#: Server.MirDB Map[48].Title
+msgctxt "Map:48:Title"
+msgid "B1ofMine"
+msgstr "矿区地下一层"
+
+#. 数据库字段：Map[49].Title
+#: Server.MirDB Map[49].Title
+msgctxt "Map:49:Title"
+msgid "B1ofMine"
+msgstr "矿区地下一层"
+
+#. 数据库字段：Map[50].Title
+#: Server.MirDB Map[50].Title
+msgctxt "Map:50:Title"
+msgid "EastofDeadMine"
+msgstr "废矿东部"
+
+#. 数据库字段：Map[51].Title
+#: Server.MirDB Map[51].Title
+msgctxt "Map:51:Title"
+msgid "B1ofMine"
+msgstr "矿区地下一层"
+
+#. 数据库字段：Map[52].Title
+#: Server.MirDB Map[52].Title
+msgctxt "Map:52:Title"
+msgid "B2ofDeadMine"
+msgstr "废矿地下二层"
+
+#. 数据库字段：Map[53].Title
+#: Server.MirDB Map[53].Title
+msgctxt "Map:53:Title"
+msgid "OverPass"
+msgstr "高架通道"
+
+#. 数据库字段：Map[54].Title
+#: Server.MirDB Map[54].Title
+msgctxt "Map:54:Title"
+msgid "1FofDeadMine"
+msgstr "废矿一层"
+
+#. 数据库字段：Map[55].Title
+#: Server.MirDB Map[55].Title
+msgctxt "Map:55:Title"
+msgid "OverPass"
+msgstr "高架通道"
+
+#. 数据库字段：Map[56].Title
+#: Server.MirDB Map[56].Title
+msgctxt "Map:56:Title"
+msgid "OreStoragePlace"
+msgstr "矿石仓库"
+
+#. 数据库字段：Map[57].Title
+#: Server.MirDB Map[57].Title
+msgctxt "Map:57:Title"
+msgid "OverPass"
+msgstr "高架通道"
+
+#. 数据库字段：Map[58].Title
+#: Server.MirDB Map[58].Title
+msgctxt "Map:58:Title"
+msgid "SouthofDeadMine"
+msgstr "废矿南部"
+
+#. 数据库字段：Map[59].Title
+#: Server.MirDB Map[59].Title
+msgctxt "Map:59:Title"
+msgid "GhoulCave"
+msgstr "尸王殿"
+
+#. 数据库字段：Map[60].Title
+#: Server.MirDB Map[60].Title
+msgctxt "Map:60:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[61].Title
+#: Server.MirDB Map[61].Title
+msgctxt "Map:61:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[62].Title
+#: Server.MirDB Map[62].Title
+msgctxt "Map:62:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[63].Title
+#: Server.MirDB Map[63].Title
+msgctxt "Map:63:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[64].Title
+#: Server.MirDB Map[64].Title
+msgctxt "Map:64:Title"
+msgid "WoomyonWoods(S)"
+msgstr "沃玛森林南部"
+
+#. 数据库字段：Map[65].Title
+#: Server.MirDB Map[65].Title
+msgctxt "Map:65:Title"
+msgid "InsectCave_1F"
+msgstr "虫洞一层"
+
+#. 数据库字段：Map[66].Title
+#: Server.MirDB Map[66].Title
+msgctxt "Map:66:Title"
+msgid "InsectCave_2F"
+msgstr "虫洞二层"
+
+#. 数据库字段：Map[67].Title
+#: Server.MirDB Map[67].Title
+msgctxt "Map:67:Title"
+msgid "InsectCave_3F"
+msgstr "虫洞三层"
+
+#. 数据库字段：Map[68].Title
+#: Server.MirDB Map[68].Title
+msgctxt "Map:68:Title"
+msgid "InsectCave_4F"
+msgstr "虫洞四层"
+
+#. 数据库字段：Map[69].Title
+#: Server.MirDB Map[69].Title
+msgctxt "Map:69:Title"
+msgid "WoomaTempleEntrance"
+msgstr "沃玛寺庙入口"
+
+#. 数据库字段：Map[70].Title
+#: Server.MirDB Map[70].Title
+msgctxt "Map:70:Title"
+msgid "WoomaTemple_1F"
+msgstr "沃玛寺庙一层"
+
+#. 数据库字段：Map[71].Title
+#: Server.MirDB Map[71].Title
+msgctxt "Map:71:Title"
+msgid "WoomaTemple_2F"
+msgstr "沃玛寺庙二层"
+
+#. 数据库字段：Map[72].Title
+#: Server.MirDB Map[72].Title
+msgctxt "Map:72:Title"
+msgid "WoomaTemple"
+msgstr "沃玛寺庙"
+
+#. 数据库字段：Map[73].Title
+#: Server.MirDB Map[73].Title
+msgctxt "Map:73:Title"
+msgid "AncientTempleEntrance"
+msgstr "远古寺庙入口"
+
+#. 数据库字段：Map[74].Title
+#: Server.MirDB Map[74].Title
+msgctxt "Map:74:Title"
+msgid "AncientTemple_1F"
+msgstr "远古寺庙一层"
+
+#. 数据库字段：Map[75].Title
+#: Server.MirDB Map[75].Title
+msgctxt "Map:75:Title"
+msgid "AncientTemple_2F"
+msgstr "远古寺庙二层"
+
+#. 数据库字段：Map[76].Title
+#: Server.MirDB Map[76].Title
+msgctxt "Map:76:Title"
+msgid "AncientTemple"
+msgstr "远古寺庙"
+
+#. 数据库字段：Map[77].Title
+#: Server.MirDB Map[77].Title
+msgctxt "Map:77:Title"
+msgid "CastleGi-Ryoong"
+msgstr "基隆城"
+
+#. 数据库字段：Map[78].Title
+#: Server.MirDB Map[78].Title
+msgctxt "Map:78:Title"
+msgid "InnerCastle"
+msgstr "内城"
+
+#. 数据库字段：Map[79].Title
+#: Server.MirDB Map[79].Title
+msgctxt "Map:79:Title"
+msgid "WeaponStore"
+msgstr "武器店"
+
+#. 数据库字段：Map[80].Title
+#: Server.MirDB Map[80].Title
+msgctxt "Map:80:Title"
+msgid "PotionStore"
+msgstr "药品店"
+
+#. 数据库字段：Map[81].Title
+#: Server.MirDB Map[81].Title
+msgctxt "Map:81:Title"
+msgid "AccessoryStore"
+msgstr "首饰店"
+
+#. 数据库字段：Map[82].Title
+#: Server.MirDB Map[82].Title
+msgctxt "Map:82:Title"
+msgid "DraperyStore"
+msgstr "服装店"
+
+#. 数据库字段：Map[83].Title
+#: Server.MirDB Map[83].Title
+msgctxt "Map:83:Title"
+msgid "Prison"
+msgstr "监狱"
+
+#. 数据库字段：Map[84].Title
+#: Server.MirDB Map[84].Title
+msgctxt "Map:84:Title"
+msgid "ItemDepository"
+msgstr "物品仓库"
+
+#. 数据库字段：Map[85].Title
+#: Server.MirDB Map[85].Title
+msgctxt "Map:85:Title"
+msgid "BlackDragonDungeon"
+msgstr "黑龙地牢"
+
+#. 数据库字段：Map[86].Title
+#: Server.MirDB Map[86].Title
+msgctxt "Map:86:Title"
+msgid "BlackSnakePalace"
+msgstr "黑蛇宫殿"
+
+#. 数据库字段：Map[87].Title
+#: Server.MirDB Map[87].Title
+msgctxt "Map:87:Title"
+msgid "BlackDragonDungeon_1F"
+msgstr "黑龙地牢一层"
+
+#. 数据库字段：Map[88].Title
+#: Server.MirDB Map[88].Title
+msgctxt "Map:88:Title"
+msgid "BlackDragonDungeon_2F"
+msgstr "黑龙地牢二层"
+
+#. 数据库字段：Map[89].Title
+#: Server.MirDB Map[89].Title
+msgctxt "Map:89:Title"
+msgid "PurgatoryHall"
+msgstr "炼狱大厅"
+
+#. 数据库字段：Map[90].Title
+#: Server.MirDB Map[90].Title
+msgctxt "Map:90:Title"
+msgid "WoomaPalace"
+msgstr "沃玛宫殿"
+
+#. 数据库字段：Map[91].Title
+#: Server.MirDB Map[91].Title
+msgctxt "Map:91:Title"
+msgid "HwanMaJin"
+msgstr "幻魔阵"
+
+#. 数据库字段：Map[92].Title
+#: Server.MirDB Map[92].Title
+msgctxt "Map:92:Title"
+msgid "NobleHogPalace"
+msgstr "野猪王宫"
+
+#. 数据库字段：Map[93].Title
+#: Server.MirDB Map[93].Title
+msgctxt "Map:93:Title"
+msgid "SoleSpiritHall"
+msgstr "孤魂殿"
+
+#. 数据库字段：Map[94].Title
+#: Server.MirDB Map[94].Title
+msgctxt "Map:94:Title"
+msgid "HwanMaJin"
+msgstr "幻魔阵"
+
+#. 数据库字段：Map[95].Title
+#: Server.MirDB Map[95].Title
+msgctxt "Map:95:Title"
+msgid "ZumaPalace"
+msgstr "祖玛宫殿"
+
+#. 数据库字段：Map[96].Title
+#: Server.MirDB Map[96].Title
+msgctxt "Map:96:Title"
+msgid "PrisonHall"
+msgstr "监狱大厅"
+
+#. 数据库字段：Map[97].Title
+#: Server.MirDB Map[97].Title
+msgctxt "Map:97:Title"
+msgid "DarkDevilPalace"
+msgstr "暗魔宫殿"
+
+#. 数据库字段：Map[98].Title
+#: Server.MirDB Map[98].Title
+msgctxt "Map:98:Title"
+msgid "WhiteDragonPassage"
+msgstr "白龙通道"
+
+#. 数据库字段：Map[99].Title
+#: Server.MirDB Map[99].Title
+msgctxt "Map:99:Title"
+msgid "WhiteDragonPassage"
+msgstr "白龙通道"
+
+#. 数据库字段：Map[100].Title
+#: Server.MirDB Map[100].Title
+msgctxt "Map:100:Title"
+msgid "WhiteDragonHillSide"
+msgstr "白龙山腰"
+
+#. 数据库字段：Map[101].Title
+#: Server.MirDB Map[101].Title
+msgctxt "Map:101:Title"
+msgid "WhiteDragonPassage"
+msgstr "白龙通道"
+
+#. 数据库字段：Map[102].Title
+#: Server.MirDB Map[102].Title
+msgctxt "Map:102:Title"
+msgid "WhiteDragonPassage"
+msgstr "白龙通道"
+
+#. 数据库字段：Map[103].Title
+#: Server.MirDB Map[103].Title
+msgctxt "Map:103:Title"
+msgid "SeokchoValley"
+msgstr "石草山谷"
+
+#. 数据库字段：Map[104].Title
+#: Server.MirDB Map[104].Title
+msgctxt "Map:104:Title"
+msgid "TrollMine_1F"
+msgstr "矿洞一层"
+
+#. 数据库字段：Map[105].Title
+#: Server.MirDB Map[105].Title
+msgctxt "Map:105:Title"
+msgid "TrollMine_2F"
+msgstr "矿洞二层"
+
+#. 数据库字段：Map[106].Title
+#: Server.MirDB Map[106].Title
+msgctxt "Map:106:Title"
+msgid "TrollMine_3F"
+msgstr "矿洞三层"
+
+#. 数据库字段：Map[107].Title
+#: Server.MirDB Map[107].Title
+msgctxt "Map:107:Title"
+msgid "TrollMine_4F"
+msgstr "矿洞四层"
+
+#. 数据库字段：Map[108].Title
+#: Server.MirDB Map[108].Title
+msgctxt "Map:108:Title"
+msgid "WoomyonWoods(N)"
+msgstr "沃玛森林北部"
+
+#. 数据库字段：Map[109].Title
+#: Server.MirDB Map[109].Title
+msgctxt "Map:109:Title"
+msgid "Armory"
+msgstr "军械库"
+
+#. 数据库字段：Map[110].Title
+#: Server.MirDB Map[110].Title
+msgctxt "Map:110:Title"
+msgid "Rev.Tao_Office"
+msgstr "道士长老办公室"
+
+#. 数据库字段：Map[111].Title
+#: Server.MirDB Map[111].Title
+msgctxt "Map:111:Title"
+msgid "Laundry"
+msgstr "洗衣房"
+
+#. 数据库字段：Map[112].Title
+#: Server.MirDB Map[112].Title
+msgctxt "Map:112:Title"
+msgid "Library"
+msgstr "书店"
+
+#. 数据库字段：Map[113].Title
+#: Server.MirDB Map[113].Title
+msgctxt "Map:113:Title"
+msgid "Item_Lab"
+msgstr "物品实验室"
+
+#. 数据库字段：Map[114].Title
+#: Server.MirDB Map[114].Title
+msgctxt "Map:114:Title"
+msgid "Drug_Store"
+msgstr "药品店"
+
+#. 数据库字段：Map[115].Title
+#: Server.MirDB Map[115].Title
+msgctxt "Map:115:Title"
+msgid "Warehouse"
+msgstr "仓库"
+
+#. 数据库字段：Map[116].Title
+#: Server.MirDB Map[116].Title
+msgctxt "Map:116:Title"
+msgid "MineralMine_1F"
+msgstr "矿脉一层"
+
+#. 数据库字段：Map[117].Title
+#: Server.MirDB Map[117].Title
+msgctxt "Map:117:Title"
+msgid "MineralMine_2F"
+msgstr "矿脉二层"
+
+#. 数据库字段：Map[118].Title
+#: Server.MirDB Map[118].Title
+msgctxt "Map:118:Title"
+msgid "MineralMine_3F"
+msgstr "矿脉三层"
+
+#. 数据库字段：Map[119].Title
+#: Server.MirDB Map[119].Title
+msgctxt "Map:119:Title"
+msgid "MineralMine_4F"
+msgstr "矿脉四层"
+
+#. 数据库字段：Map[120].Title
+#: Server.MirDB Map[120].Title
+msgctxt "Map:120:Title"
+msgid "Treepath"
+msgstr "林间小径"
+
+#. 数据库字段：Map[121].Title
+#: Server.MirDB Map[121].Title
+msgctxt "Map:121:Title"
+msgid "RedValley_1F"
+msgstr "赤月峡谷一层"
+
+#. 数据库字段：Map[122].Title
+#: Server.MirDB Map[122].Title
+msgctxt "Map:122:Title"
+msgid "RedValley_1F"
+msgstr "赤月峡谷一层"
+
+#. 数据库字段：Map[123].Title
+#: Server.MirDB Map[123].Title
+msgctxt "Map:123:Title"
+msgid "RedValley_1F"
+msgstr "赤月峡谷一层"
+
+#. 数据库字段：Map[124].Title
+#: Server.MirDB Map[124].Title
+msgctxt "Map:124:Title"
+msgid "RedValley_2F"
+msgstr "赤月峡谷二层"
+
+#. 数据库字段：Map[125].Title
+#: Server.MirDB Map[125].Title
+msgctxt "Map:125:Title"
+msgid "RedValley_3F"
+msgstr "赤月峡谷三层"
+
+#. 数据库字段：Map[126].Title
+#: Server.MirDB Map[126].Title
+msgctxt "Map:126:Title"
+msgid "RedValley_3F"
+msgstr "赤月峡谷三层"
+
+#. 数据库字段：Map[127].Title
+#: Server.MirDB Map[127].Title
+msgctxt "Map:127:Title"
+msgid "RedValley_4F"
+msgstr "赤月峡谷四层"
+
+#. 数据库字段：Map[128].Title
+#: Server.MirDB Map[128].Title
+msgctxt "Map:128:Title"
+msgid "RedValley_5F"
+msgstr "赤月峡谷五层"
+
+#. 数据库字段：Map[129].Title
+#: Server.MirDB Map[129].Title
+msgctxt "Map:129:Title"
+msgid "RedValley_5F"
+msgstr "赤月峡谷五层"
+
+#. 数据库字段：Map[130].Title
+#: Server.MirDB Map[130].Title
+msgctxt "Map:130:Title"
+msgid "Great_TaoTomb"
+msgstr "大道士陵墓"
+
+#. 数据库字段：Map[131].Title
+#: Server.MirDB Map[131].Title
+msgctxt "Map:131:Title"
+msgid "RedMoonRoom"
+msgstr "赤月魔穴"
+
+#. 数据库字段：Map[132].Title
+#: Server.MirDB Map[132].Title
+msgctxt "Map:132:Title"
+msgid "RedValley_5F"
+msgstr "赤月峡谷五层"
+
+#. 数据库字段：Map[133].Title
+#: Server.MirDB Map[133].Title
+msgctxt "Map:133:Title"
+msgid "RedValley_5F"
+msgstr "赤月峡谷五层"
+
+#. 数据库字段：Map[135].Title
+#: Server.MirDB Map[135].Title
+msgctxt "Map:135:Title"
+msgid "Lunar_1F"
+msgstr "月宫一层"
+
+#. 数据库字段：Map[136].Title
+#: Server.MirDB Map[136].Title
+msgctxt "Map:136:Title"
+msgid "Lunar_2F"
+msgstr "月宫二层"
+
+#. 数据库字段：Map[137].Title
+#: Server.MirDB Map[137].Title
+msgctxt "Map:137:Title"
+msgid "Lunar_3F"
+msgstr "月宫三层"
+
+#. 数据库字段：Map[138].Title
+#: Server.MirDB Map[138].Title
+msgctxt "Map:138:Title"
+msgid "Lunar_4F"
+msgstr "月宫四层"
+
+#. 数据库字段：Map[139].Title
+#: Server.MirDB Map[139].Title
+msgctxt "Map:139:Title"
+msgid "LunarRoom"
+msgstr "月宫密室"
+
+#. 数据库字段：Map[140].Title
+#: Server.MirDB Map[140].Title
+msgctxt "Map:140:Title"
+msgid "DarkForest"
+msgstr "黑暗森林"
+
+#. 数据库字段：Map[141].Title
+#: Server.MirDB Map[141].Title
+msgctxt "Map:141:Title"
+msgid "DarkForest"
+msgstr "黑暗森林"
+
+#. 数据库字段：Map[142].Title
+#: Server.MirDB Map[142].Title
+msgctxt "Map:142:Title"
+msgid "DarkForest"
+msgstr "黑暗森林"
+
+#. 数据库字段：Map[143].Title
+#: Server.MirDB Map[143].Title
+msgctxt "Map:143:Title"
+msgid "TownHall"
+msgstr "城镇大厅"
+
+#. 数据库字段：Map[144].Title
+#: Server.MirDB Map[144].Title
+msgctxt "Map:144:Title"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Map[145].Title
+#: Server.MirDB Map[145].Title
+msgctxt "Map:145:Title"
+msgid "S_ValleyTavern"
+msgstr "毒蛇山谷酒馆"
+
+#. 数据库字段：Map[146].Title
+#: Server.MirDB Map[146].Title
+msgctxt "Map:146:Title"
+msgid "ReagentStore"
+msgstr "药剂店"
+
+#. 数据库字段：Map[147].Title
+#: Server.MirDB Map[147].Title
+msgctxt "Map:147:Title"
+msgid "Blacksmith"
+msgstr "铁匠铺"
+
+#. 数据库字段：Map[148].Title
+#: Server.MirDB Map[148].Title
+msgctxt "Map:148:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[149].Title
+#: Server.MirDB Map[149].Title
+msgctxt "Map:149:Title"
+msgid "S_ValleyDeadMine"
+msgstr "毒蛇山谷废矿"
+
+#. 数据库字段：Map[150].Title
+#: Server.MirDB Map[150].Title
+msgctxt "Map:150:Title"
+msgid "S_ValleyDeadMine"
+msgstr "毒蛇山谷废矿"
+
+#. 数据库字段：Map[151].Title
+#: Server.MirDB Map[151].Title
+msgctxt "Map:151:Title"
+msgid "S_ValleyDeadMine"
+msgstr "毒蛇山谷废矿"
+
+#. 数据库字段：Map[152].Title
+#: Server.MirDB Map[152].Title
+msgctxt "Map:152:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[153].Title
+#: Server.MirDB Map[153].Title
+msgctxt "Map:153:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[154].Title
+#: Server.MirDB Map[154].Title
+msgctxt "Map:154:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[155].Title
+#: Server.MirDB Map[155].Title
+msgctxt "Map:155:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[156].Title
+#: Server.MirDB Map[156].Title
+msgctxt "Map:156:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[157].Title
+#: Server.MirDB Map[157].Title
+msgctxt "Map:157:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[158].Title
+#: Server.MirDB Map[158].Title
+msgctxt "Map:158:Title"
+msgid "ViperPath"
+msgstr "毒蛇小径"
+
+#. 数据库字段：Map[159].Title
+#: Server.MirDB Map[159].Title
+msgctxt "Map:159:Title"
+msgid "ViperPath"
+msgstr "毒蛇小径"
+
+#. 数据库字段：Map[160].Title
+#: Server.MirDB Map[160].Title
+msgctxt "Map:160:Title"
+msgid "ViperPath"
+msgstr "毒蛇小径"
+
+#. 数据库字段：Map[161].Title
+#: Server.MirDB Map[161].Title
+msgctxt "Map:161:Title"
+msgid "ViperPath"
+msgstr "毒蛇小径"
+
+#. 数据库字段：Map[162].Title
+#: Server.MirDB Map[162].Title
+msgctxt "Map:162:Title"
+msgid "ViperMaze"
+msgstr "毒蛇迷宫"
+
+#. 数据库字段：Map[163].Title
+#: Server.MirDB Map[163].Title
+msgctxt "Map:163:Title"
+msgid "ViperCave"
+msgstr "毒蛇洞穴"
+
+#. 数据库字段：Map[164].Title
+#: Server.MirDB Map[164].Title
+msgctxt "Map:164:Title"
+msgid "ViperCave"
+msgstr "毒蛇洞穴"
+
+#. 数据库字段：Map[165].Title
+#: Server.MirDB Map[165].Title
+msgctxt "Map:165:Title"
+msgid "YimoogiNest"
+msgstr "螭龙巢穴"
+
+#. 数据库字段：Map[166].Title
+#: Server.MirDB Map[166].Title
+msgctxt "Map:166:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[167].Title
+#: Server.MirDB Map[167].Title
+msgctxt "Map:167:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[168].Title
+#: Server.MirDB Map[168].Title
+msgctxt "Map:168:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[169].Title
+#: Server.MirDB Map[169].Title
+msgctxt "Map:169:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[170].Title
+#: Server.MirDB Map[170].Title
+msgctxt "Map:170:Title"
+msgid "ConnectionPath"
+msgstr "连接通道"
+
+#. 数据库字段：Map[171].Title
+#: Server.MirDB Map[171].Title
+msgctxt "Map:171:Title"
+msgid "MysteryCave"
+msgstr "神秘洞穴"
+
+#. 数据库字段：Map[172].Title
+#: Server.MirDB Map[172].Title
+msgctxt "Map:172:Title"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Map[173].Title
+#: Server.MirDB Map[173].Title
+msgctxt "Map:173:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[174].Title
+#: Server.MirDB Map[174].Title
+msgctxt "Map:174:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[175].Title
+#: Server.MirDB Map[175].Title
+msgctxt "Map:175:Title"
+msgid "Inn"
+msgstr "客栈"
+
+#. 数据库字段：Map[176].Title
+#: Server.MirDB Map[176].Title
+msgctxt "Map:176:Title"
+msgid "2FofInn"
+msgstr "客栈二楼"
+
+#. 数据库字段：Map[177].Title
+#: Server.MirDB Map[177].Title
+msgctxt "Map:177:Title"
+msgid "Tavern"
+msgstr "酒馆"
+
+#. 数据库字段：Map[178].Title
+#: Server.MirDB Map[178].Title
+msgctxt "Map:178:Title"
+msgid "DraperyStore"
+msgstr "服装店"
+
+#. 数据库字段：Map[179].Title
+#: Server.MirDB Map[179].Title
+msgctxt "Map:179:Title"
+msgid "GroceryStore"
+msgstr "杂货店"
+
+#. 数据库字段：Map[180].Title
+#: Server.MirDB Map[180].Title
+msgctxt "Map:180:Title"
+msgid "Blacksmith"
+msgstr "铁匠铺"
+
+#. 数据库字段：Map[181].Title
+#: Server.MirDB Map[181].Title
+msgctxt "Map:181:Title"
+msgid "Mill"
+msgstr "磨坊"
+
+#. 数据库字段：Map[182].Title
+#: Server.MirDB Map[182].Title
+msgctxt "Map:182:Title"
+msgid "S_1FofDungeon"
+msgstr "石墓南一层"
+
+#. 数据库字段：Map[183].Title
+#: Server.MirDB Map[183].Title
+msgctxt "Map:183:Title"
+msgid "W_1FofDungeon"
+msgstr "石墓西一层"
+
+#. 数据库字段：Map[184].Title
+#: Server.MirDB Map[184].Title
+msgctxt "Map:184:Title"
+msgid "N_1FofDungeon"
+msgstr "石墓北一层"
+
+#. 数据库字段：Map[185].Title
+#: Server.MirDB Map[185].Title
+msgctxt "Map:185:Title"
+msgid "W_2FofDungeon"
+msgstr "石墓西二层"
+
+#. 数据库字段：Map[186].Title
+#: Server.MirDB Map[186].Title
+msgctxt "Map:186:Title"
+msgid "N_2FofDungeon"
+msgstr "石墓北二层"
+
+#. 数据库字段：Map[187].Title
+#: Server.MirDB Map[187].Title
+msgctxt "Map:187:Title"
+msgid "LifeDeathCoffin"
+msgstr "生死棺"
+
+#. 数据库字段：Map[188].Title
+#: Server.MirDB Map[188].Title
+msgctxt "Map:188:Title"
+msgid "StoneLanternRoom"
+msgstr "石灯笼屋"
+
+#. 数据库字段：Map[189].Title
+#: Server.MirDB Map[189].Title
+msgctxt "Map:189:Title"
+msgid "AmethystRoom"
+msgstr "紫晶屋"
+
+#. 数据库字段：Map[190].Title
+#: Server.MirDB Map[190].Title
+msgctxt "Map:190:Title"
+msgid "StoneCarvedStream"
+msgstr "石刻溪流"
+
+#. 数据库字段：Map[191].Title
+#: Server.MirDB Map[191].Title
+msgctxt "Map:191:Title"
+msgid "StrangeRocksRoom"
+msgstr "怪石屋"
+
+#. 数据库字段：Map[192].Title
+#: Server.MirDB Map[192].Title
+msgctxt "Map:192:Title"
+msgid "StrangeRocksPath"
+msgstr "怪石小径"
+
+#. 数据库字段：Map[193].Title
+#: Server.MirDB Map[193].Title
+msgctxt "Map:193:Title"
+msgid "LostCave(MainCave)"
+msgstr "失落洞穴主洞"
+
+#. 数据库字段：Map[194].Title
+#: Server.MirDB Map[194].Title
+msgctxt "Map:194:Title"
+msgid "LostMiddleCave"
+msgstr "失落中洞"
+
+#. 数据库字段：Map[195].Title
+#: Server.MirDB Map[195].Title
+msgctxt "Map:195:Title"
+msgid "SouthernLostCave"
+msgstr "失落南洞"
+
+#. 数据库字段：Map[196].Title
+#: Server.MirDB Map[196].Title
+msgctxt "Map:196:Title"
+msgid "WesternLostCave"
+msgstr "失落西洞"
+
+#. 数据库字段：Map[197].Title
+#: Server.MirDB Map[197].Title
+msgctxt "Map:197:Title"
+msgid "NorthernLostCave"
+msgstr "失落北洞"
+
+#. 数据库字段：Map[198].Title
+#: Server.MirDB Map[198].Title
+msgctxt "Map:198:Title"
+msgid "EasternLostCave"
+msgstr "失落东洞"
+
+#. 数据库字段：Map[199].Title
+#: Server.MirDB Map[199].Title
+msgctxt "Map:199:Title"
+msgid "FatallyPoisonousCave"
+msgstr "剧毒洞穴"
+
+#. 数据库字段：Map[200].Title
+#: Server.MirDB Map[200].Title
+msgctxt "Map:200:Title"
+msgid "B1_AngledStoneTomb"
+msgstr "斜石墓地下一层"
+
+#. 数据库字段：Map[201].Title
+#: Server.MirDB Map[201].Title
+msgctxt "Map:201:Title"
+msgid "B2_AngledStoneTomb"
+msgstr "斜石墓地下二层"
+
+#. 数据库字段：Map[202].Title
+#: Server.MirDB Map[202].Title
+msgctxt "Map:202:Title"
+msgid "B3_AngledStoneTomb"
+msgstr "斜石墓地下三层"
+
+#. 数据库字段：Map[203].Title
+#: Server.MirDB Map[203].Title
+msgctxt "Map:203:Title"
+msgid "B4_AngledStoneTomb"
+msgstr "斜石墓地下四层"
+
+#. 数据库字段：Map[204].Title
+#: Server.MirDB Map[204].Title
+msgctxt "Map:204:Title"
+msgid "B5_AngledStoneTomb"
+msgstr "斜石墓地下五层"
+
+#. 数据库字段：Map[205].Title
+#: Server.MirDB Map[205].Title
+msgctxt "Map:205:Title"
+msgid "B6_AngledStoneTomb"
+msgstr "斜石墓地下六层"
+
+#. 数据库字段：Map[206].Title
+#: Server.MirDB Map[206].Title
+msgctxt "Map:206:Title"
+msgid "B7_AngledStoneTomb"
+msgstr "斜石墓地下七层"
+
+#. 数据库字段：Map[207].Title
+#: Server.MirDB Map[207].Title
+msgctxt "Map:207:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[208].Title
+#: Server.MirDB Map[208].Title
+msgctxt "Map:208:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[209].Title
+#: Server.MirDB Map[209].Title
+msgctxt "Map:209:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[210].Title
+#: Server.MirDB Map[210].Title
+msgctxt "Map:210:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[211].Title
+#: Server.MirDB Map[211].Title
+msgctxt "Map:211:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[212].Title
+#: Server.MirDB Map[212].Title
+msgctxt "Map:212:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[213].Title
+#: Server.MirDB Map[213].Title
+msgctxt "Map:213:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[214].Title
+#: Server.MirDB Map[214].Title
+msgctxt "Map:214:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[215].Title
+#: Server.MirDB Map[215].Title
+msgctxt "Map:215:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[216].Title
+#: Server.MirDB Map[216].Title
+msgctxt "Map:216:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[217].Title
+#: Server.MirDB Map[217].Title
+msgctxt "Map:217:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[218].Title
+#: Server.MirDB Map[218].Title
+msgctxt "Map:218:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[219].Title
+#: Server.MirDB Map[219].Title
+msgctxt "Map:219:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[220].Title
+#: Server.MirDB Map[220].Title
+msgctxt "Map:220:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[221].Title
+#: Server.MirDB Map[221].Title
+msgctxt "Map:221:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[222].Title
+#: Server.MirDB Map[222].Title
+msgctxt "Map:222:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[223].Title
+#: Server.MirDB Map[223].Title
+msgctxt "Map:223:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[224].Title
+#: Server.MirDB Map[224].Title
+msgctxt "Map:224:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[225].Title
+#: Server.MirDB Map[225].Title
+msgctxt "Map:225:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[226].Title
+#: Server.MirDB Map[226].Title
+msgctxt "Map:226:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[227].Title
+#: Server.MirDB Map[227].Title
+msgctxt "Map:227:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[228].Title
+#: Server.MirDB Map[228].Title
+msgctxt "Map:228:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[229].Title
+#: Server.MirDB Map[229].Title
+msgctxt "Map:229:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[230].Title
+#: Server.MirDB Map[230].Title
+msgctxt "Map:230:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[231].Title
+#: Server.MirDB Map[231].Title
+msgctxt "Map:231:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[232].Title
+#: Server.MirDB Map[232].Title
+msgctxt "Map:232:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[233].Title
+#: Server.MirDB Map[233].Title
+msgctxt "Map:233:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[234].Title
+#: Server.MirDB Map[234].Title
+msgctxt "Map:234:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[235].Title
+#: Server.MirDB Map[235].Title
+msgctxt "Map:235:Title"
+msgid "TacticalMaze"
+msgstr "战术迷宫"
+
+#. 数据库字段：Map[236].Title
+#: Server.MirDB Map[236].Title
+msgctxt "Map:236:Title"
+msgid "AngledStoneTombEntrance"
+msgstr "斜石墓入口"
+
+#. 数据库字段：Map[237].Title
+#: Server.MirDB Map[237].Title
+msgctxt "Map:237:Title"
+msgid "AncientSTombEntrance"
+msgstr "远古石墓入口"
+
+#. 数据库字段：Map[238].Title
+#: Server.MirDB Map[238].Title
+msgctxt "Map:238:Title"
+msgid "AncientSTomb_1F"
+msgstr "远古石墓一层"
+
+#. 数据库字段：Map[239].Title
+#: Server.MirDB Map[239].Title
+msgctxt "Map:239:Title"
+msgid "AncientSTomb_2F"
+msgstr "远古石墓二层"
+
+#. 数据库字段：Map[240].Title
+#: Server.MirDB Map[240].Title
+msgctxt "Map:240:Title"
+msgid "AncientSTomb_3F"
+msgstr "远古石墓三层"
+
+#. 数据库字段：Map[241].Title
+#: Server.MirDB Map[241].Title
+msgctxt "Map:241:Title"
+msgid "ConnectionCave"
+msgstr "连接洞穴"
+
+#. 数据库字段：Map[242].Title
+#: Server.MirDB Map[242].Title
+msgctxt "Map:242:Title"
+msgid "ConnectionCave"
+msgstr "连接洞穴"
+
+#. 数据库字段：Map[243].Title
+#: Server.MirDB Map[243].Title
+msgctxt "Map:243:Title"
+msgid "ConnectionCave"
+msgstr "连接洞穴"
+
+#. 数据库字段：Map[244].Title
+#: Server.MirDB Map[244].Title
+msgctxt "Map:244:Title"
+msgid "SabukSecretGate"
+msgstr "沙巴克密道"
+
+#. 数据库字段：Map[245].Title
+#: Server.MirDB Map[245].Title
+msgctxt "Map:245:Title"
+msgid "InnerWall"
+msgstr "内城墙"
+
+#. 数据库字段：Map[246].Title
+#: Server.MirDB Map[246].Title
+msgctxt "Map:246:Title"
+msgid "Blacksmith"
+msgstr "铁匠铺"
+
+#. 数据库字段：Map[247].Title
+#: Server.MirDB Map[247].Title
+msgctxt "Map:247:Title"
+msgid "Warehouse"
+msgstr "仓库"
+
+#. 数据库字段：Map[248].Title
+#: Server.MirDB Map[248].Title
+msgctxt "Map:248:Title"
+msgid "ReagentStore"
+msgstr "药剂店"
+
+#. 数据库字段：Map[249].Title
+#: Server.MirDB Map[249].Title
+msgctxt "Map:249:Title"
+msgid "ReagentStore"
+msgstr "药剂店"
+
+#. 数据库字段：Map[250].Title
+#: Server.MirDB Map[250].Title
+msgctxt "Map:250:Title"
+msgid "ReagentStore"
+msgstr "药剂店"
+
+#. 数据库字段：Map[251].Title
+#: Server.MirDB Map[251].Title
+msgctxt "Map:251:Title"
+msgid "Prison"
+msgstr "监狱"
+
+#. 数据库字段：Map[252].Title
+#: Server.MirDB Map[252].Title
+msgctxt "Map:252:Title"
+msgid "Prison"
+msgstr "监狱"
+
+#. 数据库字段：Map[253].Title
+#: Server.MirDB Map[253].Title
+msgctxt "Map:253:Title"
+msgid "LobbyofZumaTemple"
+msgstr "祖玛寺庙大厅"
+
+#. 数据库字段：Map[254].Title
+#: Server.MirDB Map[254].Title
+msgctxt "Map:254:Title"
+msgid "ZumaTemple_1F"
+msgstr "祖玛寺庙一层"
+
+#. 数据库字段：Map[255].Title
+#: Server.MirDB Map[255].Title
+msgctxt "Map:255:Title"
+msgid "ZumaTemple_2F"
+msgstr "祖玛寺庙二层"
+
+#. 数据库字段：Map[256].Title
+#: Server.MirDB Map[256].Title
+msgctxt "Map:256:Title"
+msgid "ZumaTemple_3F"
+msgstr "祖玛寺庙三层"
+
+#. 数据库字段：Map[257].Title
+#: Server.MirDB Map[257].Title
+msgctxt "Map:257:Title"
+msgid "ZumaTemple_4F"
+msgstr "祖玛寺庙四层"
+
+#. 数据库字段：Map[258].Title
+#: Server.MirDB Map[258].Title
+msgctxt "Map:258:Title"
+msgid "ZumaTemple_5F"
+msgstr "祖玛寺庙五层"
+
+#. 数据库字段：Map[259].Title
+#: Server.MirDB Map[259].Title
+msgctxt "Map:259:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[260].Title
+#: Server.MirDB Map[260].Title
+msgctxt "Map:260:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[261].Title
+#: Server.MirDB Map[261].Title
+msgctxt "Map:261:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[262].Title
+#: Server.MirDB Map[262].Title
+msgctxt "Map:262:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[263].Title
+#: Server.MirDB Map[263].Title
+msgctxt "Map:263:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[264].Title
+#: Server.MirDB Map[264].Title
+msgctxt "Map:264:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[265].Title
+#: Server.MirDB Map[265].Title
+msgctxt "Map:265:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[266].Title
+#: Server.MirDB Map[266].Title
+msgctxt "Map:266:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[267].Title
+#: Server.MirDB Map[267].Title
+msgctxt "Map:267:Title"
+msgid "ZumaMaze"
+msgstr "祖玛迷宫"
+
+#. 数据库字段：Map[268].Title
+#: Server.MirDB Map[268].Title
+msgctxt "Map:268:Title"
+msgid "ZumaTempleLobby_7F"
+msgstr "祖玛七层大厅"
+
+#. 数据库字段：Map[269].Title
+#: Server.MirDB Map[269].Title
+msgctxt "Map:269:Title"
+msgid "ZumaTemple_7F"
+msgstr "祖玛寺庙七层"
+
+#. 数据库字段：Map[270].Title
+#: Server.MirDB Map[270].Title
+msgctxt "Map:270:Title"
+msgid "ZumaTemple_7F"
+msgstr "祖玛寺庙七层"
+
+#. 数据库字段：Map[271].Title
+#: Server.MirDB Map[271].Title
+msgctxt "Map:271:Title"
+msgid "ZumaTemple_7F"
+msgstr "祖玛寺庙七层"
+
+#. 数据库字段：Map[272].Title
+#: Server.MirDB Map[272].Title
+msgctxt "Map:272:Title"
+msgid "ZumaTemple"
+msgstr "祖玛寺庙"
+
+#. 数据库字段：Map[273].Title
+#: Server.MirDB Map[273].Title
+msgctxt "Map:273:Title"
+msgid "ZumaTemple"
+msgstr "祖玛寺庙"
+
+#. 数据库字段：Map[274].Title
+#: Server.MirDB Map[274].Title
+msgctxt "Map:274:Title"
+msgid "ZumaTemple"
+msgstr "祖玛寺庙"
+
+#. 数据库字段：Map[275].Title
+#: Server.MirDB Map[275].Title
+msgctxt "Map:275:Title"
+msgid "ZumaTemple"
+msgstr "祖玛寺庙"
+
+#. 数据库字段：Map[276].Title
+#: Server.MirDB Map[276].Title
+msgctxt "Map:276:Title"
+msgid "ZumaTemple"
+msgstr "祖玛寺庙"
+
+#. 数据库字段：Map[277].Title
+#: Server.MirDB Map[277].Title
+msgctxt "Map:277:Title"
+msgid "AncientZumaLobby"
+msgstr "远古祖玛大厅"
+
+#. 数据库字段：Map[278].Title
+#: Server.MirDB Map[278].Title
+msgctxt "Map:278:Title"
+msgid "AncientZuma_1F"
+msgstr "远古祖玛一层"
+
+#. 数据库字段：Map[279].Title
+#: Server.MirDB Map[279].Title
+msgctxt "Map:279:Title"
+msgid "AncientZuma_2F"
+msgstr "远古祖玛二层"
+
+#. 数据库字段：Map[280].Title
+#: Server.MirDB Map[280].Title
+msgctxt "Map:280:Title"
+msgid "AncientZuma_3F"
+msgstr "远古祖玛三层"
+
+#. 数据库字段：Map[281].Title
+#: Server.MirDB Map[281].Title
+msgctxt "Map:281:Title"
+msgid "SealedMaze"
+msgstr "封印迷宫"
+
+#. 数据库字段：Map[282].Title
+#: Server.MirDB Map[282].Title
+msgctxt "Map:282:Title"
+msgid "SacredFoxHill"
+msgstr "圣狐山"
+
+#. 数据库字段：Map[283].Title
+#: Server.MirDB Map[283].Title
+msgctxt "Map:283:Title"
+msgid "SacredFoxTemple"
+msgstr "圣狐神殿"
+
+#. 数据库字段：Map[284].Title
+#: Server.MirDB Map[284].Title
+msgctxt "Map:284:Title"
+msgid "SwampCavern_1F"
+msgstr "沼泽洞穴一层"
+
+#. 数据库字段：Map[285].Title
+#: Server.MirDB Map[285].Title
+msgctxt "Map:285:Title"
+msgid "SwampCavern_2F"
+msgstr "沼泽洞穴二层"
+
+#. 数据库字段：Map[286].Title
+#: Server.MirDB Map[286].Title
+msgctxt "Map:286:Title"
+msgid "Swamp"
+msgstr "沼泽"
+
+#. 数据库字段：Map[287].Title
+#: Server.MirDB Map[287].Title
+msgctxt "Map:287:Title"
+msgid "DarkSwamp"
+msgstr "黑暗沼泽"
+
+#. 数据库字段：Map[288].Title
+#: Server.MirDB Map[288].Title
+msgctxt "Map:288:Title"
+msgid "ForgottenCity"
+msgstr "遗忘之城"
+
+#. 数据库字段：Map[289].Title
+#: Server.MirDB Map[289].Title
+msgctxt "Map:289:Title"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Map[290].Title
+#: Server.MirDB Map[290].Title
+msgctxt "Map:290:Title"
+msgid "WeaponStore"
+msgstr "武器店"
+
+#. 数据库字段：Map[291].Title
+#: Server.MirDB Map[291].Title
+msgctxt "Map:291:Title"
+msgid "AccessoryStore"
+msgstr "首饰店"
+
+#. 数据库字段：Map[292].Title
+#: Server.MirDB Map[292].Title
+msgctxt "Map:292:Title"
+msgid "DraperyStore"
+msgstr "服装店"
+
+#. 数据库字段：Map[293].Title
+#: Server.MirDB Map[293].Title
+msgctxt "Map:293:Title"
+msgid "VillageChiefHouse"
+msgstr "村长家"
+
+#. 数据库字段：Map[294].Title
+#: Server.MirDB Map[294].Title
+msgctxt "Map:294:Title"
+msgid "FisherManHouse"
+msgstr "渔夫家"
+
+#. 数据库字段：Map[295].Title
+#: Server.MirDB Map[295].Title
+msgctxt "Map:295:Title"
+msgid "Shrine"
+msgstr "神龛"
+
+#. 数据库字段：Map[296].Title
+#: Server.MirDB Map[296].Title
+msgctxt "Map:296:Title"
+msgid "PrajnaStoneCave_1F"
+msgstr "般若石窟一层"
+
+#. 数据库字段：Map[297].Title
+#: Server.MirDB Map[297].Title
+msgctxt "Map:297:Title"
+msgid "PrajnaStoneCave_2F"
+msgstr "般若石窟二层"
+
+#. 数据库字段：Map[298].Title
+#: Server.MirDB Map[298].Title
+msgctxt "Map:298:Title"
+msgid "PrajnaStoneCave(E)_3F"
+msgstr "般若石窟东三层"
+
+#. 数据库字段：Map[299].Title
+#: Server.MirDB Map[299].Title
+msgctxt "Map:299:Title"
+msgid "PrajnaStoneCave(W)_3F"
+msgstr "般若石窟西三层"
+
+#. 数据库字段：Map[300].Title
+#: Server.MirDB Map[300].Title
+msgctxt "Map:300:Title"
+msgid "PrajnaStoneCave_4F"
+msgstr "般若石窟四层"
+
+#. 数据库字段：Map[301].Title
+#: Server.MirDB Map[301].Title
+msgctxt "Map:301:Title"
+msgid "PrajnaStoneCave_5F"
+msgstr "般若石窟五层"
+
+#. 数据库字段：Map[302].Title
+#: Server.MirDB Map[302].Title
+msgctxt "Map:302:Title"
+msgid "PrajnaStoneCave_6F"
+msgstr "般若石窟六层"
+
+#. 数据库字段：Map[303].Title
+#: Server.MirDB Map[303].Title
+msgctxt "Map:303:Title"
+msgid "PrajnaTempleLobby"
+msgstr "般若神殿大厅"
+
+#. 数据库字段：Map[304].Title
+#: Server.MirDB Map[304].Title
+msgctxt "Map:304:Title"
+msgid "PrajnaTemple_1F"
+msgstr "般若神殿一层"
+
+#. 数据库字段：Map[305].Title
+#: Server.MirDB Map[305].Title
+msgctxt "Map:305:Title"
+msgid "PrajnaTemple_2F"
+msgstr "般若神殿二层"
+
+#. 数据库字段：Map[306].Title
+#: Server.MirDB Map[306].Title
+msgctxt "Map:306:Title"
+msgid "PrajnaTemple_3F"
+msgstr "般若神殿三层"
+
+#. 数据库字段：Map[307].Title
+#: Server.MirDB Map[307].Title
+msgctxt "Map:307:Title"
+msgid "PrajnaTemple_4F"
+msgstr "般若神殿四层"
+
+#. 数据库字段：Map[308].Title
+#: Server.MirDB Map[308].Title
+msgctxt "Map:308:Title"
+msgid "PrajnaTemple(E)_5F"
+msgstr "般若神殿东五层"
+
+#. 数据库字段：Map[309].Title
+#: Server.MirDB Map[309].Title
+msgctxt "Map:309:Title"
+msgid "PrajnaTemple(W)_5F"
+msgstr "般若神殿西五层"
+
+#. 数据库字段：Map[310].Title
+#: Server.MirDB Map[310].Title
+msgctxt "Map:310:Title"
+msgid "PrajnaTemple_6F"
+msgstr "般若神殿六层"
+
+#. 数据库字段：Map[311].Title
+#: Server.MirDB Map[311].Title
+msgctxt "Map:311:Title"
+msgid "PrajnaTemple_7F"
+msgstr "般若神殿七层"
+
+#. 数据库字段：Map[312].Title
+#: Server.MirDB Map[312].Title
+msgctxt "Map:312:Title"
+msgid "PrajnaTemple"
+msgstr "般若神殿"
+
+#. 数据库字段：Map[313].Title
+#: Server.MirDB Map[313].Title
+msgctxt "Map:313:Title"
+msgid "AncientPrajna_1F"
+msgstr "远古般若一层"
+
+#. 数据库字段：Map[314].Title
+#: Server.MirDB Map[314].Title
+msgctxt "Map:314:Title"
+msgid "AncientPrajna_2F"
+msgstr "远古般若二层"
+
+#. 数据库字段：Map[315].Title
+#: Server.MirDB Map[315].Title
+msgctxt "Map:315:Title"
+msgid "AncientPrajna_3F"
+msgstr "远古般若三层"
+
+#. 数据库字段：Map[316].Title
+#: Server.MirDB Map[316].Title
+msgctxt "Map:316:Title"
+msgid "PastBichon"
+msgstr "过去的比奇"
+
+#. 数据库字段：Map[317].Title
+#: Server.MirDB Map[317].Title
+msgctxt "Map:317:Title"
+msgid "GeneralsCamp"
+msgstr "将军营地"
+
+#. 数据库字段：Map[318].Title
+#: Server.MirDB Map[318].Title
+msgctxt "Map:318:Title"
+msgid "WestOmaGorge"
+msgstr "西兽人峡谷"
+
+#. 数据库字段：Map[319].Title
+#: Server.MirDB Map[319].Title
+msgctxt "Map:319:Title"
+msgid "WestOmaPass"
+msgstr "西兽人关口"
+
+#. 数据库字段：Map[320].Title
+#: Server.MirDB Map[320].Title
+msgctxt "Map:320:Title"
+msgid "OmaGorge"
+msgstr "兽人峡谷"
+
+#. 数据库字段：Map[321].Title
+#: Server.MirDB Map[321].Title
+msgctxt "Map:321:Title"
+msgid "EastOmaPass"
+msgstr "东兽人关口"
+
+#. 数据库字段：Map[322].Title
+#: Server.MirDB Map[322].Title
+msgctxt "Map:322:Title"
+msgid "WestOmaValley"
+msgstr "西兽人山谷"
+
+#. 数据库字段：Map[323].Title
+#: Server.MirDB Map[323].Title
+msgctxt "Map:323:Title"
+msgid "OmaValley"
+msgstr "兽人山谷"
+
+#. 数据库字段：Map[324].Title
+#: Server.MirDB Map[324].Title
+msgctxt "Map:324:Title"
+msgid "EastOmaValley"
+msgstr "东兽人山谷"
+
+#. 数据库字段：Map[325].Title
+#: Server.MirDB Map[325].Title
+msgctxt "Map:325:Title"
+msgid "EastOmaGorge"
+msgstr "东兽人峡谷"
+
+#. 数据库字段：Map[326].Title
+#: Server.MirDB Map[326].Title
+msgctxt "Map:326:Title"
+msgid "WestPass"
+msgstr "西部关口"
+
+#. 数据库字段：Map[327].Title
+#: Server.MirDB Map[327].Title
+msgctxt "Map:327:Title"
+msgid "EastPass"
+msgstr "东部关口"
+
+#. 数据库字段：Map[328].Title
+#: Server.MirDB Map[328].Title
+msgctxt "Map:328:Title"
+msgid "BloodGorge"
+msgstr "血色峡谷"
+
+#. 数据库字段：Map[329].Title
+#: Server.MirDB Map[329].Title
+msgctxt "Map:329:Title"
+msgid "BloodPass"
+msgstr "血色关口"
+
+#. 数据库字段：Map[330].Title
+#: Server.MirDB Map[330].Title
+msgctxt "Map:330:Title"
+msgid "BloodLand"
+msgstr "血色之地"
+
+#. 数据库字段：Map[331].Title
+#: Server.MirDB Map[331].Title
+msgctxt "Map:331:Title"
+msgid "LightningCave"
+msgstr "雷电洞穴"
+
+#. 数据库字段：Map[332].Title
+#: Server.MirDB Map[332].Title
+msgctxt "Map:332:Title"
+msgid "MoltenRockCave"
+msgstr "熔岩洞穴"
+
+#. 数据库字段：Map[333].Title
+#: Server.MirDB Map[333].Title
+msgctxt "Map:333:Title"
+msgid "EvilMirPalace"
+msgstr "邪恶米尔宫殿"
+
+#. 数据库字段：Map[334].Title
+#: Server.MirDB Map[334].Title
+msgctxt "Map:334:Title"
+msgid "WasteLands"
+msgstr "荒芜之地"
+
+#. 数据库字段：Map[335].Title
+#: Server.MirDB Map[335].Title
+msgctxt "Map:335:Title"
+msgid "HellCavern_1F"
+msgstr "地狱洞穴一层"
+
+#. 数据库字段：Map[336].Title
+#: Server.MirDB Map[336].Title
+msgctxt "Map:336:Title"
+msgid "HellCavern_2F"
+msgstr "地狱洞穴二层"
+
+#. 数据库字段：Map[337].Title
+#: Server.MirDB Map[337].Title
+msgctxt "Map:337:Title"
+msgid "HellOverpass"
+msgstr "地狱栈道"
+
+#. 数据库字段：Map[338].Title
+#: Server.MirDB Map[338].Title
+msgctxt "Map:338:Title"
+msgid "IceHellCavern"
+msgstr "冰狱洞穴"
+
+#. 数据库字段：Map[339].Title
+#: Server.MirDB Map[339].Title
+msgctxt "Map:339:Title"
+msgid "IceHellTemple(S)"
+msgstr "冰狱神殿南部"
+
+#. 数据库字段：Map[340].Title
+#: Server.MirDB Map[340].Title
+msgctxt "Map:340:Title"
+msgid "DangerousCavern"
+msgstr "危险洞穴"
+
+#. 数据库字段：Map[341].Title
+#: Server.MirDB Map[341].Title
+msgctxt "Map:341:Title"
+msgid "IceHellTemple(N)"
+msgstr "冰狱神殿北部"
+
+#. 数据库字段：Map[342].Title
+#: Server.MirDB Map[342].Title
+msgctxt "Map:342:Title"
+msgid "IceHellPass"
+msgstr "冰狱通道"
+
+#. 数据库字段：Map[343].Title
+#: Server.MirDB Map[343].Title
+msgctxt "Map:343:Title"
+msgid "IceHellTemple_KR"
+msgstr "冰狱神殿王房"
+
+#. 数据库字段：Map[344].Title
+#: Server.MirDB Map[344].Title
+msgctxt "Map:344:Title"
+msgid "HellFire_1F"
+msgstr "地狱火一层"
+
+#. 数据库字段：Map[345].Title
+#: Server.MirDB Map[345].Title
+msgctxt "Map:345:Title"
+msgid "HellFire_2F"
+msgstr "地狱火二层"
+
+#. 数据库字段：Map[346].Title
+#: Server.MirDB Map[346].Title
+msgctxt "Map:346:Title"
+msgid "HellFire_3F"
+msgstr "地狱火三层"
+
+#. 数据库字段：Map[348].Title
+#: Server.MirDB Map[348].Title
+msgctxt "Map:348:Title"
+msgid "HellFire_KingsRoom"
+msgstr "地狱火王房"
+
+#. 数据库字段：Map[349].Title
+#: Server.MirDB Map[349].Title
+msgctxt "Map:349:Title"
+msgid "RedCavern_1F"
+msgstr "赤色洞穴一层"
+
+#. 数据库字段：Map[350].Title
+#: Server.MirDB Map[350].Title
+msgctxt "Map:350:Title"
+msgid "RedCavern_2F"
+msgstr "赤色洞穴二层"
+
+#. 数据库字段：Map[351].Title
+#: Server.MirDB Map[351].Title
+msgctxt "Map:351:Title"
+msgid "RedCavern_3F"
+msgstr "赤色洞穴三层"
+
+#. 数据库字段：Map[352].Title
+#: Server.MirDB Map[352].Title
+msgctxt "Map:352:Title"
+msgid "RedCavern_4F"
+msgstr "赤色洞穴四层"
+
+#. 数据库字段：Map[353].Title
+#: Server.MirDB Map[353].Title
+msgctxt "Map:353:Title"
+msgid "RedCavern_5F"
+msgstr "赤色洞穴五层"
+
+#. 数据库字段：Map[354].Title
+#: Server.MirDB Map[354].Title
+msgctxt "Map:354:Title"
+msgid "RedCavern_6F"
+msgstr "赤色洞穴六层"
+
+#. 数据库字段：Map[355].Title
+#: Server.MirDB Map[355].Title
+msgctxt "Map:355:Title"
+msgid "RedCavern_7F"
+msgstr "赤色洞穴七层"
+
+#. 数据库字段：Map[356].Title
+#: Server.MirDB Map[356].Title
+msgctxt "Map:356:Title"
+msgid "RedCavern_8F"
+msgstr "赤色洞穴八层"
+
+#. 数据库字段：Map[357].Title
+#: Server.MirDB Map[357].Title
+msgctxt "Map:357:Title"
+msgid "RedCavern_9F"
+msgstr "赤色洞穴九层"
+
+#. 数据库字段：Map[358].Title
+#: Server.MirDB Map[358].Title
+msgctxt "Map:358:Title"
+msgid "RedCavern_10F"
+msgstr "赤色洞穴十层"
+
+#. 数据库字段：Map[359].Title
+#: Server.MirDB Map[359].Title
+msgctxt "Map:359:Title"
+msgid "RedCavern_11F"
+msgstr "赤色洞穴十一层"
+
+#. 数据库字段：Map[360].Title
+#: Server.MirDB Map[360].Title
+msgctxt "Map:360:Title"
+msgid "RedCavern_12F"
+msgstr "赤色洞穴十二层"
+
+#. 数据库字段：Map[361].Title
+#: Server.MirDB Map[361].Title
+msgctxt "Map:361:Title"
+msgid "RedCavern_KR"
+msgstr "赤色洞穴王房"
+
+#. 数据库字段：Map[362].Title
+#: Server.MirDB Map[362].Title
+msgctxt "Map:362:Title"
+msgid "DeadForest"
+msgstr "死亡森林"
+
+#. 数据库字段：Map[363].Title
+#: Server.MirDB Map[363].Title
+msgctxt "Map:363:Title"
+msgid "CastleRuins"
+msgstr "城堡废墟"
+
+#. 数据库字段：Map[364].Title
+#: Server.MirDB Map[364].Title
+msgctxt "Map:364:Title"
+msgid "Ruins"
+msgstr "废墟"
+
+#. 数据库字段：Map[365].Title
+#: Server.MirDB Map[365].Title
+msgctxt "Map:365:Title"
+msgid "HauntedForest"
+msgstr "幽魂森林"
+
+#. 数据库字段：Map[366].Title
+#: Server.MirDB Map[366].Title
+msgctxt "Map:366:Title"
+msgid "WhiteValley"
+msgstr "白色山谷"
+
+#. 数据库字段：Map[367].Title
+#: Server.MirDB Map[367].Title
+msgctxt "Map:367:Title"
+msgid "GeneralStore"
+msgstr "杂货店"
+
+#. 数据库字段：Map[368].Title
+#: Server.MirDB Map[368].Title
+msgctxt "Map:368:Title"
+msgid "TrainingHall"
+msgstr "训练大厅"
+
+#. 数据库字段：Map[369].Title
+#: Server.MirDB Map[369].Title
+msgctxt "Map:369:Title"
+msgid "AccessoryStore"
+msgstr "首饰店"
+
+#. 数据库字段：Map[370].Title
+#: Server.MirDB Map[370].Title
+msgctxt "Map:370:Title"
+msgid "DraperyStore"
+msgstr "服装店"
+
+#. 数据库字段：Map[371].Title
+#: Server.MirDB Map[371].Title
+msgctxt "Map:371:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[372].Title
+#: Server.MirDB Map[372].Title
+msgctxt "Map:372:Title"
+msgid "PrivateHouse"
+msgstr "民居"
+
+#. 数据库字段：Map[373].Title
+#: Server.MirDB Map[373].Title
+msgctxt "Map:373:Title"
+msgid "BookStore"
+msgstr "书店"
+
+#. 数据库字段：Map[374].Title
+#: Server.MirDB Map[374].Title
+msgctxt "Map:374:Title"
+msgid "WeaponStore"
+msgstr "武器店"
+
+#. 数据库字段：Map[375].Title
+#: Server.MirDB Map[375].Title
+msgctxt "Map:375:Title"
+msgid "PotionStore"
+msgstr "药品店"
+
+#. 数据库字段：Map[376].Title
+#: Server.MirDB Map[376].Title
+msgctxt "Map:376:Title"
+msgid "Warehouse"
+msgstr "仓库"
+
+#. 数据库字段：Map[377].Title
+#: Server.MirDB Map[377].Title
+msgctxt "Map:377:Title"
+msgid "SnowCavern_1F"
+msgstr "雪域洞穴一层"
+
+#. 数据库字段：Map[378].Title
+#: Server.MirDB Map[378].Title
+msgctxt "Map:378:Title"
+msgid "SnowCavern_2F"
+msgstr "雪域洞穴二层"
+
+#. 数据库字段：Map[379].Title
+#: Server.MirDB Map[379].Title
+msgctxt "Map:379:Title"
+msgid "TheSnowLair"
+msgstr "雪域巢穴"
+
+#. 数据库字段：Map[380].Title
+#: Server.MirDB Map[380].Title
+msgctxt "Map:380:Title"
+msgid "WaitingRoom"
+msgstr "等待室"
+
+#. 数据库字段：Map[381].Title
+#: Server.MirDB Map[381].Title
+msgctxt "Map:381:Title"
+msgid "InfiniteBout"
+msgstr "无限斗场"
+
+#. 数据库字段：Map[382].Title
+#: Server.MirDB Map[382].Title
+msgctxt "Map:382:Title"
+msgid "InfiniteBout"
+msgstr "无限斗场"
+
+#. 数据库字段：Map[383].Title
+#: Server.MirDB Map[383].Title
+msgctxt "Map:383:Title"
+msgid "InfiniteBout"
+msgstr "无限斗场"
+
+#. 数据库字段：Map[384].Title
+#: Server.MirDB Map[384].Title
+msgctxt "Map:384:Title"
+msgid "GameMaster"
+msgstr "管理员地图"
+
+#. 数据库字段：Map[385].Title
+#: Server.MirDB Map[385].Title
+msgctxt "Map:385:Title"
+msgid "PenalCavern"
+msgstr "惩戒洞穴"
+
+#. 数据库字段：Map[386].Title
+#: Server.MirDB Map[386].Title
+msgctxt "Map:386:Title"
+msgid "CraftingVillage"
+msgstr "工匠村"
+
+#. 数据库字段：Map[387].Title
+#: Server.MirDB Map[387].Title
+msgctxt "Map:387:Title"
+msgid "ArchersHideout"
+msgstr "弓手隐居地"
+
+#. 数据库字段：Map[396].Title
+#: Server.MirDB Map[396].Title
+msgctxt "Map:396:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[397].Title
+#: Server.MirDB Map[397].Title
+msgctxt "Map:397:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[398].Title
+#: Server.MirDB Map[398].Title
+msgctxt "Map:398:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[399].Title
+#: Server.MirDB Map[399].Title
+msgctxt "Map:399:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[400].Title
+#: Server.MirDB Map[400].Title
+msgctxt "Map:400:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[401].Title
+#: Server.MirDB Map[401].Title
+msgctxt "Map:401:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[402].Title
+#: Server.MirDB Map[402].Title
+msgctxt "Map:402:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[403].Title
+#: Server.MirDB Map[403].Title
+msgctxt "Map:403:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[404].Title
+#: Server.MirDB Map[404].Title
+msgctxt "Map:404:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[405].Title
+#: Server.MirDB Map[405].Title
+msgctxt "Map:405:Title"
+msgid "GTCourt"
+msgstr "行会试炼场"
+
+#. 数据库字段：Map[406].Title
+#: Server.MirDB Map[406].Title
+msgctxt "Map:406:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[407].Title
+#: Server.MirDB Map[407].Title
+msgctxt "Map:407:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[408].Title
+#: Server.MirDB Map[408].Title
+msgctxt "Map:408:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[409].Title
+#: Server.MirDB Map[409].Title
+msgctxt "Map:409:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[410].Title
+#: Server.MirDB Map[410].Title
+msgctxt "Map:410:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[411].Title
+#: Server.MirDB Map[411].Title
+msgctxt "Map:411:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[412].Title
+#: Server.MirDB Map[412].Title
+msgctxt "Map:412:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[413].Title
+#: Server.MirDB Map[413].Title
+msgctxt "Map:413:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[414].Title
+#: Server.MirDB Map[414].Title
+msgctxt "Map:414:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[415].Title
+#: Server.MirDB Map[415].Title
+msgctxt "Map:415:Title"
+msgid "GT1F"
+msgstr "行会试炼一层"
+
+#. 数据库字段：Map[416].Title
+#: Server.MirDB Map[416].Title
+msgctxt "Map:416:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[417].Title
+#: Server.MirDB Map[417].Title
+msgctxt "Map:417:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[418].Title
+#: Server.MirDB Map[418].Title
+msgctxt "Map:418:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[419].Title
+#: Server.MirDB Map[419].Title
+msgctxt "Map:419:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[420].Title
+#: Server.MirDB Map[420].Title
+msgctxt "Map:420:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[421].Title
+#: Server.MirDB Map[421].Title
+msgctxt "Map:421:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[422].Title
+#: Server.MirDB Map[422].Title
+msgctxt "Map:422:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[423].Title
+#: Server.MirDB Map[423].Title
+msgctxt "Map:423:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[424].Title
+#: Server.MirDB Map[424].Title
+msgctxt "Map:424:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[425].Title
+#: Server.MirDB Map[425].Title
+msgctxt "Map:425:Title"
+msgid "GT2F"
+msgstr "行会试炼二层"
+
+#. 数据库字段：Map[426].Title
+#: Server.MirDB Map[426].Title
+msgctxt "Map:426:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[427].Title
+#: Server.MirDB Map[427].Title
+msgctxt "Map:427:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[428].Title
+#: Server.MirDB Map[428].Title
+msgctxt "Map:428:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[429].Title
+#: Server.MirDB Map[429].Title
+msgctxt "Map:429:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[430].Title
+#: Server.MirDB Map[430].Title
+msgctxt "Map:430:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[431].Title
+#: Server.MirDB Map[431].Title
+msgctxt "Map:431:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[432].Title
+#: Server.MirDB Map[432].Title
+msgctxt "Map:432:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[433].Title
+#: Server.MirDB Map[433].Title
+msgctxt "Map:433:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[434].Title
+#: Server.MirDB Map[434].Title
+msgctxt "Map:434:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[435].Title
+#: Server.MirDB Map[435].Title
+msgctxt "Map:435:Title"
+msgid "GT3F"
+msgstr "行会试炼三层"
+
+#. 数据库字段：Map[439].Title
+#: Server.MirDB Map[439].Title
+msgctxt "Map:439:Title"
+msgid "DogYoArena"
+msgstr "狗妖竞技场"
+
+#. 数据库字段：Map[440].Title
+#: Server.MirDB Map[440].Title
+msgctxt "Map:440:Title"
+msgid "DogYoHyun"
+msgstr "狗妖县"
+
+#. 数据库字段：Map[441].Title
+#: Server.MirDB Map[441].Title
+msgctxt "Map:441:Title"
+msgid "DogYoMineLobby"
+msgstr "狗妖矿区大厅"
+
+#. 数据库字段：Map[442].Title
+#: Server.MirDB Map[442].Title
+msgctxt "Map:442:Title"
+msgid "DY_Pharmacy"
+msgstr "狗妖药房"
+
+#. 数据库字段：Map[443].Title
+#: Server.MirDB Map[443].Title
+msgctxt "Map:443:Title"
+msgid "DY_Craft"
+msgstr "狗妖工坊"
+
+#. 数据库字段：Map[444].Title
+#: Server.MirDB Map[444].Title
+msgctxt "Map:444:Title"
+msgid "DY_Craft"
+msgstr "狗妖工坊"
+
+#. 数据库字段：Map[445].Title
+#: Server.MirDB Map[445].Title
+msgctxt "Map:445:Title"
+msgid "DY_Head"
+msgstr "狗妖头领房"
+
+#. 数据库字段：Map[446].Title
+#: Server.MirDB Map[446].Title
+msgctxt "Map:446:Title"
+msgid "DY_Head"
+msgstr "狗妖头领房"
+
+#. 数据库字段：Map[447].Title
+#: Server.MirDB Map[447].Title
+msgctxt "Map:447:Title"
+msgid "DY_MedStorage"
+msgstr "狗妖药品仓库"
+
+#. 数据库字段：Map[448].Title
+#: Server.MirDB Map[448].Title
+msgctxt "Map:448:Title"
+msgid "DY_Smithy"
+msgstr "狗妖铁匠铺"
+
+#. 数据库字段：Map[449].Title
+#: Server.MirDB Map[449].Title
+msgctxt "Map:449:Title"
+msgid "DY_Weapon"
+msgstr "狗妖武器店"
+
+#. 数据库字段：Map[450].Title
+#: Server.MirDB Map[450].Title
+msgctxt "Map:450:Title"
+msgid "DY_Wearhouse"
+msgstr "狗妖仓库"
+
+#. 数据库字段：Map[451].Title
+#: Server.MirDB Map[451].Title
+msgctxt "Map:451:Title"
+msgid "DogYoMineLobby1"
+msgstr "狗妖矿区大厅一"
+
+#. 数据库字段：Map[452].Title
+#: Server.MirDB Map[452].Title
+msgctxt "Map:452:Title"
+msgid "DogYoMineLobby2"
+msgstr "狗妖矿区大厅二"
+
+#. 数据库字段：Map[453].Title
+#: Server.MirDB Map[453].Title
+msgctxt "Map:453:Title"
+msgid "DogYoMineLobby3"
+msgstr "狗妖矿区大厅三"
+
+#. 数据库字段：Map[454].Title
+#: Server.MirDB Map[454].Title
+msgctxt "Map:454:Title"
+msgid "DogYoMineLobby4"
+msgstr "狗妖矿区大厅四"
+
+#. 数据库字段：Map[455].Title
+#: Server.MirDB Map[455].Title
+msgctxt "Map:455:Title"
+msgid "DYMine11"
+msgstr "狗妖矿区一层一号"
+
+#. 数据库字段：Map[456].Title
+#: Server.MirDB Map[456].Title
+msgctxt "Map:456:Title"
+msgid "DYMine12"
+msgstr "狗妖矿区一层二号"
+
+#. 数据库字段：Map[457].Title
+#: Server.MirDB Map[457].Title
+msgctxt "Map:457:Title"
+msgid "DYMine13"
+msgstr "狗妖矿区一层三号"
+
+#. 数据库字段：Map[458].Title
+#: Server.MirDB Map[458].Title
+msgctxt "Map:458:Title"
+msgid "DYMine14"
+msgstr "狗妖矿区一层四号"
+
+#. 数据库字段：Map[459].Title
+#: Server.MirDB Map[459].Title
+msgctxt "Map:459:Title"
+msgid "DYMine15"
+msgstr "狗妖矿区一层五号"
+
+#. 数据库字段：Map[460].Title
+#: Server.MirDB Map[460].Title
+msgctxt "Map:460:Title"
+msgid "DYMine21"
+msgstr "狗妖矿区二层一号"
+
+#. 数据库字段：Map[461].Title
+#: Server.MirDB Map[461].Title
+msgctxt "Map:461:Title"
+msgid "DYMine22"
+msgstr "狗妖矿区二层二号"
+
+#. 数据库字段：Map[462].Title
+#: Server.MirDB Map[462].Title
+msgctxt "Map:462:Title"
+msgid "DYMine23"
+msgstr "狗妖矿区二层三号"
+
+#. 数据库字段：Map[463].Title
+#: Server.MirDB Map[463].Title
+msgctxt "Map:463:Title"
+msgid "DYMine24"
+msgstr "狗妖矿区二层四号"
+
+#. 数据库字段：Map[464].Title
+#: Server.MirDB Map[464].Title
+msgctxt "Map:464:Title"
+msgid "DYMine25"
+msgstr "狗妖矿区二层五号"
+
+#. 数据库字段：Map[465].Title
+#: Server.MirDB Map[465].Title
+msgctxt "Map:465:Title"
+msgid "DYMine31"
+msgstr "狗妖矿区三层一号"
+
+#. 数据库字段：Map[466].Title
+#: Server.MirDB Map[466].Title
+msgctxt "Map:466:Title"
+msgid "DYMine32"
+msgstr "狗妖矿区三层二号"
+
+#. 数据库字段：Map[467].Title
+#: Server.MirDB Map[467].Title
+msgctxt "Map:467:Title"
+msgid "DYMine33"
+msgstr "狗妖矿区三层三号"
+
+#. 数据库字段：Map[468].Title
+#: Server.MirDB Map[468].Title
+msgctxt "Map:468:Title"
+msgid "DYMine34"
+msgstr "狗妖矿区三层四号"
+
+#. 数据库字段：Map[469].Title
+#: Server.MirDB Map[469].Title
+msgctxt "Map:469:Title"
+msgid "DYMine35"
+msgstr "狗妖矿区三层五号"
+
+#. 数据库字段：Map[470].Title
+#: Server.MirDB Map[470].Title
+msgctxt "Map:470:Title"
+msgid "DYMine41"
+msgstr "狗妖矿区四层一号"
+
+#. 数据库字段：Map[471].Title
+#: Server.MirDB Map[471].Title
+msgctxt "Map:471:Title"
+msgid "DYMine42"
+msgstr "狗妖矿区四层二号"
+
+#. 数据库字段：Map[472].Title
+#: Server.MirDB Map[472].Title
+msgctxt "Map:472:Title"
+msgid "DYMine43"
+msgstr "狗妖矿区四层三号"
+
+#. 数据库字段：Map[473].Title
+#: Server.MirDB Map[473].Title
+msgctxt "Map:473:Title"
+msgid "DYMine44"
+msgstr "狗妖矿区四层四号"
+
+#. 数据库字段：Map[474].Title
+#: Server.MirDB Map[474].Title
+msgctxt "Map:474:Title"
+msgid "DYMine45"
+msgstr "狗妖矿区四层五号"
+
+#. 数据库字段：Map[475].Title
+#: Server.MirDB Map[475].Title
+msgctxt "Map:475:Title"
+msgid "DYMine4Boss"
+msgstr "狗妖矿区四层首领房"
+
+#. 数据库字段：Map[476].Title
+#: Server.MirDB Map[476].Title
+msgctxt "Map:476:Title"
+msgid "DogYoMineLift"
+msgstr "狗妖矿区升降机"
+
+#. 数据库字段：Quest[1].GotoMessage
+#: Server.MirDB Quest[1].GotoMessage
+msgctxt "Quest:1:GotoMessage"
+msgid "Deliver Leaves to CraftsLady"
+msgstr "把叶子交给工艺师"
+
+#. 数据库字段：Quest[1].Group
+#: Server.MirDB Quest[1].Group
+msgctxt "Quest:1:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[1].Name
+#: Server.MirDB Quest[1].Name
+msgctxt "Quest:1:Name"
+msgid "Assistant's Request"
+msgstr "助手的请求"
+
+#. 数据库字段：Quest[2].GotoMessage
+#: Server.MirDB Quest[2].GotoMessage
+msgctxt "Quest:2:GotoMessage"
+msgid "Deliver GingerTea to Assistant Jane"
+msgstr "把姜茶交给助手简"
+
+#. 数据库字段：Quest[2].Group
+#: Server.MirDB Quest[2].Group
+msgctxt "Quest:2:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[2].Name
+#: Server.MirDB Quest[2].Name
+msgctxt "Quest:2:Name"
+msgid "The CraftLady's Request"
+msgstr "工艺师的请求"
+
+#. 数据库字段：Quest[3].GotoMessage
+#: Server.MirDB Quest[3].GotoMessage
+msgctxt "Quest:3:GotoMessage"
+msgid "Speak to Butcher John at 293:603"
+msgstr "与 293:603 的屠夫约翰交谈"
+
+#. 数据库字段：Quest[3].Group
+#: Server.MirDB Quest[3].Group
+msgctxt "Quest:3:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[3].Name
+#: Server.MirDB Quest[3].Name
+msgctxt "Quest:3:Name"
+msgid "Talk with the Butcher"
+msgstr "与屠夫交谈"
+
+#. 数据库字段：Quest[4].GotoMessage
+#: Server.MirDB Quest[4].GotoMessage
+msgctxt "Quest:4:GotoMessage"
+msgid "Return to Butcher John at 293:603"
+msgstr "回到 293:603 找屠夫约翰"
+
+#. 数据库字段：Quest[4].Group
+#: Server.MirDB Quest[4].Group
+msgctxt "Quest:4:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[4].Name
+#: Server.MirDB Quest[4].Name
+msgctxt "Quest:4:Name"
+msgid "Hunt for the Butcher"
+msgstr "替屠夫狩猎"
+
+#. 数据库字段：Quest[5].GotoMessage
+#: Server.MirDB Quest[5].GotoMessage
+msgctxt "Quest:5:GotoMessage"
+msgid "Return to Blacksmith Smith at 297:612"
+msgstr "回到 297:612 找铁匠史密斯"
+
+#. 数据库字段：Quest[5].Group
+#: Server.MirDB Quest[5].Group
+msgctxt "Quest:5:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[5].Name
+#: Server.MirDB Quest[5].Name
+msgctxt "Quest:5:Name"
+msgid "The Smith's 1st Test"
+msgstr "铁匠的第一次考验"
+
+#. 数据库字段：Quest[6].GotoMessage
+#: Server.MirDB Quest[6].GotoMessage
+msgctxt "Quest:6:GotoMessage"
+msgid "Return to Blacksmith Smith at 297:612"
+msgstr "回到 297:612 找铁匠史密斯"
+
+#. 数据库字段：Quest[6].Group
+#: Server.MirDB Quest[6].Group
+msgctxt "Quest:6:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[6].Name
+#: Server.MirDB Quest[6].Name
+msgctxt "Quest:6:Name"
+msgid "Smith's 2nd Test"
+msgstr "铁匠的第二次考验"
+
+#. 数据库字段：Quest[7].GotoMessage
+#: Server.MirDB Quest[7].GotoMessage
+msgctxt "Quest:7:GotoMessage"
+msgid "Speak to Master_Wa at 110:317"
+msgstr "与 110:317 的战士导师交谈"
+
+#. 数据库字段：Quest[7].Group
+#: Server.MirDB Quest[7].Group
+msgctxt "Quest:7:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[7].Name
+#: Server.MirDB Quest[7].Name
+msgctxt "Quest:7:Name"
+msgid "Meet the Warrior Instructor"
+msgstr "拜见战士导师"
+
+#. 数据库字段：Quest[8].GotoMessage
+#: Server.MirDB Quest[8].GotoMessage
+msgctxt "Quest:8:GotoMessage"
+msgid "Return to Master_Wa at 110:317"
+msgstr "回到 110:317 找战士导师"
+
+#. 数据库字段：Quest[8].Group
+#: Server.MirDB Quest[8].Group
+msgctxt "Quest:8:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[8].Name
+#: Server.MirDB Quest[8].Name
+msgctxt "Quest:8:Name"
+msgid "Test for the Fencing Skill"
+msgstr "基本剑术考验"
+
+#. 数据库字段：Quest[9].GotoMessage
+#: Server.MirDB Quest[9].GotoMessage
+msgctxt "Quest:9:GotoMessage"
+msgid "Speak to Peter in BichonWall at 328:258"
+msgstr "与比奇城 328:258 的彼得交谈"
+
+#. 数据库字段：Quest[9].Group
+#: Server.MirDB Quest[9].Group
+msgctxt "Quest:9:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[9].Name
+#: Server.MirDB Quest[9].Name
+msgctxt "Quest:9:Name"
+msgid "To Bichon"
+msgstr "前往比奇"
+
+#. 数据库字段：Quest[10].GotoMessage
+#: Server.MirDB Quest[10].GotoMessage
+msgctxt "Quest:10:GotoMessage"
+msgid "Speak with the MasterMage at 314:474"
+msgstr "与 314:474 的法师导师交谈"
+
+#. 数据库字段：Quest[10].Group
+#: Server.MirDB Quest[10].Group
+msgctxt "Quest:10:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[10].Name
+#: Server.MirDB Quest[10].Name
+msgctxt "Quest:10:Name"
+msgid "Meet the Mage Instructor"
+msgstr "拜见法师导师"
+
+#. 数据库字段：Quest[11].GotoMessage
+#: Server.MirDB Quest[11].GotoMessage
+msgctxt "Quest:11:GotoMessage"
+msgid "Return to MasterMage at 314:474"
+msgstr "回到 314:474 找法师导师"
+
+#. 数据库字段：Quest[11].Group
+#: Server.MirDB Quest[11].Group
+msgctxt "Quest:11:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[11].Name
+#: Server.MirDB Quest[11].Name
+msgctxt "Quest:11:Name"
+msgid "Test for the Fireball Skill"
+msgstr "火球术考验"
+
+#. 数据库字段：Quest[12].GotoMessage
+#: Server.MirDB Quest[12].GotoMessage
+msgctxt "Quest:12:GotoMessage"
+msgid "Speak to Peter in BichonWall at 328:258"
+msgstr "与比奇城 328:258 的彼得交谈"
+
+#. 数据库字段：Quest[12].Group
+#: Server.MirDB Quest[12].Group
+msgctxt "Quest:12:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[12].Name
+#: Server.MirDB Quest[12].Name
+msgctxt "Quest:12:Name"
+msgid "To Bichon"
+msgstr "前往比奇"
+
+#. 数据库字段：Quest[13].GotoMessage
+#: Server.MirDB Quest[13].GotoMessage
+msgctxt "Quest:13:GotoMessage"
+msgid "Search for the HighPriest Last seen at 429:475 "
+msgstr "寻找最后出现在 429:475 的大祭司"
+
+#. 数据库字段：Quest[13].Group
+#: Server.MirDB Quest[13].Group
+msgctxt "Quest:13:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[13].Name
+#: Server.MirDB Quest[13].Name
+msgctxt "Quest:13:Name"
+msgid "Meet the Taoist Instructor"
+msgstr "拜见道士导师"
+
+#. 数据库字段：Quest[14].GotoMessage
+#: Server.MirDB Quest[14].GotoMessage
+msgctxt "Quest:14:GotoMessage"
+msgid "Return to the HighPriest at 429:475"
+msgstr "回到 429:475 找大祭司"
+
+#. 数据库字段：Quest[14].Group
+#: Server.MirDB Quest[14].Group
+msgctxt "Quest:14:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[14].Name
+#: Server.MirDB Quest[14].Name
+msgctxt "Quest:14:Name"
+msgid "Test for the Healing Skill"
+msgstr "治愈术考验"
+
+#. 数据库字段：Quest[15].GotoMessage
+#: Server.MirDB Quest[15].GotoMessage
+msgctxt "Quest:15:GotoMessage"
+msgid "Speak to Peter in BichonWall at 328:258"
+msgstr "与比奇城 328:258 的彼得交谈"
+
+#. 数据库字段：Quest[15].Group
+#: Server.MirDB Quest[15].Group
+msgctxt "Quest:15:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[15].Name
+#: Server.MirDB Quest[15].Name
+msgctxt "Quest:15:Name"
+msgid "To Bichon"
+msgstr "前往比奇"
+
+#. 数据库字段：Quest[16].GotoMessage
+#: Server.MirDB Quest[16].GotoMessage
+msgctxt "Quest:16:GotoMessage"
+msgid "Speak with Assassin Cloud at 101:411"
+msgstr "与 101:411 的刺客克劳德交谈"
+
+#. 数据库字段：Quest[16].Group
+#: Server.MirDB Quest[16].Group
+msgctxt "Quest:16:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[16].Name
+#: Server.MirDB Quest[16].Name
+msgctxt "Quest:16:Name"
+msgid "Meet the Assassin Instructor"
+msgstr "拜见刺客导师"
+
+#. 数据库字段：Quest[17].GotoMessage
+#: Server.MirDB Quest[17].GotoMessage
+msgctxt "Quest:17:GotoMessage"
+msgid "Return to Cloud at 101:411"
+msgstr "回到 101:411 找克劳德"
+
+#. 数据库字段：Quest[17].Group
+#: Server.MirDB Quest[17].Group
+msgctxt "Quest:17:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[17].Name
+#: Server.MirDB Quest[17].Name
+msgctxt "Quest:17:Name"
+msgid "Test for FatalSword Skill"
+msgstr "致命剑法考验"
+
+#. 数据库字段：Quest[18].GotoMessage
+#: Server.MirDB Quest[18].GotoMessage
+msgctxt "Quest:18:GotoMessage"
+msgid "Speak to Peter in BichonWall at 328:258"
+msgstr "与比奇城 328:258 的彼得交谈"
+
+#. 数据库字段：Quest[18].Group
+#: Server.MirDB Quest[18].Group
+msgctxt "Quest:18:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[18].Name
+#: Server.MirDB Quest[18].Name
+msgctxt "Quest:18:Name"
+msgid "To Bichon"
+msgstr "前往比奇"
+
+#. 数据库字段：Quest[19].GotoMessage
+#: Server.MirDB Quest[19].GotoMessage
+msgctxt "Quest:19:GotoMessage"
+msgid "Speak with the Captain at 320:477"
+msgstr "与 320:477 的队长交谈"
+
+#. 数据库字段：Quest[19].Group
+#: Server.MirDB Quest[19].Group
+msgctxt "Quest:19:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[19].Name
+#: Server.MirDB Quest[19].Name
+msgctxt "Quest:19:Name"
+msgid "Meet the Archer Instructor"
+msgstr "拜见弓手导师"
+
+#. 数据库字段：Quest[20].GotoMessage
+#: Server.MirDB Quest[20].GotoMessage
+msgctxt "Quest:20:GotoMessage"
+msgid "Return to the Captain at 320:477"
+msgstr "回到 320:477 找队长"
+
+#. 数据库字段：Quest[20].Group
+#: Server.MirDB Quest[20].Group
+msgctxt "Quest:20:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[20].Name
+#: Server.MirDB Quest[20].Name
+msgctxt "Quest:20:Name"
+msgid "Test for Focus Skill"
+msgstr "凝神考验"
+
+#. 数据库字段：Quest[21].GotoMessage
+#: Server.MirDB Quest[21].GotoMessage
+msgctxt "Quest:21:GotoMessage"
+msgid "Speak to Peter in BichonWall at 328:258"
+msgstr "与比奇城 328:258 的彼得交谈"
+
+#. 数据库字段：Quest[21].Group
+#: Server.MirDB Quest[21].Group
+msgctxt "Quest:21:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[21].Name
+#: Server.MirDB Quest[21].Name
+msgctxt "Quest:21:Name"
+msgid "To Bichon"
+msgstr "前往比奇"
+
+#. 数据库字段：Quest[22].GotoMessage
+#: Server.MirDB Quest[22].GotoMessage
+msgctxt "Quest:22:GotoMessage"
+msgid "Return to MirGuide Peter in BichonWall"
+msgstr "回到比奇城找向导彼得"
+
+#. 数据库字段：Quest[22].Group
+#: Server.MirDB Quest[22].Group
+msgctxt "Quest:22:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[22].Name
+#: Server.MirDB Quest[22].Name
+msgctxt "Quest:22:Name"
+msgid "Forest Yeti's Threat"
+msgstr "森林雪人的威胁"
+
+#. 数据库字段：Quest[23].Group
+#: Server.MirDB Quest[23].Group
+msgctxt "Quest:23:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[23].Name
+#: Server.MirDB Quest[23].Name
+msgctxt "Quest:23:Name"
+msgid "!Attack Oma"
+msgstr "！进攻兽人"
+
+#. 数据库字段：Quest[24].GotoMessage
+#: Server.MirDB Quest[24].GotoMessage
+msgctxt "Quest:24:GotoMessage"
+msgid "Speak to Blacksmith Jang in WoomyonWoods"
+msgstr "到沃玛森林与铁匠张交谈"
+
+#. 数据库字段：Quest[24].Group
+#: Server.MirDB Quest[24].Group
+msgctxt "Quest:24:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[24].Name
+#: Server.MirDB Quest[24].Name
+msgctxt "Quest:24:Name"
+msgid "Help Blacksmith Jang"
+msgstr "帮助铁匠张"
+
+#. 数据库字段：Quest[25].GotoMessage
+#: Server.MirDB Quest[25].GotoMessage
+msgctxt "Quest:25:GotoMessage"
+msgid "Return to MirGuide Peter in BichonWall"
+msgstr "回到比奇城找向导彼得"
+
+#. 数据库字段：Quest[25].Group
+#: Server.MirDB Quest[25].Group
+msgctxt "Quest:25:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[25].Name
+#: Server.MirDB Quest[25].Name
+msgctxt "Quest:25:Name"
+msgid "Hunt CannibalPlants"
+msgstr "猎杀食人花"
+
+#. 数据库字段：Quest[26].GotoMessage
+#: Server.MirDB Quest[26].GotoMessage
+msgctxt "Quest:26:GotoMessage"
+msgid "Return to MirGuide Peter in BichonWall"
+msgstr "回到比奇城找向导彼得"
+
+#. 数据库字段：Quest[26].Group
+#: Server.MirDB Quest[26].Group
+msgctxt "Quest:26:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[26].Name
+#: Server.MirDB Quest[26].Name
+msgctxt "Quest:26:Name"
+msgid "Ingredients for the Antidote"
+msgstr "解毒剂材料"
+
+#. 数据库字段：Quest[27].GotoMessage
+#: Server.MirDB Quest[27].GotoMessage
+msgctxt "Quest:27:GotoMessage"
+msgid "Speak with MongchonScout at the Tavern 290:293"
+msgstr "与酒馆 290:293 的盟重斥候交谈"
+
+#. 数据库字段：Quest[27].Group
+#: Server.MirDB Quest[27].Group
+msgctxt "Quest:27:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[27].Name
+#: Server.MirDB Quest[27].Name
+msgctxt "Quest:27:Name"
+msgid "Errands"
+msgstr "跑腿任务"
+
+#. 数据库字段：Quest[28].GotoMessage
+#: Server.MirDB Quest[28].GotoMessage
+msgctxt "Quest:28:GotoMessage"
+msgid "Return to Samuel at 324:291"
+msgstr "回到 324:291 找塞缪尔"
+
+#. 数据库字段：Quest[28].Group
+#: Server.MirDB Quest[28].Group
+msgctxt "Quest:28:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[28].Name
+#: Server.MirDB Quest[28].Name
+msgctxt "Quest:28:Name"
+msgid "Find the Web"
+msgstr "寻找蛛网"
+
+#. 数据库字段：Quest[29].GotoMessage
+#: Server.MirDB Quest[29].GotoMessage
+msgctxt "Quest:29:GotoMessage"
+msgid "Travel to SerpentValley and Deliver to Bradly at 517:492 "
+msgstr "前往毒蛇山谷，把物品交给 517:492 的布拉德利"
+
+#. 数据库字段：Quest[29].Group
+#: Server.MirDB Quest[29].Group
+msgctxt "Quest:29:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[29].Name
+#: Server.MirDB Quest[29].Name
+msgctxt "Quest:29:Name"
+msgid "Deliver Repair Oil"
+msgstr "递送修理油"
+
+#. 数据库字段：Quest[30].GotoMessage
+#: Server.MirDB Quest[30].GotoMessage
+msgctxt "Quest:30:GotoMessage"
+msgid "Return to Blacksmith Bradly in SerpentValley"
+msgstr "回到毒蛇山谷找铁匠布拉德利"
+
+#. 数据库字段：Quest[30].Group
+#: Server.MirDB Quest[30].Group
+msgctxt "Quest:30:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[30].Name
+#: Server.MirDB Quest[30].Name
+msgctxt "Quest:30:Name"
+msgid "Lost Ring"
+msgstr "遗失的戒指"
+
+#. 数据库字段：Quest[31].GotoMessage
+#: Server.MirDB Quest[31].GotoMessage
+msgctxt "Quest:31:GotoMessage"
+msgid "Deliver the JadeRing to Melissa in SerpentValley"
+msgstr "把玉戒指交给毒蛇山谷的梅丽莎"
+
+#. 数据库字段：Quest[31].Group
+#: Server.MirDB Quest[31].Group
+msgctxt "Quest:31:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[31].Name
+#: Server.MirDB Quest[31].Name
+msgctxt "Quest:31:Name"
+msgid "Deliver the Ring"
+msgstr "递送戒指"
+
+#. 数据库字段：Quest[32].GotoMessage
+#: Server.MirDB Quest[32].GotoMessage
+msgctxt "Quest:32:GotoMessage"
+msgid "Deliver BluePill to Blacksmith Bradly"
+msgstr "把蓝色药丸交给铁匠布拉德利"
+
+#. 数据库字段：Quest[32].Group
+#: Server.MirDB Quest[32].Group
+msgctxt "Quest:32:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[32].Name
+#: Server.MirDB Quest[32].Name
+msgctxt "Quest:32:Name"
+msgid "Messenger"
+msgstr "信使"
+
+#. 数据库字段：Quest[33].GotoMessage
+#: Server.MirDB Quest[33].GotoMessage
+msgctxt "Quest:33:GotoMessage"
+msgid "Return to Robert at 505:479"
+msgstr "回到 505:479 找罗伯特"
+
+#. 数据库字段：Quest[33].Group
+#: Server.MirDB Quest[33].Group
+msgctxt "Quest:33:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[33].Name
+#: Server.MirDB Quest[33].Name
+msgctxt "Quest:33:Name"
+msgid "Cure the Insomnia"
+msgstr "治疗失眠"
+
+#. 数据库字段：Quest[34].GotoMessage
+#: Server.MirDB Quest[34].GotoMessage
+msgctxt "Quest:34:GotoMessage"
+msgid "Deliver the Recipe to CraftsLady in BichonWall"
+msgstr "把配方交给比奇城的工艺师"
+
+#. 数据库字段：Quest[34].Group
+#: Server.MirDB Quest[34].Group
+msgctxt "Quest:34:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[34].Name
+#: Server.MirDB Quest[34].Name
+msgctxt "Quest:34:Name"
+msgid "Secret Recipe Delivery"
+msgstr "递送秘密配方"
+
+#. 数据库字段：Quest[35].GotoMessage
+#: Server.MirDB Quest[35].GotoMessage
+msgctxt "Quest:35:GotoMessage"
+msgid "Travel to SerpentValley and Speak to the InnKeeper"
+msgstr "前往毒蛇山谷与客栈老板交谈"
+
+#. 数据库字段：Quest[35].Group
+#: Server.MirDB Quest[35].Group
+msgctxt "Quest:35:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[35].Name
+#: Server.MirDB Quest[35].Name
+msgctxt "Quest:35:Name"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[36].GotoMessage
+#: Server.MirDB Quest[36].GotoMessage
+msgctxt "Quest:36:GotoMessage"
+msgid "Return to InnKeeper at 517:466"
+msgstr "回到 517:466 找客栈老板"
+
+#. 数据库字段：Quest[36].Group
+#: Server.MirDB Quest[36].Group
+msgctxt "Quest:36:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[36].Name
+#: Server.MirDB Quest[36].Name
+msgctxt "Quest:36:Name"
+msgid "Ingredients for Snake Wine"
+msgstr "蛇酒材料"
+
+#. 数据库字段：Quest[37].GotoMessage
+#: Server.MirDB Quest[37].GotoMessage
+msgctxt "Quest:37:GotoMessage"
+msgid "Return to MongchonScout with the Wine."
+msgstr "带着蛇酒回去找盟重斥候。"
+
+#. 数据库字段：Quest[37].Group
+#: Server.MirDB Quest[37].Group
+msgctxt "Quest:37:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[37].Name
+#: Server.MirDB Quest[37].Name
+msgctxt "Quest:37:Name"
+msgid "Wine Delivery"
+msgstr "递送蛇酒"
+
+#. 数据库字段：Quest[38].GotoMessage
+#: Server.MirDB Quest[38].GotoMessage
+msgctxt "Quest:38:GotoMessage"
+msgid "Return to InnKeeper at 517:466"
+msgstr "回到 517:466 找客栈老板"
+
+#. 数据库字段：Quest[38].Group
+#: Server.MirDB Quest[38].Group
+msgctxt "Quest:38:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[38].Name
+#: Server.MirDB Quest[38].Name
+msgctxt "Quest:38:Name"
+msgid "Find Ebony Fruit"
+msgstr "寻找乌木果"
+
+#. 数据库字段：Quest[39].GotoMessage
+#: Server.MirDB Quest[39].GotoMessage
+msgctxt "Quest:39:GotoMessage"
+msgid "Travel to WoomyonWoods and Visit Melissas Grandfather"
+msgstr "前往沃玛森林拜访梅丽莎的祖父"
+
+#. 数据库字段：Quest[39].Group
+#: Server.MirDB Quest[39].Group
+msgctxt "Quest:39:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[39].Name
+#: Server.MirDB Quest[39].Name
+msgctxt "Quest:39:Name"
+msgid "Greetings to the Old Man"
+msgstr "问候老人"
+
+#. 数据库字段：Quest[40].GotoMessage
+#: Server.MirDB Quest[40].GotoMessage
+msgctxt "Quest:40:GotoMessage"
+msgid "Return back to MasterShok at 312:73"
+msgstr "回到 312:73 找肖克大师"
+
+#. 数据库字段：Quest[40].Group
+#: Server.MirDB Quest[40].Group
+msgctxt "Quest:40:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[40].Name
+#: Server.MirDB Quest[40].Name
+msgctxt "Quest:40:Name"
+msgid "Clean Up"
+msgstr "清理威胁"
+
+#. 数据库字段：Quest[41].GotoMessage
+#: Server.MirDB Quest[41].GotoMessage
+msgctxt "Quest:41:GotoMessage"
+msgid "Travel to BichonWall and Speak with Sarah 313:271"
+msgstr "前往比奇城，与 313:271 的莎拉交谈"
+
+#. 数据库字段：Quest[41].Group
+#: Server.MirDB Quest[41].Group
+msgctxt "Quest:41:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[41].Name
+#: Server.MirDB Quest[41].Name
+msgctxt "Quest:41:Name"
+msgid "Grandads Request"
+msgstr "祖父的请求"
+
+#. 数据库字段：Quest[42].GotoMessage
+#: Server.MirDB Quest[42].GotoMessage
+msgctxt "Quest:42:GotoMessage"
+msgid "Return to Bruce in Mongchon's Blacksmith"
+msgstr "回到盟重铁匠铺找布鲁斯"
+
+#. 数据库字段：Quest[42].Group
+#: Server.MirDB Quest[42].Group
+msgctxt "Quest:42:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[42].Name
+#: Server.MirDB Quest[42].Name
+msgctxt "Quest:42:Name"
+msgid "Way to Mongchon"
+msgstr "前往盟重"
+
+#. 数据库字段：Quest[43].GotoMessage
+#: Server.MirDB Quest[43].GotoMessage
+msgctxt "Quest:43:GotoMessage"
+msgid "Speak to Robert in SerpentValley"
+msgstr "与毒蛇山谷的罗伯特交谈"
+
+#. 数据库字段：Quest[43].Group
+#: Server.MirDB Quest[43].Group
+msgctxt "Quest:43:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[43].Name
+#: Server.MirDB Quest[43].Name
+msgctxt "Quest:43:Name"
+msgid "Help Needed"
+msgstr "需要帮助"
+
+#. 数据库字段：Quest[44].GotoMessage
+#: Server.MirDB Quest[44].GotoMessage
+msgctxt "Quest:44:GotoMessage"
+msgid "Travel to PrajnaIsland Speak to Sandford. Boat leaves fom BorderVillage"
+msgstr "从边境村乘船前往般若岛，与桑福德交谈"
+
+#. 数据库字段：Quest[44].Group
+#: Server.MirDB Quest[44].Group
+msgctxt "Quest:44:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[44].Name
+#: Server.MirDB Quest[44].Name
+msgctxt "Quest:44:Name"
+msgid "Help Sandford"
+msgstr "帮助桑福德"
+
+#. 数据库字段：Quest[45].GotoMessage
+#: Server.MirDB Quest[45].GotoMessage
+msgctxt "Quest:45:GotoMessage"
+msgid "Hunt RedSnakes and Return to Robert in SerpentValley"
+msgstr "猎杀红蛇后回到毒蛇山谷找罗伯特"
+
+#. 数据库字段：Quest[45].Group
+#: Server.MirDB Quest[45].Group
+msgctxt "Quest:45:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[45].Name
+#: Server.MirDB Quest[45].Name
+msgctxt "Quest:45:Name"
+msgid "Red Snake's Teeth"
+msgstr "红蛇牙"
+
+#. 数据库字段：Quest[46].GotoMessage
+#: Server.MirDB Quest[46].GotoMessage
+msgctxt "Quest:46:GotoMessage"
+msgid "Return to MirGuide Peter in BichonWall"
+msgstr "回到比奇城找向导彼得"
+
+#. 数据库字段：Quest[46].Group
+#: Server.MirDB Quest[46].Group
+msgctxt "Quest:46:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[46].Name
+#: Server.MirDB Quest[46].Name
+msgctxt "Quest:46:Name"
+msgid "Skeleton Bones"
+msgstr "骷髅骨"
+
+#. 数据库字段：Quest[47].GotoMessage
+#: Server.MirDB Quest[47].GotoMessage
+msgctxt "Quest:47:GotoMessage"
+msgid "Return to Diana in BichonWall 306:276"
+msgstr "回到比奇城 306:276 找戴安娜"
+
+#. 数据库字段：Quest[47].Group
+#: Server.MirDB Quest[47].Group
+msgctxt "Quest:47:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[47].Name
+#: Server.MirDB Quest[47].Name
+msgctxt "Quest:47:Name"
+msgid "Sister's Ring"
+msgstr "姐姐的戒指"
+
+#. 数据库字段：Quest[48].GotoMessage
+#: Server.MirDB Quest[48].GotoMessage
+msgctxt "Quest:48:GotoMessage"
+msgid "Deliver the Relics to Ruben in BorderVillage"
+msgstr "把遗物交给边境村的鲁本"
+
+#. 数据库字段：Quest[48].Group
+#: Server.MirDB Quest[48].Group
+msgctxt "Quest:48:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[48].Name
+#: Server.MirDB Quest[48].Name
+msgctxt "Quest:48:Name"
+msgid "Deliver Supplies to the Border"
+msgstr "向边境递送补给"
+
+#. 数据库字段：Quest[49].GotoMessage
+#: Server.MirDB Quest[49].GotoMessage
+msgctxt "Quest:49:GotoMessage"
+msgid "Return to Jason in BichonWall 296:220"
+msgstr "回到比奇城 296:220 找杰森"
+
+#. 数据库字段：Quest[49].Group
+#: Server.MirDB Quest[49].Group
+msgctxt "Quest:49:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[49].Name
+#: Server.MirDB Quest[49].Name
+msgctxt "Quest:49:Name"
+msgid "Dangerous Skeleton"
+msgstr "危险的骷髅"
+
+#. 数据库字段：Quest[50].GotoMessage
+#: Server.MirDB Quest[50].GotoMessage
+msgctxt "Quest:50:GotoMessage"
+msgid "Deliver the CookBook to Jim in CastleGi-Ryoong "
+msgstr "把烹饪书交给基隆城的吉姆"
+
+#. 数据库字段：Quest[50].Group
+#: Server.MirDB Quest[50].Group
+msgctxt "Quest:50:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[50].Name
+#: Server.MirDB Quest[50].Name
+msgctxt "Quest:50:Name"
+msgid "Cook Book Delivery"
+msgstr "递送烹饪书"
+
+#. 数据库字段：Quest[51].GotoMessage
+#: Server.MirDB Quest[51].GotoMessage
+msgctxt "Quest:51:GotoMessage"
+msgid "Speak with CraftsLady in BichWall "
+msgstr "与比奇城的工艺师交谈"
+
+#. 数据库字段：Quest[51].Group
+#: Server.MirDB Quest[51].Group
+msgctxt "Quest:51:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[51].Name
+#: Server.MirDB Quest[51].Name
+msgctxt "Quest:51:Name"
+msgid "CraftLady's CanniTea"
+msgstr "工艺师的食人花茶"
+
+#. 数据库字段：Quest[52].GotoMessage
+#: Server.MirDB Quest[52].GotoMessage
+msgctxt "Quest:52:GotoMessage"
+msgid "Return to the CraftsLady in BichonWall"
+msgstr "回到比奇城找工艺师"
+
+#. 数据库字段：Quest[52].Group
+#: Server.MirDB Quest[52].Group
+msgctxt "Quest:52:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[52].Name
+#: Server.MirDB Quest[52].Name
+msgctxt "Quest:52:Name"
+msgid "Ingredients for CanniTea"
+msgstr "食人花茶材料"
+
+#. 数据库字段：Quest[53].GotoMessage
+#: Server.MirDB Quest[53].GotoMessage
+msgctxt "Quest:53:GotoMessage"
+msgid "Deliver CanniTea to MirGuide"
+msgstr "把食人花茶交给向导"
+
+#. 数据库字段：Quest[53].Group
+#: Server.MirDB Quest[53].Group
+msgctxt "Quest:53:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[53].Name
+#: Server.MirDB Quest[53].Name
+msgctxt "Quest:53:Name"
+msgid "Deliver CanniTea"
+msgstr "递送食人花茶"
+
+#. 数据库字段：Quest[54].GotoMessage
+#: Server.MirDB Quest[54].GotoMessage
+msgctxt "Quest:54:GotoMessage"
+msgid "Return to Blacksmith Bill in BichonWall"
+msgstr "回到比奇城找铁匠比尔"
+
+#. 数据库字段：Quest[54].Group
+#: Server.MirDB Quest[54].Group
+msgctxt "Quest:54:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[54].KillMessage
+#: Server.MirDB Quest[54].KillMessage
+msgctxt "Quest:54:KillMessage"
+msgid "Kill Zombies in BichonDeadMines"
+msgstr "在比奇废矿击杀僵尸"
+
+#. 数据库字段：Quest[54].Name
+#: Server.MirDB Quest[54].Name
+msgctxt "Quest:54:Name"
+msgid "Zombies in the Mines"
+msgstr "矿区里的僵尸"
+
+#. 数据库字段：Quest[55].GotoMessage
+#: Server.MirDB Quest[55].GotoMessage
+msgctxt "Quest:55:GotoMessage"
+msgid "Return to CraftsLady in BichonWall"
+msgstr "回到比奇城找工艺师"
+
+#. 数据库字段：Quest[55].Group
+#: Server.MirDB Quest[55].Group
+msgctxt "Quest:55:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[55].Name
+#: Server.MirDB Quest[55].Name
+msgctxt "Quest:55:Name"
+msgid "Restocking Supplies"
+msgstr "补充物资"
+
+#. 数据库字段：Quest[56].GotoMessage
+#: Server.MirDB Quest[56].GotoMessage
+msgctxt "Quest:56:GotoMessage"
+msgid "Return to Butcher Sarah in BichonWall"
+msgstr "回到比奇城找屠夫莎拉"
+
+#. 数据库字段：Quest[56].Group
+#: Server.MirDB Quest[56].Group
+msgctxt "Quest:56:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[56].Name
+#: Server.MirDB Quest[56].Name
+msgctxt "Quest:56:Name"
+msgid "Bat Wings"
+msgstr "蝙蝠翅膀"
+
+#. 数据库字段：Quest[57].GotoMessage
+#: Server.MirDB Quest[57].GotoMessage
+msgctxt "Quest:57:GotoMessage"
+msgid "Take CaveReport to Kyle at the South East Gate."
+msgstr "把洞穴报告交给东南门的凯尔。"
+
+#. 数据库字段：Quest[57].Group
+#: Server.MirDB Quest[57].Group
+msgctxt "Quest:57:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[57].Name
+#: Server.MirDB Quest[57].Name
+msgctxt "Quest:57:Name"
+msgid "Collect Information"
+msgstr "收集情报"
+
+#. 数据库字段：Quest[58].GotoMessage
+#: Server.MirDB Quest[58].GotoMessage
+msgctxt "Quest:58:GotoMessage"
+msgid "Return BoneElites head to Kyle in BichonWall"
+msgstr "把精英骸骨的头颅带回比奇城交给凯尔"
+
+#. 数据库字段：Quest[58].Group
+#: Server.MirDB Quest[58].Group
+msgctxt "Quest:58:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[58].Name
+#: Server.MirDB Quest[58].Name
+msgctxt "Quest:58:Name"
+msgid "Danger in the Cave"
+msgstr "洞穴里的危险"
+
+#. 数据库字段：Quest[59].GotoMessage
+#: Server.MirDB Quest[59].GotoMessage
+msgctxt "Quest:59:GotoMessage"
+msgid "Return to Blacksmith Bill in BichonWall"
+msgstr "回到比奇城找铁匠比尔"
+
+#. 数据库字段：Quest[59].Group
+#: Server.MirDB Quest[59].Group
+msgctxt "Quest:59:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[59].Name
+#: Server.MirDB Quest[59].Name
+msgctxt "Quest:59:Name"
+msgid "Rare Ore"
+msgstr "稀有矿石"
+
+#. 数据库字段：Quest[60].GotoMessage
+#: Server.MirDB Quest[60].GotoMessage
+msgctxt "Quest:60:GotoMessage"
+msgid "Return to the Examiner in BichonWall"
+msgstr "回到比奇城找考官"
+
+#. 数据库字段：Quest[60].Group
+#: Server.MirDB Quest[60].Group
+msgctxt "Quest:60:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[60].Name
+#: Server.MirDB Quest[60].Name
+msgctxt "Quest:60:Name"
+msgid "Help the Farmers"
+msgstr "帮助农夫"
+
+#. 数据库字段：Quest[61].GotoMessage
+#: Server.MirDB Quest[61].GotoMessage
+msgctxt "Quest:61:GotoMessage"
+msgid "Travel to WoomyonWoods and speak to MasterShok"
+msgstr "前往沃玛森林与肖克大师交谈"
+
+#. 数据库字段：Quest[61].Group
+#: Server.MirDB Quest[61].Group
+msgctxt "Quest:61:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[61].Name
+#: Server.MirDB Quest[61].Name
+msgctxt "Quest:61:Name"
+msgid "Part Time Job"
+msgstr "临时工作"
+
+#. 数据库字段：Quest[62].GotoMessage
+#: Server.MirDB Quest[62].GotoMessage
+msgctxt "Quest:62:GotoMessage"
+msgid "Return to MasterShok in WoomyonWoods"
+msgstr "回到沃玛森林找肖克大师"
+
+#. 数据库字段：Quest[62].Group
+#: Server.MirDB Quest[62].Group
+msgctxt "Quest:62:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[62].Name
+#: Server.MirDB Quest[62].Name
+msgctxt "Quest:62:Name"
+msgid "Exterminate"
+msgstr "清剿"
+
+#. 数据库字段：Quest[63].GotoMessage
+#: Server.MirDB Quest[63].GotoMessage
+msgctxt "Quest:63:GotoMessage"
+msgid "Find Vincents Friend in BichonDeadMines"
+msgstr "在比奇废矿寻找文森特的朋友"
+
+#. 数据库字段：Quest[63].Group
+#: Server.MirDB Quest[63].Group
+msgctxt "Quest:63:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[63].Name
+#: Server.MirDB Quest[63].Name
+msgctxt "Quest:63:Name"
+msgid "Finding a Friend's Remains"
+msgstr "寻找友人的遗物"
+
+#. 数据库字段：Quest[64].GotoMessage
+#: Server.MirDB Quest[64].GotoMessage
+msgctxt "Quest:64:GotoMessage"
+msgid "Return the Necklace to Blacksmith Vincent in BichonWall"
+msgstr "把项链还给比奇城的铁匠文森特"
+
+#. 数据库字段：Quest[64].Group
+#: Server.MirDB Quest[64].Group
+msgctxt "Quest:64:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[64].Name
+#: Server.MirDB Quest[64].Name
+msgctxt "Quest:64:Name"
+msgid "Return the Necklace"
+msgstr "归还项链"
+
+#. 数据库字段：Quest[65].GotoMessage
+#: Server.MirDB Quest[65].GotoMessage
+msgctxt "Quest:65:GotoMessage"
+msgid "Return to Eddie in BichonWall at 298:317"
+msgstr "回到比奇城 298:317 找艾迪"
+
+#. 数据库字段：Quest[65].Group
+#: Server.MirDB Quest[65].Group
+msgctxt "Quest:65:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[65].Name
+#: Server.MirDB Quest[65].Name
+msgctxt "Quest:65:Name"
+msgid "Revenge on Zombies"
+msgstr "向僵尸复仇"
+
+#. 数据库字段：Quest[66].GotoMessage
+#: Server.MirDB Quest[66].GotoMessage
+msgctxt "Quest:66:GotoMessage"
+msgid "Return to MasterShok in WoomyonWoods"
+msgstr "回到沃玛森林找肖克大师"
+
+#. 数据库字段：Quest[66].Group
+#: Server.MirDB Quest[66].Group
+msgctxt "Quest:66:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[66].Name
+#: Server.MirDB Quest[66].Name
+msgctxt "Quest:66:Name"
+msgid "The Best Healthy Food"
+msgstr "最好的健康食物"
+
+#. 数据库字段：Quest[67].GotoMessage
+#: Server.MirDB Quest[67].GotoMessage
+msgctxt "Quest:67:GotoMessage"
+msgid "Return the Blood back to Helen in WoomyonWoods"
+msgstr "把血液带回沃玛森林交给海伦"
+
+#. 数据库字段：Quest[67].Group
+#: Server.MirDB Quest[67].Group
+msgctxt "Quest:67:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[67].Name
+#: Server.MirDB Quest[67].Name
+msgctxt "Quest:67:Name"
+msgid "Medicine Research"
+msgstr "药物研究"
+
+#. 数据库字段：Quest[68].GotoMessage
+#: Server.MirDB Quest[68].GotoMessage
+msgctxt "Quest:68:GotoMessage"
+msgid "Return the Blood back to Helen in WoomyonWoods"
+msgstr "把血液带回沃玛森林交给海伦"
+
+#. 数据库字段：Quest[68].Group
+#: Server.MirDB Quest[68].Group
+msgctxt "Quest:68:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[68].Name
+#: Server.MirDB Quest[68].Name
+msgctxt "Quest:68:Name"
+msgid "Finding a Lost Item"
+msgstr "寻找遗失物"
+
+#. 数据库字段：Quest[69].GotoMessage
+#: Server.MirDB Quest[69].GotoMessage
+msgctxt "Quest:69:GotoMessage"
+msgid "Search for Helens friend Soho in InsectCave"
+msgstr "在虫洞寻找海伦的朋友苏荷"
+
+#. 数据库字段：Quest[69].Group
+#: Server.MirDB Quest[69].Group
+msgctxt "Quest:69:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[69].Name
+#: Server.MirDB Quest[69].Name
+msgctxt "Quest:69:Name"
+msgid "Find my Friend"
+msgstr "寻找我的朋友"
+
+#. 数据库字段：Quest[70].GotoMessage
+#: Server.MirDB Quest[70].GotoMessage
+msgctxt "Quest:70:GotoMessage"
+msgid "Find and return Soho Backpack"
+msgstr "找回苏荷的背包"
+
+#. 数据库字段：Quest[70].Group
+#: Server.MirDB Quest[70].Group
+msgctxt "Quest:70:Group"
+msgid "InsectCave"
+msgstr "虫洞"
+
+#. 数据库字段：Quest[70].Name
+#: Server.MirDB Quest[70].Name
+msgctxt "Quest:70:Name"
+msgid "Poisoned Friend"
+msgstr "中毒的朋友"
+
+#. 数据库字段：Quest[71].GotoMessage
+#: Server.MirDB Quest[71].GotoMessage
+msgctxt "Quest:71:GotoMessage"
+msgid "Return the Lost Items to Soho"
+msgstr "把遗失物交还给苏荷"
+
+#. 数据库字段：Quest[71].Group
+#: Server.MirDB Quest[71].Group
+msgctxt "Quest:71:Group"
+msgid "InsectCave"
+msgstr "虫洞"
+
+#. 数据库字段：Quest[71].Name
+#: Server.MirDB Quest[71].Name
+msgctxt "Quest:71:Name"
+msgid "Lost Item"
+msgstr "遗失物品"
+
+#. 数据库字段：Quest[72].GotoMessage
+#: Server.MirDB Quest[72].GotoMessage
+msgctxt "Quest:72:GotoMessage"
+msgid "Return to Helen in WoomyonWoods"
+msgstr "回到沃玛森林找海伦"
+
+#. 数据库字段：Quest[72].Group
+#: Server.MirDB Quest[72].Group
+msgctxt "Quest:72:Group"
+msgid "InsectCave"
+msgstr "虫洞"
+
+#. 数据库字段：Quest[72].Name
+#: Server.MirDB Quest[72].Name
+msgctxt "Quest:72:Name"
+msgid "News from a Friend"
+msgstr "友人的消息"
+
+#. 数据库字段：Quest[73].GotoMessage
+#: Server.MirDB Quest[73].GotoMessage
+msgctxt "Quest:73:GotoMessage"
+msgid "Deliver MobBlood to Dr.Kim in SerpentValley"
+msgstr "把怪物血液交给毒蛇山谷的金博士"
+
+#. 数据库字段：Quest[73].Group
+#: Server.MirDB Quest[73].Group
+msgctxt "Quest:73:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[73].Name
+#: Server.MirDB Quest[73].Name
+msgctxt "Quest:73:Name"
+msgid "Research Report"
+msgstr "研究报告"
+
+#. 数据库字段：Quest[74].GotoMessage
+#: Server.MirDB Quest[74].GotoMessage
+msgctxt "Quest:74:GotoMessage"
+msgid "Return to the VulnerableSon"
+msgstr "回去找虚弱的儿子"
+
+#. 数据库字段：Quest[74].Group
+#: Server.MirDB Quest[74].Group
+msgctxt "Quest:74:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[74].KillMessage
+#: Server.MirDB Quest[74].KillMessage
+msgctxt "Quest:74:KillMessage"
+msgid " At SerpentDeadMine Entrance."
+msgstr "在毒蛇废矿入口。"
+
+#. 数据库字段：Quest[74].Name
+#: Server.MirDB Quest[74].Name
+msgctxt "Quest:74:Name"
+msgid "Free the Souls from Zombies"
+msgstr "解放僵尸亡魂"
+
+#. 数据库字段：Quest[75].GotoMessage
+#: Server.MirDB Quest[75].GotoMessage
+msgctxt "Quest:75:GotoMessage"
+msgid "Return to Chandler in SerpentValley"
+msgstr "回到毒蛇山谷找钱德勒"
+
+#. 数据库字段：Quest[75].Group
+#: Server.MirDB Quest[75].Group
+msgctxt "Quest:75:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[75].Name
+#: Server.MirDB Quest[75].Name
+msgctxt "Quest:75:Name"
+msgid "Wipe Out"
+msgstr "扫荡"
+
+#. 数据库字段：Quest[76].GotoMessage
+#: Server.MirDB Quest[76].GotoMessage
+msgctxt "Quest:76:GotoMessage"
+msgid "Return to Blacksmith Bradly in SerpentValley"
+msgstr "回到毒蛇山谷找铁匠布拉德利"
+
+#. 数据库字段：Quest[76].Group
+#: Server.MirDB Quest[76].Group
+msgctxt "Quest:76:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[76].Name
+#: Server.MirDB Quest[76].Name
+msgctxt "Quest:76:Name"
+msgid "Bloody Sword"
+msgstr "染血之剑"
+
+#. 数据库字段：Quest[77].Group
+#: Server.MirDB Quest[77].Group
+msgctxt "Quest:77:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[77].Name
+#: Server.MirDB Quest[77].Name
+msgctxt "Quest:77:Name"
+msgid "Call from the Dead"
+msgstr "亡者的呼唤"
+
+#. 数据库字段：Quest[78].Group
+#: Server.MirDB Quest[78].Group
+msgctxt "Quest:78:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[78].Name
+#: Server.MirDB Quest[78].Name
+msgctxt "Quest:78:Name"
+msgid "Hidden Box"
+msgstr "隐藏的箱子"
+
+#. 数据库字段：Quest[79].GotoMessage
+#: Server.MirDB Quest[79].GotoMessage
+msgctxt "Quest:79:GotoMessage"
+msgid "Search for the Darkness within the SerpentDeadMines"
+msgstr "在毒蛇废矿中寻找黑暗源头"
+
+#. 数据库字段：Quest[79].Group
+#: Server.MirDB Quest[79].Group
+msgctxt "Quest:79:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[79].Name
+#: Server.MirDB Quest[79].Name
+msgctxt "Quest:79:Name"
+msgid "Darkness from the Mines"
+msgstr "矿区中的黑暗"
+
+#. 数据库字段：Quest[80].GotoMessage
+#: Server.MirDB Quest[80].GotoMessage
+msgctxt "Quest:80:GotoMessage"
+msgid "Return the HiddenScroll to Dr.Kim"
+msgstr "把隐藏卷轴交还给金博士"
+
+#. 数据库字段：Quest[80].Group
+#: Server.MirDB Quest[80].Group
+msgctxt "Quest:80:Group"
+msgid "SerpentDeadMine"
+msgstr "毒蛇废矿"
+
+#. 数据库字段：Quest[80].Name
+#: Server.MirDB Quest[80].Name
+msgctxt "Quest:80:Name"
+msgid "Secret of the Skull"
+msgstr "骷髅的秘密"
+
+#. 数据库字段：Quest[81].GotoMessage
+#: Server.MirDB Quest[81].GotoMessage
+msgctxt "Quest:81:GotoMessage"
+msgid "Return to Dr.Kim in SerpentValley"
+msgstr "回到毒蛇山谷找金博士"
+
+#. 数据库字段：Quest[81].Group
+#: Server.MirDB Quest[81].Group
+msgctxt "Quest:81:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[81].Name
+#: Server.MirDB Quest[81].Name
+msgctxt "Quest:81:Name"
+msgid "Dark Shadow"
+msgstr "黑暗阴影"
+
+#. 数据库字段：Quest[82].GotoMessage
+#: Server.MirDB Quest[82].GotoMessage
+msgctxt "Quest:82:GotoMessage"
+msgid "Return the Collector in SerpentValley"
+msgstr "回到毒蛇山谷找收藏家"
+
+#. 数据库字段：Quest[82].Group
+#: Server.MirDB Quest[82].Group
+msgctxt "Quest:82:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[82].Name
+#: Server.MirDB Quest[82].Name
+msgctxt "Quest:82:Name"
+msgid "White Serpent"
+msgstr "白蛇"
+
+#. 数据库字段：Quest[83].GotoMessage
+#: Server.MirDB Quest[83].GotoMessage
+msgctxt "Quest:83:GotoMessage"
+msgid "Travel to TaoVillage and speak to Sam at 206:319"
+msgstr "前往道馆村，与 206:319 的山姆交谈"
+
+#. 数据库字段：Quest[83].Group
+#: Server.MirDB Quest[83].Group
+msgctxt "Quest:83:Group"
+msgid "SerpentValley"
+msgstr "毒蛇山谷"
+
+#. 数据库字段：Quest[83].Name
+#: Server.MirDB Quest[83].Name
+msgctxt "Quest:83:Name"
+msgid "Material for Clothing"
+msgstr "制衣材料"
+
+#. 数据库字段：Quest[84].GotoMessage
+#: Server.MirDB Quest[84].GotoMessage
+msgctxt "Quest:84:GotoMessage"
+msgid "Return to Sam in TaoVillage with the Materials"
+msgstr "带着材料回到道馆村找山姆"
+
+#. 数据库字段：Quest[84].Group
+#: Server.MirDB Quest[84].Group
+msgctxt "Quest:84:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[84].Name
+#: Server.MirDB Quest[84].Name
+msgctxt "Quest:84:Name"
+msgid "Missing Materials"
+msgstr "遗失的材料"
+
+#. 数据库字段：Quest[85].GotoMessage
+#: Server.MirDB Quest[85].GotoMessage
+msgctxt "Quest:85:GotoMessage"
+msgid "Return to MasterMK in TaoVillage"
+msgstr "回到道馆村找明凯大师"
+
+#. 数据库字段：Quest[85].Group
+#: Server.MirDB Quest[85].Group
+msgctxt "Quest:85:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[85].Name
+#: Server.MirDB Quest[85].Name
+msgctxt "Quest:85:Name"
+msgid "Save the Cursed Souls"
+msgstr "拯救被诅咒的灵魂"
+
+#. 数据库字段：Quest[86].GotoMessage
+#: Server.MirDB Quest[86].GotoMessage
+msgctxt "Quest:86:GotoMessage"
+msgid "Travel to BichonWall Drapery Shop and speak with Ann"
+msgstr "前往比奇城服装店与安交谈"
+
+#. 数据库字段：Quest[86].Group
+#: Server.MirDB Quest[86].Group
+msgctxt "Quest:86:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[86].Name
+#: Server.MirDB Quest[86].Name
+msgctxt "Quest:86:Name"
+msgid "Uniform Order Status"
+msgstr "制服订单进度"
+
+#. 数据库字段：Quest[87].GotoMessage
+#: Server.MirDB Quest[87].GotoMessage
+msgctxt "Quest:87:GotoMessage"
+msgid "Search for the Missing Carriage on the way to TaoVillage"
+msgstr "在前往道馆村的路上寻找失踪马车"
+
+#. 数据库字段：Quest[87].Group
+#: Server.MirDB Quest[87].Group
+msgctxt "Quest:87:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[87].Name
+#: Server.MirDB Quest[87].Name
+msgctxt "Quest:87:Name"
+msgid "Locate the Carriage"
+msgstr "寻找马车"
+
+#. 数据库字段：Quest[88].GotoMessage
+#: Server.MirDB Quest[88].GotoMessage
+msgctxt "Quest:88:GotoMessage"
+msgid "Return to LeadTrainer at 227:269 "
+msgstr "回到 227:269 找首席教官"
+
+#. 数据库字段：Quest[88].Group
+#: Server.MirDB Quest[88].Group
+msgctxt "Quest:88:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[88].Name
+#: Server.MirDB Quest[88].Name
+msgctxt "Quest:88:Name"
+msgid "Zombies Attack on Carriage"
+msgstr "僵尸袭击马车"
+
+#. 数据库字段：Quest[89].GotoMessage
+#: Server.MirDB Quest[89].GotoMessage
+msgctxt "Quest:89:GotoMessage"
+msgid "Return to LeadTrainer in TaoVillage 227:269"
+msgstr "回到道馆村 227:269 找首席教官"
+
+#. 数据库字段：Quest[89].Group
+#: Server.MirDB Quest[89].Group
+msgctxt "Quest:89:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[89].Name
+#: Server.MirDB Quest[89].Name
+msgctxt "Quest:89:Name"
+msgid "Zombies Hunt"
+msgstr "猎杀僵尸"
+
+#. 数据库字段：Quest[90].GotoMessage
+#: Server.MirDB Quest[90].GotoMessage
+msgctxt "Quest:90:GotoMessage"
+msgid "Return to Jerald to TaoVillage 234:301"
+msgstr "回到道馆村 234:301 找杰拉德"
+
+#. 数据库字段：Quest[90].Group
+#: Server.MirDB Quest[90].Group
+msgctxt "Quest:90:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[90].Name
+#: Server.MirDB Quest[90].Name
+msgctxt "Quest:90:Name"
+msgid "Gathering Material"
+msgstr "收集材料"
+
+#. 数据库字段：Quest[91].GotoMessage
+#: Server.MirDB Quest[91].GotoMessage
+msgctxt "Quest:91:GotoMessage"
+msgid "Return the LumberAxe to Sigmund in TaoVillage 166:339"
+msgstr "把伐木斧还给道馆村 166:339 的西格蒙德"
+
+#. 数据库字段：Quest[91].Group
+#: Server.MirDB Quest[91].Group
+msgctxt "Quest:91:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[91].Name
+#: Server.MirDB Quest[91].Name
+msgctxt "Quest:91:Name"
+msgid "Help the Lumberer"
+msgstr "帮助伐木工"
+
+#. 数据库字段：Quest[92].GotoMessage
+#: Server.MirDB Quest[92].GotoMessage
+msgctxt "Quest:92:GotoMessage"
+msgid "Return to Jerry in TaoVillage"
+msgstr "回到道馆村找杰瑞"
+
+#. 数据库字段：Quest[92].Group
+#: Server.MirDB Quest[92].Group
+msgctxt "Quest:92:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[92].Name
+#: Server.MirDB Quest[92].Name
+msgctxt "Quest:92:Name"
+msgid "Deep into the Woods"
+msgstr "深入森林"
+
+#. 数据库字段：Quest[93].GotoMessage
+#: Server.MirDB Quest[93].GotoMessage
+msgctxt "Quest:93:GotoMessage"
+msgid "Search for the missing Student in TreePath"
+msgstr "在林间小径寻找失踪学生"
+
+#. 数据库字段：Quest[93].Group
+#: Server.MirDB Quest[93].Group
+msgctxt "Quest:93:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[93].Name
+#: Server.MirDB Quest[93].Name
+msgctxt "Quest:93:Name"
+msgid "Runaway Student"
+msgstr "出走的学生"
+
+#. 数据库字段：Quest[94].GotoMessage
+#: Server.MirDB Quest[94].GotoMessage
+msgctxt "Quest:94:GotoMessage"
+msgid "Return the TraineeRing to Hubert in TaoVillage 194:297"
+msgstr "把学徒戒指还给道馆村 194:297 的休伯特"
+
+#. 数据库字段：Quest[94].Group
+#: Server.MirDB Quest[94].Group
+msgctxt "Quest:94:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[94].Name
+#: Server.MirDB Quest[94].Name
+msgctxt "Quest:94:Name"
+msgid "Bad News"
+msgstr "坏消息"
+
+#. 数据库字段：Quest[95].GotoMessage
+#: Server.MirDB Quest[95].GotoMessage
+msgctxt "Quest:95:GotoMessage"
+msgid "Deliver SkysLetter to Sir.Mogu in BichonWall Tavern"
+msgstr "把斯凯的信交给比奇城酒馆的莫古先生"
+
+#. 数据库字段：Quest[95].Group
+#: Server.MirDB Quest[95].Group
+msgctxt "Quest:95:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[95].Name
+#: Server.MirDB Quest[95].Name
+msgctxt "Quest:95:Name"
+msgid "Letters to Parents"
+msgstr "给父母的信"
+
+#. 数据库字段：Quest[96].GotoMessage
+#: Server.MirDB Quest[96].GotoMessage
+msgctxt "Quest:96:GotoMessage"
+msgid "Deliver BeefRib to Butcher Han in WoomyonWoods"
+msgstr "把牛肋排交给沃玛森林的屠夫韩"
+
+#. 数据库字段：Quest[96].Group
+#: Server.MirDB Quest[96].Group
+msgctxt "Quest:96:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[96].Name
+#: Server.MirDB Quest[96].Name
+msgctxt "Quest:96:Name"
+msgid "Cooking Beef Rib Stew"
+msgstr "烹制牛肋排炖汤"
+
+#. 数据库字段：Quest[97].GotoMessage
+#: Server.MirDB Quest[97].GotoMessage
+msgctxt "Quest:97:GotoMessage"
+msgid "Travel to WoomyonWoods and Warn SubjugationLead."
+msgstr "前往沃玛森林，警告讨伐队长。"
+
+#. 数据库字段：Quest[97].Group
+#: Server.MirDB Quest[97].Group
+msgctxt "Quest:97:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[97].Name
+#: Server.MirDB Quest[97].Name
+msgctxt "Quest:97:Name"
+msgid "Danger (WoomyonWoods)"
+msgstr "沃玛森林的危险"
+
+#. 数据库字段：Quest[98].GotoMessage
+#: Server.MirDB Quest[98].GotoMessage
+msgctxt "Quest:98:GotoMessage"
+msgid "Return to SubjugationLead in WoomyonWoods"
+msgstr "回到沃玛森林找讨伐队长"
+
+#. 数据库字段：Quest[98].Group
+#: Server.MirDB Quest[98].Group
+msgctxt "Quest:98:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[98].Name
+#: Server.MirDB Quest[98].Name
+msgctxt "Quest:98:Name"
+msgid "Monster Hunt in Wooma"
+msgstr "沃玛怪物讨伐"
+
+#. 数据库字段：Quest[99].GotoMessage
+#: Server.MirDB Quest[99].GotoMessage
+msgctxt "Quest:99:GotoMessage"
+msgid "Return to SubjugationLead in WoomyonWoods"
+msgstr "回到沃玛森林找讨伐队长"
+
+#. 数据库字段：Quest[99].Group
+#: Server.MirDB Quest[99].Group
+msgctxt "Quest:99:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[99].Name
+#: Server.MirDB Quest[99].Name
+msgctxt "Quest:99:Name"
+msgid "Boss Mob Hunt"
+msgstr "首领怪讨伐"
+
+#. 数据库字段：Quest[100].GotoMessage
+#: Server.MirDB Quest[100].GotoMessage
+msgctxt "Quest:100:GotoMessage"
+msgid "Return to SubjagationManager in BichonWall with an update."
+msgstr "回到比奇城向讨伐管理员汇报。"
+
+#. 数据库字段：Quest[100].Group
+#: Server.MirDB Quest[100].Group
+msgctxt "Quest:100:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[100].Name
+#: Server.MirDB Quest[100].Name
+msgctxt "Quest:100:Name"
+msgid "Deadly Attack"
+msgstr "致命袭击"
+
+#. 数据库字段：Quest[101].GotoMessage
+#: Server.MirDB Quest[101].GotoMessage
+msgctxt "Quest:101:GotoMessage"
+msgid "Return to MasterShok 312:73"
+msgstr "回到 312:73 找肖克大师"
+
+#. 数据库字段：Quest[101].Group
+#: Server.MirDB Quest[101].Group
+msgctxt "Quest:101:Group"
+msgid "WoomyonWoods"
+msgstr "沃玛森林"
+
+#. 数据库字段：Quest[101].Name
+#: Server.MirDB Quest[101].Name
+msgctxt "Quest:101:Name"
+msgid "Boss Mob of Woomyon"
+msgstr "沃玛森林首领"
+
+#. 数据库字段：Quest[102].GotoMessage
+#: Server.MirDB Quest[102].GotoMessage
+msgctxt "Quest:102:GotoMessage"
+msgid "Travel to MongchonWall via SerpentValley and Speak with Edwin"
+msgstr "经毒蛇山谷前往盟重城，与埃德温交谈"
+
+#. 数据库字段：Quest[102].Group
+#: Server.MirDB Quest[102].Group
+msgctxt "Quest:102:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[102].Name
+#: Server.MirDB Quest[102].Name
+msgctxt "Quest:102:Name"
+msgid "Trip to Mongchon"
+msgstr "盟重之行"
+
+#. 数据库字段：Quest[103].GotoMessage
+#: Server.MirDB Quest[103].GotoMessage
+msgctxt "Quest:103:GotoMessage"
+msgid "Return to Daniel in MongchonWall"
+msgstr "回到盟重城找丹尼尔"
+
+#. 数据库字段：Quest[103].Group
+#: Server.MirDB Quest[103].Group
+msgctxt "Quest:103:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[103].Name
+#: Server.MirDB Quest[103].Name
+msgctxt "Quest:103:Name"
+msgid "Abnormal Creatures"
+msgstr "异常生物"
+
+#. 数据库字段：Quest[104].GotoMessage
+#: Server.MirDB Quest[104].GotoMessage
+msgctxt "Quest:104:GotoMessage"
+msgid "Return to Charleys lost sword."
+msgstr "归还查理遗失的剑。"
+
+#. 数据库字段：Quest[104].Group
+#: Server.MirDB Quest[104].Group
+msgctxt "Quest:104:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[104].Name
+#: Server.MirDB Quest[104].Name
+msgctxt "Quest:104:Name"
+msgid "Lost Sword"
+msgstr "遗失的剑"
+
+#. 数据库字段：Quest[105].Group
+#: Server.MirDB Quest[105].Group
+msgctxt "Quest:105:Group"
+msgid "DeathValley"
+msgstr "死亡山谷"
+
+#. 数据库字段：Quest[105].Name
+#: Server.MirDB Quest[105].Name
+msgctxt "Quest:105:Name"
+msgid "Lost Soul"
+msgstr "迷失的灵魂"
+
+#. 数据库字段：Quest[106].GotoMessage
+#: Server.MirDB Quest[106].GotoMessage
+msgctxt "Quest:106:GotoMessage"
+msgid "Return to the LostSoul on S_1FofDungeon 202:204"
+msgstr "回到石墓南一层 202:204 找迷失的灵魂"
+
+#. 数据库字段：Quest[106].Group
+#: Server.MirDB Quest[106].Group
+msgctxt "Quest:106:Group"
+msgid "DeathValley"
+msgstr "死亡山谷"
+
+#. 数据库字段：Quest[106].Name
+#: Server.MirDB Quest[106].Name
+msgctxt "Quest:106:Name"
+msgid "Lost Soul's Remains"
+msgstr "迷失灵魂的遗物"
+
+#. 数据库字段：Quest[107].GotoMessage
+#: Server.MirDB Quest[107].GotoMessage
+msgctxt "Quest:107:GotoMessage"
+msgid "Return Necklace to Rachel in MongchonWall"
+msgstr "把项链还给盟重城的瑞秋"
+
+#. 数据库字段：Quest[107].Group
+#: Server.MirDB Quest[107].Group
+msgctxt "Quest:107:Group"
+msgid "DeathValley"
+msgstr "死亡山谷"
+
+#. 数据库字段：Quest[107].Name
+#: Server.MirDB Quest[107].Name
+msgctxt "Quest:107:Name"
+msgid "Last Words"
+msgstr "临终遗言"
+
+#. 数据库字段：Quest[108].GotoMessage
+#: Server.MirDB Quest[108].GotoMessage
+msgctxt "Quest:108:GotoMessage"
+msgid "Return the Book back to Collector in MongchonWall"
+msgstr "把书还给盟重城的收藏家"
+
+#. 数据库字段：Quest[108].Group
+#: Server.MirDB Quest[108].Group
+msgctxt "Quest:108:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[108].Name
+#: Server.MirDB Quest[108].Name
+msgctxt "Quest:108:Name"
+msgid "Antique Book"
+msgstr "古书"
+
+#. 数据库字段：Quest[109].GotoMessage
+#: Server.MirDB Quest[109].GotoMessage
+msgctxt "Quest:109:GotoMessage"
+msgid "Return the Books back to Collector in MongchonWall"
+msgstr "把书籍还给盟重城的收藏家"
+
+#. 数据库字段：Quest[109].Group
+#: Server.MirDB Quest[109].Group
+msgctxt "Quest:109:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[109].Name
+#: Server.MirDB Quest[109].Name
+msgctxt "Quest:109:Name"
+msgid "Find More Antique Books"
+msgstr "寻找更多古书"
+
+#. 数据库字段：Quest[110].GotoMessage
+#: Server.MirDB Quest[110].GotoMessage
+msgctxt "Quest:110:GotoMessage"
+msgid "Travel East to SabukWall and Speak with Mr.Wang"
+msgstr "向东前往沙巴克城墙，与王先生交谈"
+
+#. 数据库字段：Quest[110].Group
+#: Server.MirDB Quest[110].Group
+msgctxt "Quest:110:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[110].Name
+#: Server.MirDB Quest[110].Name
+msgctxt "Quest:110:Name"
+msgid "Meet with Mr.Wang"
+msgstr "拜访王先生"
+
+#. 数据库字段：Quest[111].GotoMessage
+#: Server.MirDB Quest[111].GotoMessage
+msgctxt "Quest:111:GotoMessage"
+msgid "Return to Mr.Wang once found all the pillars"
+msgstr "找到所有石柱后回去找王先生"
+
+#. 数据库字段：Quest[111].Group
+#: Server.MirDB Quest[111].Group
+msgctxt "Quest:111:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[111].Name
+#: Server.MirDB Quest[111].Name
+msgctxt "Quest:111:Name"
+msgid "Secret Path"
+msgstr "秘密通道"
+
+#. 数据库字段：Quest[112].Group
+#: Server.MirDB Quest[112].Group
+msgctxt "Quest:112:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[112].Name
+#: Server.MirDB Quest[112].Name
+msgctxt "Quest:112:Name"
+msgid "Saftey of Secret Path"
+msgstr "秘密通道的安全"
+
+#. 数据库字段：Quest[113].GotoMessage
+#: Server.MirDB Quest[113].GotoMessage
+msgctxt "Quest:113:GotoMessage"
+msgid "Return to Jessica in MongchonWall"
+msgstr "回到盟重城找杰西卡"
+
+#. 数据库字段：Quest[113].Group
+#: Server.MirDB Quest[113].Group
+msgctxt "Quest:113:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[113].Name
+#: Server.MirDB Quest[113].Name
+msgctxt "Quest:113:Name"
+msgid "Insomnia"
+msgstr "失眠症"
+
+#. 数据库字段：Quest[114].GotoMessage
+#: Server.MirDB Quest[114].GotoMessage
+msgctxt "Quest:114:GotoMessage"
+msgid "Return to MongchonDelegate in MongchonWall"
+msgstr "回到盟重城找盟重代表"
+
+#. 数据库字段：Quest[114].Group
+#: Server.MirDB Quest[114].Group
+msgctxt "Quest:114:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[114].Name
+#: Server.MirDB Quest[114].Name
+msgctxt "Quest:114:Name"
+msgid "Threats to Mongchon"
+msgstr "盟重的威胁"
+
+#. 数据库字段：Quest[115].GotoMessage
+#: Server.MirDB Quest[115].GotoMessage
+msgctxt "Quest:115:GotoMessage"
+msgid "Return to MongchonDelegate in MongchonWall"
+msgstr "回到盟重城找盟重代表"
+
+#. 数据库字段：Quest[115].Group
+#: Server.MirDB Quest[115].Group
+msgctxt "Quest:115:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[115].Name
+#: Server.MirDB Quest[115].Name
+msgctxt "Quest:115:Name"
+msgid "Eliminate WhiteBoar"
+msgstr "消灭白野猪"
+
+#. 数据库字段：Quest[116].GotoMessage
+#: Server.MirDB Quest[116].GotoMessage
+msgctxt "Quest:116:GotoMessage"
+msgid "Speak to SubjugationManager in BichonWall"
+msgstr "与比奇城的讨伐管理员交谈"
+
+#. 数据库字段：Quest[116].Group
+#: Server.MirDB Quest[116].Group
+msgctxt "Quest:116:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[116].Name
+#: Server.MirDB Quest[116].Name
+msgctxt "Quest:116:Name"
+msgid "Report to the Manager"
+msgstr "向管理员报告"
+
+#. 数据库字段：Quest[117].GotoMessage
+#: Server.MirDB Quest[117].GotoMessage
+msgctxt "Quest:117:GotoMessage"
+msgid "Speak with CaveGuide."
+msgstr "与洞穴向导交谈。"
+
+#. 数据库字段：Quest[117].Group
+#: Server.MirDB Quest[117].Group
+msgctxt "Quest:117:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[117].Name
+#: Server.MirDB Quest[117].Name
+msgctxt "Quest:117:Name"
+msgid "Check Supply Path"
+msgstr "检查补给路线"
+
+#. 数据库字段：Quest[118].GotoMessage
+#: Server.MirDB Quest[118].GotoMessage
+msgctxt "Quest:118:GotoMessage"
+msgid "Return to CaveGuide in TaoVillage once the threat has been reduced."
+msgstr "威胁降低后回到道馆村找洞穴向导。"
+
+#. 数据库字段：Quest[118].Group
+#: Server.MirDB Quest[118].Group
+msgctxt "Quest:118:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[118].Name
+#: Server.MirDB Quest[118].Name
+msgctxt "Quest:118:Name"
+msgid "Zombies in MineralMine"
+msgstr "矿脉中的僵尸"
+
+#. 数据库字段：Quest[119].GotoMessage
+#: Server.MirDB Quest[119].GotoMessage
+msgctxt "Quest:119:GotoMessage"
+msgid "Travel to BichonWall and talk to BichonExaminer 341:258"
+msgstr "前往比奇城，与 341:258 的比奇考官交谈"
+
+#. 数据库字段：Quest[119].Group
+#: Server.MirDB Quest[119].Group
+msgctxt "Quest:119:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[119].Name
+#: Server.MirDB Quest[119].Name
+msgctxt "Quest:119:Name"
+msgid "Message to BichonExaminer"
+msgstr "给比奇考官的口信"
+
+#. 数据库字段：Quest[120].GotoMessage
+#: Server.MirDB Quest[120].GotoMessage
+msgctxt "Quest:120:GotoMessage"
+msgid "Return to Samuel in BichonWall after you retrieve all CorpsFlowers"
+msgstr "找齐尸花后回到比奇城找塞缪尔"
+
+#. 数据库字段：Quest[120].Group
+#: Server.MirDB Quest[120].Group
+msgctxt "Quest:120:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[120].Name
+#: Server.MirDB Quest[120].Name
+msgctxt "Quest:120:Name"
+msgid "CorpsFlower"
+msgstr "尸花"
+
+#. 数据库字段：Quest[121].GotoMessage
+#: Server.MirDB Quest[121].GotoMessage
+msgctxt "Quest:121:GotoMessage"
+msgid "Return to the Inspector in PrajnaIsland"
+msgstr "回到般若岛找监察员"
+
+#. 数据库字段：Quest[121].Group
+#: Server.MirDB Quest[121].Group
+msgctxt "Quest:121:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[121].Name
+#: Server.MirDB Quest[121].Name
+msgctxt "Quest:121:Name"
+msgid "Save Prajna"
+msgstr "拯救般若岛"
+
+#. 数据库字段：Quest[122].GotoMessage
+#: Server.MirDB Quest[122].GotoMessage
+msgctxt "Quest:122:GotoMessage"
+msgid "Return to MirGuide Edward in PrajnaIsland"
+msgstr "回到般若岛找向导爱德华"
+
+#. 数据库字段：Quest[122].Group
+#: Server.MirDB Quest[122].Group
+msgctxt "Quest:122:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[122].Name
+#: Server.MirDB Quest[122].Name
+msgctxt "Quest:122:Name"
+msgid "Skeleton Hunt 1"
+msgstr "骷髅讨伐一"
+
+#. 数据库字段：Quest[123].GotoMessage
+#: Server.MirDB Quest[123].GotoMessage
+msgctxt "Quest:123:GotoMessage"
+msgid "Return to MirGuide Edward in PrajnaIsland"
+msgstr "回到般若岛找向导爱德华"
+
+#. 数据库字段：Quest[123].Group
+#: Server.MirDB Quest[123].Group
+msgctxt "Quest:123:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[123].Name
+#: Server.MirDB Quest[123].Name
+msgctxt "Quest:123:Name"
+msgid "Skeleton Hunt 2"
+msgstr "骷髅讨伐二"
+
+#. 数据库字段：Quest[124].GotoMessage
+#: Server.MirDB Quest[124].GotoMessage
+msgctxt "Quest:124:GotoMessage"
+msgid "Return to the Collector once retrieved all the Skulls"
+msgstr "找齐所有骷髅头后回到收藏家处"
+
+#. 数据库字段：Quest[124].Group
+#: Server.MirDB Quest[124].Group
+msgctxt "Quest:124:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[124].Name
+#: Server.MirDB Quest[124].Name
+msgctxt "Quest:124:Name"
+msgid "Skull Collector"
+msgstr "骷髅头收藏家"
+
+#. 数据库字段：Quest[125].GotoMessage
+#: Server.MirDB Quest[125].GotoMessage
+msgctxt "Quest:125:GotoMessage"
+msgid "Travel up the Stairs and speak with the VillageChief"
+msgstr "沿楼梯上去与村长交谈"
+
+#. 数据库字段：Quest[125].Group
+#: Server.MirDB Quest[125].Group
+msgctxt "Quest:125:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[125].Name
+#: Server.MirDB Quest[125].Name
+msgctxt "Quest:125:Name"
+msgid "Visit the VillageChief"
+msgstr "拜访村长"
+
+#. 数据库字段：Quest[126].GotoMessage
+#: Server.MirDB Quest[126].GotoMessage
+msgctxt "Quest:126:GotoMessage"
+msgid "Travel to TaoVillage and speak with the LeadTrainer"
+msgstr "前往道馆村与首席教官交谈"
+
+#. 数据库字段：Quest[126].Group
+#: Server.MirDB Quest[126].Group
+msgctxt "Quest:126:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[126].Name
+#: Server.MirDB Quest[126].Name
+msgctxt "Quest:126:Name"
+msgid "The VillageChief's Request"
+msgstr "村长的请求"
+
+#. 数据库字段：Quest[127].GotoMessage
+#: Server.MirDB Quest[127].GotoMessage
+msgctxt "Quest:127:GotoMessage"
+msgid "Return to LeadTrainer in TaoVillage"
+msgstr "回到道馆村找首席教官"
+
+#. 数据库字段：Quest[127].Group
+#: Server.MirDB Quest[127].Group
+msgctxt "Quest:127:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[127].Name
+#: Server.MirDB Quest[127].Name
+msgctxt "Quest:127:Name"
+msgid "Stolen Book"
+msgstr "被盗的书"
+
+#. 数据库字段：Quest[128].GotoMessage
+#: Server.MirDB Quest[128].GotoMessage
+msgctxt "Quest:128:GotoMessage"
+msgid "Return the Book to VillageChief in PrajnaIsland"
+msgstr "把书还给般若岛村长"
+
+#. 数据库字段：Quest[128].Group
+#: Server.MirDB Quest[128].Group
+msgctxt "Quest:128:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[128].Name
+#: Server.MirDB Quest[128].Name
+msgctxt "Quest:128:Name"
+msgid "Returning a Book"
+msgstr "归还书籍"
+
+#. 数据库字段：Quest[129].GotoMessage
+#: Server.MirDB Quest[129].GotoMessage
+msgctxt "Quest:129:GotoMessage"
+msgid "Return to Janey in TaoVillage 179:296"
+msgstr "回到道馆村 179:296 找珍妮"
+
+#. 数据库字段：Quest[129].Group
+#: Server.MirDB Quest[129].Group
+msgctxt "Quest:129:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[129].Name
+#: Server.MirDB Quest[129].Name
+msgctxt "Quest:129:Name"
+msgid "New Poison"
+msgstr "新型毒药"
+
+#. 数据库字段：Quest[130].GotoMessage
+#: Server.MirDB Quest[130].GotoMessage
+msgctxt "Quest:130:GotoMessage"
+msgid "Return to the Investigator in TaoVillage"
+msgstr "回到道馆村找调查员"
+
+#. 数据库字段：Quest[130].Group
+#: Server.MirDB Quest[130].Group
+msgctxt "Quest:130:Group"
+msgid "TaoVillage"
+msgstr "道馆村"
+
+#. 数据库字段：Quest[130].Name
+#: Server.MirDB Quest[130].Name
+msgctxt "Quest:130:Name"
+msgid "Wanted!"
+msgstr "悬赏！"
+
+#. 数据库字段：Quest[131].GotoMessage
+#: Server.MirDB Quest[131].GotoMessage
+msgctxt "Quest:131:GotoMessage"
+msgid "Return to the Inspector in PrajnaIsland"
+msgstr "回到般若岛找监察员"
+
+#. 数据库字段：Quest[131].Group
+#: Server.MirDB Quest[131].Group
+msgctxt "Quest:131:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[131].Name
+#: Server.MirDB Quest[131].Name
+msgctxt "Quest:131:Name"
+msgid "Ancient Mobs"
+msgstr "远古怪物"
+
+#. 数据库字段：Quest[132].GotoMessage
+#: Server.MirDB Quest[132].GotoMessage
+msgctxt "Quest:132:GotoMessage"
+msgid "Return to the VillageChief in PrajnaIsland"
+msgstr "回到般若岛找村长"
+
+#. 数据库字段：Quest[132].Group
+#: Server.MirDB Quest[132].Group
+msgctxt "Quest:132:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[132].Name
+#: Server.MirDB Quest[132].Name
+msgctxt "Quest:132:Name"
+msgid "Mobs from Prajna"
+msgstr "般若岛的怪物"
+
+#. 数据库字段：Quest[133].GotoMessage
+#: Server.MirDB Quest[133].GotoMessage
+msgctxt "Quest:133:GotoMessage"
+msgid "Return to the VillageChief in PrajnaIsland"
+msgstr "回到般若岛找村长"
+
+#. 数据库字段：Quest[133].Group
+#: Server.MirDB Quest[133].Group
+msgctxt "Quest:133:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[133].Name
+#: Server.MirDB Quest[133].Name
+msgctxt "Quest:133:Name"
+msgid "Guards from Prajna"
+msgstr "般若岛守卫"
+
+#. 数据库字段：Quest[134].GotoMessage
+#: Server.MirDB Quest[134].GotoMessage
+msgctxt "Quest:134:GotoMessage"
+msgid "Deliver the Algae to MongchonWall CraftsLady"
+msgstr "把海藻交给盟重城工艺师"
+
+#. 数据库字段：Quest[134].Group
+#: Server.MirDB Quest[134].Group
+msgctxt "Quest:134:Group"
+msgid "PrajnaIsland"
+msgstr "般若岛"
+
+#. 数据库字段：Quest[134].Name
+#: Server.MirDB Quest[134].Name
+msgctxt "Quest:134:Name"
+msgid "Ingredient from Prajna"
+msgstr "般若岛材料"
+
+#. 数据库字段：Quest[135].GotoMessage
+#: Server.MirDB Quest[135].GotoMessage
+msgctxt "Quest:135:GotoMessage"
+msgid "Return to MongchonDelegate in MongchonWall"
+msgstr "回到盟重城找盟重代表"
+
+#. 数据库字段：Quest[135].Group
+#: Server.MirDB Quest[135].Group
+msgctxt "Quest:135:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[135].Name
+#: Server.MirDB Quest[135].Name
+msgctxt "Quest:135:Name"
+msgid "Find Passage to Ruins"
+msgstr "寻找通往废墟的通道"
+
+#. 数据库字段：Quest[136].GotoMessage
+#: Server.MirDB Quest[136].GotoMessage
+msgctxt "Quest:136:GotoMessage"
+msgid "Return to the Collector in MongchonWall"
+msgstr "回到盟重城找收藏家"
+
+#. 数据库字段：Quest[136].Group
+#: Server.MirDB Quest[136].Group
+msgctxt "Quest:136:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[136].Name
+#: Server.MirDB Quest[136].Name
+msgctxt "Quest:136:Name"
+msgid "Shipping Relics"
+msgstr "运送遗物"
+
+#. 数据库字段：Quest[137].GotoMessage
+#: Server.MirDB Quest[137].GotoMessage
+msgctxt "Quest:137:GotoMessage"
+msgid "Return to Kevin in MongchonWall at 346:334"
+msgstr "回到盟重城 346:334 找凯文"
+
+#. 数据库字段：Quest[137].Group
+#: Server.MirDB Quest[137].Group
+msgctxt "Quest:137:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[137].Name
+#: Server.MirDB Quest[137].Name
+msgctxt "Quest:137:Name"
+msgid "Rare Medicine"
+msgstr "稀有药物"
+
+#. 数据库字段：Quest[138].GotoMessage
+#: Server.MirDB Quest[138].GotoMessage
+msgctxt "Quest:138:GotoMessage"
+msgid "Return to the Excavenger in WasteLand 265:238"
+msgstr "回到荒地 265:238 找挖掘者"
+
+#. 数据库字段：Quest[138].Group
+#: Server.MirDB Quest[138].Group
+msgctxt "Quest:138:Group"
+msgid "WasteLands"
+msgstr "荒地"
+
+#. 数据库字段：Quest[138].Name
+#: Server.MirDB Quest[138].Name
+msgctxt "Quest:138:Name"
+msgid "Force Recruit"
+msgstr "强制征募"
+
+#. 数据库字段：Quest[139].GotoMessage
+#: Server.MirDB Quest[139].GotoMessage
+msgctxt "Quest:139:GotoMessage"
+msgid "Return to the Excavenger in WasteLand 265:238"
+msgstr "回到荒地 265:238 找挖掘者"
+
+#. 数据库字段：Quest[139].Group
+#: Server.MirDB Quest[139].Group
+msgctxt "Quest:139:Group"
+msgid "WasteLands"
+msgstr "荒地"
+
+#. 数据库字段：Quest[139].Name
+#: Server.MirDB Quest[139].Name
+msgctxt "Quest:139:Name"
+msgid "Dangerous as ever"
+msgstr "一如既往的危险"
+
+#. 数据库字段：Quest[140].GotoMessage
+#: Server.MirDB Quest[140].GotoMessage
+msgctxt "Quest:140:GotoMessage"
+msgid "Return to BichonWall Board."
+msgstr "回到比奇城公告板。"
+
+#. 数据库字段：Quest[140].Group
+#: Server.MirDB Quest[140].Group
+msgctxt "Quest:140:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[140].Name
+#: Server.MirDB Quest[140].Name
+msgctxt "Quest:140:Name"
+msgid "Chestnut Request"
+msgstr "栗子请求"
+
+#. 数据库字段：Quest[141].GotoMessage
+#: Server.MirDB Quest[141].GotoMessage
+msgctxt "Quest:141:GotoMessage"
+msgid "Return to BichonWall Board."
+msgstr "回到比奇城公告板。"
+
+#. 数据库字段：Quest[141].Group
+#: Server.MirDB Quest[141].Group
+msgctxt "Quest:141:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[141].Name
+#: Server.MirDB Quest[141].Name
+msgctxt "Quest:141:Name"
+msgid "Gathering of Bones"
+msgstr "收集骨头"
+
+#. 数据库字段：Quest[142].GotoMessage
+#: Server.MirDB Quest[142].GotoMessage
+msgctxt "Quest:142:GotoMessage"
+msgid "Return to MudWall Board."
+msgstr "回到盟重公告板。"
+
+#. 数据库字段：Quest[142].Group
+#: Server.MirDB Quest[142].Group
+msgctxt "Quest:142:Group"
+msgid "MongchonProvince"
+msgstr "盟重省"
+
+#. 数据库字段：Quest[142].Name
+#: Server.MirDB Quest[142].Name
+msgctxt "Quest:142:Name"
+msgid "Boar Tooth"
+msgstr "野猪牙"
+
+#. 数据库字段：Quest[143].GotoMessage
+#: Server.MirDB Quest[143].GotoMessage
+msgctxt "Quest:143:GotoMessage"
+msgid "Return to the Apprentice"
+msgstr "回去找学徒"
+
+#. 数据库字段：Quest[143].Group
+#: Server.MirDB Quest[143].Group
+msgctxt "Quest:143:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[143].Name
+#: Server.MirDB Quest[143].Name
+msgctxt "Quest:143:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[144].GotoMessage
+#: Server.MirDB Quest[144].GotoMessage
+msgctxt "Quest:144:GotoMessage"
+msgid "Return to Perry in TaoVillage"
+msgstr "回到道馆村找佩里"
+
+#. 数据库字段：Quest[144].Group
+#: Server.MirDB Quest[144].Group
+msgctxt "Quest:144:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[144].Name
+#: Server.MirDB Quest[144].Name
+msgctxt "Quest:144:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[145].Group
+#: Server.MirDB Quest[145].Group
+msgctxt "Quest:145:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[145].Name
+#: Server.MirDB Quest[145].Name
+msgctxt "Quest:145:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[146].GotoMessage
+#: Server.MirDB Quest[146].GotoMessage
+msgctxt "Quest:146:GotoMessage"
+msgid "Return to Big Taoist"
+msgstr "回去找大道士"
+
+#. 数据库字段：Quest[146].Group
+#: Server.MirDB Quest[146].Group
+msgctxt "Quest:146:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[146].Name
+#: Server.MirDB Quest[146].Name
+msgctxt "Quest:146:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[147].GotoMessage
+#: Server.MirDB Quest[147].GotoMessage
+msgctxt "Quest:147:GotoMessage"
+msgid "Return to Big Taoist"
+msgstr "回去找大道士"
+
+#. 数据库字段：Quest[147].Group
+#: Server.MirDB Quest[147].Group
+msgctxt "Quest:147:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[147].Name
+#: Server.MirDB Quest[147].Name
+msgctxt "Quest:147:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[148].GotoMessage
+#: Server.MirDB Quest[148].GotoMessage
+msgctxt "Quest:148:GotoMessage"
+msgid "Return to Big Taoist  for further information."
+msgstr "回去找大道士了解更多信息。"
+
+#. 数据库字段：Quest[148].Group
+#: Server.MirDB Quest[148].Group
+msgctxt "Quest:148:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[148].Name
+#: Server.MirDB Quest[148].Name
+msgctxt "Quest:148:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[149].GotoMessage
+#: Server.MirDB Quest[149].GotoMessage
+msgctxt "Quest:149:GotoMessage"
+msgid "Return to Big Taoist"
+msgstr "回去找大道士"
+
+#. 数据库字段：Quest[149].Group
+#: Server.MirDB Quest[149].Group
+msgctxt "Quest:149:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[149].Name
+#: Server.MirDB Quest[149].Name
+msgctxt "Quest:149:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[150].GotoMessage
+#: Server.MirDB Quest[150].GotoMessage
+msgctxt "Quest:150:GotoMessage"
+msgid "Return to Big Taoist"
+msgstr "回去找大道士"
+
+#. 数据库字段：Quest[150].Group
+#: Server.MirDB Quest[150].Group
+msgctxt "Quest:150:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[150].Name
+#: Server.MirDB Quest[150].Name
+msgctxt "Quest:150:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[151].GotoMessage
+#: Server.MirDB Quest[151].GotoMessage
+msgctxt "Quest:151:GotoMessage"
+msgid "Return to Big Taoist"
+msgstr "回去找大道士"
+
+#. 数据库字段：Quest[151].Group
+#: Server.MirDB Quest[151].Group
+msgctxt "Quest:151:Group"
+msgid "HolySword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[151].Name
+#: Server.MirDB Quest[151].Name
+msgctxt "Quest:151:Name"
+msgid "Holy Sword Quest"
+msgstr "圣剑任务"
+
+#. 数据库字段：Quest[152].Group
+#: Server.MirDB Quest[152].Group
+msgctxt "Quest:152:Group"
+msgid "OmaCavern"
+msgstr "兽人洞穴"
+
+#. 数据库字段：Quest[152].ItemMessage
+#: Server.MirDB Quest[152].ItemMessage
+msgctxt "Quest:152:ItemMessage"
+msgid "Search for the Ancient Scyther."
+msgstr "寻找远古镰刀怪。"
+
+#. 数据库字段：Quest[152].Name
+#: Server.MirDB Quest[152].Name
+msgctxt "Quest:152:Name"
+msgid "AncientOmaCavern"
+msgstr "远古兽人洞穴"
+
+#. 数据库字段：Quest[153].GotoMessage
+#: Server.MirDB Quest[153].GotoMessage
+msgctxt "Quest:153:GotoMessage"
+msgid "Return to the stone."
+msgstr "回到石碑处。"
+
+#. 数据库字段：Quest[153].Group
+#: Server.MirDB Quest[153].Group
+msgctxt "Quest:153:Group"
+msgid "OmaCavern"
+msgstr "兽人洞穴"
+
+#. 数据库字段：Quest[153].Name
+#: Server.MirDB Quest[153].Name
+msgctxt "Quest:153:Name"
+msgid "AncientOmaCavern"
+msgstr "远古兽人洞穴"
+
+#. 数据库字段：Quest[154].FlagMessage
+#: Server.MirDB Quest[154].FlagMessage
+msgctxt "Quest:154:FlagMessage"
+msgid "Increase the Emperors Morale."
+msgstr "提升皇帝的士气。"
+
+#. 数据库字段：Quest[154].Group
+#: Server.MirDB Quest[154].Group
+msgctxt "Quest:154:Group"
+msgid "BichonProvince"
+msgstr "比奇省"
+
+#. 数据库字段：Quest[154].Name
+#: Server.MirDB Quest[154].Name
+msgctxt "Quest:154:Name"
+msgid "Emperors Problem"
+msgstr "皇帝的难题"

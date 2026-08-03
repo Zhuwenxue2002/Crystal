@@ -367,3 +367,14 @@ FodyWeavers.xsd
 
 # Release database archives are uploaded as GitHub Release assets, not source.
 /docs/Crystal.Database-*.zip
+
+# Regenerable localization audit output belongs under Build/.../Exports.
+/docs/localization-*-db-dump*.tsv
+/docs/localization-*-name-candidates*.tsv
+/docs/localization-*-name-first-pass-candidates*.tsv
+/docs/localization-*-name-references*.tsv
+/docs/localization-*-remaining*.tsv
+/docs/localization-*.unique.txt
+
+# Local database used by LocalizationDbTool when run from the repository root.
+/Server.MirDB
