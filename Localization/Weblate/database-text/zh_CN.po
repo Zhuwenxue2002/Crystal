@@ -6,13 +6,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: LocalizationDbTool\n"
+"X-Generator: Weblate 2026.8.1.dev0\n"
+"PO-Revision-Date: 2026-08-04 15:01+0000\n"
+"Last-Translator: 白书源 <z201484375@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/crystal-mir2-zh-cn/database-text/zh_Hans/>\n"
 
 #. 数据库字段：Item[593].ToolTip
 #: Server.MirDB Item[593].ToolTip
 msgctxt "Item:593:ToolTip"
 msgid "wont"
-msgstr ""
+msgstr "佩戴后可使用 @find 玩家名 查询在线玩家的位置。"
 
 #. 数据库字段：Item[670].ToolTip
 #: Server.MirDB Item[670].ToolTip
@@ -42,13 +46,13 @@ msgstr "将已装备武器的持久修复至上限。"
 #: Server.MirDB Item[709].ToolTip
 msgctxt "Item:709:ToolTip"
 msgid "wont"
-msgstr ""
+msgstr "使用后有概率提升已装备武器的幸运值。"
 
 #. 数据库字段：Item[711].ToolTip
 #: Server.MirDB Item[711].ToolTip
 msgctxt "Item:711:ToolTip"
 msgid "Used in certain Taoist spells to give red poison (reduces defences)"
-msgstr "用于部分道士技能，可施加红毒（降低防御）。"
+msgstr "用于部分道士技能，可施加红毒（降低防御）"
 
 #. 数据库字段：Item[712].ToolTip
 #: Server.MirDB Item[712].ToolTip
@@ -684,169 +688,169 @@ msgstr "提高攻击伤害。被动技能。"
 #: Server.MirDB Item[1083].ToolTip
 msgctxt "Item:1083:ToolTip"
 msgid "DollyMask"
-msgstr ""
+msgstr "多莉面具"
 
 #. 数据库字段：Item[1084].ToolTip
 #: Server.MirDB Item[1084].ToolTip
 msgctxt "Item:1084:ToolTip"
 msgid "Jack Sparrow"
-msgstr ""
+msgstr "杰克·斯派罗"
 
 #. 数据库字段：Item[1085].ToolTip
 #: Server.MirDB Item[1085].ToolTip
 msgctxt "Item:1085:ToolTip"
 msgid "Male Assassin"
-msgstr ""
+msgstr "男刺客"
 
 #. 数据库字段：Item[1086].ToolTip
 #: Server.MirDB Item[1086].ToolTip
 msgctxt "Item:1086:ToolTip"
 msgid "Female Assassin"
-msgstr ""
+msgstr "女刺客"
 
 #. 数据库字段：Item[1087].ToolTip
 #: Server.MirDB Item[1087].ToolTip
 msgctxt "Item:1087:ToolTip"
 msgid "Santa Claus with Candy cane."
-msgstr ""
+msgstr "戴着拐杖糖的圣诞老人"
 
 #. 数据库字段：Item[1088].ToolTip
 #: Server.MirDB Item[1088].ToolTip
 msgctxt "Item:1088:ToolTip"
 msgid "Santa's best friend"
-msgstr ""
+msgstr "圣诞老人的挚友"
 
 #. 数据库字段：Item[1089].ToolTip
 #: Server.MirDB Item[1089].ToolTip
 msgctxt "Item:1089:ToolTip"
 msgid "Spider(Scythe)"
-msgstr ""
+msgstr "镰刀"
 
 #. 数据库字段：Item[1090].ToolTip
 #: Server.MirDB Item[1090].ToolTip
 msgctxt "Item:1090:ToolTip"
 msgid "Manectric Club\t"
-msgstr ""
+msgstr "雷电俱乐部\t"
 
 #. 数据库字段：Item[1091].ToolTip
 #: Server.MirDB Item[1091].ToolTip
 msgctxt "Item:1091:ToolTip"
 msgid "Manectric Hammer"
-msgstr ""
+msgstr "雷电战锤"
 
 #. 数据库字段：Item[1092].ToolTip
 #: Server.MirDB Item[1092].ToolTip
 msgctxt "Item:1092:ToolTip"
 msgid "Spider(BarbarianScythe)"
-msgstr ""
+msgstr "野蛮镰刀"
 
 #. 数据库字段：Item[1093].ToolTip
 #: Server.MirDB Item[1093].ToolTip
 msgctxt "Item:1093:ToolTip"
 msgid "RedOverAlls(M)"
-msgstr ""
+msgstr "赤色护腿（男）"
 
 #. 数据库字段：Item[1094].ToolTip
 #: Server.MirDB Item[1094].ToolTip
 msgctxt "Item:1094:ToolTip"
 msgid "Red/Yellow(F)"
-msgstr ""
+msgstr "赤黄装束（女）"
 
 #. 数据库字段：Item[1095].ToolTip
 #: Server.MirDB Item[1095].ToolTip
 msgctxt "Item:1095:ToolTip"
 msgid "Blue(M)"
-msgstr ""
+msgstr "蓝装（男）"
 
 #. 数据库字段：Item[1096].ToolTip
 #: Server.MirDB Item[1096].ToolTip
 msgctxt "Item:1096:ToolTip"
 msgid "Red/White(F)"
-msgstr ""
+msgstr "红白套装（女）"
 
 #. 数据库字段：Item[1097].ToolTip
 #: Server.MirDB Item[1097].ToolTip
 msgctxt "Item:1097:ToolTip"
 msgid "Football Red"
-msgstr ""
+msgstr "足球红装"
 
 #. 数据库字段：Item[1098].ToolTip
 #: Server.MirDB Item[1098].ToolTip
 msgctxt "Item:1098:ToolTip"
 msgid "White Dress RedTrident(F)"
-msgstr ""
+msgstr "白裙红三叉戟装束（女）"
 
 #. 数据库字段：Item[1099].ToolTip
 #: Server.MirDB Item[1099].ToolTip
 msgctxt "Item:1099:ToolTip"
 msgid "Black Dress Fan"
-msgstr ""
+msgstr "黑裙扇装束（女）"
 
 #. 数据库字段：Item[1100].ToolTip
 #: Server.MirDB Item[1100].ToolTip
 msgctxt "Item:1100:ToolTip"
 msgid "Black Sword(M)"
-msgstr ""
+msgstr "黑色长剑（男）"
 
 #. 数据库字段：Item[1101].ToolTip
 #: Server.MirDB Item[1101].ToolTip
 msgctxt "Item:1101:ToolTip"
 msgid "Gold Armour + Scythe(M)"
-msgstr ""
+msgstr "金镰套装（男）"
 
 #. 数据库字段：Item[1102].ToolTip
 #: Server.MirDB Item[1102].ToolTip
 msgctxt "Item:1102:ToolTip"
 msgid "Ice King"
-msgstr ""
+msgstr "冰宫国王"
 
 #. 数据库字段：Item[1103].ToolTip
 #: Server.MirDB Item[1103].ToolTip
 msgctxt "Item:1103:ToolTip"
 msgid "Football Player Black uniform"
-msgstr ""
+msgstr "黑色足球队服"
 
 #. 数据库字段：Item[1104].ToolTip
 #: Server.MirDB Item[1104].ToolTip
 msgctxt "Item:1104:ToolTip"
 msgid "Football Player Red and Blue uniform"
-msgstr ""
+msgstr "红蓝配色足球队服"
 
 #. 数据库字段：Item[1105].ToolTip
 #: Server.MirDB Item[1105].ToolTip
 msgctxt "Item:1105:ToolTip"
 msgid "Football Player White Blue stripe uniform"
-msgstr ""
+msgstr "白底蓝条纹足球队服"
 
 #. 数据库字段：Item[1106].ToolTip
 #: Server.MirDB Item[1106].ToolTip
 msgctxt "Item:1106:ToolTip"
 msgid "Football Player White uniform"
-msgstr ""
+msgstr "白色足球队服"
 
 #. 数据库字段：Item[1107].ToolTip
 #: Server.MirDB Item[1107].ToolTip
 msgctxt "Item:1107:ToolTip"
 msgid "Football Player Pink and Blue uniform"
-msgstr ""
+msgstr "粉蓝配色足球队服"
 
 #. 数据库字段：Item[1108].ToolTip
 #: Server.MirDB Item[1108].ToolTip
 msgctxt "Item:1108:ToolTip"
 msgid "WhiteDress Blue/Red Trident"
-msgstr ""
+msgstr "白色礼服，搭配蓝红三叉戟"
 
 #. 数据库字段：Item[1109].ToolTip
 #: Server.MirDB Item[1109].ToolTip
 msgctxt "Item:1109:ToolTip"
 msgid "Angry Sheep"
-msgstr ""
+msgstr "愤怒的绵羊"
 
 #. 数据库字段：Item[1110].ToolTip
 #: Server.MirDB Item[1110].ToolTip
 msgctxt "Item:1110:ToolTip"
 msgid "Formal Male"
-msgstr ""
+msgstr "男士正装"
 
 #. 数据库字段：Item[1268].ToolTip
 #: Server.MirDB Item[1268].ToolTip
@@ -1278,67 +1282,67 @@ msgstr "高级钓鱼礼包。\r\n商城购买礼包包含：\r\n:红色鱼竿（
 #: Server.MirDB Item[1350].ToolTip
 msgctxt "Item:1350:ToolTip"
 msgid "Costume Girl"
-msgstr ""
+msgstr "时装女孩"
 
 #. 数据库字段：Item[1351].ToolTip
 #: Server.MirDB Item[1351].ToolTip
 msgctxt "Item:1351:ToolTip"
 msgid "BlackTiger(F)"
-msgstr ""
+msgstr "黑虎（女）"
 
 #. 数据库字段：Item[1352].ToolTip
 #: Server.MirDB Item[1352].ToolTip
 msgctxt "Item:1352:ToolTip"
 msgid "BlackTiger(M)"
-msgstr ""
+msgstr "黑虎（男）"
 
 #. 数据库字段：Item[1353].ToolTip
 #: Server.MirDB Item[1353].ToolTip
 msgctxt "Item:1353:ToolTip"
 msgid "Bossy(F)"
-msgstr ""
+msgstr "霸气装扮（女）"
 
 #. 数据库字段：Item[1354].ToolTip
 #: Server.MirDB Item[1354].ToolTip
 msgctxt "Item:1354:ToolTip"
 msgid "Bossy(M)"
-msgstr ""
+msgstr "霸气装扮（男）"
 
 #. 数据库字段：Item[1355].ToolTip
 #: Server.MirDB Item[1355].ToolTip
 msgctxt "Item:1355:ToolTip"
 msgid "GymnasticsQueen"
-msgstr ""
+msgstr "体操女王"
 
 #. 数据库字段：Item[1356].ToolTip
 #: Server.MirDB Item[1356].ToolTip
 msgctxt "Item:1356:ToolTip"
 msgid "OldManFishing"
-msgstr ""
+msgstr "垂钓老人"
 
 #. 数据库字段：Item[1357].ToolTip
 #: Server.MirDB Item[1357].ToolTip
 msgctxt "Item:1357:ToolTip"
 msgid "Pig"
-msgstr ""
+msgstr "小猪"
 
 #. 数据库字段：Item[1358].ToolTip
 #: Server.MirDB Item[1358].ToolTip
 msgctxt "Item:1358:ToolTip"
 msgid "SkiKid"
-msgstr ""
+msgstr "滑雪少年"
 
 #. 数据库字段：Item[1359].ToolTip
 #: Server.MirDB Item[1359].ToolTip
 msgctxt "Item:1359:ToolTip"
 msgid "Sportman"
-msgstr ""
+msgstr "运动健将"
 
 #. 数据库字段：Item[1360].ToolTip
 #: Server.MirDB Item[1360].ToolTip
 msgctxt "Item:1360:ToolTip"
 msgid "Yizhili"
-msgstr ""
+msgstr "意志力"
 
 #. 数据库字段：Item[1361].ToolTip
 #: Server.MirDB Item[1361].ToolTip
@@ -1368,37 +1372,37 @@ msgstr "邀请玩家进入你的行会试炼。"
 #: Server.MirDB Item[1386].ToolTip
 msgctxt "Item:1386:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制。"
 
 #. 数据库字段：Item[1388].ToolTip
 #: Server.MirDB Item[1388].ToolTip
 msgctxt "Item:1388:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制。"
 
 #. 数据库字段：Item[1389].ToolTip
 #: Server.MirDB Item[1389].ToolTip
 msgctxt "Item:1389:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制"
 
 #. 数据库字段：Item[1390].ToolTip
 #: Server.MirDB Item[1390].ToolTip
 msgctxt "Item:1390:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制"
 
 #. 数据库字段：Item[1391].ToolTip
 #: Server.MirDB Item[1391].ToolTip
 msgctxt "Item:1391:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制"
 
 #. 数据库字段：Item[1392].ToolTip
 #: Server.MirDB Item[1392].ToolTip
 msgctxt "Item:1392:ToolTip"
 msgid "In the Kunlun region, it seems to have lost its strength"
-msgstr ""
+msgstr "在昆仑地区，此物的力量似乎受到了压制"
 
 #. 数据库字段：Item[1477].ToolTip
 #: Server.MirDB Item[1477].ToolTip
