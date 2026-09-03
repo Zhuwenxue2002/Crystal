@@ -65,3 +65,10 @@ Crystal has become the foundation for most private Legend of Mir 2 servers world
 - <img src="https://github.com/JevLOMCN/mir4/blob/main/Tools/icons/mir4.png" alt="Mir4" width="20"/> [Mir 4](https://github.com/JevLOMCN/mir4) - Remake of Wemade Entertainment's 2021 _Mir 4_
 
 ---
+
+## Translation
+
+Translations are hosted on [Weblate](https://hosted.weblate.org/engage/my-project/).
+Contributions are welcome!
+
+[![Translation status](https://hosted.weblate.org/widgets/my-project/-/svg-badge.svg)](https://hosted.weblate.org/engage/my-project/?utm_source=widget)
