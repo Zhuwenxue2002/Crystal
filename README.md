@@ -66,9 +66,14 @@ Crystal has become the foundation for most private Legend of Mir 2 servers world
 
 ---
 
-## Translation
+## 🌐 翻译 / Translation
 
-Translations are hosted on [Weblate](https://hosted.weblate.org/engage/my-project/).
-Contributions are welcome!
+本项目使用 [Weblate](https://hosted.weblate.org/engage/crystal-mir2-zh-cn/) 进行翻译与本地化管理。
 
-[![Translation status](https://hosted.weblate.org/widgets/my-project/-/svg-badge.svg)](https://hosted.weblate.org/engage/my-project/?utm_source=widget)
+欢迎参与翻译和改进中文本地化！
+
+[![Translation status](https://hosted.weblate.org/widgets/crystal-mir2-zh-cn/-/svg-badge.svg)](https://hosted.weblate.org/engage/crystal-mir2-zh-cn/?utm_source=widget)
+
+This project uses [Weblate](https://hosted.weblate.org/engage/crystal-mir2-zh-cn/) for translation and localization management.
+
+Contributions to the translation are welcome!
